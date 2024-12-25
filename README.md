@@ -23,7 +23,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </div>
 
 ---
-
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
