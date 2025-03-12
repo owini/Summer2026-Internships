@@ -63,11 +63,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Simons Foundation](https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60)** | Summer Research Interns - Center for Computational Mathematics | NYC | <a href="https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Summer-Research-Interns--Center-for-Computational-Mathematics_R0001812?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ba5408b3-904a-447b-8ebc-e5cb049f291c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[RTX](https://simplify.jobs/c/RTX)** | Intern: Statistical and Mathematical Analysis | Remote in USA | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT13-RC-CT---Corp-411-Silver-Lane-East-Hartford-CT-06108-USA/Summer-2025--Intern--Statistical-and-Mathematical-Analysis-for-Microelectronics--Remote-_01756412?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a391ee1a-236b-4240-b131-7fbb1bcc58d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[Rivian](https://simplify.jobs/c/Rivian)** | Intern - Embedded Systems Software Engineer | Urbana, IL | <a href="https://careers.rivian.com/jobs/22736?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f761b105-5280-40dc-8ecb-5e1e5aac0e63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| **[RippleMatch](https://simplify.jobs/c/RippleMatch)** | Software Engineer Intern | LA | <a href="https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904551002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3d40d72f-f023-40ec-924c-e7f4dd2491e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| ↳ | Machine Learning Intern | Austin, TX | <a href="https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894673002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1c97e0ac-8ae3-4a1d-820e-34ddfb5ac0e1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| ↳ | Data Analyst Intern | Minneapolis, MN | <a href="https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887304002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9ba74741-e9c4-44b1-a5bf-dba8e9f6edab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| ↳ | Innotech Summer Graduate Internship - Aetna Tech - Software Engineer | Smithfield, RI | <a href="https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900924002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bfbd7829-8fed-46b6-b5a7-3ffa41d47b60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
-| ↳ | Database Engineering IT Summer Intern | Greensboro, NC | <a href="https://job-boards.greenhouse.io/ripplematchinterns/jobs/7884270002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e78a7495-c68a-4d9c-9363-528467360e9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[PTC](https://simplify.jobs/c/PTC)** | Software Development Intern | Boston, MA | <a href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR109063?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/af450be5-e3b3-40dc-8c92-320efb924c2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[Nokia](https://simplify.jobs/c/Nokia)** | Automation & AI/ML Intern | Remote in USA | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17139?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a0d3bf2-cd67-43fa-bfd7-2e4b626038f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[NineDot Energy](https://simplify.jobs/c/NineDotEnergy)** | Intern – Data Engineering | Brooklyn, NY | <a href="https://job-boards.greenhouse.io/ninedotholdingsinc/jobs/4538618005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dd086b6d-b312-498c-b630-4ec3a1634ea4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
@@ -892,6 +887,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Engineer Intern | Chicago, IL | 🔒 | Mar 11 |
 | ↳ | Software Engineer Intern | San Jose, CA | 🔒 | Mar 11 |
 | ↳ | Software Engineer Intern | Atlanta, GA | 🔒 | Mar 11 |
+| ↳ | Software Engineer Intern | LA | 🔒 | Mar 11 |
 | ↳ | Software Engineer Intern | Dallas, TX | 🔒 | Mar 11 |
 | ↳ | Software Engineer Intern | NYC | 🔒 | Mar 11 |
 | ↳ | Software Engineer Intern | Minneapolis, MN | 🔒 | Mar 11 |
@@ -929,6 +925,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Marketing Analytics Intern | Denver, CO | 🔒 | Mar 11 |
 | ↳ | Marketing Analytics Intern | LA | 🔒 | Mar 11 |
 | ↳ | Machine Learning Intern | Seattle, WA | 🔒 | Mar 11 |
+| ↳ | Machine Learning Intern | Austin, TX | 🔒 | Mar 11 |
 | ↳ | Machine Learning Intern | San Jose, CA | 🔒 | Mar 11 |
 | ↳ | Machine Learning Intern | Dallas, TX | 🔒 | Mar 11 |
 | ↳ | Machine Learning Intern | Atlanta, GA | 🔒 | Mar 11 |
@@ -966,6 +963,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer | Smithfield, RI | 🔒 | Mar 11 |
 | ↳ | Innotech Summer Undergraduate Internship - Pharmacy & Consumer Wellness Tech - Software Engineer | Smithfield, RI | 🔒 | Mar 11 |
 | ↳ | Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital | Scottsdale, AZ | 🔒 | Mar 11 |
+| ↳ | Data Analyst Intern | Minneapolis, MN | 🔒 | Mar 11 |
 | ↳ | Data Analyst Intern | Pittsburgh, PA | 🔒 | Mar 11 |
 | ↳ | Data Analyst Intern | Chicago, IL | 🔒 | Mar 11 |
 | ↳ | Data Analyst Intern | Washington, DC | 🔒 | Mar 11 |
@@ -980,8 +978,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering | Scottsdale, AZ | 🔒 | Mar 11 |
 | ↳ | Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer | Scottsdale, AZ | 🔒 | Mar 11 |
 | ↳ | Innotech Summer Graduate Internship - Aetna Tech - Software Engineer | Hartford, CT | 🔒 | Mar 11 |
+| ↳ | Innotech Summer Graduate Internship - Aetna Tech - Software Engineer | Smithfield, RI | 🔒 | Mar 11 |
 | ↳ | Innotech Summer Graduate Internship - Aetna Tech - Software Engineer | Scottsdale, AZ | 🔒 | Mar 11 |
 | ↳ | Innotech Internship - Pharmacy & Consumer Wellness Tech - Web Development Modern Stack | Smithfield, RI | 🔒 | Mar 11 |
+| ↳ | Database Engineering IT Summer Intern | Greensboro, NC | 🔒 | Mar 11 |
 | **[Nutanix](https://simplify.jobs/c/Nutanix)** | Software Engineering Intern - Aiops | San Jose, CA | 🔒 | Mar 10 |
 | **[Global Payments](https://simplify.jobs/c/Global-Payments)** | Data Analyst Intern | Alpharetta, GA | 🔒 | Mar 10 |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital)** | Summer 2025 Intern - Back-End HDD Manufacturing | Irvine, CA | 🔒 | Mar 07 |
