@@ -874,54 +874,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | SIG | Quantitative Trader Intern | Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
-| **[Zeiss](https://simplify.jobs/c/Zeiss)** | Research internship on medical robotics - Augmented reality - And computer vision | Ansbach, Germany | 🔒 | Mar 12 |
-| ↳ | Internship or Working Student in 3D Computer Graphics | Ansbach, Germany | 🔒 | Mar 12 |
-| ↳ | Internship or Working Student in 3D Computer Vision | Ansbach, Germany | 🔒 | Mar 12 |
-| ↳ | Internship in Machine Learning Research | Jena, Germany</br>Ansbach, Germany | 🔒 | Mar 12 |
-| **[Ubisoft](https://simplify.jobs/c/Ubisoft)** | Gameplay Programmer Intern | Abu Dhabi - United Arab Emirates | 🔒 | Mar 12 |
-| **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital)** | ML Intern 2025 | Noida, Uttar Pradesh, India | 🔒 | Mar 12 |
 | **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0)** | 2025 Software Engineering Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| **[Symphony](https://simplify.jobs/c/Symphony-Comm)** | Apprentice - Software Development | Nice, France | 🔒 | Mar 12 |
-| **[Squarespace](https://simplify.jobs/c/Squarespace)** | Software Engineering Intern Frontend - Javascript | Dublin, Ireland | 🔒 | Mar 12 |
-| **[Sonio](https://simplify.jobs/c/Sonio)** | Right-hand to the CTO – Internship | Paris, France | 🔒 | Mar 12 |
-| **[Snowflake](https://simplify.jobs/c/Snowflake)** | Software Engineer Intern | Berlin, Germany | 🔒 | Mar 12 |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm)** | FY25 Intern – Software Engineering Internship - 6 months - Interim Intern | Cork, Ireland | 🔒 | Mar 12 |
 | **[Procter & Gamble (P&G)](https://simplify.jobs/c/Procter-Gamble-Company)** | Data Engineer Internship | Madrid, Spain | 🔒 | Mar 12 |
-| **[Optiver](https://simplify.jobs/c/Optiver)** | Software Developer Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| ↳ | Quantitative Trading Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| ↳ | Quantitative Researcher Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| ↳ | Software Developer Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| ↳ | Quantitative Trading Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
-| ↳ | Quantitative Researcher Internship | Sydney NSW, Australia | 🔒 | Mar 12 |
 | **[Mistral AI](https://simplify.jobs/c/Mistral-AI)** | Applied AI Engineer – Internship | Paris, France | 🔒 | Mar 12 |
-| **[Marvell](https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796)** | Machine Learning Engineer – Intern | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 12 |
-| **[Marsh & McLennan](https://simplify.jobs/c/Marsh-McLennan)** | Oliver Wyman – Data & Analytics Internship | Milan, Metropolitan City of Milan, Italy | 🔒 | Mar 12 |
-| **[Lowe's ](https://simplify.jobs/c/Lowes)** | DIH Intern-Tech | Bengaluru, Karnataka, India | 🔒 | Mar 12 |
-| **[Kognitos](https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def)** | Software Engineer – Intern | Bengaluru, Karnataka, India | 🔒 | Mar 12 |
-| **[Keysight Technologies, Inc.](https://simplify.jobs/c/Keysight-Technologies-Inc)** | Intern – m/w/d - V2X software development | Lengede, Germany | 🔒 | Mar 12 |
-| **[Jump Trading](https://simplify.jobs/c/Jump-Trading)** | Campus Software Engineer – Intern | Sydney NSW, Australia | 🔒 | Mar 12 |
-| **[Intrinsic](https://simplify.jobs/c/IntrinsicAI)** | Intern in Software Engineering for Perception Experience Joint Calibration | Munich, Germany | 🔒 | Mar 12 |
-| **[Integral Ad Science](https://simplify.jobs/c/Integral-Ad-Science)** | Machine Learning Intern | Paris, France | 🔒 | Mar 12 |
 | **[IMC Trading](https://simplify.jobs/c/IMC-Trading)** | Software Engineer Intern | Sydney NSW, Australia | 🔒 | Mar 12 |
 | ↳ | Quantitative Research Intern | Sydney NSW, Australia | 🔒 | Mar 12 |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Internship in Data Analysis and Dashboard Development | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 12 |
-| **[Guidewire](https://simplify.jobs/c/Guidewire)** | Consultant Developer Intern | Madrid, Spain | 🔒 | Mar 12 |
-| ↳ | Consultant Developer Intern | Madrid, Spain | 🔒 | Mar 12 |
-| **[Graviton](https://simplify.jobs/c/Graviton)** | Intern – Quantitative Researcher | Noida, Uttar Pradesh, India | 🔒 | Mar 12 |
-| **[Glovo](https://simplify.jobs/c/Glovo)** | Data Internship Program | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 12 |
-| ↳ | Data Analyst Intern - Regional Operations | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | Mar 12 |
-| **[FactSet](https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c)** | Engineering Internship - Front-End Developer | Paris, France | 🔒 | Mar 12 |
-| ↳ | Engineering Internship - Back-End Developer | Paris, France | 🔒 | Mar 12 |
-| **[EDFT](https://simplify.jobs/c/c10f5a92-2ad6-4330-87e0-b70f6f89c490)** | Intraday Trading Analyst Internship | Paris, France | 🔒 | Mar 12 |
-| ↳ | Intraday Trading Analyst Internship - Systematic | Paris, France | 🔒 | Mar 12 |
-| **[Deliveroo](https://simplify.jobs/c/Deliveroo)** | Intern – Sales Data Management | Dubai - United Arab Emirates | 🔒 | Mar 12 |
-| **[Carrier Global](https://simplify.jobs/c/Carrier-Global)** | Intern – Data Science and Analytics | Noida, Uttar Pradesh, India | 🔒 | Mar 12 |
-| **[bunch](https://simplify.jobs/c/Bunch)** | Product Engineer Intern | Berlin, Germany | 🔒 | Mar 12 |
-| **[Barclays](https://simplify.jobs/c/Barclays)** | Sales – Trading and Structuring Off Cycle Internship Programme 2025 | Paris, France | 🔒 | Mar 12 |
-| ↳ | Sales – Trading and Structuring Off Cycle Internship Programme 2025 | Milan, Metropolitan City of Milan, Italy | 🔒 | Mar 12 |
-| **[Baker Hughes](https://simplify.jobs/c/Baker-Hughes)** | Working Student/Intern - Deep Learning Image Processing | Lengede, Germany</br>Munich, Germany | 🔒 | Mar 12 |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Engineer - Backend - Data Platform | Dublin, Ireland | 🔒 | Mar 12 |
-| ↳ | Intern – Software Engineer - Platform Engineering | Dublin, Ireland | 🔒 | Mar 12 |
 | **[Airbus](https://simplify.jobs/c/Airbus)** | Intern – d/f/m | Hamburg, Germany | 🔒 | Mar 12 |
 | ↳ | Internship/Thesis within Deep Reinforcement Learning in combat simulations | Wangen im Allgäu, Germany | 🔒 | Mar 12 |
 | ↳ | Internship - Web development for command & control solutions | Wangen im Allgäu, Germany | 🔒 | Mar 12 |

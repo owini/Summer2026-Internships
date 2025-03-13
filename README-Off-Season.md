@@ -240,13 +240,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Mathworks | Engineering Development Group Internship | Natick, MA | Fall 2023 | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Emerson Automation Solutions | Software Engineering Co-op  🛂 | Elyria, OH | Fall 2023 | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **[Certik](https://simplify.jobs/c/Certik)** | SWE Intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 18 |
-| **[Marsh & McLennan](https://simplify.jobs/c/Marsh-McLennan)** | Oliver Wyman Digital: Data & Analytics – Intern | Madrid, Spain | Fall 2025 | 🔒 | Mar 12 |
-| **[IMC Trading](https://simplify.jobs/c/IMC-Trading)** | Trader Intern | Sydney NSW, Australia | Fall 2025 | 🔒 | Mar 12 |
 | **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise)** | Software Engineering Internship | Minna, Inverin, Co. Galway, Ireland | Spring 2025 | 🔒 | Mar 12 |
-| ↳ | Internship - Software Engineering | Minna, Inverin, Co. Galway, Ireland | Winter 2025 | 🔒 | Mar 12 |
-| ↳ | Linux Software Engineering Internship | Minna, Inverin, Co. Galway, Ireland | Spring 2025 | 🔒 | Mar 12 |
-| **[Boston Consulting Group](https://simplify.jobs/c/Boston-Consulting-Group)** | Apprenticeship | Paris, France | Winter 2025 | 🔒 | Mar 12 |
-| **[Airbus](https://simplify.jobs/c/Airbus)** | Internship within High-Lift Component Loads - Deployment of Engineering Applications to Web Service Platform | Cloppenburg, Germany | Spring 2025 | 🔒 | Mar 12 |
 | **[RippleMatch](https://simplify.jobs/c/RippleMatch)** | Rockwell Automation – Intern - Software Engineering | Mayfield Heights, OH | Spring 2025, Summer 2025 | 🔒 | Mar 11 |
 | ↳ | Rockwell Automation - Software Engineering | Mayfield Heights, OH | Spring 2025, Summer 2025, Fall 2025, Winter 2026 | 🔒 | Mar 11 |
 | ↳ | Rockwell Automation – Intern - Embedded Software Engineering | Eden Prairie, MN | Spring 2025, Summer 2025 | 🔒 | Mar 11 |
