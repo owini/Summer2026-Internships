@@ -841,6 +841,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | SIG | Quantitative Trader Intern | Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
+| Oracle | MySQL Heatwave - Software Developer Intern (6 month duration) | Canada | 🔒 | Mar 19 |
 | **[SharkNinja](https://simplify.jobs/c/SharkNinja)** | Summer 2025: Strategic Sales & Analytics Intern | Needham, MA | 🔒 | Mar 18 |
 | **[Challenge Manufacturing](https://simplify.jobs/c/Challenge-Manufacturing)** | Software Engineer Intern | Holland, MI | 🔒 | Mar 18 |
 | **[Aviva](https://simplify.jobs/c/Aviva)** | Marketing and Data Analytics Intern - Global Corporate Specialty | Toronto, ON, Canada | 🔒 | Mar 18 |
