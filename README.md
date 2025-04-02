@@ -470,7 +470,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | OpenInfer Inc. | Inference Performance Optimization Engineer | San Mateo, California | <a href="https://openinfer.io/jobs/24-12-inference-performance-optimization-internship/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | **[Samsung](https://simplify.jobs/c/Samsung)** | Intern – Compiler Engineer | San Jose, CA | <a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6320151003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1950cc8c-379f-424c-b902-15415077d921?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 09 |
 | **[PayPal](https://simplify.jobs/c/PayPal)** | Full Stack Software Engineer Intern | San Jose, CA | <a href="https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0121794&sort_by=relevance&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
-| **[Illumio](https://simplify.jobs/c/Illumio)** | Cloudsecure Intern | Sunnyvale, CA | <a href="https://www.illumio.com/company/job-listing?gh_jid=7798649002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f74cb933-6453-40ec-8eb8-7dce1ee3f634?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 09 |
 | **[Amazon](https://simplify.jobs/c/Amazon)** | SDEI Intern, 2025 - DynamoDB | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2857092/sdei-intern-2025-dynamodb?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Lenovo | Data Science Intern - Summer 2025 | Morrisville, NC | <a href="https://jobs.lenovo.com/en_US/careers/JobDetail?jobId=63353&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Electronic Arts | Software Engineer Intern 🛂 | Austin, TX | <a href="https://jobs.ea.com/en_US/careers/JobDetail/206690?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
@@ -2123,7 +2122,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99)** | Supply Chain Data Management Analyst Intern | San Jose, CA | 🔒 | Jan 09 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | CTO Technical Intern - Artificial Intelligence | Reston, VA | 🔒 | Jan 09 |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288)** | Data Science Intern | Remote in USA | 🔒 | Jan 09 |
-| **[Illumio](https://simplify.jobs/c/Illumio)** | Core – Intern - Unified Platform | Sunnyvale, CA | 🔒 | Jan 09 |
+| **[Illumio](https://simplify.jobs/c/Illumio)** | Cloudsecure Intern | Sunnyvale, CA | 🔒 | Jan 09 |
+| ↳ | Core – Intern - Unified Platform | Sunnyvale, CA | 🔒 | Jan 09 |
 | **[Dropbox](https://simplify.jobs/c/Dropbox)** | Software Engineering Intern - Go To Market | Remote in Canada | 🔒 | Jan 09 |
 | ↳ | Software Engineering Intern - Go To Market | Remote in USA | 🔒 | Jan 09 |
 | **[Cloudflare](https://simplify.jobs/c/Cloudflare)** | Data Scientist Intern - Business Intelligence | United States | 🔒 | Jan 09 |
