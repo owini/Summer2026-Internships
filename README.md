@@ -786,7 +786,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Delta Dental](https://simplify.jobs/c/Delta-Dental)** | Internship-Application Development | East Lansing, MI | 🔒 | Mar 21 |
 | **[Ciena](https://simplify.jobs/c/Ciena)** | Software Programmer Intern | Remote in USA</br>Remote in Canada | 🔒 | Mar 21 |
 | **[Allstate Insurance Company](https://simplify.jobs/c/Allstate-Insurance-Company)** | Software Engineering Intern | North Carolina | 🔒 | Mar 21 |
-| **[S&P Global ](https://simplify.jobs/c/SP-Global)** | Software Engineer Intern | Princeton, NJ</br>NYC | 🔒 | Mar 20 |
+| **[S & P Global](https://simplify.jobs/c/SP-Global)** | Software Engineer Intern | NYC</br>Princeton, NJ | 🔒 | Mar 20 |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc)** | Intern – Artificial Intelligence | Boston, NY</br>Buffalo, NY | 🔒 | Mar 20 |
 | **[Dillards](https://simplify.jobs/c/d42ede38-2f11-4520-8b45-e24d2e9c10dd)** | Technology Internship | Little Rock, AR | 🔒 | Mar 20 |
 | **[ PrizePicks](https://simplify.jobs/c/PrizePicks)** | Software Engineer Intern | Remote in USA | 🔒 | Mar 20 |
