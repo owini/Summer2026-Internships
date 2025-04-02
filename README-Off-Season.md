@@ -1844,7 +1844,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Computer Vision Engineering Intern | SF | Spring 2024, Summer 2024, Fall 2024 | 🔒 | Aug 28 |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group)** | Co-op – Data Visualization - Spring 2024 | Western Springs, IL | Spring 2024 | 🔒 | Aug 28 |
 | **[Nutanix](https://simplify.jobs/c/Nutanix)** | Software Engineering Intern - Undergraduates Only | San Jose, CA</br>Durham, NC</br>United States | Spring 2024, Summer 2024 | 🔒 | Aug 25 |
-| Royal Bank of Canada | Software Developer Intern | Toronto, ON</br>Remote | Winter 2024 | 🔒 | Aug 24 |
+| **[Royal Bank of Canada](https://simplify.jobs/c/Royal-Bank-Of-Canada)** | Software Developer Intern | Toronto, ON</br>Remote | Winter 2024 | 🔒 | Aug 24 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | UI Programmer Intern | Morrisville, NC | Spring 2024 | 🔒 | Aug 24 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Developer Co-op | Bethesda, MD | Winter 2024, Spring 2024 | 🔒 | Aug 23 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Compiler Engineering Co-op | Toronto, ON, Canada | Winter 2024 | 🔒 | Aug 23 |
