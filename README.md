@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Schneider Electric | Software co-op 🛂 | Victoria, Canada | <a href="https://careers.se.com/jobs/89517?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 07 |
 | Ericsson | Software Developer Intern | Montreal, Quebec, Canada | <a href="https://jobs.ericsson.com/careers?domain=ericsson.com&query=developer+intern&start=0&location=canada&pid=563121763751096&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 07 |
 | ApplyBoard | Software Engineering Internship | Kitchener, Ontario, Canada | <a href="https://applyboard.wd3.myworkdayjobs.com/ApplyBoardNH/job/Kitchener/Software-Engineering-Internship_JR102760?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 07 |
 | **[American Cancer Society](https://simplify.jobs/c/American-Cancer-Society)** | Intern – BI Analyst | Atlanta, GA | <a href="https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Intern---BI-Analyst_JR1938?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7a4d8379-d085-45a0-82b3-18c979b188d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 07 |
