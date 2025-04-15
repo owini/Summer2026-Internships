@@ -462,7 +462,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ABB | Data Science Intern- Summer 2025 | Cary, NC | <a href="https://careers.abb/global/en/job/ABB1GLOBAL94084529EXTERNALENGLOBAL/Data-Science-Intern-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | Staples | Software Engineering Intern (Quill - Hybrid) | Lincolnshire, IL | <a href="https://careers.staples.com/en/job/-/-/44412/74491770848?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 14 |
 | Docusign | Back Platform Software Engineer Intern 🛂 | San Francisco, CA | <a href="https://careers.docusign.com/jobs/25870?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
-| **[Apple](https://simplify.jobs/c/Apple)** | Machine Learning / AI Internships | Remote in USA | <a href="https://jobs.apple.com/en-us/details/200554363?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1abf1a34-9a27-4f4e-b986-9d8a1166ec7a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 10 |
 | Staples | Software Engineer Intern, Java Backend | Framingham, MA | <a href="https://careers.staples.com/en/job/-/-/44412/73989731696?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Garmin | Software Engineering Intern | Yarmouth, ME | <a href="https://careers.garmin.com/careers-home/jobs/14486?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
 | Cisco | Full Stack Intern Meraki Summer 2025 FY25 🛂 | San Francisco, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-Meraki-Summer-2025-FY25/1431578?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
@@ -2561,6 +2560,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank)** | Data Science & Data Engineering Intern | Cincinnati, OH | 🔒 | Dec 10 |
 | **[Apple](https://simplify.jobs/c/Apple)** | Wallet and Apple Pay - IOS Engineer | London, UK | 🔒 | Dec 10 |
 | ↳ | Swift Server Networking Internship | London, UK | 🔒 | Dec 10 |
+| ↳ | Machine Learning / AI Internships | Remote in USA | 🔒 | Dec 10 |
 | ↳ | Internship - Machine Learning | Cambridge, UK | 🔒 | Dec 10 |
 | ↳ | Internship - Kernel Engineer Core OS | London, UK | 🔒 | Dec 10 |
 | ↳ | Internship - ML Pro Apps | London, UK | 🔒 | Dec 10 |
