@@ -126,7 +126,24 @@ def filterSummer(listings, year, earliest_date):
 
 
 def filterOffSeason(listings):
-    return [listing for listing in listings if listing["is_visible"] and any("Fall" in item or "Winter" in item or "Spring" in item for item in listing["terms"])]
+    def isOffSeason(listing):
+        if not listing.get("is_visible"):
+            return False
+        
+        terms = listing.get("terms", [])
+        has_off_season_term = any(season in term for term in terms for season in ["Fall", "Winter", "Spring"])
+        has_summer_term = any("Summer" in term for term in terms)
+
+        # We don't want to include listings in the off season list if they include a Summer term
+        #
+        # Due to the nature of classification, there will sometimes be edge cases where an internship might
+        # be included in two different seasons (e.g. Summer + Fall). More often than not though, these types of listings
+        # are targeted towards people looking for summer internships.
+        #
+        # We can re-visit this in the future, but excluding listings with "Summer" term for better UX for now.
+        return has_off_season_term and not has_summer_term
+
+    return [listing for listing in listings if isOffSeason(listing)]
 
 
 def sortListings(listings):
