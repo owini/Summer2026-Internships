@@ -468,6 +468,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ICE | Summer Internship Program 2025 - Data Analyst, Data Science and Visualization Intern | New York, NY | <a href="https://careers.ice.com/jobs/9280?mode=apply&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Aptiv | Software Engineer Intern | Troy, MI | <a href="https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Software-Engineering-Intern_J000671929?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **[Nokia](https://simplify.jobs/c/Nokia)** | Software Developer Intern | Naperville, IL | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12831?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| **[Modernizing Medicine](https://simplify.jobs/c/ModMed)** | Mobile Intern | Boca Raton, FL | <a href="https://www.modmed.com/company/careers/?gh_jid=7668835002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0b45779c-04a1-4a11-a415-8420e45940df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 08 |
+| ↳ | Ema – Software Engineering Intern | Boca Raton, FL | <a href="https://www.modmed.com/company/careers/?gh_jid=7677071002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/906c7cd2-66a8-4d45-a9d8-99c9d9b8e33b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 08 |
 | Collins Aerospace | Software Engineering Co-op (2025) 🇺🇸 | Wilsonville, OR | <a href="https://careers.rtx.com/global/en/job/RAYTGLOBAL01736604EXTERNALENGLOBAL/Software-Engineering-Co-op-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Paramount | Software Engineering Internships (Summer 2025, Hybrid - NYC/LA) 🛂 | West Hollywood, CA</br>Burbank, CA</br>New York, NY | <a href="https://careers.paramount.com/job/West-Hollywood-Software-Engineering-Internships-%28Summer-2025%2C-Hybrid-NYCLA%29-CA-90069/1229684800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Software Engineer Intern 🇺🇸 | <details><summary>**4 locations**</summary>Linthicum, MD</br>Virginia, US</br>Washington DC, US</br>Maryland, US</details> | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Federal-Systems-Engineering-Intern--2025-Summer-Internship-_R51031-1?source=APPLICANT_SOURCE-6-250&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
@@ -2900,12 +2902,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Recursion Pharmaceuticals](https://simplify.jobs/c/RecursionPharma)** | Software Engineering Internship - Toronto | Toronto, ON, Canada | 🔒 | Nov 08 |
 | ↳ | Software Engineering Internship - Slc | Salt Lake City, UT | 🔒 | Nov 08 |
 | **[Nethermind](https://simplify.jobs/c/Nethermind)** | Internship Program 2024 | Remote in USA | 🔒 | Nov 08 |
-| **[Modernizing Medicine](https://simplify.jobs/c/ModMed)** | Mobile Intern | Boca Raton, FL | 🔒 | Nov 08 |
-| ↳ | Klara Software Engineering Intern | Boca Raton, FL | 🔒 | Nov 08 |
+| **[Modernizing Medicine](https://simplify.jobs/c/ModMed)** | Klara Software Engineering Intern | Boca Raton, FL | 🔒 | Nov 08 |
 | ↳ | Ggastro – Software Engineering Intern | Boca Raton, FL | 🔒 | Nov 08 |
 | ↳ | Data Engineering Intern | Boca Raton, FL | 🔒 | Nov 08 |
 | ↳ | Java/Angular Software Engineer Intern | Boca Raton, FL | 🔒 | Nov 08 |
-| ↳ | Ema – Software Engineering Intern | Boca Raton, FL | 🔒 | Nov 08 |
 | ↳ | Data Science Intern | Boca Raton, FL | 🔒 | Nov 08 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | AI Explainability Engineer Intern | Remote in USA | 🔒 | Nov 08 |
 | **[KION](https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5)** | DITA CCMS Associate Adminstrator Co-op | Kitchener, ON, Canada | 🔒 | Nov 08 |
