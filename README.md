@@ -580,7 +580,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – IT Computer Science | Blacksburg, VA | 🔒 | 9d |
 | **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Intern - Tech Developer & Engineering | Richmond, VA</br>Phoenix, AZ | 🔒 | 9d |
 | **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Data Science and Analytics Intern-Summer | East Syracuse, NY | 🔒 | 9d |
-| **[OptionMetrics](https://simplify.jobs/c/OptionMetrics?utm_source=GHList&utm_medium=company)** | Quant Analyst Internship | NYC | 🔒 | 9d |
+| **[OptionMetrics](https://simplify.jobs/c/OptionMetrics?utm_source=GHList&utm_medium=company)** | Quant Analyst Internship | NYC | 🔒 | 10d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Software Engineering | Cheektowaga, NY</br>Buffalo, NY | 🔒 | 10d |
 | **[Ankura Consulting Group](https://simplify.jobs/c/Ankura-Consulting-Group?utm_source=GHList&utm_medium=company)** | University Intern - Ankura.AI Labs | Virginia | 🔒 | 12d |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | New Business Intern | Moonachie, NJ | 🔒 | 13d |
@@ -719,8 +719,8 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | ↳ | Intern - Connected Factory Ignition Developer | NYC | 🔒 | 30d |
 | **[Viatris](https://simplify.jobs/c/Viatris?utm_source=GHList&utm_medium=company)** | Data Operations Intern | Welwyn Garden City, UK | 🔒 | 30d |
 | ↳ | Intern – IT Analytics | Remote in USA | 🔒 | 30d |
-| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Business Intelligence – Developer Intern - BI | Reston, VA</br>Oklahoma City, OK | 🔒 | 30d |
-| **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software development intern | Ontario, Canada | 🔒 | 30d |
+| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Business Intelligence – Developer Intern - BI | Reston, VA</br>Oklahoma City, OK | 🔒 | 1mo |
+| **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software development intern | Ontario, Canada | 🔒 | 1mo |
 | **[Johnson Matthey](https://simplify.jobs/c/Johnson-Matthey?utm_source=GHList&utm_medium=company)** | Internship Program - Operations - Data Science | Berwyn, PA | 🔒 | 1mo |
 | **[Becton Dickinson](https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company)** | Software Technology Solutions Intern - Software Engineering - Healthsight | San Diego, CA | 🔒 | 1mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Data Scientist | Santa Clara, CA | 🔒 | 1mo |
@@ -3324,7 +3324,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | System Engineer Intern | Arlington, VA | 🔒 | 6mo |
 | ↳ | Embedded Software Engineer – Intern | San Diego, CA | 🔒 | 6mo |
 | ↳ | Software Engineer Intern | Arlington, VA | 🔒 | 6mo |
-| EnergySage | Software Engineering Intern | Boston, MA | 🔒 | 6mo |
+| EnergySage | Software Engineering Intern | Boston, MA | 🔒 | 7mo |
 | **[Cyberark](https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368?utm_source=GHList&utm_medium=company)** | C&I Software Engineer Intern | Remote in USA | 🔒 | 7mo |
 | **[Waymo](https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Waymo Commercialization - Fleet Infrastructure | San Francisco, CA</br>Mountain View, CA | 🔒 | 7mo |
 | **[Samsara](https://simplify.jobs/c/Samsara?utm_source=GHList&utm_medium=company)** | Firmware Intern - Mcu | SF | 🔒 | 7mo |
@@ -3851,7 +3851,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | ↳ | Software Engineering Intern - Embedded - Summer 2025 | San Mateo, CA | 🔒 | 8mo |
 | ↳ | Security Software Engineering Intern - Backend - Summer 2025 | San Mateo, CA | 🔒 | 8mo |
 | ↳ | Android Engineering Intern - Summer 2025 | San Mateo, CA | 🔒 | 8mo |
-| **[Verkada](https://simplify.jobs/c/Verkada?utm_source=GHList&utm_medium=company)** | IOS Engineering Intern - Summer 2025 | San Mateo, CA | 🔒 | 8mo |
+| ↳ | IOS Engineering Intern - Summer 2025 | San Mateo, CA | 🔒 | 8mo |
 | **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)** | Software Engineer Internship - Summer 2025 - New York | NYC | 🔒 | 8mo |
 | ↳ | Software Engineer Internship - Summer 2025 - Chicago | Chicago, IL | 🔒 | 8mo |
 | ↳ | Quant Trading Associate Internship - Summer 2025 - London | London, UK | 🔒 | 8mo |
