@@ -327,7 +327,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Huntsville, AL | Spring 2025 | 🔒 | 2mo |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Opt – Flight & Crew Systems Co-op | United States | Spring 2025 | 🔒 | 2mo |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Systems Engineer Intern | Fayetteville, NC | Spring 2025 | 🔒 | 2mo |
-| **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Raleigh, NC | Spring 2026 | 🔒 | 2mo |
+| **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Raleigh, NC | Spring 2026 | 🔒 | 3mo |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Data Science Intern - Kalypso | Remote in USA | Fall 2026 | 🔒 | 3mo |
 | **[Newsela](https://simplify.jobs/c/Newsela?utm_source=GHList&utm_medium=company)** | Impact Research Intern | Remote in USA | Spring 2025 | 🔒 | 3mo |
 | **[Walmart](https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company)** | Software Engineer II Intern | Bentonville, AR</br>Sunnyvale, CA | Spring 2025 | 🔒 | 3mo |
@@ -607,7 +607,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Truveta](https://simplify.jobs/c/Truveta?utm_source=GHList&utm_medium=company)** | Undergrad Software Engineering Intern - Service Quality | Seattle, WA | Spring 2024, Fall 2024 | 🔒 | 7mo |
 | ↳ | Graduate Software Engineering Intern - Service Quality | Seattle, WA | Spring 2024, Fall 2024 | 🔒 | 7mo |
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Software Development - Winter 2025 | Remote in USA | Winter 2025 | 🔒 | 7mo |
-| **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Data Science - Winter 2025 | Remote in USA | Winter 2025 | 🔒 | 7mo |
+| ↳ | Intern – Data Science - Winter 2025 | Remote in USA | Winter 2025 | 🔒 | 7mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Data Engineer/Analyst Intern | O'Fallon, IL</br>Illinois | Fall 2025 | 🔒 | 7mo |
 | ↳ | Software Engineer Intern | Maryland</br>Illinois | Fall 2025 | 🔒 | 7mo |
 | ↳ | Network Engineering/Software Development Intern | O'Fallon, IL</br>Illinois | Fall 2025 | 🔒 | 7mo |
