@@ -312,7 +312,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Co-Op - Crd | Boston, MA | Fall 2025 | 🔒 | 2mo |
 | **[FM Global](https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company)** | GIS Development Co-Op | Remote in USA | Fall 2025 | 🔒 | 2mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | DE Co-op Fall Internship | Seattle, WA | Fall 2025 | 🔒 | 2mo |
-| ↳ | BIE Co-op Fall Internship | Seattle, WA | Fall 2025 | 🔒 | 2mo |
+| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | BIE Co-op Fall Internship | Seattle, WA | Fall 2025 | 🔒 | 2mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer | Urbana, IL | Spring 2025 | 🔒 | 2mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Santa Clara, CA | Spring 2025 | 🔒 | 2mo |
 | **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Huntsville, AL | Spring 2025 | 🔒 | 2mo |
