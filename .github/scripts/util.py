@@ -14,6 +14,13 @@ SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
 
+CATEGORIES = {
+    "Software": {"name": "Software Engineering", "emoji": "💻"},
+    "AI/ML/Data": {"name": "Data Science, AI & Machine Learning", "emoji": "🤖"},
+    "Quant": {"name": "Quantitative Finance", "emoji": "📈"},
+    "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"}
+}
+
 def setOutput(key, value):
     if output := os.getenv('GITHUB_OUTPUT', None):
         with open(output, 'a') as fh:
@@ -108,31 +115,115 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
         print(f"Received {len(listings)} listings from listings.json")
         return listings
 
-def embedTable(listings, filepath, offSeason=False):
-    newText = ""
-    readingTable = False
-    with open(filepath, "r") as f:
-        for line in f.readlines():
-            if readingTable:
-                if "|" not in line and "TABLE_END" in line:
-                    newText += line
-                    readingTable = False
-                continue
-            else:
-                newText += line
-                if "TABLE_START" in line:
-                    readingTable = True
-                    newText += "\n" + create_md_table(listings, offSeason=offSeason) + "\n"
+
+def classifyJobCategory(job):
+    # First check if there's an existing category
+    if "category" in job and job["category"]:
+        # Map the existing category to our standardized categories
+        category = job["category"].lower()
+        if category in ["hardware", "hardware engineering", "embedded engineering"]:
+            return "Hardware Engineering"
+        elif category in ["quant", "quantitative finance"]:
+            return "Quantitative Finance"
+        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
+            return "Data Science, AI & Machine Learning"
+        elif category in ["software", "software engineering"]:
+            return "Software Engineering"
     
-    # Calculate counts
-    active_listings = [listing for listing in listings if listing.get("active", False)]
+    # If no category exists or it's not recognized, classify by title
+    title = job.get("title", "").lower()
+    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic"]):
+        return "Hardware Engineering"
+    elif any(term in title for term in ["quant", "quantitative", "trading", "finance", "investment"]):
+        return "Quantitative Finance"
+    elif any(term in title for term in ["data science", "data scientist", "data science", "ai &", "machine learning", "ml", "analytics", "analyst" ]):
+        return "Data Science, AI & Machine Learning"
+    return "Software Engineering"
+
+def ensureCategories(listings):
+    for listing in listings:
+        if "category" not in listing:
+            listing["category"] = classifyJobCategory(listing)
+    return listings
+
+def create_category_table(listings, category_name):
+    category_listings = [listing for listing in listings if listing["category"] == category_name]
+    if not category_listings:
+        return ""
+
+    # Get emoji for this category
+    emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
+
+    # Format section heading and anchor
+    table = f"## {emoji} {category_name} Internship Roles\n\n"
+    table += "[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)\n\n"
+    table += create_md_table(category_listings)
+    return table
+
+def embedTable(listings, filepath, offSeason=False):
+    # Ensure all listings have a category
+    listings = ensureCategories(listings)
+
+    # Filter only active listings
+    active_listings = filter_active(listings)
     total_active = len(active_listings)
 
-    # Replace the "Browse ### Internship Roles by Category" section automatically
-    browse_section_pattern = r"(### Browse )(.*?)( Internship Roles\s*-+\n)"
-    newText = re.sub(browse_section_pattern, f"### Browse {total_active} Internship Roles\n\n---\n", newText, count=1, flags=re.DOTALL)
+    # Count listings by category
+    category_counts = {}
+    for category_info in CATEGORIES.values():
+        count = len([l for l in active_listings if l["category"] == category_info["name"]])
+        category_counts[category_info["name"]] = count
 
-    # Write final output
+    # Build the category summary for the Browse section
+    category_links = []
+    for category_info in CATEGORIES.values():
+        name = category_info["name"]
+        emoji = category_info["emoji"]
+        anchor = name.lower().replace(" ", "-").replace(",", "").replace("&", "")
+        category_links.append(f"{emoji} **[{name}](#-{anchor}-internship-roles)** ({category_counts[name]})")
+    category_counts_str = "\n\n".join(category_links)
+
+    newText = ""
+    in_browse_section = False
+    browse_section_replaced = False
+    in_table_section = False
+    table_section_replaced = False
+
+    with open(filepath, "r") as f:
+        for line in f.readlines():
+            if not browse_section_replaced and line.startswith("### Browse"):
+                in_browse_section = True
+                newText += f"### Browse {total_active} Internship Roles by Category\n\n{category_counts_str}\n\n---\n"
+                browse_section_replaced = True
+                continue
+
+            if in_browse_section:
+                if line.startswith("---"):
+                    in_browse_section = False
+                continue
+
+            if not in_table_section and "TABLE_START" in line:
+                in_table_section = True
+                newText += line
+                newText += "\n---\n\n"
+                for category_info in CATEGORIES.values():
+                    name = category_info["name"]
+                    table = create_category_table(listings, name)
+                    if table:
+                        newText += table
+                        if name == "Software Engineering":
+                            newText += '\n> 🎓 Here\'s the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for software internship prep.\n>\n> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n'
+                continue
+
+            if in_table_section:
+                if "TABLE_END" in line:
+                    in_table_section = False
+                    newText += line
+                continue
+
+            if not in_browse_section and not in_table_section:
+                newText += line
+
     with open(filepath, "w") as f:
         f.write(newText)
 
