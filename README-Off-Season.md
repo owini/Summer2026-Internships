@@ -9,6 +9,19 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
+
+### Browse 152 Internship Roles by Category
+
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (116)
+
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (21)
+
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (0)
+
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (15)
+
+---
+
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
