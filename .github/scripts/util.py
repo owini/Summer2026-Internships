@@ -13,6 +13,7 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
+INACTIVE_THRESHOLD_MONTHS = 4
 
 CATEGORIES = {
     "Software": {"name": "Software Engineering", "emoji": "💻"},
@@ -21,10 +22,18 @@ CATEGORIES = {
     "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"}
 }
 
-def setOutput(key, value):
-    if output := os.getenv('GITHUB_OUTPUT', None):
-        with open(output, 'a') as fh:
-            print(f'{key}={value}', file=fh)
+# def setOutput(key, value):
+#     if output := os.getenv('GITHUB_OUTPUT', None):
+#         with open(output, 'a') as fh:
+#             print(f'{key}={value}', file=fh)
+
+def setOutput(key, value, readme_path="README.md"):
+    try:
+        with open(readme_path, "a") as f:
+            f.write(f"\n<!-- {key}={value} -->\n")
+    except Exception as e:
+        print(f"Failed to write to README: {e}")
+
 
 def fail(why):
     setOutput("error_message", why)
@@ -55,11 +64,31 @@ def getLink(listing):
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
-        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="88" alt="Apply"></a>'
+        return (
+            f'<div align="center">'
+            f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="88" alt="Apply"></a>'
+            f'</div>'
+        )
+
+    simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
+    return (
+        f'<div align="center">'
+        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> '
+        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
+        f'</div>'
+    )
     
-    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
-    
+      
+def mark_stale_listings(listings):
+    now = datetime.now()
+    for listing in listings:
+        if listing["source"] != "Simplify":
+            age_in_months = (now - datetime.fromtimestamp(listing["date_posted"])).days / 30
+            if age_in_months > INACTIVE_THRESHOLD_MONTHS:
+                listing["active"] = False
+    return listings
+
+
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
 
@@ -147,23 +176,44 @@ def ensureCategories(listings):
     return listings
 
 def create_category_table(listings, category_name):
-    category_listings = [listing for listing in listings if listing["category"] == category_name]
+    category_listings = [l for l in listings if l["category"] == category_name]
     if not category_listings:
         return ""
 
-    # Get emoji for this category
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
+    header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
+    header += "[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)\n\n"
 
-    # Format section heading and anchor
-    table = f"## {emoji} {category_name} Internship Roles\n\n"
-    table += "[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)\n\n"
-    table += create_md_table(category_listings)
-    return table
+    # Optional callout under Data Science section
+    if category_name == "Data Science, AI & Machine Learning":
+        header += (
+            "> 🎓 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.\n"
+            "\n"
+            "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
+        )
+
+    # Sort and format
+    active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
+    inactive = sorted([l for l in category_listings if not l["active"]], key=lambda l: l["date_posted"], reverse=True)
+
+    result = header
+    if active:
+        result += create_md_table(active) + "\n\n"
+
+    if inactive:
+        result += (
+            "<details>\n"
+            f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
+            + create_md_table(inactive) +
+            "\n\n</details>\n\n"
+        )
+
+    return result
 
 def embedTable(listings, filepath, offSeason=False):
     # Ensure all listings have a category
     listings = ensureCategories(listings)
-
+    listings = mark_stale_listings(listings)
     # Filter only active listings
     active_listings = filter_active(listings)
     total_active = len(active_listings)
@@ -211,8 +261,6 @@ def embedTable(listings, filepath, offSeason=False):
                     table = create_category_table(listings, name)
                     if table:
                         newText += table
-                        if name == "Software Engineering":
-                            newText += '\n> 🎓 Here\'s the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for software internship prep.\n>\n> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n'
                 continue
 
             if in_table_section:
