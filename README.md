@@ -9,7 +9,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 
 ---
 
-### Browse 363 Internship Roles by Category
+### Browse 362 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (283)
 
@@ -1387,7 +1387,7 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 | **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Software Developer – Intern | Rochester, MN | 🔒 | 3mo |
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Metrology Simulator Co-op/Intern | Ottawa, ON, Canada | 🔒 | 3mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Software Developer Intern/Co-op | Toronto, ON, Canada | 🔒 | 3mo |
-| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Geospatial Intelligence Intern/Co-op | Toronto, ON, Canada</br>Markham, ON, Canada | 🔒 | 3mo |
+| ↳ | Geospatial Intelligence Intern/Co-op | Toronto, ON, Canada</br>Markham, ON, Canada | 🔒 | 3mo |
 | ↳ | Software Engineer Intern/Co-op - Tds | Toronto, ON, Canada | 🔒 | 3mo |
 | ↳ | Modelling/Forecasting Intern / Co-Op - Model Development | Toronto, ON, Canada | 🔒 | 3mo |
 | **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company)** | Hewlett Packard Labs – Intern - System Software Research Associate | Milpitas, CA | 🔒 | 3mo |
