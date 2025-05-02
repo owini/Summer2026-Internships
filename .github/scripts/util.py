@@ -58,8 +58,8 @@ def getLink(listing):
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="88" alt="Apply"></a>'
     
     simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="56" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
-
+    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
+    
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
 
