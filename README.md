@@ -47,7 +47,9 @@ We're back! Use this repo to share and keep track of **Summer 2025 tech internsh
 ## Legend
 
 🛂 Does NOT offer sponsorship
+
 🇺🇸 Requires U.S. Citizenship
+
 🔒 Internship application is closed
 
 
