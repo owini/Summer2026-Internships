@@ -1192,7 +1192,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Product Data Science Intern | San Mateo, CA | 🔒 | 18mo |
 | **[Taboola](https://simplify.jobs/c/Taboola?utm_source=GHList&utm_medium=company)** | Full-time Data Science Intern - Fall or Winter start | LA | 🔒 | 18mo |
 | **[Cohere Health](https://simplify.jobs/c/Cohere-Health?utm_source=GHList&utm_medium=company)** | Data Science Intern - Starting November 2023 | United States | 🔒 | 18mo |
-| **[Netflix](https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company)** | Machine Learning Intern, Research | Los Gatos, CA | 🔒 | 18mo |
+| **[Netflix](https://simplify.jobs/c/Netflix?utm_source=GHList&utm_medium=company)** | Machine Learning Intern, Research | Los Gatos, CA | 🔒 | 19mo |
 | **[Sanctuary AI](https://simplify.jobs/c/Sanctuary-AI?utm_source=GHList&utm_medium=company)** | Software Co-op: Machine Learning Operations - January 2024 term | Vancouver, BC, Canada | 🔒 | 19mo |
 | **[Voya Financial](https://simplify.jobs/c/VoyaFinancial?utm_source=GHList&utm_medium=company)** | Internal Audit Data Analyst Intern | Remote in USA | 🔒 | 19mo |
 | **[84.51 Degrees](https://simplify.jobs/c/84-51?utm_source=GHList&utm_medium=company)** | Data Science – Co-op Program - Spring 2024 | Cincinnati, OH | 🔒 | 19mo |
