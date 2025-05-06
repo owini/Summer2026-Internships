@@ -164,7 +164,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Resource Technology Intern | Washington, DC | 🔒 | 13d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Shoreline Backend Engineering Intern | Santa Clara, CA | 🔒 | 14d |
 | ↳ | Software Engineering Intern - Simulation and Virtualization | Santa Clara, CA | 🔒 | 14d |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Distributed Scientific Computing Libraries | Santa Clara, CA | 🔒 | 16d |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Distributed Scientific Computing Libraries | Santa Clara, CA | 🔒 | 17d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 17d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer Opticaster - Energy Engineering | Palo Alto, CA | 🔒 | 20d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Web Developer Co-op/Intern 🛂 | Kanata, Ontario, Canada | 🔒 | 21d |
@@ -828,7 +828,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Parallel Systems](https://simplify.jobs/c/Parallel-Systems?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer - Spring 2024 | LA | 🔒 | 19mo |
 | **[Second Order Effects](https://simplify.jobs/c/Second-Order-Effects?utm_source=GHList&utm_medium=company)** | Systems Integration/Test Engineering Intern - Spring 2024 | El Segundo, CA | 🔒 | 19mo |
 | **[1Password](https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company)** | Developer Intern - Developer Ecosystems - Winter 2024 | Remote | 🔒 | 19mo |
-| ↳ | Developer Intern - Item Management - Winter 2024 | Remote | 🔒 | 19mo |
+| **[1Password](https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company)** | Developer Intern - Item Management - Winter 2024 | Remote | 🔒 | 19mo |
 | ↳ | Developer Intern - User Lifecycle & Growth - Winter 2024 | Remote | 🔒 | 19mo |
 | ↳ | Developer Intern - Filling & Saving - Winter 2024 | Remote | 🔒 | 19mo |
 | ↳ | Developer Intern - Internal Tools - Winter 2024 | Remote | 🔒 | 19mo |
