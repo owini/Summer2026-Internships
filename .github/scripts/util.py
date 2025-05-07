@@ -78,7 +78,6 @@ def getLink(listing):
         f'</div>'
     )
     
-      
 def mark_stale_listings(listings):
     now = datetime.now()
     for listing in listings:
@@ -87,7 +86,6 @@ def mark_stale_listings(listings):
             if age_in_months > INACTIVE_THRESHOLD_MONTHS:
                 listing["active"] = False
     return listings
-
 
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
@@ -165,7 +163,7 @@ def classifyJobCategory(job):
         return "Hardware Engineering"
     elif any(term in title for term in ["quant", "quantitative", "trading", "finance", "investment"]):
         return "Quantitative Finance"
-    elif any(term in title for term in ["data science", "data scientist", "data science", "ai &", "machine learning", "ml", "analytics", "analyst" ]):
+    elif any(term in title for term in ["data science", "data engineer", "data scientist", "data engineering", "ai &", "machine learning", "ml", "analytics", "analyst" ]):
         return "Data Science, AI & Machine Learning"
     return "Software Engineering"
 
