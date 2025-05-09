@@ -168,7 +168,6 @@
 | **[Tamr](https://simplify.jobs/c/Tamr?utm_source=GHList&utm_medium=company)** | Software Engineering Co-op | Cambridge, MA | <div align="center"><a href="https://jobs.lever.co/tamr/73fd290c-3ffe-42ae-be1d-5783214c0751/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3262732a-c37c-4cfb-9571-dae2e4d076eb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | ↳ | Software Development Engineer in Test Co-op | Cambridge, MA | <div align="center"><a href="https://jobs.lever.co/tamr/a1e3e946-9199-43c8-a508-a706a138fb85/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/666645b9-5b50-40a0-bbc4-819ed6014b42?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[EnergyHub](https://simplify.jobs/c/EnergyHub?utm_source=GHList&utm_medium=company)** | Engineering Intern | Brooklyn, NY | <div align="center"><a href="https://boards.greenhouse.io/energyhub/jobs/7884007002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bb1e65ec-b475-4c8d-beb0-133ab3bec85d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
-| **[Werfen](https://simplify.jobs/c/Werfen?utm_source=GHList&utm_medium=company)** | Summer Firmware Intern | Bedford, MA | <div align="center"><a href="https://careers-werfen.icims.com/jobs/8311/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b64242e-607b-4207-99a8-35ca139bbc48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Tradeweb](https://simplify.jobs/c/Tradeweb?utm_source=GHList&utm_medium=company)** | Summer Internship Program - C++/ OOP Developer | London, UK | <div align="center"><a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301077?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ccd14f29-0dc0-4a6e-b994-61526fb250f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[AssetMark](https://simplify.jobs/c/ec74b780-e6b1-4ed3-b5fc-119cb7606da8?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Austin, TX | <div align="center"><a href="https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Austin-TX/Software-Engineer-Intern_Req-002962?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0090fb87-54ba-43e3-9e9f-9855a53018b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Alarm.com](https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Denver, CO | <div align="center"><a href="https://boards.greenhouse.io/alarmcom/jobs/7889233002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cbea7bc0-5602-4c6f-acd2-7074b9ff4d22?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
@@ -241,7 +240,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1833)</summary>
+<summary>🗃️ Inactive roles (1834)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -290,7 +289,7 @@
 | **[Ankura Consulting Group](https://simplify.jobs/c/Ankura-Consulting-Group?utm_source=GHList&utm_medium=company)** | University Intern - Ankura.AI Labs | Virginia | 🔒 | 20d |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | New Business Intern | Moonachie, NJ | 🔒 | 21d |
 | **[Air Company](https://simplify.jobs/c/Air-Company?utm_source=GHList&utm_medium=company)** | Engineering Intern | Brooklyn, NY | 🔒 | 21d |
-| **[Baxter International](https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Devops Software Engineer | Raleigh, NC | 🔒 | 21d |
+| **[Baxter International](https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Devops Software Engineer | Raleigh, NC | 🔒 | 22d |
 | **[Oklahoma State Government](https://simplify.jobs/c/64ce727c-9639-4c6e-8e91-f052ad136fa4?utm_source=GHList&utm_medium=company)** | Web Developer Intern | Oklahoma City, OK | 🔒 | 22d |
 | **[Stronghold Investment Management](https://simplify.jobs/c/Stronghold-Investment-Management?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 22d |
 | **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer in Test Intern | SF | 🔒 | 23d |
@@ -326,7 +325,7 @@
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Laboratory | Paramus, NJ | 🔒 | 30d |
 | **[Proofpoint](https://simplify.jobs/c/proofpoint?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 30d |
 | ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 30d |
-| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Ndb | San Jose, CA | 🔒 | 30d |
+| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Ndb | San Jose, CA | 🔒 | 1mo |
 | **[Jackson Lewis](https://simplify.jobs/c/05712bef-86a0-435b-881e-4807e0d56002?utm_source=GHList&utm_medium=company)** | Data Services Intern | Jacksonville, FL | 🔒 | 1mo |
 | **[Coalition](https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company)** | Backend Engineer Intern | Remote in USA</br>Remote in Canada | 🔒 | 1mo |
 | **[Uhaul](https://simplify.jobs/c/Uhaul?utm_source=GHList&utm_medium=company)** | Software Development Summer Intern | Phoenix, AZ | 🔒 | 1mo |
@@ -702,6 +701,7 @@
 | ↳ | R&D Software Engineering Internship | Calabasas, CA | 🔒 | 2mo |
 | **[IDEMIA](https://simplify.jobs/c/Idemia?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | Fort Wayne, IN | 🔒 | 2mo |
 | ↳ | Software Engineering Internship | Fort Wayne, IN | 🔒 | 2mo |
+| **[Werfen](https://simplify.jobs/c/Werfen?utm_source=GHList&utm_medium=company)** | Summer Firmware Intern | Bedford, MA | 🔒 | 2mo |
 | **[SageSure](https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company)** | Intern – Research and Development - Product Innovation | NYC | 🔒 | 2mo |
 | **[Werfen](https://simplify.jobs/c/Werfen?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Bedford, MA | 🔒 | 2mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Bell Labs Autonomous Systems Intern | Berkeley Heights, NJ | 🔒 | 2mo |
