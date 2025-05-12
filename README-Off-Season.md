@@ -157,7 +157,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - AI Storage Infrastructure | Santa Clara, CA | 🔒 | 16d |
 | ↳ | Software Engineering Intern - Deep Learning Accelerator | Santa Clara, CA | 🔒 | 16d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Robotics Software Intern - Robotics Platform | Santa Clara, CA | 🔒 | 17d |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 18d |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 19d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Backend Engineer - Cell Manufacturing Software | Fremont, CA | 🔒 | 19d |
 | **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Resource Technology Intern | Washington, DC | 🔒 | 19d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Shoreline Backend Engineering Intern | Santa Clara, CA | 🔒 | 20d |

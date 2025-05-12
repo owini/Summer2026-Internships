@@ -267,9 +267,9 @@
 | **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Software Engineer Intern-Summer | Indianapolis, IN | 🔒 | 19d |
 | **[HARMAN International](https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company)** | Summer Intern - Software Engineer | Richardson, TX | 🔒 | 19d |
 | ↳ | Summer Intern - Software Engineer | Richardson, TX | 🔒 | 19d |
-| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Engineer Internship Summer 2025 | Centreville, VA | 🔒 | 19d |
-| **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | End Markets Intern - Aerospace & Defense | Santa Clara, CA | 🔒 | 19d |
-| **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Product Engineering | Boston, NY</br>Buffalo, NY | 🔒 | 19d |
+| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Engineer Internship Summer 2025 | Centreville, VA | 🔒 | 20d |
+| **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | End Markets Intern - Aerospace & Defense | Santa Clara, CA | 🔒 | 20d |
+| **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Product Engineering | Boston, NY</br>Buffalo, NY | 🔒 | 20d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in USA | 🔒 | 20d |
 | **[Red Horse Corp](https://simplify.jobs/c/Red-Horse-Corp?utm_source=GHList&utm_medium=company)** | Summer Intern - Software Developer | Gainesville, VA | 🔒 | 20d |
 | **[Influential](https://simplify.jobs/c/Influential?utm_source=GHList&utm_medium=company)** | Engineering Intern | Las Vegas, NV</br>LA | 🔒 | 20d |
@@ -2138,7 +2138,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Intern - Competitive Intelligence Analyst | SF | 🔒 | 11d |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Data Science Intern | Santa Clara, CA | 🔒 | 13d |
-| **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Auburn Hills, MI | 🔒 | 13d |
+| **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Auburn Hills, MI | 🔒 | 14d |
 | **[Cigna Group](https://simplify.jobs/c/Cigna-Group?utm_source=GHList&utm_medium=company)** | Software Engineering/Data Analytics Intern - Evernorth | St. Louis, MO | 🔒 | 17d |
 | **[C&S Wholesale Grocers](https://simplify.jobs/c/CS-Wholesale-Grocers?utm_source=GHList&utm_medium=company)** | Data Science Intern | Edison, NJ | 🔒 | 17d |
 | **[US Foods](https://simplify.jobs/c/US-Foods?utm_source=GHList&utm_medium=company)** | Intern – Data Engineer | Norridge, IL | 🔒 | 17d |
@@ -2856,7 +2856,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Mr. Cooper](https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb?utm_source=GHList&utm_medium=company)** | Quantitative Analyst Intern | Dallas, TX | 🔒 | 12d |
+| **[Mr. Cooper](https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb?utm_source=GHList&utm_medium=company)** | Quantitative Analyst Intern | Dallas, TX | 🔒 | 13d |
 | **[OptionMetrics](https://simplify.jobs/c/OptionMetrics?utm_source=GHList&utm_medium=company)** | Quant Analyst Internship | NYC | 🔒 | 21d |
 | **[Cboe](https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company)** | Quantitative Analytics Intern | London, UK | 🔒 | 26d |
 | **[Artisan Partners](https://simplify.jobs/c/Artisan-Partners?utm_source=GHList&utm_medium=company)** | Software Developer Intern - Trading & Trade Operations Applications | Milwaukee, WI | 🔒 | 1mo |
