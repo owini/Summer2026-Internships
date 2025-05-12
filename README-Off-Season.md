@@ -767,8 +767,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[iCapital Network](https://simplify.jobs/c/iCapital-Network?utm_source=GHList&utm_medium=company)** | Platform Engineering Intern | NYC | 🔒 | 18mo |
 | **[Businessolver](https://simplify.jobs/c/Businessolver?utm_source=GHList&utm_medium=company)** | React Native Software Engineering Internship - Work-from-Home | Remote in USA | 🔒 | 18mo |
 | **[Locus Robotics](https://simplify.jobs/c/LocusRobotics?utm_source=GHList&utm_medium=company)** | Simulation Developer Intern - Spring 2024 | Stillwater, OK</br>Remote in USA | 🔒 | 18mo |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Data Platforms | Palo Alto, CA | 🔒 | 18mo |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Montreal, QC</br>Remote | 🔒 | 18mo |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Data Platforms | Palo Alto, CA | 🔒 | 19mo |
+| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Montreal, QC</br>Remote | 🔒 | 19mo |
 | **[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)** | Infrastructure Software Engineering Intern | Remote in USA | 🔒 | 19mo |
 | **[Dell Technologies](https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company)** | Software Engineering Internship Program 2024 - Cracow area | Remote | 🔒 | 19mo |
 | ↳ | Software Engineering Internship Program 2024 - Gdańsk area | Remote | 🔒 | 19mo |
