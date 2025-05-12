@@ -1091,7 +1091,7 @@
 | **[Axiom Zen](https://simplify.jobs/c/Axiom-Zen?utm_source=GHList&utm_medium=company)** | Backend Software Engineering Intern | Remote in USA</br>Remote in Canada | 🔒 | 2mo |
 | ↳ | Frontend Software Engineering Intern | Remote in USA</br>Remote in Canada | 🔒 | 2mo |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Disney Live Entertainment Show Control Design Intern | Kissimmee, FL | 🔒 | 2mo |
-| **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I Co-op | Boston, MA | 🔒 | 2mo |
+| **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I Co-op | Boston, MA | 🔒 | 3mo |
 | **[Matroid](https://simplify.jobs/c/Matroid?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Infrastructure | Palo Alto, CA | 🔒 | 3mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Systems Development Engineer Intern - Amazon Dedicated Cloud | <details><summary>**4 locations**</summary>Seattle, WA</br>Arlington, VA</br>Reston, VA</br>Denver, CO</details> | 🔒 | 3mo |
 | ↳ | Software Development Engineer Intern - Amazon Dedicated Cloud | <details><summary>**4 locations**</summary>Seattle, WA</br>Arlington, VA</br>Reston, VA</br>Denver, CO</details> | 🔒 | 3mo |
@@ -2745,7 +2745,7 @@
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories?utm_source=GHList&utm_medium=company)** | Spectroscopy Data Scientist Intern | Malibu, CA | 🔒 | 5mo |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company)** | Machine Learning Intern - Summer 2025 | SF</br>NYC | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Agent AI | Remote in USA | 🔒 | 5mo |
-| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship | Remote in USA | 🔒 | 5mo |
+| ↳ | ML Research Engineer Internship | Remote in USA | 🔒 | 5mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Tech Refresh/Data Analyst Intern | Alexandria, VA | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Multimodal | Remote in USA | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship | Remote in USA | 🔒 | 5mo |
