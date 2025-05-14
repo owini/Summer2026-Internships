@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 129 Internship Roles by Category
+### Browse 130 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (59)
 
@@ -331,7 +331,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)** | Forward Deployed Engineering Intern | SF | 🔒 | 5mo |
 | **[The Allen Institute for AI](https://simplify.jobs/c/allenai?utm_source=GHList&utm_medium=company)** | Research Internship - Prior | Seattle, WA | 🔒 | 5mo |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Disney Live Entertainment Show Control Design Intern - Spring 2025 | Kissimmee, FL | 🔒 | 5mo |
-| **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Cloud and Java Development | Dallas, TX | 🔒 | 5mo |
+| **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Cloud and Java Development | Dallas, TX | 🔒 | 6mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Gloucester, UK | 🔒 | 6mo |
 | **[Corelogic](https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Dallas - TX | Dallas, TX | 🔒 | 6mo |
 | **[Dialpad](https://simplify.jobs/c/Dialpad?utm_source=GHList&utm_medium=company)** | Co-op – Software Engineer - NLP | Vancouver, BC, Canada | 🔒 | 6mo |
