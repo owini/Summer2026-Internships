@@ -249,7 +249,7 @@
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer Intern | Tucson, AZ | 🔒 | 15d |
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | 🔒 | 18d |
 | **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Development Intern | Tempe, AZ | 🔒 | 18d |
-| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 18d |
+| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 19d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineering Co-Op | Allen, TX | 🔒 | 19d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | 2025 Intern - Digital - Product Lifecycle Management | Tucson, AZ | 🔒 | 20d |
 | **[Dick's Sporting Goods](https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Video | NYC | 🔒 | 20d |
