@@ -1430,7 +1430,7 @@
 | ↳ | Software Engineer I Co-op | Bellevue, WA | 🔒 | 3mo |
 | ↳ | Software Engineer I Co-op | Boston, MA</br>Minneapolis, MN</br>Bellevue, WA | 🔒 | 3mo |
 | ↳ | Robotics Software Engineer I Co-op | Boston, MA | 🔒 | 3mo |
-| **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | BI Engineer I Co-op | Boston, MA | 🔒 | 3mo |
+| ↳ | BI Engineer I Co-op | Boston, MA | 🔒 | 3mo |
 | **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
 | ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
 | ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
