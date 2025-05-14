@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 129 Internship Roles by Category
+### Browse 127 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (12)
 
@@ -114,7 +114,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Deductive AI](https://simplify.jobs/c/Deductive-AI?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Fall | Mountain View, CA | <div align="center"><a href="https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/44f5fd8a-7e10-4a64-89ac-d44603ba2e97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Neenah, WI | <div align="center"><a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026-_R031605?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95ee60f6-72ac-4823-befb-9abece948a70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Enterprise Business System Intern-Spring | Atlanta, GA | <div align="center"><a href="https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG24-Atlanta-Digital-Hub-3350-Riverwood-Parkway-Suite-900-Atlanta-GA-30339-USA/Enterprise-Business-System-Intern--Spring_30163939-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ee533dd5-7c5d-4fbc-af7d-43ef2f2ab645?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
-| **[Pison](https://simplify.jobs/c/PisonTech?utm_source=GHList&utm_medium=company)** | Data Collections Intern | Boston, MA | <div align="center"><a href="https://jobs.lever.co/pison/40837088-aaab-4a3a-bc1c-07beeb3ed5c8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8a468d67-45e1-412d-b4b8-6e3dd8f98314?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5mo |
 | **[Live Ramp](https://simplify.jobs/c/Live-Ramp?utm_source=GHList&utm_medium=company)** | Software Engineer Co-Op | SF | <div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR010161?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca803844-ee3f-489d-84bd-208d2f339e07?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5mo |
 | **[Kognitos](https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern - Winter 2025 | San Jose, CA | <div align="center"><a href="https://jobs.ashbyhq.com/Kognitos/0494f0ce-1019-469b-bd38-73775d108a8e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/07f91406-4025-4590-b4dd-017ede99ce97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7mo |
 | **[Pison](https://simplify.jobs/c/PisonTech?utm_source=GHList&utm_medium=company)** | Data Collection Fall Intern | Boston, MA | <div align="center"><a href="https://jobs.lever.co/pison/942dbddb-f6d1-459b-8281-271e8734388c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1585093a-69dd-4004-97e1-ad05820646ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10mo |
@@ -122,7 +121,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (867)</summary>
+<summary>🗃️ Inactive roles (868)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -315,6 +314,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Formlabs](https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company)** | Desktop Software Intern | Cambridge, MA | 🔒 | 5mo |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Graduate Intern - Software Engineer | Jackson Township, NJ</br>Parsippany-Troy Hills, NJ | 🔒 | 5mo |
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 5mo |
+| **[Pison](https://simplify.jobs/c/PisonTech?utm_source=GHList&utm_medium=company)** | Data Collections Intern | Boston, MA | 🔒 | 5mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in USA | 🔒 | 5mo |
 | ↳ | Software Engineering Intern | Remote in USA | 🔒 | 5mo |
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Intern | Dallas, TX | 🔒 | 5mo |
