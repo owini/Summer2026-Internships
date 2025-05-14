@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 175 Internship Roles by Category
+### Browse 174 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (82)
 
@@ -1037,7 +1037,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 14d |
 | ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 14d |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business System Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 15d |
-| **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Systems Analyst Co-op/Intern | Ottawa, ON, Canada | 🔒 | 20d |
+| **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Systems Analyst Co-op/Intern | Ottawa, ON, Canada | 🔒 | 21d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Fleet Analytics | Palo Alto, CA | 🔒 | 28d |
 | **[CVS Health](https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company)** | Data Science Co-op | NYC | 🔒 | 1mo |
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Optical Algorithms & Analytics Engineer | Ottawa, ON, Canada | 🔒 | 1mo |
