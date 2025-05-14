@@ -224,11 +224,10 @@
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | CPU Compiler Intern - 2025 | Cambridge, UK | <div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/UK-Cambridge/CPU-Compiler-Intern---2025_JR1990154?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7ac71546-064e-4f96-8824-5dcb95ab33aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5mo |
 | **[X](https://simplify.jobs/c/a94ca3a8-829f-489f-b5d7-ee7d05f9d83c?utm_source=GHList&utm_medium=company)** | Engineering Intern | Palo Alto, CA</br>NYC | <div align="center"><a href="https://twitter.wd5.myworkdayjobs.com/en-US/X/job/Palo-Alto-CA/Engineering-Intern_R100794?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b1bf3169-e43b-4dfc-8b38-8979380aa4ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5mo |
 | **[Astranis](https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company)** | Flight Software Intern - Summer 2025 | SF | <div align="center"><a href="https://job-boards.greenhouse.io/astranis/jobs/4394960006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0c4eb9cc-4a38-44bf-84ed-4a3a33eeac97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6mo |
-| **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | C++ Software Engineer Intern - Boulder - CO - Summer 2025 | Boulder, CO | <div align="center"><a href="https://jobs.jobvite.com/splunk-careers/job/ow2OufwA?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac353472-3ffd-40b6-ad7c-16cf1e470a9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6mo |
 
 
 <details>
-<summary>🗃️ Inactive roles (1846)</summary>
+<summary>🗃️ Inactive roles (1847)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -283,7 +282,7 @@
 | **[Baxter International](https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Devops Software Engineer | Raleigh, NC | 🔒 | 26d |
 | **[Oklahoma State Government](https://simplify.jobs/c/64ce727c-9639-4c6e-8e91-f052ad136fa4?utm_source=GHList&utm_medium=company)** | Web Developer Intern | Oklahoma City, OK | 🔒 | 27d |
 | **[Stronghold Investment Management](https://simplify.jobs/c/Stronghold-Investment-Management?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 27d |
-| **[Expedition Technology](https://simplify.jobs/c/ExpeditionTech?utm_source=GHList&utm_medium=company)** | Internship in Deep Learning and Computer Vision | Reston, VA | 🔒 | 27d |
+| **[Expedition Technology](https://simplify.jobs/c/ExpeditionTech?utm_source=GHList&utm_medium=company)** | Internship in Deep Learning and Computer Vision | Reston, VA | 🔒 | 28d |
 | **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer in Test Intern | SF | 🔒 | 28d |
 | ↳ | Mobile Software Engineer in Test Intern | Chicago, IL | 🔒 | 28d |
 | **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Jose, CA | 🔒 | 28d |
@@ -2015,6 +2014,7 @@
 | eBay | Software Engineer Intern - Mobile (Canada) | Toronto, ON, Canada | 🔒 | 6mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Development 2024 Co-Op | United States | 🔒 | 6mo |
 | Nintendo | Intern - Software Engineer 🛂 | Redmond, WA | 🔒 | 6mo |
+| **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | C++ Software Engineer Intern - Boulder - CO - Summer 2025 | Boulder, CO | 🔒 | 6mo |
 | ABB | IT Intern - Spring & Summer 2025 🇺🇸 | Fort Smith, AR | 🔒 | 6mo |
 | ↳ | Technical Support Specialist Intern 🇺🇸 | New Berlin, WI | 🔒 | 6mo |
 | **[The Federal Reserve System](https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company)** | Summer 2025 Intern - Mobile Engineer - Associate | Dallas, TX | 🔒 | 6mo |
