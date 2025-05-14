@@ -1943,9 +1943,9 @@
 | **[Bandwidth](https://simplify.jobs/c/Bandwidth?utm_source=GHList&utm_medium=company)** | Software Development Intern - Summer 2025 | Raleigh, NC | 🔒 | 5mo |
 | ↳ | Front-End Software Development Intern - Summer 2025 | Raleigh, NC | 🔒 | 5mo |
 | ↳ | Software Development Intern - Summer 2025 | Raleigh, NC | 🔒 | 5mo |
-| **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Game AI Engineer Intern | London, UK | 🔒 | 5mo |
-| **[Vermeer](https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Summer 2025 | Newton, IA | 🔒 | 5mo |
-| **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)** | 2025 Technical Business Intern |  | 🔒 | 5mo |
+| **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Game AI Engineer Intern | London, UK | 🔒 | 6mo |
+| **[Vermeer](https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Summer 2025 | Newton, IA | 🔒 | 6mo |
+| **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)** | 2025 Technical Business Intern |  | 🔒 | 6mo |
 | Two Sigma | Software Engineering Internship | New York City, NY | 🔒 | 6mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Internship in Test- 2025 (US) | Sunnyvale, CA</br>Irvine, CA</br>Seattle, WA | 🔒 | 6mo |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | 2025 Intern - Software Engineer | <details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | 🔒 | 6mo |
@@ -2802,7 +2802,7 @@
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Security Data Scientist Intern - Boulder - CO - Summer 2025 | Boulder, CO | 🔒 | 5mo |
 | ↳ | Machine Learning Engineer Intern - Boulder - CO - Summer 2025 | Boulder, CO | 🔒 | 5mo |
 | **[Bandwidth](https://simplify.jobs/c/Bandwidth?utm_source=GHList&utm_medium=company)** | Data Science Intern - Summer 2025 | Raleigh, NC | 🔒 | 5mo |
-| **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7?utm_source=GHList&utm_medium=company)** | Liquidnet Data Analyst – Summer Internship Programme 2025 - London | London, UK | 🔒 | 5mo |
+| **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7?utm_source=GHList&utm_medium=company)** | Liquidnet Data Analyst – Summer Internship Programme 2025 - London | London, UK | 🔒 | 6mo |
 | **[Schonfeld](https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company)** | 2025 Data Science Summer Internship | NYC | 🔒 | 6mo |
 | **[d-Matrix](https://simplify.jobs/c/d-Matrix?utm_source=GHList&utm_medium=company)** | Machine Learning Software Engineering Intern | Santa Clara, CA | 🔒 | 6mo |
 | ↳ | Machine Learning Intern | Santa Clara, CA | 🔒 | 6mo |
@@ -2925,7 +2925,7 @@
 | ↳ | 2025 Truist Securities – Summer Analyst Program - Equity S&T - Sales - Trading & Research | NYC | 🔒 | 5mo |
 | **[American Century Investments](https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7?utm_source=GHList&utm_medium=company)** | Quantitative Investment Analyst Intern | Kansas City, MO | 🔒 | 5mo |
 | ↳ | Quantitative Research Intern | NYC | 🔒 | 5mo |
-| **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7?utm_source=GHList&utm_medium=company)** | Liquidnet Sales and Trading Summer Internship Programme 2025 - London | London, UK | 🔒 | 5mo |
+| **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7?utm_source=GHList&utm_medium=company)** | Liquidnet Sales and Trading Summer Internship Programme 2025 - London | London, UK | 🔒 | 6mo |
 | **[Schonfeld](https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company)** | 2025 Emerging Markets and Delta One Quantitative Research Summer Intern | London, UK | 🔒 | 6mo |
 | **[Five Rings Capital](https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company)** | Summer Intern 2025 - Quantitative Research Analyst | NYC | 🔒 | 6mo |
 | ↳ | Summer Intern 2025 - Quantitative Trader | NYC | 🔒 | 6mo |
