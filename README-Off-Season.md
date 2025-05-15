@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 110 Internship Roles by Category
+### Browse 109 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (55)
 
