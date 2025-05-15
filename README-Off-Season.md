@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 110 Internship Roles by Category
+### Browse 111 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (55)
 
@@ -86,7 +86,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Development Coop | Sunnyvale, CA | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19758?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/18f07f8b-3b29-4b88-be1f-dcf7aa54af89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | RBC | 2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months | TORONTO, Ontario, Canada | <div align="center"><a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000123520EXTERNALENCA/2025-Fall-Student-Opportunities-Capital-Markets-QTS-Software-Developer-4-12-Months?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 25d |
 | Procter & Gamble | Digital Technologies Internship/Co-op Fall 2025 | TORONTO, Ontario, Canada | <div align="center"><a href="https://www.pgcareers.com/global/en/job/R000129158/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-num%25C3%25A9riques-automne-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 26d |
-| **[Rocket Lab USA](https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company)** | Software Intern Fall 2025 | Toronto, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8fbe4bde-afec-439e-8db8-e5cdc4a30060?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 28d |
+| **[Rocket Lab USA](https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company)** | Software Intern Fall 2025 | Toronto, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8fbe4bde-afec-439e-8db8-e5cdc4a30060?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Customer Applications Eng Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18855?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/86a88727-7566-4fd8-907c-c4b2feb4a77f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | ↳ | SW Tools Development Co-op/Intern | Remote in Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19305?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/37f5c549-390e-4613-b9c6-166cd62f7617?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | Mackenzie Investments | Fall Intern, Technology Engineering | Toronto, Canada | <div align="center"><a href="https://careersen-mackenzieinvestments.icims.com/jobs/5509/fall-intern%2c-technology-engineering/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1mo |
@@ -135,7 +135,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Frontend Engineer - Applications Engineering | Fremont, CA | 🔒 | 19d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - AI Storage Infrastructure | Santa Clara, CA | 🔒 | 19d |
 | ↳ | Software Engineering Intern - Deep Learning Accelerator | Santa Clara, CA | 🔒 | 19d |
-| ↳ | Robotics Software Intern - Robotics Platform | Santa Clara, CA | 🔒 | 19d |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Robotics Software Intern - Robotics Platform | Santa Clara, CA | 🔒 | 20d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Firmware Engineer - New Programs Engineering | Fremont, CA</br>West Athens, CA | 🔒 | 21d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 21d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Backend Engineer - Cell Manufacturing Software | Fremont, CA | 🔒 | 22d |
@@ -146,9 +146,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Distributed Scientific Computing Libraries | Santa Clara, CA | 🔒 | 25d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 26d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Product Engineer - Applications Engineering | Fremont, CA | 🔒 | 27d |
-| ↳ | Internship - Integration Platforms Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 27d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer Opticaster - Energy Engineering | Palo Alto, CA | 🔒 | 28d |
-| ↳ | Internship - Software Engineer - Linux Update Systems | Palo Alto, CA | 🔒 | 28d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Integration Platforms Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 28d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer Opticaster - Energy Engineering | Palo Alto, CA | 🔒 | 29d |
+| ↳ | Internship - Software Engineer - Linux Update Systems | Palo Alto, CA | 🔒 | 29d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Fullstack Engineer - Applications Engineering | Fremont, CA | 🔒 | 30d |
 | ↳ | Internship - Fullstack C++ Engineer - Vehicle User Interface | Palo Alto, CA | 🔒 | 30d |
 | ↳ | Internship - Android Engineer - Mobile Software | Palo Alto, CA | 🔒 | 30d |
@@ -548,7 +548,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Associate Software Developer – Co-op position - HP Anyware | Vancouver, BC, Canada | 🔒 | 11mo |
 | ↳ | Associate Software Developer-Cloud Solutions & Services – Co-op position | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Halifax Regional Municipality, NS, Canada | 🔒 | 11mo |
-| ↳ | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
+| **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Generalist Embodied Agents Research - Fall 2024 | Remote in USA | 🔒 | 11mo |
 | **[Stoke Space](https://simplify.jobs/c/Stoke-Space?utm_source=GHList&utm_medium=company)** | Intern – Spring 2025 | Kent, WA | 🔒 | 11mo |
 | **[Spot Freight](https://simplify.jobs/c/Spot-Freight?utm_source=GHList&utm_medium=company)** | Software Developer Internship - Fall 2024 | Indianapolis, IN | 🔒 | 11mo |
@@ -1036,7 +1036,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Data Management Analyst Intern/Co-op - FCRM Data Strategy and Management | Toronto, ON, Canada | 🔒 | 17d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Analytics Engineering - Thermal & Chassis | Fremont, CA | 🔒 | 19d |
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Systems Analyst Co-op/Intern | Ottawa, ON, Canada | 🔒 | 22d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - System Software | Bellevue, WA | 🔒 | 28d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - System Software | Bellevue, WA | 🔒 | 29d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Fleet Analytics | Palo Alto, CA | 🔒 | 30d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Cell Engineering | Palo Alto, CA | 🔒 | 1mo |
 | **[CVS Health](https://simplify.jobs/c/CVS-Health?utm_source=GHList&utm_medium=company)** | Data Science Co-op | NYC | 🔒 | 1mo |
@@ -1289,7 +1289,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Factory Firmware Embedded Software Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 23d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Crash Safety Embedded Software Engineer - Vehicle Firmware | Palo Alto, CA | 🔒 | 27d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Audio Systems | Palo Alto, CA | 🔒 | 28d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Audio Systems | Palo Alto, CA | 🔒 | 29d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Air Suspension & Adaptive Damping | Palo Alto, CA | 🔒 | 1mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Keys & Authentication | Palo Alto, CA | 🔒 | 1mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Thermal Systems Embedded Software Engineer - Vehicle Firmware | Palo Alto, CA | 🔒 | 1mo |
