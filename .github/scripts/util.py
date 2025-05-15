@@ -169,8 +169,7 @@ def classifyJobCategory(job):
 
 def ensureCategories(listings):
     for listing in listings:
-        if "category" not in listing:
-            listing["category"] = classifyJobCategory(listing)
+        listing["category"] = classifyJobCategory(listing)
     return listings
 
 def create_category_table(listings, category_name):
