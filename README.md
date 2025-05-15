@@ -3071,25 +3071,3 @@
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2025-Internships&columns=24&max=480" />
   </a>
   _Made with [contrib.rocks](https://contrib.rocks)._
-
-  <!-- commit_message=Updating READMEs at May 02, 2025 16:20:06 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:27:53 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:29:24 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:30:17 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:35:28 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:40:38 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:41:44 -->
-
-<!-- commit_message=Updating READMEs at May 02, 2025 16:44:20 -->
-
-<!-- commit_message=Updating READMEs at May 15, 2025 11:20:59 -->
-
-<!-- commit_message=Updating READMEs at May 15, 2025 11:14:44 -->
-
-<!-- commit_message=Updating READMEs at May 15, 2025 11:19:50 -->
