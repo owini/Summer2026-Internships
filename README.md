@@ -257,7 +257,7 @@
 | **[Einride](https://simplify.jobs/c/Einride?utm_source=GHList&utm_medium=company)** | Einride Summer Internship 2025 | Austin, TX | 🔒 | 21d |
 | **[Vantage Data Centers](https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3?utm_source=GHList&utm_medium=company)** | Summer Internship - Energy Solutions Researcher | London, UK | 🔒 | 21d |
 | ↳ | Summer Internship - Energy Solutions Researcher | London, UK | 🔒 | 21d |
-| **[Synthego](https://simplify.jobs/c/Synthego?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Carlos, CA | 🔒 | 21d |
+| **[Synthego](https://simplify.jobs/c/Synthego?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Carlos, CA | 🔒 | 22d |
 | **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Software Engineer Intern-Summer | Indianapolis, IN | 🔒 | 22d |
 | **[HARMAN International](https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company)** | Summer Intern - Software Engineer | Richardson, TX | 🔒 | 22d |
 | ↳ | Summer Intern - Software Engineer | Richardson, TX | 🔒 | 22d |
@@ -1626,7 +1626,7 @@
 | ↳ | Junior Software Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 4mo |
 | ↳ | Junior Software Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 4mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship, Fullstack C++ Engineer, Vehicle User Interface | Palo Alto, CA | 🔒 | 4mo |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship, Fullstack Engineer, Build Infrastructure | Palo Alto, CA | 🔒 | 4mo |
+| ↳ | Internship, Fullstack Engineer, Build Infrastructure | Palo Alto, CA | 🔒 | 4mo |
 | **[Auctane](https://simplify.jobs/c/Auctane?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Fullstack | Austin, TX | 🔒 | 4mo |
 | **[Digital.ai](https://simplify.jobs/c/DigitalAI?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | 🔒 | 4mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship, Software QA Engineer, Vehicle Software | Palo Alto, CA | 🔒 | 4mo |
@@ -2704,7 +2704,7 @@
 | ↳ | Data Science Intern | Lexington, KY</br>North Bethesda, MD | 🔒 | 4mo |
 | **[Assurant](https://simplify.jobs/c/Assurant?utm_source=GHList&utm_medium=company)** | AI/Data Science Intern | Remote in USA | 🔒 | 4mo |
 | ↳ | Business Integration Data Analytics Intern | Remote in USA | 🔒 | 4mo |
-| ABB | Data Science Intern- Summer 2025 | Cary, NC | 🔒 | 4mo |
+| ABB | Data Science Intern- Summer 2025 | Cary, NC | 🔒 | 5mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Data Scientist | Remote in USA | 🔒 | 5mo |
 | **[ServiceNow](https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company)** | Associate Machine Learning Devops Engineer Intern | Santa Clara, CA | 🔒 | 5mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Huntsville, AL | 🔒 | 5mo |
