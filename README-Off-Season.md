@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 111 Internship Roles by Category
+### Browse 110 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (55)
 
@@ -548,7 +548,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Associate Software Developer – Co-op position - HP Anyware | Vancouver, BC, Canada | 🔒 | 11mo |
 | ↳ | Associate Software Developer-Cloud Solutions & Services – Co-op position | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Halifax Regional Municipality, NS, Canada | 🔒 | 11mo |
-| **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
+| ↳ | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Generalist Embodied Agents Research - Fall 2024 | Remote in USA | 🔒 | 11mo |
 | **[Stoke Space](https://simplify.jobs/c/Stoke-Space?utm_source=GHList&utm_medium=company)** | Intern – Spring 2025 | Kent, WA | 🔒 | 11mo |
 | **[Spot Freight](https://simplify.jobs/c/Spot-Freight?utm_source=GHList&utm_medium=company)** | Software Developer Internship - Fall 2024 | Indianapolis, IN | 🔒 | 11mo |
@@ -1117,7 +1117,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company)** | Winter 2025 Data Scientist Intern | Mountain View, CA | 🔒 | 7mo |
 | **[Cohere](https://simplify.jobs/c/Cohere?utm_source=GHList&utm_medium=company)** | Machine Learning Intern/Co-op - Winter 2025 | Remote in Canada | 🔒 | 7mo |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Atlanta, GA | 🔒 | 7mo |
-| **[Visa](https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company)** | Consulting & Analytics Intern | London, UK | 🔒 | 7mo |
+| **[Visa](https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company)** | Consulting & Analytics Intern | London, UK | 🔒 | 8mo |
 | **[Bristol-Myers Squibb](https://simplify.jobs/c/Bristol-Myers-Squibb?utm_source=GHList&utm_medium=company)** | Co-Op – Machine Learning - Spring 2025 | Cambridge, MA | 🔒 | 8mo |
 | **[Kodiak Robotics](https://simplify.jobs/c/Kodiak-Robotics?utm_source=GHList&utm_medium=company)** | Computer Vision and Machine Learning Intern | Mountain View, CA | 🔒 | 8mo |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Decision Science Data Engineering Intern - Spring 2025 | Celebration, FL | 🔒 | 8mo |
