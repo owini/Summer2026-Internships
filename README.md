@@ -264,11 +264,11 @@
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer Intern | Tucson, AZ | 🔒 | 17d |
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | 🔒 | 20d |
 | **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Development Intern | Tempe, AZ | 🔒 | 20d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Prototype Integration Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 20d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Prototype Integration Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 21d |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 21d |
 | **[Badger Meter](https://simplify.jobs/c/Badger-Meter?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Los Gatos, CA | 🔒 | 21d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Technical Intern | Ellicott City, MD | 🔒 | 21d |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineering Co-Op | Allen, TX | 🔒 | 21d |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineering Co-Op | Allen, TX | 🔒 | 22d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | 2025 Intern - Digital - Product Lifecycle Management | Tucson, AZ | 🔒 | 22d |
 | **[Dick's Sporting Goods](https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Video | NYC | 🔒 | 22d |
 | **[Auto Club Enterprises](https://simplify.jobs/c/Auto-Club-Enterprises?utm_source=GHList&utm_medium=company)** | Computer Science Intern | Coppell, TX | 🔒 | 22d |
@@ -303,9 +303,9 @@
 | **[Oklahoma State Government](https://simplify.jobs/c/64ce727c-9639-4c6e-8e91-f052ad136fa4?utm_source=GHList&utm_medium=company)** | Web Developer Intern | Oklahoma City, OK | 🔒 | 28d |
 | **[Stronghold Investment Management](https://simplify.jobs/c/Stronghold-Investment-Management?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 29d |
 | **[Expedition Technology](https://simplify.jobs/c/ExpeditionTech?utm_source=GHList&utm_medium=company)** | Internship in Deep Learning and Computer Vision | Reston, VA | 🔒 | 29d |
-| **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer in Test Intern | SF | 🔒 | 29d |
-| ↳ | Mobile Software Engineer in Test Intern | Chicago, IL | 🔒 | 29d |
-| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Jose, CA | 🔒 | 29d |
+| **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer in Test Intern | SF | 🔒 | 30d |
+| ↳ | Mobile Software Engineer in Test Intern | Chicago, IL | 🔒 | 30d |
+| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Jose, CA | 🔒 | 30d |
 | **[skillz](https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineering Co-Op | Las Vegas, NV | 🔒 | 30d |
 | **[American Cancer Society](https://simplify.jobs/c/American-Cancer-Society?utm_source=GHList&utm_medium=company)** | IT – Intern - MS365/Data Management | <details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details> | 🔒 | 30d |
 | **[Rocket Lawyer](https://simplify.jobs/c/Rocket-Lawyer?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arizona | 🔒 | 1mo |
@@ -1040,8 +1040,8 @@
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Presale Systems Engineer | Chicago, IL</br>Minnesota</br>Illinois | 🔒 | 2mo |
 | ↳ | Software Engineering | Chicago, IL | 🔒 | 2mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Intern | Plainview, NY | 🔒 | 2mo |
-| **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | End Markets Intern - Smart Mobile Devices | Santa Clara, CA | 🔒 | 2mo |
-| ↳ | Tapeout Engineering Biz Apps & Data Intern | Austin, TX | 🔒 | 2mo |
+| **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | End Markets Intern - Smart Mobile Devices | Santa Clara, CA | 🔒 | 3mo |
+| ↳ | Tapeout Engineering Biz Apps & Data Intern | Austin, TX | 🔒 | 3mo |
 | **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | Intern I – Manufacturing Data Management | San Diego, CA | 🔒 | 3mo |
 | ↳ | Intern II – Mobile Developer Engineering | San Diego, CA | 🔒 | 3mo |
 | ↳ | Intern I – IT Integrations | Remote in USA | 🔒 | 3mo |
@@ -1453,7 +1453,7 @@
 | ↳ | Software Engineering Intern - Arene Advanced Development | Sunnyvale, CA | 🔒 | 3mo |
 | **[Farallon Capital Management](https://simplify.jobs/c/Farallon?utm_source=GHList&utm_medium=company)** | Intern – Operations | SF | 🔒 | 3mo |
 | **[Datadog](https://simplify.jobs/c/Datadog?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern - SRE | NYC | 🔒 | 3mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Compute Performance Developer Technology Intern | Bristol, UK</br>Cambridge, UK | 🔒 | 3mo |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Compute Performance Developer Technology Intern | Bristol, UK</br>Cambridge, UK | 🔒 | 4mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | System Behavior Analysis Intern | San Mateo, CA | 🔒 | 4mo |
 | ↳ | Software Development in Test Intern | San Mateo, CA | 🔒 | 4mo |
 | ↳ | Autonomy System Test Engineering Intern | San Mateo, CA | 🔒 | 4mo |
@@ -1762,7 +1762,7 @@
 | **[Zscaler](https://simplify.jobs/c/Zscaler?utm_source=GHList&utm_medium=company)** | Training Content and Lab Developer Intern - Zscaler Academy | San Jose, CA | 🔒 | 4mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Capital Markets Full Stack Engineer Summer 2025 Internship | Toronto, ON, Canada | 🔒 | 4mo |
 | **[MKS Instruments](https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company)** | Software Engineering Co-op | Rochester, NY | 🔒 | 4mo |
-| **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius?utm_source=GHList&utm_medium=company)** | Software Engineer Co-Op - Pd | Andover, MA | 🔒 | 4mo |
+| **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius?utm_source=GHList&utm_medium=company)** | Software Engineer Co-Op - Pd | Andover, MA | 🔒 | 5mo |
 | **[Trimble](https://simplify.jobs/c/Trimble?utm_source=GHList&utm_medium=company)** | Business Intelligence Developer Intern | Lake Oswego, OR | 🔒 | 5mo |
 | ↳ | Software Architecture Intern | Lake Oswego, OR | 🔒 | 5mo |
 | ↳ | Software Engineer Intern | Lake Oswego, OR | 🔒 | 5mo |
@@ -2806,12 +2806,12 @@
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories?utm_source=GHList&utm_medium=company)** | Spectroscopy Data Scientist Intern | Malibu, CA | 🔒 | 5mo |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company)** | Machine Learning Intern - Summer 2025 | SF</br>NYC | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Agent AI | Remote in USA | 🔒 | 5mo |
-| ↳ | ML Research Engineer Internship | Remote in USA | 🔒 | 5mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship | Remote in USA | 🔒 | 5mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Tech Refresh/Data Analyst Intern | Alexandria, VA | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Multimodal | Remote in USA | 🔒 | 5mo |
-| ↳ | Machine Learning Engineer Internship | Remote in USA | 🔒 | 5mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship | Remote in USA | 🔒 | 5mo |
 | ↳ | ML Research Engineer Internship - Post-Training | Remote in USA | 🔒 | 5mo |
-| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Smollms pretraining and datasets | Remote in USA | 🔒 | 5mo |
+| ↳ | ML Research Engineer Internship - Smollms pretraining and datasets | Remote in USA | 🔒 | 5mo |
 | ↳ | ML Research Engineer Internship - Fineweb | Remote in USA | 🔒 | 5mo |
 | ↳ | Machine Learning Engineer Internship - Accelerate | Remote in USA | 🔒 | 5mo |
 | ↳ | Machine Learning Engineer Internship - AI Energy Score | Remote in USA | 🔒 | 5mo |
@@ -2922,7 +2922,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Mr. Cooper](https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb?utm_source=GHList&utm_medium=company)** | Quantitative Analyst Intern | Dallas, TX | 🔒 | 16d |
 | **[OptionMetrics](https://simplify.jobs/c/OptionMetrics?utm_source=GHList&utm_medium=company)** | Quant Analyst Internship | NYC | 🔒 | 24d |
-| **[Cboe](https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company)** | Quantitative Analytics Intern | London, UK | 🔒 | 29d |
+| **[Cboe](https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company)** | Quantitative Analytics Intern | London, UK | 🔒 | 30d |
 | **[Artisan Partners](https://simplify.jobs/c/Artisan-Partners?utm_source=GHList&utm_medium=company)** | Software Developer Intern - Trading & Trade Operations Applications | Milwaukee, WI | 🔒 | 1mo |
 | **[Capstone Investment Advisors](https://simplify.jobs/c/CapstoneCo?utm_source=GHList&utm_medium=company)** | 2025 Summer Internship - Quantitative Analyst | Boston, MA | 🔒 | 1mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Quantitative Analyst – Co-op/Internship - Data Science | Toronto, ON, Canada | 🔒 | 1mo |
@@ -2985,7 +2985,7 @@
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Analyst - Credit S&T - Sales - Trading & Research 🛂 | NYC | 🔒 | 5mo |
 | **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management?utm_source=GHList&utm_medium=company)** | Quantitative Sports Research Intern | Greenwich, CT | 🔒 | 5mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 5mo |
-| ↳ | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 5mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 5mo |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | 2025 Truist Securities – Summer Analyst Program - Public Finance S&T - Sales - Trading & Research | Charlotte, NC | 🔒 | 5mo |
 | ↳ | 2025 Truist Securities – Summer Analyst Program - Equity S&T - Sales - Trading & Research | NYC | 🔒 | 5mo |
 | **[American Century Investments](https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7?utm_source=GHList&utm_medium=company)** | Quantitative Investment Analyst Intern | Kansas City, MO | 🔒 | 5mo |
@@ -3027,7 +3027,7 @@
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Hardware Design Engineer - Silicon Development | Palo Alto, CA | 🔒 | 7d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Session Border Controller R&D Intern | Naperville, IL | 🔒 | 7d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Firmware Platforms | Palo Alto, CA | 🔒 | 15d |
-| **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Mahwah, NJ | 🔒 | 18d |
+| **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Mahwah, NJ | 🔒 | 19d |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Platform Hardware and Systems Engineering – Intern - Bachelor's | <details><summary>**4 locations**</summary>Santa Clara, CA</br>Hillsboro, OR</br>Folsom, CA</br>Phoenix, AZ</details> | 🔒 | 1mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Embedded System Software Intern | San Jose, CA | 🔒 | 1mo |
 | **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Co-Op - Pd | Andover, MA | 🔒 | 1mo |
@@ -3127,3 +3127,5 @@
 <!-- commit_message=Updating READMEs at May 16, 2025 00:05:00 -->
 
 <!-- commit_message=Updating READMEs at May 16, 2025 01:05:20 -->
+
+<!-- commit_message=Updating READMEs at May 16, 2025 06:50:37 -->
