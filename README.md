@@ -267,7 +267,7 @@
 | **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | 🔒 | 20d |
 | **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Development Intern | Tempe, AZ | 🔒 | 20d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Prototype Integration Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 20d |
-| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 20d |
+| **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 21d |
 | **[Badger Meter](https://simplify.jobs/c/Badger-Meter?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Los Gatos, CA | 🔒 | 21d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Technical Intern | Ellicott City, MD | 🔒 | 21d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineering Co-Op | Allen, TX | 🔒 | 21d |
@@ -1043,11 +1043,11 @@
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Intern | Plainview, NY | 🔒 | 2mo |
 | **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)** | End Markets Intern - Smart Mobile Devices | Santa Clara, CA | 🔒 | 2mo |
 | ↳ | Tapeout Engineering Biz Apps & Data Intern | Austin, TX | 🔒 | 2mo |
-| **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | Intern I – Manufacturing Data Management | San Diego, CA | 🔒 | 2mo |
-| ↳ | Intern II – Mobile Developer Engineering | San Diego, CA | 🔒 | 2mo |
-| ↳ | Intern I – IT Integrations | Remote in USA | 🔒 | 2mo |
-| ↳ | Intern II – Algorithm Engineering | Remote in USA | 🔒 | 2mo |
-| ↳ | Intern II – Mobile Application Engineering | San Diego, CA | 🔒 | 2mo |
+| **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | Intern I – Manufacturing Data Management | San Diego, CA | 🔒 | 3mo |
+| ↳ | Intern II – Mobile Developer Engineering | San Diego, CA | 🔒 | 3mo |
+| ↳ | Intern I – IT Integrations | Remote in USA | 🔒 | 3mo |
+| ↳ | Intern II – Algorithm Engineering | Remote in USA | 🔒 | 3mo |
+| ↳ | Intern II – Mobile Application Engineering | San Diego, CA | 🔒 | 3mo |
 | **[Modular](https://simplify.jobs/c/Modular?utm_source=GHList&utm_medium=company)** | Summer Internship 2025 - Models |  | 🔒 | 3mo |
 | ↳ | Summer Internship 2025 - E2E Optimizations | Mountain View, CA | 🔒 | 3mo |
 | ↳ | Summer Internship 2025 - Models & Tools | Mountain View, CA | 🔒 | 3mo |
@@ -1464,12 +1464,12 @@
 | ↳ | Software Engineer I Co-op | Boston, MA</br>Minneapolis, MN</br>Bellevue, WA | 🔒 | 3mo |
 | ↳ | Robotics Software Engineer I Co-op | Boston, MA | 🔒 | 3mo |
 | ↳ | BI Engineer I Co-op | Boston, MA | 🔒 | 3mo |
-| **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | NPI Software Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | Product Security Software Engineer Intern | Sunnyvale, CA | 🔒 | 3mo |
+| **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | NPI Software Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | Product Security Software Engineer Intern | Sunnyvale, CA | 🔒 | 4mo |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Internship | Seattle, WA</br>SF</br>Sunnyvale, CA | 🔒 | 4mo |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Servo Firmware Intern | San Jose, CA | 🔒 | 4mo |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Internship | SF | 🔒 | 4mo |
@@ -1691,7 +1691,7 @@
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern, Student Veteran Opportunity 🇺🇸 | New York, United States | 🔒 | 4mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | Test Infrastructure Intern | San Carlos, CA | 🔒 | 4mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern 2025 - Specialized - Summer 2025 | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 4mo |
-| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern – Specialized Co-Op | <details><summary>**4 locations**</summary>Seattle, WA</br>NYC</br>Bellevue, WA</br>Sunnyvale, CA</details> | 🔒 | 4mo |
+| ↳ | Software Development Engineer Intern – Specialized Co-Op | <details><summary>**4 locations**</summary>Seattle, WA</br>NYC</br>Bellevue, WA</br>Sunnyvale, CA</details> | 🔒 | 4mo |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Engineering Intern Summer 2025 | Reston, VA | 🔒 | 4mo |
 | **[Telesat](https://simplify.jobs/c/Telesat?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op | Ottawa, ON, Canada | 🔒 | 4mo |
 | HMH | Intern - Software Engineer | Portland, OR | 🔒 | 4mo |
@@ -2493,9 +2493,9 @@
 | **[Resmed](https://simplify.jobs/c/Resmed?utm_source=GHList&utm_medium=company)** | Data Engineering Intern | San Diego, CA | 🔒 | 2mo |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Science Intern – Graduate - Summer | Remote in USA | 🔒 | 2mo |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Co-op Data Scientist | Vancouver, BC, Canada | 🔒 | 2mo |
-| **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | Intern II – Data Science | Remote in USA | 🔒 | 2mo |
-| ↳ | Intern I – Data and Manufacturing Analytics | Remote in USA | 🔒 | 2mo |
-| ↳ | Intern II – Data Science | Remote in USA | 🔒 | 2mo |
+| **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | Intern II – Data Science | Remote in USA | 🔒 | 3mo |
+| ↳ | Intern I – Data and Manufacturing Analytics | Remote in USA | 🔒 | 3mo |
+| ↳ | Intern II – Data Science | Remote in USA | 🔒 | 3mo |
 | **[Modular](https://simplify.jobs/c/Modular?utm_source=GHList&utm_medium=company)** | Summer Internship 2025 - Data Engineering | Mountain View, CA | 🔒 | 3mo |
 | **[KeyBank](https://simplify.jobs/c/KeyBank?utm_source=GHList&utm_medium=company)** | 2025 Summer Consumer Analytics Internship | Brooklyn, OH | 🔒 | 3mo |
 | **[Avnet](https://simplify.jobs/c/Avnet?utm_source=GHList&utm_medium=company)** | IT Business Data Analyst Intern | Phoenix, AZ | 🔒 | 3mo |
@@ -2637,9 +2637,9 @@
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Reston, VA | 🔒 | 3mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | Triage and Audit Research Analyst Intern | San Mateo, CA | 🔒 | 3mo |
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Data Engineer I Co-op | Bellevue, WA | 🔒 | 3mo |
-| **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Business Intelligence Data Analyst Intern | Remote in USA</br>Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | Business Systems Analyst Intern | Sunnyvale, CA | 🔒 | 3mo |
-| ↳ | AI/ML Data Scientist Intern | Sunnyvale, CA | 🔒 | 3mo |
+| **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Business Intelligence Data Analyst Intern | Remote in USA</br>Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | Business Systems Analyst Intern | Sunnyvale, CA | 🔒 | 4mo |
+| ↳ | AI/ML Data Scientist Intern | Sunnyvale, CA | 🔒 | 4mo |
 | **[Qualtrics](https://simplify.jobs/c/Qualtrics?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | Seattle, WA | 🔒 | 4mo |
 | **[Citigroup](https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company)** | Banking – Summer Analyst - Strategic Advisory Solutions Group - Data Science - 2026 | NYC | 🔒 | 4mo |
 | **[Centene](https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company)** | Data Engineer Intern - Undergraduate - Summer | Remote in USA | 🔒 | 4mo |
@@ -3106,3 +3106,5 @@
 <!-- commit_message=Updating READMEs at May 15, 2025 19:19:43 -->
 
 <!-- commit_message=Updating READMEs at May 15, 2025 19:50:01 -->
+
+<!-- commit_message=Updating READMEs at May 15, 2025 20:19:49 -->
