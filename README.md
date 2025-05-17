@@ -294,7 +294,7 @@
 | **[SharkNinja](https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company)** | Mobile App Developer Co-op | Needham, MA | 🔒 | 24d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Product Data Management Intern | Florence, SC | 🔒 | 24d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – IT Computer Science | Blacksburg, VA | 🔒 | 24d |
-| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Intern - Tech Developer & Engineering | Richmond, VA</br>Phoenix, AZ | 🔒 | 24d |
+| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Intern - Tech Developer & Engineering | Richmond, VA</br>Phoenix, AZ | 🔒 | 25d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Software Engineering | Cheektowaga, NY</br>Buffalo, NY | 🔒 | 25d |
 | **[Ankura Consulting Group](https://simplify.jobs/c/Ankura-Consulting-Group?utm_source=GHList&utm_medium=company)** | University Intern - Ankura.AI Labs | Virginia | 🔒 | 27d |
 | **[Baxter International](https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company)** | Intern - Software Engineer | Raleigh, NC | 🔒 | 27d |
@@ -1431,12 +1431,12 @@
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Plantation, FL | 🔒 | 3mo |
 | **[Maven Securities](https://simplify.jobs/c/Maven-Securities?utm_source=GHList&utm_medium=company)** | Trader Summer Internship | London, UK | 🔒 | 3mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | DSP Software Engineering Internship - Summer 2025 | Plantation, FL | 🔒 | 3mo |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | 3mo |
-| **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | System Integration & Validation Intern | San Mateo, CA | 🔒 | 3mo |
-| ↳ | Systems Integration Intern | San Mateo, CA | 🔒 | 3mo |
-| ↳ | Software Development in Test Intern | San Mateo, CA | 🔒 | 3mo |
-| ↳ | Drive Feature Integration Intern | San Mateo, CA | 🔒 | 3mo |
-| **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Product Marketing Intern - Artificial Intelligence - AI | San Mateo, CA | 🔒 | 3mo |
+| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | 4mo |
+| **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | System Integration & Validation Intern | San Mateo, CA | 🔒 | 4mo |
+| ↳ | Systems Integration Intern | San Mateo, CA | 🔒 | 4mo |
+| ↳ | Software Development in Test Intern | San Mateo, CA | 🔒 | 4mo |
+| ↳ | Drive Feature Integration Intern | San Mateo, CA | 🔒 | 4mo |
+| **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Product Marketing Intern - Artificial Intelligence - AI | San Mateo, CA | 🔒 | 4mo |
 | **[Merck](https://simplify.jobs/c/Merck?utm_source=GHList&utm_medium=company)** | Technologue numérique - Digital Technologist | Pointe-Claire, QC, Canada | 🔒 | 4mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Java Developer | West Valley City, UT | 🔒 | 4mo |
 | **[GOBankingRates](https://simplify.jobs/c/8855cc48-d789-4640-94fc-02e12bf158ac?utm_source=GHList&utm_medium=company)** | Data Quality Intern | Remote in USA | 🔒 | 4mo |
@@ -1691,7 +1691,7 @@
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern, Student Veteran Opportunity 🇺🇸 | New York, United States | 🔒 | 4mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | Test Infrastructure Intern | San Carlos, CA | 🔒 | 4mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern 2025 - Specialized - Summer 2025 | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 4mo |
-| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern – Specialized Co-Op | <details><summary>**4 locations**</summary>Seattle, WA</br>NYC</br>Bellevue, WA</br>Sunnyvale, CA</details> | 🔒 | 4mo |
+| ↳ | Software Development Engineer Intern – Specialized Co-Op | <details><summary>**4 locations**</summary>Seattle, WA</br>NYC</br>Bellevue, WA</br>Sunnyvale, CA</details> | 🔒 | 4mo |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Engineering Intern Summer 2025 | Reston, VA | 🔒 | 4mo |
 | **[Telesat](https://simplify.jobs/c/Telesat?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op | Ottawa, ON, Canada | 🔒 | 4mo |
 | HMH | Intern - Software Engineer | Portland, OR | 🔒 | 4mo |
@@ -1961,7 +1961,7 @@
 | **[Remitly](https://simplify.jobs/c/Remitly?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern | Seattle, WA | 🔒 | 5mo |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern – Software Developer/ Développement de logiciels | Montreal, QC, Canada | 🔒 | 5mo |
 | **[Bandwidth](https://simplify.jobs/c/Bandwidth?utm_source=GHList&utm_medium=company)** | Software Development Intern - Summer 2025 | Raleigh, NC | 🔒 | 5mo |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Computer Engineer Intern - Summer 2025 | Irmo, SC | 🔒 | 5mo |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Computer Engineer Intern - Summer 2025 | Irmo, SC | 🔒 | 6mo |
 | Johnson & Johnson | Software Engineering Intern | Santa Clara, CA | 🔒 | 6mo |
 | **[Rakuten International](https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - AI User Experience | Seattle, WA | 🔒 | 6mo |
 | **[Arevon](https://simplify.jobs/c/15454e2c-8d06-453c-9d8d-8739f7928399?utm_source=GHList&utm_medium=company)** | Data Management Intern | Scottsdale, AZ | 🔒 | 6mo |
@@ -3166,3 +3166,5 @@
 <!-- commit_message=Updating READMEs at May 16, 2025 19:34:15 -->
 
 <!-- commit_message=Updating READMEs at May 16, 2025 20:04:54 -->
+
+<!-- commit_message=Updating READMEs at May 16, 2025 20:35:45 -->
