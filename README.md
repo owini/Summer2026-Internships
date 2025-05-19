@@ -186,7 +186,6 @@
 | **[Zeiss](https://simplify.jobs/c/Zeiss?utm_source=GHList&utm_medium=company)** | Intern-Systems Engineering | Dublin, CA | <div align="center"><a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Intern-Systems-Engineering_JR_1007742?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c73b7a8a-d8da-4f44-8e61-f13f7b2cef31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | Honeywell | Intern Bachelors AI 🛂 | Kanata, ON, Canada | <div align="center"><a href="https://careers.honeywell.com/us/en/job/HONEUSHRD906926EXTERNALENUS/Intern-Bachelors-AI?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems?utm_source=GHList&utm_medium=company)** | Distributed Software Engineer – Intern | Toronto, ON, Canada | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6278580003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e6e3a1d3-5603-4aa7-9f04-1e6745d216a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
-| **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Mountain View, CA | <div align="center"><a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineering-Intern_53912?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a3fa08e7-6e92-4015-9f68-f7669d19d52e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Relativity Space](https://simplify.jobs/c/Relativity-Space?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | John C. Stennis Space Center, MS | <div align="center"><a href="https://boards.greenhouse.io/rsinternboard/jobs/7855756002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8ca0f359-2458-447e-a311-3f05a0c2bffb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | Lincoln Electric | Robotics Software Engineering Student Intern | Waterloo, Canada | <div align="center"><a href="https://jobs.lincolnelectric.com/job/Waterloo-Robotics-Software-Engineering-Student-Intern-ON-ON-N2L-5V4/1169143901/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 3mo |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Mobile App Engineering Intern - Product RD and Infrastructure - Global E-Commerce | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7418238292044417289/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0a500311-6fef-408a-97a6-31cc0241ce54?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
@@ -224,7 +223,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1888)</summary>
+<summary>🗃️ Inactive roles (1889)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -240,7 +239,7 @@
 | ↳ | Software Engineering Intern | Austin, TX | 🔒 | 11d |
 | **[nVent](https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff?utm_source=GHList&utm_medium=company)** | Summer Software Engineering Co-op | Solon, OH | 🔒 | 11d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Colorado Springs, CO | 🔒 | 11d |
-| **[Elekta](https://simplify.jobs/c/Elekta?utm_source=GHList&utm_medium=company)** | Software Development Intern | San Jose, CA | 🔒 | 11d |
+| **[Elekta](https://simplify.jobs/c/Elekta?utm_source=GHList&utm_medium=company)** | Software Development Intern | San Jose, CA | 🔒 | 12d |
 | **[The Federal Reserve System](https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Boston, MA | 🔒 | 12d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Annapolis Junction, MD | 🔒 | 12d |
 | **[Athena Health](https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Boston, MA | 🔒 | 13d |
@@ -969,6 +968,7 @@
 | **[ServiceNow](https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company)** | Backend Software Engineer Intern Co-op | Montreal, QC, Canada</br>Toronto, ON, Canada | 🔒 | 2mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Beavercreek, OH | 🔒 | 2mo |
 | **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Tempe, AZ | 🔒 | 2mo |
+| ↳ | Software Engineering Intern | Mountain View, CA | 🔒 | 2mo |
 | **[DigitalOcean](https://simplify.jobs/c/DigitalOcean?utm_source=GHList&utm_medium=company)** | Software Engineer, Intern | Remote in San Francisco, CA | 🔒 | 2mo |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Austin, TX | 🔒 | 2mo |
 | **[COTA](https://simplify.jobs/c/COTA?utm_source=GHList&utm_medium=company)** | Data Product Engineer Intern | Remote in USA | 🔒 | 3mo |
@@ -3255,3 +3255,5 @@
 <!-- commit_message=Updating READMEs at May 19, 2025 12:20:14 -->
 
 <!-- commit_message=Updating READMEs at May 19, 2025 13:36:24 -->
+
+<!-- commit_message=Updating READMEs at May 19, 2025 14:04:48 -->
