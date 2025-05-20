@@ -2174,13 +2174,12 @@
 | **[Daniel J Edelman Holdings](https://simplify.jobs/c/Daniel-J-Edelman-Holdings?utm_source=GHList&utm_medium=company)** | Intern – Predictive Analytics | Chicago, IL | <div align="center"><a href="https://jobs.lever.co/djeholdings/3efb093e-541b-4cf3-917d-f37f8515befc/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fcaa76f2-c8f4-4b46-bef3-7e596395d011?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Applied Machine Learning | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7398117890434779430/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ce3b17ad-c587-4791-88ab-33060ffb4909?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick?utm_source=GHList&utm_medium=company)** | Data Science Intern | Washington, DC | <div align="center"><a href="https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7842831002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6b69b647-742b-42f2-ab0d-db51941dea7f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
-| **[IPG DXTRA](https://simplify.jobs/c/IPG-DXTRA?utm_source=GHList&utm_medium=company)** | Data Science Intern | Washington, DC | <div align="center"><a href="https://job-boards.greenhouse.io/dxacirca/jobs/7842832002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5eae8c58-de82-4c90-9369-8815159a43db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Kargo](https://simplify.jobs/c/Kargo?utm_source=GHList&utm_medium=company)** | Intern – Machine Learning | NYC | <div align="center"><a href="https://www.kargo.com/careers?gh_jid=4640621007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bb101caa-16a5-43be-9e75-7605555785f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Live Ramp](https://simplify.jobs/c/Live-Ramp?utm_source=GHList&utm_medium=company)** | Data Science Co-Op | SF | <div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d821b698-2578-48dd-9bac-f59ea14445e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
 
 
 <details>
-<summary>🗃️ Inactive roles (731)</summary>
+<summary>🗃️ Inactive roles (732)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -2553,7 +2552,8 @@
 | **[Harbinger Motors](https://simplify.jobs/c/Harbinger-Motors?utm_source=GHList&utm_medium=company)** | Intern – Production Data Analytics | Westminster, CA | 🔒 | 3mo |
 | **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick?utm_source=GHList&utm_medium=company)** | Business Analytics Intern | Washington, DC | 🔒 | 3mo |
 | **[IBM](https://simplify.jobs/c/IBM?utm_source=GHList&utm_medium=company)** | Senior Data Scientist Intern - Corporate Development - M&a | NYC | 🔒 | 3mo |
-| **[IPG DXTRA](https://simplify.jobs/c/IPG-DXTRA?utm_source=GHList&utm_medium=company)** | Business Analytics Intern | Washington, DC | 🔒 | 3mo |
+| **[IPG DXTRA](https://simplify.jobs/c/IPG-DXTRA?utm_source=GHList&utm_medium=company)** | Data Science Intern | Washington, DC | 🔒 | 3mo |
+| ↳ | Business Analytics Intern | Washington, DC | 🔒 | 3mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Intern - Data and Analytics Tableau Developer | Chicago, IL</br>Plantation, FL | 🔒 | 3mo |
 | **[Warner Bros.](https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company)** | TNT Sports BI Analyst Intern - Summer 2025 | Atlanta, GA | 🔒 | 3mo |
 | **[SoFi](https://simplify.jobs/c/SoFi?utm_source=GHList&utm_medium=company)** | Intern – Data Scientist - Borrow | SF | 🔒 | 3mo |
@@ -3025,7 +3025,6 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Nextracker](https://simplify.jobs/c/Nextracker?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Fremont, CA | <div align="center"><a href="https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Software-Engineer-Intern_NX-1870?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/44b1d424-e7f6-46e7-8efd-2d07e1791734?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Servo Firmware Intern | San Jose, CA | <div align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000058636185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e48cae9-755b-4f06-81a1-447657165558?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | **[Formlabs](https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company)** | Hardware Systems Engineering Intern | Cambridge, MA | <div align="center"><a href="https://careers.formlabs.com/job/6830753/apply/?gh_jid=6830753&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/06a26793-67b1-43e9-8a00-cd93a37230c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | FPGA Engineering Intern | San Jose, CA | <div align="center"><a href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose/FPGA-Engineering-Intern_R00687-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/42d5fc20-b8e7-4344-a14f-b53c6580674f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company)** | FY25 Intern - ASIC Digital IC Design | Cambridge, UK | <div align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446702603225?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/03e4caa3-ebe8-4250-94c3-ac83829757ac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
@@ -3037,12 +3036,13 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (46)</summary>
+<summary>🗃️ Inactive roles (47)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Product Engineering | Boston, NY</br>Buffalo, NY | 🔒 | 6d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | NPI Product Engineer Coop | Montreal, QC, Canada | 🔒 | 7d |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Servo Firmware Intern | San Jose, CA | 🔒 | 10d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Hardware Design Engineer - Silicon Development | Palo Alto, CA | 🔒 | 11d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Session Border Controller R&D Intern | Naperville, IL | 🔒 | 11d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Firmware Platforms | Palo Alto, CA | 🔒 | 19d |
@@ -3298,3 +3298,5 @@
 <!-- commit_message=Updating READMEs at May 20, 2025 07:05:16 -->
 
 <!-- commit_message=Updating READMEs at May 20, 2025 10:35:46 -->
+
+<!-- commit_message=Updating READMEs at May 20, 2025 10:50:00 -->
