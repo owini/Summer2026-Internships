@@ -73,6 +73,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Apprentice Software Support Engineer | <details><summary>**7 locations**</summary>Oregon</br>Texas</br>Nevada</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | <div align="center"><a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Apprentice-Software-Support-Engineer_R0030096?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3eaf235d-a3a9-4b53-b010-79aae08eed89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Maxar Technologies](https://simplify.jobs/c/MaxarTech?utm_source=GHList&utm_medium=company)** | Intern – Software Developer - Test Focus | Westminster, CO | <div align="center"><a href="https://maxar.wd1.myworkdayjobs.com/maxar/job/Westminster-CO/Intern---Software-Developer--Test-Focus-_R22140?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/25795b92-6cd0-4228-8a66-3598427e678e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Lennar Corporation](https://simplify.jobs/c/Lennar-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | Harrisburg, PA | <div align="center"><a href="https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Harrisburg-PA---Virtual/Software-Engineering-Internship_R25_0000002463?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3682fa8a-7082-4290-9127-cfb558b0f3f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineering Internship | Sacramento, CA | <div align="center"><a href="https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Sacramento-CA---Virtual/Software-Engineering-Internship_R25_0000002468?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0ace7295-7e1a-49c5-810f-b62532e9133f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -227,7 +228,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Commure](https://simplify.jobs/c/Commure?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Integrations | Mountain View, CA | 🔒 | 2d |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Full Stack Developer Intern | NYC | 🔒 | 4d |
-| **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Intern | Remote in USA</br>Arlington, VA | 🔒 | 4d |
+| **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Intern | Remote in USA</br>Arlington, VA | 🔒 | 5d |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Application Developer Co-op | Toronto, ON, Canada | 🔒 | 7d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arlington, VA | 🔒 | 9d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Technical Intern | Remote in USA | 🔒 | 10d |
@@ -244,7 +245,7 @@
 | **[Skyryse](https://simplify.jobs/c/Skyryse?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - AI | El Segundo, CA | 🔒 | 17d |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Digital and Transformation Software Internship | Spring, TX | 🔒 | 17d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Computer Science Intern | Alexandria, VA | 🔒 | 17d |
-| **[Signify](https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company)** | Software Development Programmer Intern | Langley, BC, Canada | 🔒 | 17d |
+| **[Signify](https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company)** | Software Development Programmer Intern | Langley, BC, Canada | 🔒 | 18d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Systems/Software Engineering Intern | High Point, NC | 🔒 | 18d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Specialist Intern | Gunpowder, MD | 🔒 | 18d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - C++ Robotics Software Engineer - Optimus | Palo Alto, CA | 🔒 | 18d |
@@ -260,7 +261,7 @@
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Raytheon Fellowship Program | Aurora, CO | 🔒 | 21d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Junior Software Engineer Intern | Tucson, AZ | 🔒 | 21d |
 | ↳ | Software Engineer – Intern - Projects | Reston, VA | 🔒 | 21d |
-| **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | 🔒 | 23d |
+| **[KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company)** | Applications Development Engineering Intern | Austin, TX | 🔒 | 24d |
 | **[Gen](https://simplify.jobs/c/Gen?utm_source=GHList&utm_medium=company)** | Software Development Intern | Tempe, AZ | 🔒 | 24d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Prototype Integration Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 24d |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Centreville, VA | 🔒 | 24d |
@@ -3277,3 +3278,5 @@
 <!-- commit_message=Updating READMEs at May 19, 2025 16:35:08 -->
 
 <!-- commit_message=Updating READMEs at May 19, 2025 16:50:23 -->
+
+<!-- commit_message=Updating READMEs at May 19, 2025 17:05:23 -->
