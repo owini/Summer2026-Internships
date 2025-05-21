@@ -291,7 +291,7 @@
 | **[SharkNinja](https://simplify.jobs/c/SharkNinja?utm_source=GHList&utm_medium=company)** | Mobile App Developer Co-op | Needham, MA | 🔒 | 28d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Product Data Management Intern | Florence, SC | 🔒 | 28d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – IT Computer Science | Blacksburg, VA | 🔒 | 28d |
-| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Intern - Tech Developer & Engineering | Richmond, VA</br>Phoenix, AZ | 🔒 | 28d |
+| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Intern - Tech Developer & Engineering | Richmond, VA</br>Phoenix, AZ | 🔒 | 29d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Software Engineering | Cheektowaga, NY</br>Buffalo, NY | 🔒 | 29d |
 | **[Ankura Consulting Group](https://simplify.jobs/c/Ankura-Consulting-Group?utm_source=GHList&utm_medium=company)** | University Intern - Ankura.AI Labs | Virginia | 🔒 | 1mo |
 | **[Baxter International](https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company)** | Intern - Software Engineer | Raleigh, NC | 🔒 | 1mo |
@@ -1470,7 +1470,7 @@
 | **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Software Engineer I Co-op | Minneapolis, MN | 🔒 | 4mo |
 | ↳ | Software Engineer I Co-op | Bellevue, WA | 🔒 | 4mo |
 | ↳ | Software Engineer I Co-op | Boston, MA</br>Minneapolis, MN</br>Bellevue, WA | 🔒 | 4mo |
-| ↳ | Robotics Software Engineer I Co-op | Boston, MA | 🔒 | 4mo |
+| **[Chewy](https://simplify.jobs/c/Chewy?utm_source=GHList&utm_medium=company)** | Robotics Software Engineer I Co-op | Boston, MA | 🔒 | 4mo |
 | ↳ | BI Engineer I Co-op | Boston, MA | 🔒 | 4mo |
 | **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
 | ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
@@ -3340,3 +3340,5 @@
 <!-- commit_message=Updating READMEs at May 20, 2025 19:05:25 -->
 
 <!-- commit_message=Updating READMEs at May 20, 2025 20:20:36 -->
+
+<!-- commit_message=Updating READMEs at May 20, 2025 20:35:26 -->
