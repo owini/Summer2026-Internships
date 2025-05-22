@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 119 Internship Roles by Category
+### Browse 121 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (69)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (71)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (22)
 
@@ -78,8 +78,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Intact | DevOps and Automation– 4-month Internship/Co-op 🛂 | Toronto, Ontario, Canada | <div align="center"><a href="https://careers.intactfc.com/ca/en/job/IFCOUSR146759INTACTINSURANCEENCA/DevOps-and-Automation-4-month-Internship-Co-op-Fall-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
 | Entrust | Intern – Software Development 🛂 | Ottawa, Ontario, Canada | <div align="center"><a href="https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R003484?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 11d |
 | **[Robinhood](https://simplify.jobs/c/Robinhood?utm_source=GHList&utm_medium=company)** | Software Developer Intern/Co-op - Backend | Toronto, ON, Canada | <div align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/6860546?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1755cada-9e4f-49ef-823d-82b93fe9be4e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
+| **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Software Engineering Co-op | Philadelphia, PA | <div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineering-Co-op_R410966?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1c891014-9a4c-4701-b98f-1a4e30b2693c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Activision-Blizzard](https://simplify.jobs/c/Activision-Blizzard?utm_source=GHList&utm_medium=company)** | Engineering Co-Op | Portland, ME | <div align="center"><a href="https://activision.wd1.myworkdayjobs.com/External/job/Portland/Engineering-Co-Op---Central-Technology---Portland--ME_R025288-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b614c210-3b53-4a02-aaf7-e01855ac9ed5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Automation Engineer Co-op | Mt Laurel Township, NJ | <div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Automation-Engineer-Co-op_R411014?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9c3e4a1f-200d-4ebc-a0e6-373e75f18994?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
+| ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | <div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/98e403cc-02bb-49e3-a7ea-7776f078a0f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | SW Tools Development Co-op/Intern 🛂 | Katana, Ontario, Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19305?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 15d |
 | **[NimbleRx](https://simplify.jobs/c/NimbleRx?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Carlos, CA | <div align="center"><a href="https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3546d9fb-2ff3-4d85-869a-75c46e69666d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 16d |
 | Intact | IT Strategy Intern 🛂 | Montréal, Quebec, Canada</br>Toronto, Ontario, Canada | <div align="center"><a href="https://careers.intactfc.com/ca/en/job/IFCOUSR146749INTACTINSURANCEENCA/IT-Strategy-Intern-4-months-Internship-Coop-Fall-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 16d |
@@ -133,7 +135,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (901)</summary>
+<summary>🗃️ Inactive roles (899)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -142,11 +144,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Infrastructure Automation | Menlo Park, CA</br>Bellevue, WA | 🔒 | 11d |
 | ↳ | Software Engineer Intern - Database Engineering | Menlo Park, CA</br>Bellevue, WA | 🔒 | 11d |
 | ↳ | Software Engineer Intern - Core Engineering | Menlo Park, CA</br>Bellevue, WA | 🔒 | 11d |
-| **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Software Engineering Co-op | Philadelphia, PA | 🔒 | 13d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | 14d |
 | ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | 14d |
 | ↳ | Comcast Aegis/Iris Software Development Co-op | Philadelphia, PA | 🔒 | 14d |
-| ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | 14d |
 | ↳ | Comcast Devx Portfolio Co-op | West Chester, PA | 🔒 | 14d |
 | ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | 14d |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Backend Developer Co-op | Kitchener, ON, Canada | 🔒 | 14d |
@@ -1389,7 +1389,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Electronic Design Engineer - AI Hardware | Palo Alto, CA | 🔒 | 15d |
 | ↳ | Internship - Firmware Engineer - AI Hardware | Palo Alto, CA | 🔒 | 15d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Systems Software Engineer - AI Platforms | Palo Alto, CA | 🔒 | 16d |
-| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | St. Petersburg, FL | 🔒 | 16d |
+| **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | St. Petersburg, FL | 🔒 | 17d |
 | **[Lennox International](https://simplify.jobs/c/Lennox-International?utm_source=GHList&utm_medium=company)** | Hardware Engineering Co-Op | Farmers Branch, TX | 🔒 | 27d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Factory Firmware Embedded Software Engineer - Vehicle Software | Palo Alto, CA | 🔒 | 30d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Crash Safety Embedded Software Engineer - Vehicle Firmware | Palo Alto, CA | 🔒 | 1mo |
