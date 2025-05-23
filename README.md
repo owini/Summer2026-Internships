@@ -88,7 +88,6 @@
 | **[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)** | Backend Software Engineering Intern | Toronto, ON, Canada | <div align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4568800006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/25853a9a-8b6d-4846-ac95-cc1965956a2b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Production Application Support Co-op - Distribution & Cards Technology | Toronto, ON, Canada | <div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Distribution---Cards-Technology_2511731?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eb34ab8a-c084-4119-888f-a0ca63cd012c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[Zeta Global](https://simplify.jobs/c/Zeta-Global?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | SF | <div align="center"><a href="https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5542309004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1d34a32c-385b-48f7-9031-9f9b0691cf68?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
-| **[Delta Dental](https://simplify.jobs/c/Delta-Dental?utm_source=GHList&utm_medium=company)** | Internship-Application Development | East Lansing, MI | <div align="center"><a href="https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100790?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/46c759eb-2144-4a2b-9dc2-4172dd81f292?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[Braze](https://simplify.jobs/c/Braze?utm_source=GHList&utm_medium=company)** | Growth Engineering Intern | NYC | <div align="center"><a href="https://boards.greenhouse.io/braze/jobs/6887583?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4bc301ad-139f-40c9-b973-8f32bb064ae1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | **[The Joint Commission](https://simplify.jobs/c/The-Joint-Commission?utm_source=GHList&utm_medium=company)** | Software Development Intern | Lombard, IL | <div align="center"><a href="https://careers-jointcommission.icims.com/jobs/6823/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/69057b14-77c5-4622-b0d7-97993f0b5143?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Production Application Support Co-op - Capital Markets Technology | Toronto, ON, Canada | <div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Capital-Markets-Technology_2511388?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0b626d73-f595-40ea-b3f9-a789080545c7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
@@ -216,7 +215,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1911)</summary>
+<summary>🗃️ Inactive roles (1912)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -226,6 +225,7 @@
 | ↳ | Software Engineering Internship | Sacramento, CA | 🔒 | 3d |
 | **[Commure](https://simplify.jobs/c/Commure?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Integrations | Mountain View, CA | 🔒 | 6d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Software & Data Systems Co-Op | United States | 🔒 | 7d |
+| **[Delta Dental](https://simplify.jobs/c/Delta-Dental?utm_source=GHList&utm_medium=company)** | Internship-Application Development | East Lansing, MI | 🔒 | 7d |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Full Stack Developer Intern | NYC | 🔒 | 8d |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Intern | Remote in USA</br>Arlington, VA | 🔒 | 8d |
 | **[HARMAN International](https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company)** | Summer Intern - Software Engineer | Richardson, TX | 🔒 | 9d |
@@ -3462,3 +3462,5 @@
 <!-- commit_message=Updating READMEs at May 23, 2025 09:36:28 -->
 
 <!-- commit_message=Updating READMEs at May 23, 2025 10:35:32 -->
+
+<!-- commit_message=Updating READMEs at May 23, 2025 10:50:23 -->
