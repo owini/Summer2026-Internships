@@ -27,14 +27,6 @@ def setOutput(key, value):
         with open(output, 'a') as fh:
             print(f'{key}={value}', file=fh)
 
-def setOutput(key, value, readme_path="README.md"):
-    try:
-        with open(readme_path, "a") as f:
-            f.write(f"\n<!-- {key}={value} -->\n")
-    except Exception as e:
-        print(f"Failed to write to README: {e}")
-
-
 def fail(why):
     setOutput("error_message", why)
     exit(1)
