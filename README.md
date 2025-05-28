@@ -2187,7 +2187,6 @@
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern - Search-Tiktok Recommendation - BS/MS | Seattle, WA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7485994254700366088/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d0392b41-76ff-473a-9b8d-d669f5bcef00?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | ↳ | Machine Learning Engineer Intern - Search-Tiktok Recommendation | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7397631485198731529/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9ba20427-57a6-43e2-a14a-3edabe7ab4d8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Werfen](https://simplify.jobs/c/Werfen?utm_source=GHList&utm_medium=company)** | Data Scientist Co-Op | Bedford, MA | <div align="center"><a href="https://careers-werfen.icims.com/jobs/8567/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dc620ed7-aa34-4eb2-807f-064098137558?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
-| **[Xometry](https://simplify.jobs/c/Xometry?utm_source=GHList&utm_medium=company)** | Machine Learning Platform Intern | Lexington, KY</br>Boston, MA</br>North Bethesda, MD | <div align="center"><a href="https://job-boards.greenhouse.io/xometry/jobs/4678988007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a8e5447b-dbbb-4581-8f08-0eaf8c4be0cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Qualcomm](https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company)** | Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW | San Diego, CA | <div align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446701026300?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ec59cbf1-4ca6-4c3b-8e6f-d81367a45087?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | The Clorox Company | Identity and Access Management (IAM) Analyst Intern | Durham, NC, US | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Identity-and-Access-Management--IAM--Analyst-Intern_18337-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
 | ↳ | Machine Learning Engineer Intern | Durham, NC, US | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
@@ -2201,7 +2200,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (750)</summary>
+<summary>🗃️ Inactive roles (751)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -2370,6 +2369,7 @@
 | **[Bernhard](https://simplify.jobs/c/Bernhard?utm_source=GHList&utm_medium=company)** | Utility Analyst Intern | Little Rock, AR | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Data Analytics RMS Co-op | Indian Trail, NC | 🔒 | 2mo |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Intern - Data Engineer | Seattle, WA</br>SF | 🔒 | 2mo |
+| **[Xometry](https://simplify.jobs/c/Xometry?utm_source=GHList&utm_medium=company)** | Machine Learning Platform Intern | Lexington, KY</br>Boston, MA</br>North Bethesda, MD | 🔒 | 2mo |
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | AI / ML Intern | Ontario, Canada | 🔒 | 2mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Customer Strategy & Analytics Analyst – Co-op/Internship | Toronto, ON, Canada | 🔒 | 2mo |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Paramus, NJ | 🔒 | 2mo |
@@ -3619,3 +3619,5 @@
 <!-- commit_message=Updating READMEs at May 28, 2025 06:20:04 -->
 
 <!-- commit_message=Updating READMEs at May 28, 2025 06:50:34 -->
+
+<!-- commit_message=Updating READMEs at May 28, 2025 07:05:25 -->
