@@ -2223,7 +2223,7 @@
 | **[ConnectWise](https://simplify.jobs/c/ConnectWise?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Tampa, FL | 🔒 | 12d |
 | **[Samsung](https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company)** | Applied AI Engineer – Intern | Mountain View, CA | 🔒 | 12d |
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – IT Computer Science | Blacksburg, VA | 🔒 | 12d |
-| **[Caribou Financial](https://simplify.jobs/c/43633ba6-edf5-4998-bd88-8b2ebcf8542e?utm_source=GHList&utm_medium=company)** | Data Science Intern | SF</br>Chicago, IL</br>Denver, CO | 🔒 | 12d |
+| **[Caribou Financial](https://simplify.jobs/c/43633ba6-edf5-4998-bd88-8b2ebcf8542e?utm_source=GHList&utm_medium=company)** | Data Science Intern | SF</br>Chicago, IL</br>Denver, CO | 🔒 | 13d |
 | **[Bloom Energy](https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company)** | Business Data Science Intern - Indirect Commodity & Purchasing | San Jose, CA | 🔒 | 13d |
 | ↳ | Business Data Analyst Intern - Indirect Commodity | San Jose, CA | 🔒 | 13d |
 | ↳ | Business Data Analyst Intern - Indirect Commodity | San Jose, CA | 🔒 | 13d |
@@ -2243,7 +2243,7 @@
 | **[Moog Inc](https://simplify.jobs/c/Moog-Inc?utm_source=GHList&utm_medium=company)** | Intern – Artificial Intelligence | Boston, NY</br>Buffalo, NY | 🔒 | 26d |
 | **[C&S Wholesale Grocers](https://simplify.jobs/c/CS-Wholesale-Grocers?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Edison, NJ | 🔒 | 26d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Security Data Scientist Intern | Boulder, CO | 🔒 | 26d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Applications Engineering | Fremont, CA | 🔒 | 27d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Applications Engineering | Fremont, CA | 🔒 | 28d |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Intern - Competitive Intelligence Analyst | SF | 🔒 | 28d |
 | **[Invoice Cloud](https://simplify.jobs/c/Invoice-Cloud?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Boston, MA</br>Quincy, MA | 🔒 | 28d |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Data Science Intern | Santa Clara, CA | 🔒 | 29d |
@@ -3093,7 +3093,7 @@
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Servo Firmware Intern | San Jose, CA | 🔒 | 19d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Hardware Design Engineer - Silicon Development | Palo Alto, CA | 🔒 | 20d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Session Border Controller R&D Intern | Naperville, IL | 🔒 | 20d |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Firmware Platforms | Palo Alto, CA | 🔒 | 27d |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Embedded Software Engineer - Firmware Platforms | Palo Alto, CA | 🔒 | 28d |
 | **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Mahwah, NJ | 🔒 | 1mo |
 | **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | FPGA Engineering Intern | San Jose, CA | 🔒 | 1mo |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Platform Hardware and Systems Engineering – Intern - Bachelor's | <details><summary>**4 locations**</summary>Santa Clara, CA</br>Hillsboro, OR</br>Folsom, CA</br>Phoenix, AZ</details> | 🔒 | 1mo |
