@@ -2138,7 +2138,7 @@
 | **[Cognex](https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Wauwatosa, WI | 🔒 | 6mo |
 | **[Seismic](https://simplify.jobs/c/Seismic?utm_source=GHList&utm_medium=company)** | Software Engineer – Co-Op/Pey | Toronto, ON, Canada | 🔒 | 6mo |
 | **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Summer 2025 | Cambridge, UK | 🔒 | 6mo |
-| **[IBM](https://simplify.jobs/c/IBM?utm_source=GHList&utm_medium=company)** | Software Developer Intern 🛂 | Research Triangle Park, NC</br>Poughkeepsie, NY | 🔒 | 6mo |
+| **[IBM](https://simplify.jobs/c/IBM?utm_source=GHList&utm_medium=company)** | Software Developer Intern 🛂 | Research Triangle Park, NC</br>Poughkeepsie, NY | 🔒 | 7mo |
 | **[Associated Bank](https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad?utm_source=GHList&utm_medium=company)** | Corporate Intern - Artificial Intelligence - Summer 2025 | Milwaukee, WI | 🔒 | 7mo |
 | ↳ | Corporate Intern - Digital Engineering - Summer 2025 - Hybrid Green Bay or Milwaukee | Milwaukee, WI</br>Green Bay, WI | 🔒 | 7mo |
 | Acuity | Programmer Intern | Austin, TX | 🔒 | 7mo |
@@ -2974,8 +2974,8 @@
 | **[Visa](https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company)** | Associate Data Scientist – Intern - Cybersecurity | Ashburn, VA | 🔒 | 6mo |
 | **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)** | 2025 Intern - Emerging Technology Analyst | San Jose, CA | 🔒 | 6mo |
 | **[Marvell](https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796?utm_source=GHList&utm_medium=company)** | Data Science/ Computer Science Intern - Masters | Santa Clara, CA | 🔒 | 6mo |
-| Honeywell | Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern (US Person Required) 🇺🇸 | United States | 🔒 | 6mo |
-| Honeywell | Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern | Remote | 🔒 | 7mo |
+| Honeywell | Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern (US Person Required) 🇺🇸 | United States | 🔒 | 7mo |
+| ↳ | Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern | Remote | 🔒 | 7mo |
 
 
 </details>
