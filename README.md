@@ -199,7 +199,7 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 2d |
-| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | SDE Intern - Summer | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</details> | 🔒 | 2d |
+| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | SDE Intern - Summer | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</details> | 🔒 | 3d |
 | **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 3d |
 | **[Comscore](https://simplify.jobs/c/35c46844-c46b-40a6-9ed6-25a554223d8b?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA</br>Reston, VA | 🔒 | 3d |
 | **[SprintRay](https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern | LA | 🔒 | 5d |
@@ -450,7 +450,7 @@
 | **[Vestwell](https://simplify.jobs/c/Vestwell?utm_source=GHList&utm_medium=company)** | Intern – Engineering | <details><summary>**4 locations**</summary>King of Prussia, PA</br>Austin, TX</br>NYC</br>Phoenix, AZ</details> | 🔒 | 2mo |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Decision Science Undergraduate Intern | Celebration, FL | 🔒 | 2mo |
 | **[Actian](https://simplify.jobs/c/actian?utm_source=GHList&utm_medium=company)** | Data Intelligence Intern | Remote in USA | 🔒 | 2mo |
-| ↳ | Engineering Intern | Remote in USA | 🔒 | 2mo |
+| **[Actian](https://simplify.jobs/c/actian?utm_source=GHList&utm_medium=company)** | Engineering Intern | Remote in USA | 🔒 | 2mo |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | Software Internship - Linux ARM Project | Massachusetts | 🔒 | 2mo |
 | **[PlusAI](https://simplify.jobs/c/Plus?utm_source=GHList&utm_medium=company)** | Intern-Technical Program Management | Santa Clara, CA | 🔒 | 2mo |
 | **[Five9](https://simplify.jobs/c/Five9?utm_source=GHList&utm_medium=company)** | Restful API Developer Intern | San Ramon, CA | 🔒 | 2mo |
@@ -789,9 +789,9 @@
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Princeton, NJ</br>NYC | 🔒 | 2mo |
 | ↳ | Data Transformation Intern - Early Careers | Southfield, MI | 🔒 | 2mo |
 | **[Spot & Tango](https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | 🔒 | 2mo |
-| **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | National Security Solutions – Internship - Nss - Program Management Portal |  | 🔒 | 2mo |
-| **[Alarm.com](https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Denver, CO | 🔒 | 2mo |
-| **[Sylvera](https://simplify.jobs/c/Sylvera?utm_source=GHList&utm_medium=company)** | Carbon Science / Geospatial Intern: Client Facing | London, UK | 🔒 | 2mo |
+| **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | National Security Solutions – Internship - Nss - Program Management Portal |  | 🔒 | 3mo |
+| **[Alarm.com](https://simplify.jobs/c/Alarm?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Denver, CO | 🔒 | 3mo |
+| **[Sylvera](https://simplify.jobs/c/Sylvera?utm_source=GHList&utm_medium=company)** | Carbon Science / Geospatial Intern: Client Facing | London, UK | 🔒 | 3mo |
 | **[Dick's Sporting Goods](https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Video | Remote in USA | 🔒 | 3mo |
 | **[Point72](https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company)** | 2025 Data – Web Scraping Summer Internship | Columbia City, IN | 🔒 | 3mo |
 | **[Dick's Sporting Goods](https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - User Growth | Remote in USA | 🔒 | 3mo |
@@ -2659,7 +2659,7 @@
 | **[Gamechanger](https://simplify.jobs/c/Gamechanger?utm_source=GHList&utm_medium=company)** | Product Analytics Intern | NYC | 🔒 | 4mo |
 | ↳ | Analytics Engineer Intern - Analytics Hub | NYC | 🔒 | 4mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 4mo |
-| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 4mo |
+| ↳ | Business Systems Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 4mo |
 | **[Synechron](https://simplify.jobs/c/0c088963-a344-4fd6-8c0e-3a047fe449f1?utm_source=GHList&utm_medium=company)** | Summer Internship Program - AI - Data and Data Science | Charlotte, NC | 🔒 | 4mo |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Sustainability Data Analytics Summer Intern | London, UK | 🔒 | 4mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern/Co-op - Tds | Toronto, ON, Canada | 🔒 | 4mo |
