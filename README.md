@@ -1876,7 +1876,7 @@
 | **[Zscaler](https://simplify.jobs/c/Zscaler?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Back End | San Jose, CA | 🔒 | 5mo |
 | ↳ | Software Engineering Intern - Front End | San Jose, CA | 🔒 | 5mo |
 | **[MKS Instruments](https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company)** | Software Engineering Co-op | Rochester, NY | 🔒 | 5mo |
-| T-Mobile | Summer 2025 Software Engineer - Digital Orders Platform Team Intern 🛂 | Atlanta, GA | 🔒 | 5mo |
+| T-Mobile | Summer 2025 Software Engineer - Digital Orders Platform Team Intern 🛂 | Atlanta, GA | 🔒 | 6mo |
 | Sabre Corporation | Software Engineer - 2025 Summer Intern | Southlake, TX | 🔒 | 6mo |
 | **[Arsiem Corporation](https://simplify.jobs/c/Arsiem-Corporation?utm_source=GHList&utm_medium=company)** | Passive Geolocation Specialist | Augusta, GA | 🔒 | 6mo |
 | ↳ | Active Geolocation Specialist – Apprentice Operator - Active - AO-a | Augusta, GA | 🔒 | 6mo |
