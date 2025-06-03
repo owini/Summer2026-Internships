@@ -142,7 +142,6 @@
 | Ticketmaster | Software Engineer Intern | Beverly Hills, CA, USA | <div align="center"><a href="https://livenation.wd1.myworkdayjobs.com/TMExternalSite/job/Beverly-Hills-CA-USA/Software-Engineer-Intern_JR-76685?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
 | General Dynamics | Software Intern Engineer 🇺🇸 | Florham Park, NJ | <div align="center"><a href="https://www.gd.com/careers/software-intern-engineer-florham-park-nj-us-2025-65566-gdms-opportunity?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
 | ↳ | Intern, Software Engineer 🇺🇸 | Scottsdale, AZ | <div align="center"><a href="https://www.gd.com/careers/intern-software-engineer-scottsdale-az-us-2025-65492-gdms-opportunity?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2mo |
-| **[ZOLL Medical Corporation](https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd?utm_source=GHList&utm_medium=company)** | IT Application Intern | Pittsburgh, PA | <div align="center"><a href="https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/IT-Application-Intern_R12677?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a75315fd-d033-4d25-bfa1-526099ca2431?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Video Experience Software Engineer Intern | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7480762421310392583/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/57f658a6-3cca-429c-8ebf-c35bb82d13be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Genies](https://simplify.jobs/c/Genies?utm_source=GHList&utm_medium=company)** | Backend Engineer Intern | San Mateo, CA | <div align="center"><a href="https://job-boards.greenhouse.io/genies/jobs/6506648003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/51dadaab-4a53-4690-abaa-8a100a534c1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Gesture](https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169?utm_source=GHList&utm_medium=company)** | Data Marketing Engineer Intern | NYC | <div align="center"><a href="https://gesture-us-inc.breezy.hr/p/b5169adb8cca/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/14692d90-caf8-4769-8e56-061c79b316a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
@@ -187,7 +186,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1965)</summary>
+<summary>🗃️ Inactive roles (1966)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -226,7 +225,7 @@
 | ↳ | Mainframe Application Developer Co-op | Toronto, ON, Canada | 🔒 | 21d |
 | ↳ | Application/Software Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | 21d |
 | ↳ | Application Developer Co-op | Toronto, ON, Canada | 🔒 | 21d |
-| **[Maxar Technologies](https://simplify.jobs/c/MaxarTech?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Melbourne, FL</br>Reston, VA | 🔒 | 21d |
+| **[Maxar Technologies](https://simplify.jobs/c/MaxarTech?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Melbourne, FL</br>Reston, VA | 🔒 | 22d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arlington, VA | 🔒 | 24d |
 | ↳ | Technical Intern | Remote in USA | 🔒 | 24d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - ML Performance Software Engineer - Dojo | Palo Alto, CA | 🔒 | 25d |
@@ -613,6 +612,7 @@
 | **[Sierra Nevada Coporation](https://simplify.jobs/c/Sierra-Nevada-Coporation?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Lone Tree, CO | 🔒 | 2mo |
 | **[Samsung](https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company)** | Samsung Ads – Intern - Client Engineer | Plano, TX | 🔒 | 2mo |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | NYC | 🔒 | 2mo |
+| **[ZOLL Medical Corporation](https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd?utm_source=GHList&utm_medium=company)** | IT Application Intern | Pittsburgh, PA | 🔒 | 2mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | 2025 Summer Process Integration Engineer Intern - Bachelors | Santa Clara, CA | 🔒 | 2mo |
 | **[Extreme Networks](https://simplify.jobs/c/Extreme-Networks?utm_source=GHList&utm_medium=company)** | Intern: Americas Systems Engineering | Remote in USA | 🔒 | 2mo |
 | **[RippleMatch](https://simplify.jobs/c/RippleMatch?utm_source=GHList&utm_medium=company)** | Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital | Hartford, CT | 🔒 | 2mo |
