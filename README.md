@@ -364,7 +364,7 @@
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Chantilly, VA</br>Oklahoma City, OK | 🔒 | 2mo |
 | **[Smith Micro Software](https://simplify.jobs/c/Smith-Micro-Software?utm_source=GHList&utm_medium=company)** | Engineering Intern | Pittsburgh, PA | 🔒 | 2mo |
 | **[Curtiss-Wright Corporation](https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company)** | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
-| **[Curtiss-Wright Corporation](https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company)** | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
+| ↳ | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
 | **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)** | Summer 2025 Software Engineer Intern | Santa Clara, CA | 🔒 | 2mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Technical Intern | Melbourne, FL | 🔒 | 2mo |
 | **[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)** | Developer Co-Op | Mississauga, ON, Canada | 🔒 | 2mo |
@@ -1694,10 +1694,10 @@
 | **[Guidewire](https://simplify.jobs/c/Guidewire?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Philadelphia, PA | 🔒 | 4mo |
 | **[DRW](https://simplify.jobs/c/DRW?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Montreal, QC, Canada | 🔒 | 4mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 4mo |
-| **[Groq](https://simplify.jobs/c/Groq?utm_source=GHList&utm_medium=company)** | Compound AI Engineering Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 4mo |
-| ↳ | Software Engineering Intern – Distributed Systems Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 4mo |
-| ↳ | Compiler Engineer Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 4mo |
-| ↳ | Cloud Backend Engineering Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 4mo |
+| **[Groq](https://simplify.jobs/c/Groq?utm_source=GHList&utm_medium=company)** | Compound AI Engineering Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 5mo |
+| ↳ | Software Engineering Intern – Distributed Systems Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 5mo |
+| ↳ | Compiler Engineer Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 5mo |
+| ↳ | Cloud Backend Engineering Intern | Palo Alto, CA</br>Toronto, ON, Canada | 🔒 | 5mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Mainframe Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 5mo |
 | ↳ | Software Developer – Internship | Tempe, AZ | 🔒 | 5mo |
 | ↳ | Junior Software Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 5mo |
@@ -2910,12 +2910,12 @@
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories?utm_source=GHList&utm_medium=company)** | Spectroscopy Data Scientist Intern | Malibu, CA | 🔒 | 6mo |
 | **[Scale AI](https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company)** | Machine Learning Intern - Summer 2025 | SF</br>NYC | 🔒 | 6mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Agent AI | Remote in USA | 🔒 | 6mo |
-| ↳ | ML Research Engineer Internship | Remote in USA | 🔒 | 6mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship | Remote in USA | 🔒 | 6mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Tech Refresh/Data Analyst Intern | Alexandria, VA | 🔒 | 6mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Multimodal | Remote in USA | 🔒 | 6mo |
-| ↳ | Machine Learning Engineer Internship | Remote in USA | 🔒 | 6mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship | Remote in USA | 🔒 | 6mo |
 | ↳ | ML Research Engineer Internship - Post-Training | Remote in USA | 🔒 | 6mo |
-| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | ML Research Engineer Internship - Smollms pretraining and datasets | Remote in USA | 🔒 | 6mo |
+| ↳ | ML Research Engineer Internship - Smollms pretraining and datasets | Remote in USA | 🔒 | 6mo |
 | ↳ | ML Research Engineer Internship - Fineweb | Remote in USA | 🔒 | 6mo |
 | ↳ | Machine Learning Engineer Internship - Accelerate | Remote in USA | 🔒 | 6mo |
 | ↳ | Machine Learning Engineer Internship - AI Energy Score | Remote in USA | 🔒 | 6mo |
@@ -3092,7 +3092,7 @@
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Analyst - Credit S&T - Sales - Trading & Research 🛂 | NYC | 🔒 | 6mo |
 | **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management?utm_source=GHList&utm_medium=company)** | Quantitative Sports Research Intern | Greenwich, CT | 🔒 | 6mo |
 | **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 6mo |
-| ↳ | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 6mo |
+| **[Hugging Face](https://simplify.jobs/c/Hugging-Face?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Internship - Quantization | Remote in USA | 🔒 | 6mo |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | 2025 Truist Securities – Summer Analyst Program - Public Finance S&T - Sales - Trading & Research | Charlotte, NC | 🔒 | 6mo |
 | ↳ | 2025 Truist Securities – Summer Analyst Program - Equity S&T - Sales - Trading & Research | NYC | 🔒 | 6mo |
 | **[American Century Investments](https://simplify.jobs/c/2940e44d-daa3-4a3c-b896-ba9435ad86f7?utm_source=GHList&utm_medium=company)** | Quantitative Investment Analyst Intern | Kansas City, MO | 🔒 | 6mo |
