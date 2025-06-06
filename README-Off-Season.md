@@ -607,7 +607,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Associate Software Developer – Co-op position - HP Anyware | Vancouver, BC, Canada | 🔒 | 11mo |
 | ↳ | Associate Software Developer-Cloud Solutions & Services – Co-op position | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Halifax Regional Municipality, NS, Canada | 🔒 | 11mo |
-| **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
+| ↳ | Software Development Engineer in Test – Co-op - Sdet - Fall 2024 | Vancouver, BC, Canada | 🔒 | 11mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Generalist Embodied Agents Research - Fall 2024 | Remote in USA | 🔒 | 11mo |
 | **[Stoke Space](https://simplify.jobs/c/Stoke-Space?utm_source=GHList&utm_medium=company)** | Intern – Spring 2025 | Kent, WA | 🔒 | 11mo |
 | **[Spot Freight](https://simplify.jobs/c/Spot-Freight?utm_source=GHList&utm_medium=company)** | Software Developer Internship - Fall 2024 | Indianapolis, IN | 🔒 | 11mo |
@@ -1348,7 +1348,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | <div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Fall-2025--Co-op-Internship----8-months_R250014438?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01a5cd25-7d67-4b65-b1db-7e14805710fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | <div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Fall-2025--Co-op-Internship----8-months_R250014438?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01a5cd25-7d67-4b65-b1db-7e14805710fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Algorithmic Trader Intern | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cf412da4-1f1d-43aa-8f7d-135ac859dfdf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 
 
