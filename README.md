@@ -1653,8 +1653,8 @@
 | ↳ | AI Software Intern | Fredericton, NB, Canada | 🔒 | 4mo |
 | Electronic Arts | Software Engineer Intern 🛂 | Austin, TX | 🔒 | 4mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | SDE Intern 2025 - Computer Science | Toronto, Canada</br>Vancouver, Canada | 🔒 | 4mo |
-| **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Android Mobile Software Engineer Intern | Remote in USA | 🔒 | 4mo |
-| ↳ | Android Mobile Software Engineer Intern | Remote in USA | 🔒 | 4mo |
+| **[Glassdoor](https://simplify.jobs/c/Glassdoor?utm_source=GHList&utm_medium=company)** | Android Mobile Software Engineer Intern | Remote in USA | 🔒 | 5mo |
+| ↳ | Android Mobile Software Engineer Intern | Remote in USA | 🔒 | 5mo |
 | **[SageSure](https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company)** | Intern – Software - Design | NYC | 🔒 | 5mo |
 | ↳ | Intern – Data Management | NYC | 🔒 | 5mo |
 | ↳ | Intern – Software - Engineering | NYC | 🔒 | 5mo |
