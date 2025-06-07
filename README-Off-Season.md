@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 104 Internship Roles by Category
+### Browse 105 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (52)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (53)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
@@ -96,12 +96,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Verification Engineer Intern | Atlanta, GA | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Fall-2025-_R027829?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d915f4ef-4db1-47ef-87d9-3b127853cad4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Robotics Software Intern - Robotics Platform | Santa Clara, CA | <div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3425c8c3-9634-487c-ba5f-e361269a62cf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Automation Engineer Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/aea63ff3-bc4c-4097-884a-077491c09c08?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
-| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | NW Automation Practice Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b90c25ce-d478-4208-b03d-3ba75dc4fe48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
+| ↳ | NW Automation Practice Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b90c25ce-d478-4208-b03d-3ba75dc4fe48?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Data & Insights Intern | Washington, DC</br>Remote in USA | <div align="center"><a href="https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Remote/Data---Insights-Intern---Fall-2025_R-01857?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4981864d-bf87-46a3-a4bf-55cf7e548317?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Designer Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19631?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1f2438f9-6c03-41b6-91ad-773dd5d6203b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | ↳ | Web Portal Dev Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19366?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1bd8cabd-eeb4-4ebb-8e2a-a3f2c6b5e7fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Hermeus](https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company)** | Flight Software Engineer – Intern - Comms | Atlanta, GA | <div align="center"><a href="https://jobs.lever.co/hermeus/6b2a6231-67e1-47a5-931c-bd36bc97fc7e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ec0af5cf-9cc7-4333-8b80-0d569623d9b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Development Coop | Sunnyvale, CA | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19758?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/18f07f8b-3b29-4b88-be1f-dcf7aa54af89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
+| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Customer Applications Eng Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18855?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/86a88727-7566-4fd8-907c-c4b2feb4a77f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Designer Co-op/Intern | Canada | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19279?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f5b80c6b-4bf4-4550-9431-8cd7cccb293a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Entegris](https://simplify.jobs/c/Entegris?utm_source=GHList&utm_medium=company)** | IT Application Developer Co-Op | Chaska, MN | <div align="center"><a href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/IT-Application-Developer-Co-Op_REQ-8367?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/eee94ed7-fb99-4553-a460-1652d707da39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | <div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR102141?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c100e296-5f5e-4b89-9b53-ce606d2e3eae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
@@ -116,7 +117,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (931)</summary>
+<summary>🗃️ Inactive roles (930)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -195,8 +196,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Internship - Android Engineer - Mobile Software | Palo Alto, CA | 🔒 | 1mo |
 | ↳ | Internship - Fullstack Engineer - Build Infrastructure | Palo Alto, CA | 🔒 | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Web Developer Co-op/Intern 🛂 | Kanata, Ontario, Canada | 🔒 | 1mo |
-| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Customer Applications Eng Co-op/Intern | Canada | 🔒 | 1mo |
-| ↳ | SW Tools Development Co-op/Intern | Remote in Canada | 🔒 | 1mo |
+| **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | SW Tools Development Co-op/Intern | Remote in Canada | 🔒 | 1mo |
 | Mackenzie Investments | Fall Intern, Technology Engineering | Toronto, Canada | 🔒 | 1mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Development Intern | Long Beach, MS | 🔒 | 1mo |
 | **[Sentry](https://simplify.jobs/c/Sentry?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Toronto, ON, Canada | 🔒 | 1mo |
@@ -1420,7 +1420,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Compute Systems Software Intern | Santa Clara, CA | 🔒 | 21d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Systems Software Engineering Intern - GPU Virtualization | Santa Clara, CA | 🔒 | 22d |
 | ↳ | Camera Systems Software Engineering Intern | Austin, TX</br>Santa Clara, CA | 🔒 | 22d |
-| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Hardware Design Co-Op | Ottawa, ON, Canada | 🔒 | 23d |
+| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Hardware Design Co-Op | Ottawa, ON, Canada | 🔒 | 24d |
 | **[Formlabs](https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company)** | Hardware Systems Engineering Intern | Cambridge, MA | 🔒 | 29d |
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Co-op/Intern | Ottawa, ON, Canada | 🔒 | 29d |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Electronic Design Engineer - AI Hardware | Palo Alto, CA | 🔒 | 1mo |
