@@ -584,7 +584,7 @@
 | ↳ | Technology & Storage Pathfinding Intern | San Jose, CA | 🔒 | 2mo |
 | **[Arvinas](https://simplify.jobs/c/Arvinas?utm_source=GHList&utm_medium=company)** | 2025 Summer Internship - Computational Chemistry & Artificial Intelligence | Remote in USA | 🔒 | 2mo |
 | **[Airbus](https://simplify.jobs/c/Airbus?utm_source=GHList&utm_medium=company)** | Intern – d/f/m | Hamburg, Germany | 🔒 | 2mo |
-| ↳ | Internship/Thesis within Deep Reinforcement Learning in combat simulations | Wangen im Allgäu, Germany | 🔒 | 2mo |
+| **[Airbus](https://simplify.jobs/c/Airbus?utm_source=GHList&utm_medium=company)** | Internship/Thesis within Deep Reinforcement Learning in combat simulations | Wangen im Allgäu, Germany | 🔒 | 2mo |
 | ↳ | Internship - Web development for command & control solutions | Wangen im Allgäu, Germany | 🔒 | 2mo |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Internship in Data Analysis and Dashboard Development | Sant Cugat del Vallès, Barcelona, Spain | 🔒 | 2mo |
 | **[Mistral AI](https://simplify.jobs/c/Mistral-AI?utm_source=GHList&utm_medium=company)** | Applied AI Engineer – Internship | Paris, France | 🔒 | 2mo |
