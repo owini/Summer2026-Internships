@@ -1507,7 +1507,7 @@
 | **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
 | ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
 | ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
-| ↳ | NPI Software Intern | Sunnyvale, CA | 🔒 | 4mo |
+| **[Intuitive Surgical](https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company)** | NPI Software Intern | Sunnyvale, CA | 🔒 | 4mo |
 | ↳ | Software Engineering Intern | Sunnyvale, CA | 🔒 | 4mo |
 | ↳ | Product Security Software Engineer Intern | Sunnyvale, CA | 🔒 | 4mo |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Internship | Seattle, WA</br>SF</br>Sunnyvale, CA | 🔒 | 4mo |
