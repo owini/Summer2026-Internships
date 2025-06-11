@@ -2184,7 +2184,6 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Tulip Interfaces](https://simplify.jobs/c/Tulip-Interfaces?utm_source=GHList&utm_medium=company)** | AI / Automation Engineering Intern | Cambridge, MA | <div align="center"><a href="https://tulip.co/careers/job-posting/?gh_jid=6583630003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/25591c29-de18-4a7b-989f-dc30f95dd2ae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
-| **[The Standard](https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d?utm_source=GHList&utm_medium=company)** | AI Engineering Engineer Intern | Remote in USA | <div align="center"><a href="https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Remote-USA/AI-Engineering-Engineer-Intern_REQ005730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/60f8fadd-db14-47a0-856d-52b2cd2c0291?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Kabam](https://simplify.jobs/c/Kabam?utm_source=GHList&utm_medium=company)** | Data Science Co-op | Vancouver, BC, Canada | <div align="center"><a href="https://jobs.lever.co/kabam/710ff74a-208d-43ba-aa05-69cf8ad199a3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5f5bc525-b743-4891-a08f-ddf5df85d398?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[WorldQuant](https://simplify.jobs/c/WorldQuant?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - AI/LLM Initiative | Stamford, CT | <div align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4574082006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1f8653cb-7f3f-401b-9f83-4af48decf575?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Drivetrain](https://simplify.jobs/c/Drivetrain?utm_source=GHList&utm_medium=company)** | Engineering Intern - Gen AI for FP&a Platform | Remote in USA | <div align="center"><a href="https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/610a68f2-345d-41ee-bb7b-fb32dbefc456?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
@@ -2214,11 +2213,12 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (802)</summary>
+<summary>🗃️ Inactive roles (803)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[AES](https://simplify.jobs/c/AES?utm_source=GHList&utm_medium=company)** | Advanced Analytics and Visualization Intern | Lafayette, CO | 🔒 | 0d |
+| **[The Standard](https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d?utm_source=GHList&utm_medium=company)** | AI Engineering Engineer Intern | Remote in USA | 🔒 | 0d |
 | **[Madhive](https://simplify.jobs/c/Madhive?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Mountain View, CA | 🔒 | 4d |
 | **[Becton Dickinson](https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company)** | Software Vision Engineer Intern | Durham, NC | 🔒 | 6d |
 | **[Kion Group](https://simplify.jobs/c/Kion-Group?utm_source=GHList&utm_medium=company)** | GenAI Agent Development Intern | Atlanta, GA | 🔒 | 6d |
@@ -2227,15 +2227,15 @@
 | **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | San Jose, CA | 🔒 | 8d |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - ADAS Insights | Mountain View, CA | 🔒 | 11d |
 | **[Sysco](https://simplify.jobs/c/Sysco?utm_source=GHList&utm_medium=company)** | Functional Analyst Intern | Houston, TX | 🔒 | 12d |
-| **[Howard University](https://simplify.jobs/c/Howard-University?utm_source=GHList&utm_medium=company)** | DDOT Intern-3 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-1 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-8 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-9 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-4 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-11 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-5 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-7 | Washington, DC | 🔒 | 12d |
-| ↳ | DDOT Intern-6 | Washington, DC | 🔒 | 12d |
+| **[Howard University](https://simplify.jobs/c/Howard-University?utm_source=GHList&utm_medium=company)** | DDOT Intern-3 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-1 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-8 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-9 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-4 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-11 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-5 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-7 | Washington, DC | 🔒 | 13d |
+| ↳ | DDOT Intern-6 | Washington, DC | 🔒 | 13d |
 | **[Samsung](https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company)** | Applied AI Engineer – Intern | Mountain View, CA | 🔒 | 13d |
 | **[JMA Wireless](https://simplify.jobs/c/JMA-Wireless?utm_source=GHList&utm_medium=company)** | Intern – Data and Analytics | Syracuse, NY | 🔒 | 13d |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Data Analytics Co-op | Toronto, ON, Canada | 🔒 | 13d |
