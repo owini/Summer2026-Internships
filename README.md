@@ -1206,7 +1206,7 @@
 | **[Snorkel AI](https://simplify.jobs/c/Snorkel-AI?utm_source=GHList&utm_medium=company)** | Software Engineer – Summer Intern | SF</br>San Carlos, CA | 🔒 | 4mo |
 | **[Rivian](https://simplify.jobs/c/Rivian?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Software Systems - Autonomy | Palo Alto, CA | 🔒 | 4mo |
 | **[Verizon Communications](https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company)** | Full Stack Software Development Co-op | Alpharetta, GA | 🔒 | 4mo |
-| **[Verizon Communications](https://simplify.jobs/c/Verizon-Communications?utm_source=GHList&utm_medium=company)** | Institute of Technology Full Stack Software Development Co-op | Berkeley Heights, NJ | 🔒 | 4mo |
+| ↳ | Institute of Technology Full Stack Software Development Co-op | Berkeley Heights, NJ | 🔒 | 4mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Power BI Intern | Reston, VA | 🔒 | 4mo |
 | **[Parsons](https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company)** | Computer Science Co-Op | Remote in USA | 🔒 | 4mo |
 | **[SMX](https://simplify.jobs/c/Smx?utm_source=GHList&utm_medium=company)** | Summer Internship-Software Engineer | Broomfield, CO | 🔒 | 4mo |

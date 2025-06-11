@@ -441,7 +441,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Apprentice - Software Applications Engineer | Spring, TX | 🔒 | 7mo |
 | ↳ | Apprentice - Software Engineer | Spring, TX | 🔒 | 7mo |
 | ↳ | Apprentice - Master Data Software Engineering | Spring, TX | 🔒 | 7mo |
-| ↳ | Apprentice-Back End Software Engineer | Spring, TX | 🔒 | 7mo |
+| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Apprentice-Back End Software Engineer | Spring, TX | 🔒 | 7mo |
 | **[Taboola](https://simplify.jobs/c/Taboola?utm_source=GHList&utm_medium=company)** | Frontend Engineer Intern | LA | 🔒 | 7mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Fall 2025 | Raleigh, NC | 🔒 | 7mo |
 | **[Intradiem](https://simplify.jobs/c/Intradiem?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | 🔒 | 7mo |
