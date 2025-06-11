@@ -190,7 +190,7 @@
 | **[Skydio](https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company)** | People Operations Software Engineer Intern | San Mateo, CA | 🔒 | 18d |
 | **[Fortra](https://simplify.jobs/c/Fortra?utm_source=GHList&utm_medium=company)** | Software Development Intern - Python and Linux | United States | 🔒 | 19d |
 | **[QuinStreet](https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95?utm_source=GHList&utm_medium=company)** | Full Stack Engineering Intern | San Mateo, CA | 🔒 | 19d |
-| **[CSL](https://simplify.jobs/c/CSL?utm_source=GHList&utm_medium=company)** | Development Engineer in Test Co-op | King of Prussia, PA | 🔒 | 19d |
+| **[CSL](https://simplify.jobs/c/CSL?utm_source=GHList&utm_medium=company)** | Development Engineer in Test Co-op | King of Prussia, PA | 🔒 | 20d |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Boise, ID | 🔒 | 20d |
 | **[Tinder](https://simplify.jobs/c/08ae8fc4-92fa-44db-9eef-7919ae60c2e6?utm_source=GHList&utm_medium=company)** | Android Intern | NYC | 🔒 | 20d |
 | **[Commure](https://simplify.jobs/c/Commure?utm_source=GHList&utm_medium=company)** | Software Engineering Intern-EHR | Mountain View, CA | 🔒 | 21d |
@@ -2183,7 +2183,6 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[AES](https://simplify.jobs/c/AES?utm_source=GHList&utm_medium=company)** | Advanced Analytics and Visualization Intern | Lafayette, CO | <div align="center"><a href="https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Advanced-Analytics-and-Visualization-Intern_R1060482-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9bd9e918-41bd-48d8-8bc8-cef9d17ba1aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Tulip Interfaces](https://simplify.jobs/c/Tulip-Interfaces?utm_source=GHList&utm_medium=company)** | AI / Automation Engineering Intern | Cambridge, MA | <div align="center"><a href="https://tulip.co/careers/job-posting/?gh_jid=6583630003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/25591c29-de18-4a7b-989f-dc30f95dd2ae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[The Standard](https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d?utm_source=GHList&utm_medium=company)** | AI Engineering Engineer Intern | Remote in USA | <div align="center"><a href="https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Remote-USA/AI-Engineering-Engineer-Intern_REQ005730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/60f8fadd-db14-47a0-856d-52b2cd2c0291?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Kabam](https://simplify.jobs/c/Kabam?utm_source=GHList&utm_medium=company)** | Data Science Co-op | Vancouver, BC, Canada | <div align="center"><a href="https://jobs.lever.co/kabam/710ff74a-208d-43ba-aa05-69cf8ad199a3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5f5bc525-b743-4891-a08f-ddf5df85d398?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -2215,10 +2214,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (801)</summary>
+<summary>🗃️ Inactive roles (802)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[AES](https://simplify.jobs/c/AES?utm_source=GHList&utm_medium=company)** | Advanced Analytics and Visualization Intern | Lafayette, CO | 🔒 | 0d |
 | **[Madhive](https://simplify.jobs/c/Madhive?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Mountain View, CA | 🔒 | 4d |
 | **[Becton Dickinson](https://simplify.jobs/c/Becton-Dickinson?utm_source=GHList&utm_medium=company)** | Software Vision Engineer Intern | Durham, NC | 🔒 | 6d |
 | **[Kion Group](https://simplify.jobs/c/Kion-Group?utm_source=GHList&utm_medium=company)** | GenAI Agent Development Intern | Atlanta, GA | 🔒 | 6d |
@@ -2256,7 +2256,7 @@
 | **[World Surf League](https://simplify.jobs/c/WorldSurfLeague?utm_source=GHList&utm_medium=company)** | Intern – Digital | El Segundo, CA | 🔒 | 21d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Data Analytics Engineer Intern | Dallas, TX | 🔒 | 21d |
 | **[American Electric Power](https://simplify.jobs/c/American-Electric-Power?utm_source=GHList&utm_medium=company)** | Tech & Security Intern | Columbus, OH | 🔒 | 21d |
-| **[Intermountain Healthcare](https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b?utm_source=GHList&utm_medium=company)** | Data Analytics Summer Intern | Salt Lake City, UT | 🔒 | 21d |
+| **[Intermountain Healthcare](https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b?utm_source=GHList&utm_medium=company)** | Data Analytics Summer Intern | Salt Lake City, UT | 🔒 | 22d |
 | **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | National Security Solutions – Internship - Nss - Autonomous Air Capabilities Development IRAD | Beavercreek, OH | 🔒 | 22d |
 | **[Ames Construction](https://simplify.jobs/c/Ames-Construction?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Burnsville, MN | 🔒 | 22d |
 | **[Transcarent](https://simplify.jobs/c/Transcarent?utm_source=GHList&utm_medium=company)** | Data Engineering Intern | Seattle, WA | 🔒 | 22d |
@@ -3032,6 +3032,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Global Markets Intern/Co-op - Asset Securitization | Toronto, ON, Canada | <div align="center"><a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Asset-Securitization--Fall-2025-_R_1425932?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9ef9e7e7-5382-489c-bc2a-669308ec2670?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Quantitative Trader Intern | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4f91f9ad-06fc-4170-9f01-5a7b006d0539?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[Point72](https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company)** | Quantitative Research Intern - NLP | NYC | <div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8018862002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/40191c78-13b8-4a10-a98b-9e59b67b2d9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | **[Point72](https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company)** | Quantitative Research Intern | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/point72/jobs/7880836002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f6c82347-3f0e-4229-b426-670569fe7f12?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
@@ -3043,7 +3044,7 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7?utm_source=GHList&utm_medium=company)** | Equities Sales & Trading Intern | NYC | 🔒 | 25d |
-| **[Keyrock](https://simplify.jobs/c/Keyrock?utm_source=GHList&utm_medium=company)** | Trading Operations Specialist | London, UK | 🔒 | 26d |
+| **[Keyrock](https://simplify.jobs/c/Keyrock?utm_source=GHList&utm_medium=company)** | Trading Operations Specialist | London, UK | 🔒 | 27d |
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Network Trading Partner Growth Intern – Sales Intern | Dallas, TX | 🔒 | 1mo |
 | **[Mr. Cooper](https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb?utm_source=GHList&utm_medium=company)** | Quantitative Analyst Intern | Dallas, TX | 🔒 | 1mo |
 | **[OptionMetrics](https://simplify.jobs/c/OptionMetrics?utm_source=GHList&utm_medium=company)** | Quant Analyst Internship | NYC | 🔒 | 1mo |
