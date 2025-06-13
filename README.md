@@ -2334,7 +2334,7 @@
 | **[MoneyLion](https://simplify.jobs/c/MoneyLion?utm_source=GHList&utm_medium=company)** | Data Science Intern | NYC | 🔒 | 2mo |
 | **[Proofpoint](https://simplify.jobs/c/proofpoint?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Machine Learning | Pittsburgh, PA</br>Draper, UT</br>Sunnyvale, CA | 🔒 | 2mo |
 | **[Socure](https://simplify.jobs/c/Socure?utm_source=GHList&utm_medium=company)** | Data Science Intern - DI | Remote in USA | 🔒 | 2mo |
-| ↳ | Data Science Intern - Fpf | Remote in USA | 🔒 | 2mo |
+| **[Socure](https://simplify.jobs/c/Socure?utm_source=GHList&utm_medium=company)** | Data Science Intern - Fpf | Remote in USA | 🔒 | 2mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Data Engineer - Electronic Devices | Palo Alto, CA | 🔒 | 2mo |
 | **[Boom Supersonic](https://simplify.jobs/c/Boom-Supersonic?utm_source=GHList&utm_medium=company)** | Data Science Intern | Centennial, CO | 🔒 | 2mo |
 | **[Pitney Bowes](https://simplify.jobs/c/Pitney-Bowes?utm_source=GHList&utm_medium=company)** | Data Science Intern | Shelton, CT | 🔒 | 2mo |

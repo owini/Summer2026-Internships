@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 95 Internship Roles by Category
+### Browse 97 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (49)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (51)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (21)
 
@@ -109,11 +109,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Co-op | Fayetteville, GA | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1755/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1cd88f81-0a23-4640-81ac-5705d400fa0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | ↳ | Co-op | Houston, TX | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1756/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/08c8f8de-61e9-4547-b8c6-fbe14b2a223f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | ↳ | Co-op | Holly Springs, NC | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1754/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4e89087-bab1-4c00-97ae-d0727495f79b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
+| **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Digital Technology Co-op | Detroit, MI</br>Cincinnati, OH | <div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026---Returning-Students_R5004190-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/428a9796-35b6-495d-89bf-101a1f45ef19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
+| ↳ | Digital Technology Co-op | Detroit, MI</br>Cincinnati, OH | <div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026---Returning-Students_R5004188?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/23a6a187-d8d4-4014-97bd-e1c3ba5a5182?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Neenah, WI | <div align="center"><a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026-_R031605?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95ee60f6-72ac-4823-befb-9abece948a70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
 
 
 <details>
-<summary>🗃️ Inactive roles (937)</summary>
+<summary>🗃️ Inactive roles (935)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -266,8 +268,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 3mo |
 | **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | GE Aerospace Engineering Engines Computer or Software Engineering Intern | Saugus, MA</br>Cincinnati, OH | 🔒 | 3mo |
 | ↳ | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 3mo |
-| ↳ | Digital Technology Co-op | Detroit, MI</br>Cincinnati, OH | 🔒 | 3mo |
-| ↳ | Digital Technology Co-op | Detroit, MI</br>Cincinnati, OH | 🔒 | 3mo |
 | ↳ | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 3mo |
 | ↳ | GE Aerospace Engineering Engines Computer or Software Engineering Intern - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 3mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Data Strategy & Transformation Intern | Remote in USA | 🔒 | 3mo |
