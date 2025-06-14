@@ -304,12 +304,12 @@
 | **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Jose, CA | 🔒 | 1mo |
 | **[skillz](https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineering Co-Op | Las Vegas, NV | 🔒 | 1mo |
 | **[American Cancer Society](https://simplify.jobs/c/American-Cancer-Society?utm_source=GHList&utm_medium=company)** | IT – Intern - MS365/Data Management | <details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details> | 🔒 | 1mo |
-| **[Rocket Lawyer](https://simplify.jobs/c/Rocket-Lawyer?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arizona | 🔒 | 1mo |
-| ↳ | Software Engineering Intern | Colorado | 🔒 | 1mo |
-| ↳ | Software Engineering Intern | California | 🔒 | 1mo |
-| ↳ | Software Engineering Intern | Salt Lake City, UT | 🔒 | 1mo |
-| ↳ | Software Engineering Intern | North Carolina | 🔒 | 1mo |
-| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Summer 2025 Intern - Failure Analysis Engineering | San Jose, CA | 🔒 | 1mo |
+| **[Rocket Lawyer](https://simplify.jobs/c/Rocket-Lawyer?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arizona | 🔒 | 2mo |
+| ↳ | Software Engineering Intern | Colorado | 🔒 | 2mo |
+| ↳ | Software Engineering Intern | California | 🔒 | 2mo |
+| ↳ | Software Engineering Intern | Salt Lake City, UT | 🔒 | 2mo |
+| ↳ | Software Engineering Intern | North Carolina | 🔒 | 2mo |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Summer 2025 Intern - Failure Analysis Engineering | San Jose, CA | 🔒 | 2mo |
 | **[North Atlantic Industries](https://simplify.jobs/c/North-Atlantic-Industries?utm_source=GHList&utm_medium=company)** | Intern-Full Stack Software Engineer | Long Island, New York | 🔒 | 2mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Developer Summer Intern | Huntsville, AL | 🔒 | 2mo |
 | **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Jose, CA | 🔒 | 2mo |
@@ -404,7 +404,7 @@
 | **[Royal Bank of Canada](https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company)** | Relationship Manager Commercial Markets Intern | St. John's, NL, Canada | 🔒 | 2mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Compiler Software Engineer Intern | Austin, TX | 🔒 | 2mo |
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Engineering Intern | Auburn Hills, MI | 🔒 | 2mo |
-| ↳ | Application Engineering Intern | Auburn Hills, MI | 🔒 | 2mo |
+| **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Application Engineering Intern | Auburn Hills, MI | 🔒 | 2mo |
 | **[Wood Mackenzie](https://simplify.jobs/c/Wood-Mackenzie?utm_source=GHList&utm_medium=company)** | Power & Renewables Co-Op | Boston, MA | 🔒 | 2mo |
 | HP | Software Intern | Kitchener, Ontario, Canada | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Jose, CA | 🔒 | 2mo |
@@ -2323,11 +2323,11 @@
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Data Science Intern - Summer | Auburn Hills, MI | 🔒 | 1mo |
 | **[International Flavors & Fragrances](https://simplify.jobs/c/International-Flavors-Fragrances?utm_source=GHList&utm_medium=company)** | Intern – Data Analytics | Matawan, NJ | 🔒 | 1mo |
 | **[Trimble](https://simplify.jobs/c/Trimble?utm_source=GHList&utm_medium=company)** | Sales Analytics Intern | Westminster, CO | 🔒 | 1mo |
-| **[Rocket Lawyer](https://simplify.jobs/c/Rocket-Lawyer?utm_source=GHList&utm_medium=company)** | AI/ML Intern | Salt Lake City, UT | 🔒 | 1mo |
-| ↳ | AI/ML Intern | North Carolina | 🔒 | 1mo |
-| ↳ | AI/ML Intern | Colorado | 🔒 | 1mo |
-| ↳ | AI/ML Intern | Arizona | 🔒 | 1mo |
-| ↳ | AI/ML Intern | California | 🔒 | 1mo |
+| **[Rocket Lawyer](https://simplify.jobs/c/Rocket-Lawyer?utm_source=GHList&utm_medium=company)** | AI/ML Intern | Salt Lake City, UT | 🔒 | 2mo |
+| ↳ | AI/ML Intern | North Carolina | 🔒 | 2mo |
+| ↳ | AI/ML Intern | Colorado | 🔒 | 2mo |
+| ↳ | AI/ML Intern | Arizona | 🔒 | 2mo |
+| ↳ | AI/ML Intern | California | 🔒 | 2mo |
 | **[Skechers](https://simplify.jobs/c/Skechers?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | El Segundo, CA | 🔒 | 2mo |
 | **[USAA](https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63?utm_source=GHList&utm_medium=company)** | Data Analyst Intern - Bank Analytics | Plano, TX | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | 2025 Intern – Supply Chain Data Analytics Intern | Andover, MA | 🔒 | 2mo |
