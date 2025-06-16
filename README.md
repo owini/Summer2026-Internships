@@ -181,7 +181,7 @@
 | **[KION](https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5?utm_source=GHList&utm_medium=company)** | Software Consultant Intern/Co-op | Grand Rapids, MI</br>Dallas, TX</br>Atlanta, GA | 🔒 | 12d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Development Intern | Orlando, FL | 🔒 | 13d |
 | **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Reston, VA | 🔒 | 13d |
-| **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Co-Op – Software Engineering | SF | 🔒 | 13d |
+| **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Co-Op – Software Engineering | SF | 🔒 | 14d |
 | **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 16d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - AI Tools Analysis | Santa Clara, CA | 🔒 | 16d |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | SDE Intern - Summer | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</details> | 🔒 | 16d |
