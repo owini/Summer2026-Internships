@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 96 Internship Roles by Category
+### Browse 95 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (18)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (2)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (1)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (19)
 
@@ -67,7 +67,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Co-op Java Developer | Vancouver, BC, Canada | <div align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=5565491004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9c18efc-327b-4b42-b326-af44cae5ba7d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Co-op Software Development Engineer in Test - Sdet | Vancouver, BC, Canada | <div align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=5565471004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f9077fea-b77f-4035-bae6-59f001e468f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Product Verification Automation Co-op | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Automation-Co-op--Fall-2025-_R026258?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/86a281b9-be8d-4f04-b246-faa021f43e63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
-| Bombardier | Intern, Programmer 🛂 | Dorval, Québec, Canada | <div align="center"><a href="https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
+| Bombardier | Intern, Programmer 🛂 | Dorval, Québec, Canada | <div align="center"><a href="https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Software Developer – Internship | NYC | <div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/816c5f54-a0d1-4843-bc9d-7392250f4e42?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Program Management Co-op | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Program-Management-Co-op--May-Aug-2025-_R027982?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/74e6aaf3-7129-45a9-adc5-e29c671626f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Blue Origin](https://simplify.jobs/c/Blue-Origin?utm_source=GHList&utm_medium=company)** | Avionics Software Engineering Intern - Undergraduate | Seattle, WA | <div align="center"><a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/545c1ba4-aad0-4d0a-8062-462629f0715e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 16d |
@@ -126,13 +126,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Behaviour Interactive](https://simplify.jobs/c/Behaviour-Interactive?utm_source=GHList&utm_medium=company)** | Technical Designer - Concepteur·trice technique | Montreal, QC, Canada | 🔒 | 5d |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Networking | Santa Clara, CA | 🔒 | 5d |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Networking | Santa Clara, CA | 🔒 | 6d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Frontend | Colorado</br>North Carolina | 🔒 | 13d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Backend/Full-stack | Colorado</br>North Carolina | 🔒 | 15d |
 | ↳ | Software Engineer Co-Op - Backend/Full-stack | Remote in Canada | 🔒 | 15d |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Software Test & Developer Experience Co-op | Kitchener, ON, Canada | 🔒 | 15d |
 | Ericsson | WebDeveloper Intern | Montreal,Quebec,Canada | 🔒 | 15d |
-| Info-Tech Research Group | Co-op Software Developer | Remote in Ontario Canada | 🔒 | 18d |
+| Info-Tech Research Group | Co-op Software Developer | Remote in Ontario Canada | 🔒 | 19d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Deepfield Software Engineer Co-op | Ann Arbor, MI | 🔒 | 21d |
 | **[Autodesk](https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Montreal, QC, Canada | 🔒 | 21d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Backend Compiler Engineer Intern | Santa Clara, CA | 🔒 | 25d |
@@ -194,7 +194,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Web Portal Dev Co-op/Intern | Canada | 🔒 | 1mo |
 | RBC | 2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months | TORONTO, Ontario, Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Distributed Scientific Computing Libraries | Santa Clara, CA | 🔒 | 1mo |
-| Procter & Gamble | Digital Technologies Internship/Co-op Fall 2025 | TORONTO, Ontario, Canada | 🔒 | 1mo |
+| Procter & Gamble | Digital Technologies Internship/Co-op Fall 2025 | TORONTO, Ontario, Canada | 🔒 | 2mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 2mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Product Engineer - Applications Engineering | Fremont, CA | 🔒 | 2mo |
 | ↳ | Internship - Integration Platforms Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 2mo |
@@ -1349,7 +1349,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Covariant](https://simplify.jobs/c/Covariant?utm_source=GHList&utm_medium=company)** | Machine Learning - AI Research Internship | Oakland, CA | 🔒 | 23mo |
 | **[Ambi Robotics](https://simplify.jobs/c/AmbiRobotics?utm_source=GHList&utm_medium=company)** | ML Software Engineering Intern - MS | Oakland, CA | 🔒 | 23mo |
 | Milliman | Healthcare Analytics Intern | <details><summary>**4 locations**</summary>Milwaukee, WI</br>Chicago, IL</br>Hartford, CT</br>Remote</details> | 🔒 | 23mo |
-| Skyworks Solutions | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) | Andover, CA | 🔒 | 23mo |
+| Skyworks Solutions | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) | Andover, CA | 🔒 | 24mo |
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Data Analyst Co-op/Internship - Corporate Real Estate | Toronto, ON, Canada | 🔒 | 24mo |
 
 
@@ -1364,14 +1364,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Quantitative Analyst - Pension Investment Management | Toronto, ON, Canada | <div align="center"><a href="https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quantitative-Analyst--Pension-Investment-Management--Fall-2025-Co-Op-_2513753?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7da7fb12-a0da-422e-8ef0-50a5727ba6c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
-| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | <div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Fall-2025--Co-op-Internship----8-months_R250014438?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/01a5cd25-7d67-4b65-b1db-7e14805710fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 12d |
 
 
 <details>
-<summary>🗃️ Inactive roles (17)</summary>
+<summary>🗃️ Inactive roles (18)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | 🔒 | 12d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Algorithmic Trader Intern | Chicago, IL | 🔒 | 14d |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Financial Investment Analyst Co-op | Toronto, ON, Canada | 🔒 | 1mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution | Toronto, ON, Canada | 🔒 | 1mo |
@@ -1427,7 +1427,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Software Developer Co-op | Ottawa, ON, Canada | 🔒 | 5d |
+| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Software Developer Co-op | Ottawa, ON, Canada | 🔒 | 6d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Embedded C/C++ Software Dev Intern | Canada | 🔒 | 6d |
 | **[Signify](https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company)** | Firmware Development Engineering Intern | Atlanta, GA | 🔒 | 6d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Stagiaire en conception de logiciels/Software Designer Intern | Laval, QC, Canada | 🔒 | 7d |
