@@ -1430,7 +1430,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Software Developer Co-op | Ottawa, ON, Canada | 🔒 | 6d |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Embedded C/C++ Software Dev Intern | Canada | 🔒 | 6d |
 | **[Signify](https://simplify.jobs/c/Signify?utm_source=GHList&utm_medium=company)** | Firmware Development Engineering Intern | Atlanta, GA | 🔒 | 6d |
-| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Stagiaire en conception de logiciels/Software Designer Intern | Laval, QC, Canada | 🔒 | 7d |
+| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | Stagiaire en conception de logiciels/Software Designer Intern | Laval, QC, Canada | 🔒 | 8d |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Software Developer Co-op - OS Team | Kitchener, ON, Canada | 🔒 | 12d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Networking Software Intern | Santa Clara, CA | 🔒 | 19d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | System Software Intern - Power Management | Santa Clara, CA | 🔒 | 1mo |
