@@ -302,9 +302,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Groq](https://simplify.jobs/c/Groq?utm_source=GHList&utm_medium=company)** | Software Engineer – Model Evaluation Systems Intern | Remote in USA</br>Remote in Canada | 🔒 | 3mo |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Program Management Co-op | Ottawa, ON, Canada | 🔒 | 3mo |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Software Intern | Kitchener, ON, Canada | 🔒 | 3mo |
-| ↳ | Associate Software Developer – Co-op position - HP Anyware Endpoints System Team | Vancouver, BC, Canada | 🔒 | 3mo |
+| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer – Co-op position - HP Anyware Endpoints System Team | Vancouver, BC, Canada | 🔒 | 3mo |
 | ↳ | Associate Software Developer – Co-op position - HP Anyware Endpoints Performance | Vancouver, BC, Canada | 🔒 | 3mo |
-| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer | Vancouver, BC, Canada | 🔒 | 3mo |
+| ↳ | Associate Software Developer | Vancouver, BC, Canada | 🔒 | 3mo |
 | **[Integrity](https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965?utm_source=GHList&utm_medium=company)** | Advanced Markets Intern | Fort Wayne, IN | 🔒 | 3mo |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | AI Scientist Co-op | Toronto, ON, Canada | 🔒 | 3mo |
 | **[Lake Michigan Credit Union](https://simplify.jobs/c/Lake-Michigan-Credit-Union?utm_source=GHList&utm_medium=company)** | Retail Intern | Tampa, FL | 🔒 | 3mo |
@@ -344,9 +344,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank?utm_source=GHList&utm_medium=company)** | Enterprise Data Office College Co-op | Cincinnati, OH | 🔒 | 4mo |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Software Development Intern - Early Careers | NYC | 🔒 | 4mo |
 | **[Analog Devices](https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company)** | Product Engineer Intern | Burlington, MA | 🔒 | 4mo |
-| **[Genworth Financial](https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company)** | Risk Modeling Intern | Raleigh, NC | 🔒 | 4mo |
-| ↳ | Enterprise Data Management Office Intern | Raleigh, NC | 🔒 | 4mo |
-| **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | UPS Technology Co-Op | Towson, MD | 🔒 | 4mo |
+| **[Genworth Financial](https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company)** | Risk Modeling Intern | Raleigh, NC | 🔒 | 5mo |
+| ↳ | Enterprise Data Management Office Intern | Raleigh, NC | 🔒 | 5mo |
+| **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | UPS Technology Co-Op | Towson, MD | 🔒 | 5mo |
 | **[FM Global](https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company)** | Software Development Co-Op | Providence, RI | 🔒 | 5mo |
 | **[PulteGroup](https://simplify.jobs/c/PulteGroup?utm_source=GHList&utm_medium=company)** | IT Software Developer Intern - External Applications | Tempe, AZ</br>Atlanta, GA | 🔒 | 5mo |
 | ↳ | IT Software Developer Intern - Internal Applications | Atlanta, GA | 🔒 | 5mo |
@@ -355,7 +355,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – Internship | NYC | 🔒 | 5mo |
 | **[Eulerity](https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company)** | Web Developer Intern | NYC | 🔒 | 5mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer | Urbana, IL | 🔒 | 5mo |
-| ↳ | Software Engineer | Hoffman Estates, IL | 🔒 | 5mo |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer | Hoffman Estates, IL | 🔒 | 5mo |
 | **[Discover](https://simplify.jobs/c/Discover?utm_source=GHList&utm_medium=company)** | 2025 Business Technology Internship Program | Wheeling, IL | 🔒 | 5mo |
 | ↳ | 2025 Business Technology Internship Program | Houston, TX | 🔒 | 5mo |
 | **[MRI Software](https://simplify.jobs/c/MRI-Software?utm_source=GHList&utm_medium=company)** | Spring Intern - Accounting Data Management | Remote in USA | 🔒 | 5mo |
@@ -766,7 +766,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Kinaxis](https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company)** | Co-Op/Intern Developer - Devops | Canada | 🔒 | 17mo |
 | ↳ | Co-Op/Intern Software Engineer - Data Ingestion | Ottawa, ON, Canada | 🔒 | 17mo |
 | ↳ | Co-Op/Intern Software Developer - Core Algorithms | Ottawa, ON, Canada | 🔒 | 17mo |
-| ↳ | Co-Op/Intern Developer - Query Engine - Back End Technologies | Ottawa, ON, Canada | 🔒 | 17mo |
+| **[Kinaxis](https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company)** | Co-Op/Intern Developer - Query Engine - Back End Technologies | Ottawa, ON, Canada | 🔒 | 17mo |
 | **[Kinaxis](https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company)** | Co-Op/Intern Developer - Clients - Front End Technologies | Ottawa, ON, Canada | 🔒 | 17mo |
 | **[The Boring Company](https://simplify.jobs/c/The-Boring-Company?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Winter/Spring 2024 | Bastrop, TX | 🔒 | 17mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Spring 2025 | Neenah, WI | 🔒 | 17mo |
@@ -901,7 +901,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | FoodCLUB | IOS Internship | Remote | 🔒 | 21mo |
 | **[Torc Robotics](https://simplify.jobs/c/Torc-Robotics?utm_source=GHList&utm_medium=company)** | Vision Integration Intern | Montreal, QC, Canada | 🔒 | 21mo |
 | **[Eulerity](https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company)** | Mobile iOS Fall Intern | NYC | 🔒 | 21mo |
-| ↳ | Mobile Android Fall Intern | NYC | 🔒 | 21mo |
+| **[Eulerity](https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company)** | Mobile Android Fall Intern | NYC | 🔒 | 21mo |
 | **[Ample](https://simplify.jobs/c/Ample?utm_source=GHList&utm_medium=company)** | Computer Vision Software Engineer – Intern - January 2024 | SF | 🔒 | 21mo |
 | **[Zipline](https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company)** | Simulation Engineering Intern Spring 2024 | San Bruno, CA | 🔒 | 21mo |
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Internship - Winter 2024 - 8 months | Naperville, IL | 🔒 | 21mo |
@@ -1184,7 +1184,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Data Science Intern - Kalypso | Remote in USA | 🔒 | 4mo |
 | **[MFS](https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e?utm_source=GHList&utm_medium=company)** | Data Science Analyst Co-op | Boston, MA | 🔒 | 4mo |
 | **[Genesys](https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447?utm_source=GHList&utm_medium=company)** | Software Engineer Intern-Analytics | <details><summary>**7 locations**</summary>Indianapolis, IN</br>California</br>Durham, NC</br>Utah</br>Massachusetts</br>North Carolina</br>Indiana</details> | 🔒 | 4mo |
-| **[Genworth Financial](https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Raleigh, NC | 🔒 | 4mo |
+| **[Genworth Financial](https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | Raleigh, NC | 🔒 | 5mo |
 | **[Avnet](https://simplify.jobs/c/Avnet?utm_source=GHList&utm_medium=company)** | Undergraduate Data Analytics Intern | Phoenix, AZ | 🔒 | 5mo |
 | **[MSD](https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183?utm_source=GHList&utm_medium=company)** | 2025 University Recruiting – Oncology Business Insights & Analytics Internship | North Wales, PA | 🔒 | 5mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer - Video Analytics |  | 🔒 | 5mo |
