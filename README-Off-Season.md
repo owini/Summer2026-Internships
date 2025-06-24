@@ -1488,7 +1488,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Atomic Semi](https://simplify.jobs/c/Atomic-Semi?utm_source=GHList&utm_medium=company)** | Embedded SWE Intern - Winter | SF | 🔒 | 9mo |
 | **[Figure](https://simplify.jobs/c/Figure-AI?utm_source=GHList&utm_medium=company)** | Embedded Software Intern - Winter 2025 | Sunnyvale, CA | 🔒 | 9mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Intern, Vehicle Software | Palo Alto, CA | 🔒 | 12mo |
-| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Fall 2024 Embedded Software Engineering Intern | Longmont, CO | 🔒 | 13mo |
+| **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Fall 2024 Embedded Software Engineering Intern | Longmont, CO | 🔒 | 14mo |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital?utm_source=GHList&utm_medium=company)** | Fall 2024 Embedded Software Engineering Intern | Longmont, CO | 🔒 | 14mo |
 | **[Square](https://simplify.jobs/c/Square?utm_source=GHList&utm_medium=company)** | Hardware ML Data Science – Intern - 12-months | Toronto, ON, Canada</br>Remote | 🔒 | 15mo |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Intern – Hardware Development Test | Mequon, WI | 🔒 | 15mo |
