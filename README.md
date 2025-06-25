@@ -82,7 +82,7 @@
 | **[Bits](https://simplify.jobs/c/Bits?utm_source=GHList&utm_medium=company)** | Software Engineer – Summer Internship | NYC | <div align="center"><a href="https://apply.workable.com/getbits/j/52E7B0CF95/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8e5903ba-fdd9-4b77-99bb-e78ca08e1321?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | N1 | Software Engineer Intern [Backend, Rust] | New York | <div align="center"><a href="https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | 12-month Product Verification Security Automation Intern | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/XMLNAME-12-month-Product-Verification-Security-Automation-Intern---Onsite_R028273?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/719b6c71-b98b-4a5c-aba0-27f61aba89a4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
-| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Platform Capability Engineering Intern | Reston, VA | <div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/744000064390815?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
+| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Platform Capability Engineering Intern | Reston, VA | <div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/744000064390815?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
 | **[84.51 Degrees](https://simplify.jobs/c/84-51?utm_source=GHList&utm_medium=company)** | Agile Delivery – Co-op Program | Cincinnati, OH | <div align="center"><a href="https://job-boards.greenhouse.io/8451university/jobs/8028712002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9e102733-6e80-40f3-831f-4022ad7667e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | ISM Co-Op | Parsippany-Troy Hills, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-Op_R25015025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8d574959-501d-4917-9a26-884149db7bda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
 | ↳ | ISM Co-op | Parsippany-Troy Hills, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25015026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/97c78a04-9659-4c0b-98c7-070b2fb5335b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
@@ -175,10 +175,10 @@
 | **[Equinox](https://simplify.jobs/c/Equinox?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | 🔒 | 2d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Co-op: Fall 2025 - F135 Program Digital Solutions | Hartford, CT | 🔒 | 5d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 5d |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Localization Software Developer – Co-Op | Vancouver, BC, Canada | 🔒 | 7d |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Localization Software Developer – Co-Op | Vancouver, BC, Canada | 🔒 | 8d |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Install Automation Engineer Intern | Santa Clara, CA | 🔒 | 9d |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Java Developer Co-op | Kelowna, BC, Canada | 🔒 | 11d |
-| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Platform Capability Engineering Intern | Reston, VA | 🔒 | 11d |
+| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Platform Capability Engineering Intern | Reston, VA | 🔒 | 12d |
 | **[Echo Global Logistics](https://simplify.jobs/c/02d318d6-1b68-4674-a557-5095f957451e?utm_source=GHList&utm_medium=company)** | RPA Intern | Chicago, IL | 🔒 | 12d |
 | **[Warp Payroll](https://simplify.jobs/c/Warp-HR?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | 🔒 | 13d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Co-Op: Computer Science Project | Springdale, AR | 🔒 | 13d |
@@ -192,17 +192,17 @@
 | **[Blue Yonder](https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | Dallas, TX | 🔒 | 21d |
 | **[KION](https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5?utm_source=GHList&utm_medium=company)** | Software Consultant Intern/Co-op | Grand Rapids, MI</br>Dallas, TX</br>Atlanta, GA | 🔒 | 22d |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Development Intern | Orlando, FL | 🔒 | 22d |
-| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Reston, VA | 🔒 | 22d |
+| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Reston, VA | 🔒 | 23d |
 | **[Energy Recovery](https://simplify.jobs/c/Energy-Recovery?utm_source=GHList&utm_medium=company)** | Mechanical Engineering Intern - Product Engineering | San Leandro, CA | 🔒 | 25d |
-| **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 25d |
+| **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 26d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - AI Tools Analysis | Santa Clara, CA | 🔒 | 26d |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | SDE Intern - Summer | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</details> | 🔒 | 26d |
 | **[Inmar Intelligence](https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Winston-Salem, NC | 🔒 | 26d |
 | **[Comscore](https://simplify.jobs/c/35c46844-c46b-40a6-9ed6-25a554223d8b?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA</br>Reston, VA | 🔒 | 26d |
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Shop Floor Systems Developer Intern | Kokomo, IN | 🔒 | 28d |
 | **[SprintRay](https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f?utm_source=GHList&utm_medium=company)** | Software Development Engineer Intern | LA | 🔒 | 28d |
-| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Reston, VA | 🔒 | 28d |
-| **[Unlikely AI](https://simplify.jobs/c/UnlikelyAI?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | London, UK | 🔒 | 28d |
+| **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Reston, VA | 🔒 | 29d |
+| **[Unlikely AI](https://simplify.jobs/c/UnlikelyAI?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | London, UK | 🔒 | 29d |
 | **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Co-Op – Software Engineering | SF | 🔒 | 1mo |
 | **[Skydio](https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company)** | People Operations Software Engineer Intern | San Mateo, CA | 🔒 | 1mo |
 | **[Fortra](https://simplify.jobs/c/Fortra?utm_source=GHList&utm_medium=company)** | Software Development Intern - Python and Linux | United States | 🔒 | 1mo |
@@ -238,7 +238,7 @@
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Arlington, VA | 🔒 | 1mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Technical Intern | Remote in USA | 🔒 | 1mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - ML Performance Software Engineer - Dojo | Palo Alto, CA | 🔒 | 1mo |
-| ↳ | Internship - Fullstack Engineer - Design Technology | Palo Alto, CA | 🔒 | 1mo |
+| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Fullstack Engineer - Design Technology | Palo Alto, CA | 🔒 | 1mo |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Austin, TX | 🔒 | 1mo |
 | ↳ | Software Engineering Intern | Austin, TX | 🔒 | 1mo |
 | **[nVent](https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff?utm_source=GHList&utm_medium=company)** | Summer Software Engineering Co-op | Solon, OH | 🔒 | 1mo |
@@ -444,7 +444,7 @@
 | **[Spencer Stuart](https://simplify.jobs/c/Spencer-Stuart?utm_source=GHList&utm_medium=company)** | Intern – Data Analysis | Philadelphia, PA | 🔒 | 2mo |
 | **[S&P Global ](https://simplify.jobs/c/SP-Global?utm_source=GHList&utm_medium=company)** | Upstream Intern | Houston, TX | 🔒 | 2mo |
 | **[IXL Learning](https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Raleigh, NC | 🔒 | 2mo |
-| **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 2mo |
+| **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 3mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Tualatin, OR | 🔒 | 3mo |
 | **[David Zwirner Gallery](https://simplify.jobs/c/David-Zwirner-Gallery?utm_source=GHList&utm_medium=company)** | Technical Operations Internship | NYC | 🔒 | 3mo |
 | **[BigID](https://simplify.jobs/c/BigID?utm_source=GHList&utm_medium=company)** | Software Integration Engineer Intern | Remote in USA | 🔒 | 3mo |
@@ -2206,7 +2206,6 @@
 | **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Co-op – Data Science | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>Little Rock, AR</br>NYC</details> | <div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-op--Data-Science_JR011667?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/89b8ffb6-8d7c-4900-8706-96cfae17748d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Neuberger Berman](https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f?utm_source=GHList&utm_medium=company)** | Intern – Technology | London, UK | <div align="center"><a href="https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/London/Intern_R0010928?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/69ee3238-eb2a-4a7c-a29b-3ec0ff70dee2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Intern | Aberdeen, MD | <div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Aberdeen-Proving-Ground/Intern_R0140943?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4cdbe908-45c5-4224-9880-5e7cf77956c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
-| **[Formstack](https://simplify.jobs/c/Formstack?utm_source=GHList&utm_medium=company)** | AI Intern | SF</br>Denver, CO | <div align="center"><a href="https://jobs.lever.co/formstack/4c2cbe26-5948-4686-95a4-8f7145d7d2a8/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/956a72b2-14a0-4e9b-b3fa-19486c6734f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[IPG DXTRA](https://simplify.jobs/c/IPG-DXTRA?utm_source=GHList&utm_medium=company)** | AI & Analytics Intern | Washington, DC | <div align="center"><a href="https://job-boards.greenhouse.io/dxacirca/jobs/8040063002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b7892ba6-6fe2-49a3-b781-0a46d8c18c8a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick?utm_source=GHList&utm_medium=company)** | AI & Analytics Intern | Washington, DC | <div align="center"><a href="https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8040062002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/986a9beb-fbed-4491-930b-2d13ec403e4e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Business Automation Intern | Auburn Hills, MI | <div align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Business-Automation-Intern_R2025-2397?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/57dab389-8b07-4069-8915-49ea65020e69?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
@@ -2235,10 +2234,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (822)</summary>
+<summary>🗃️ Inactive roles (823)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Formstack](https://simplify.jobs/c/Formstack?utm_source=GHList&utm_medium=company)** | AI Intern | SF</br>Denver, CO | 🔒 | 4d |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Lexington, KY | 🔒 | 5d |
 | **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Risk Data Science Intern | San Jose, CA | 🔒 | 5d |
 | **[Faraday Future](https://simplify.jobs/c/Faraday-Future?utm_source=GHList&utm_medium=company)** | Intern – Data Analyst | West Athens, CA | 🔒 | 8d |
@@ -2282,7 +2282,7 @@
 | **[HARMAN International](https://simplify.jobs/c/HARMAN-International?utm_source=GHList&utm_medium=company)** | Summer Intern - AI/ML Engineer | Bellevue, WA | 🔒 | 28d |
 | **[Proofpoint](https://simplify.jobs/c/proofpoint?utm_source=GHList&utm_medium=company)** | Marketing Performance & Analytics Intern | Sunnyvale, CA | 🔒 | 28d |
 | **[Capital Power](https://simplify.jobs/c/Capital-Power?utm_source=GHList&utm_medium=company)** | Engineering – Student Intern | Calgary, AB, Canada | 🔒 | 28d |
-| **[Unlikely AI](https://simplify.jobs/c/UnlikelyAI?utm_source=GHList&utm_medium=company)** | Machine Learning Engineering Internship | London, UK | 🔒 | 28d |
+| **[Unlikely AI](https://simplify.jobs/c/UnlikelyAI?utm_source=GHList&utm_medium=company)** | Machine Learning Engineering Internship | London, UK | 🔒 | 29d |
 | **[Proofpoint](https://simplify.jobs/c/proofpoint?utm_source=GHList&utm_medium=company)** | Message Intelligence Services Intern | Sunnyvale, CA | 🔒 | 1mo |
 | **[Bonterra](https://simplify.jobs/c/Bonterra?utm_source=GHList&utm_medium=company)** | R&D Engineering Intern | Remote in USA | 🔒 | 1mo |
 | **[CSL](https://simplify.jobs/c/CSL?utm_source=GHList&utm_medium=company)** | Enterprise AI Platform Co-Op | King of Prussia, PA | 🔒 | 1mo |
@@ -2424,7 +2424,7 @@
 | ↳ | Data Science Analyst – Intern | LA | 🔒 | 3mo |
 | ↳ | Data Science Analyst – Intern | SF | 🔒 | 3mo |
 | **[Yodlee](https://simplify.jobs/c/Yodlee?utm_source=GHList&utm_medium=company)** | Data Science Intern | Raleigh, NC | 🔒 | 3mo |
-| **[Yodlee](https://simplify.jobs/c/Yodlee?utm_source=GHList&utm_medium=company)** | Data Science Intern | Raleigh, NC | 🔒 | 3mo |
+| ↳ | Data Science Intern | Raleigh, NC | 🔒 | 3mo |
 | **[Sarepta](https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Co-op | Remote in USA | 🔒 | 3mo |
 | **[Block](https://simplify.jobs/c/Block?utm_source=GHList&utm_medium=company)** | Data Science Intern | Toronto, ON, Canada | 🔒 | 3mo |
 | **[Medline](https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa?utm_source=GHList&utm_medium=company)** | Business Analytics Intern | Northbrook, IL | 🔒 | 3mo |
