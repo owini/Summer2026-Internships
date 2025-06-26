@@ -127,7 +127,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Co-op Software Development Engineer in Test - Sdet | Vancouver, BC, Canada | 🔒 | 12d |
 | **[Behaviour Interactive](https://simplify.jobs/c/Behaviour-Interactive?utm_source=GHList&utm_medium=company)** | Technical Designer - Concepteur·trice technique | Montreal, QC, Canada | 🔒 | 13d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Networking | Santa Clara, CA | 🔒 | 14d |
-| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Software Developer – Internship | NYC | 🔒 | 19d |
+| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Software Developer – Internship | NYC | 🔒 | 20d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Frontend | Colorado</br>North Carolina | 🔒 | 21d |
 | **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Backend/Full-stack | Colorado</br>North Carolina | 🔒 | 23d |
 | ↳ | Software Engineer Co-Op - Backend/Full-stack | Remote in Canada | 🔒 | 23d |
@@ -974,7 +974,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Software Development - Winter 2024 | Toronto, ON, Canada | 🔒 | 21mo |
 | **[Sumo Digital](https://simplify.jobs/c/Sumo-Digital?utm_source=GHList&utm_medium=company)** | Games Programming Apprenticeship | Sheffield, UK | 🔒 | 22mo |
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern (Core/Database Engineering) - Spring 2024 | Bellevue, WA | 🔒 | 22mo |
-| **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern (Infrastructure Automation) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
+| ↳ | Software Engineer Intern (Infrastructure Automation) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
 | ↳ | Software Engineer Intern (Core/Database Engineering) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
 | **[The Allen Institute for AI](https://simplify.jobs/c/allenai?utm_source=GHList&utm_medium=company)** | Research Internship | Remote | 🔒 | 22mo |
 | **[Riot Games](https://simplify.jobs/c/Riot-Games?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | LA | 🔒 | 22mo |
@@ -1109,7 +1109,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business Insights & Analytics Intern/Co-op | Toronto, ON, Canada | 🔒 | 8d |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | co-op Data Science Analyst | Oshawa, ON, Canada | 🔒 | 14d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Intern – Data Scientist | Toronto, ON, Canada | 🔒 | 15d |
-| **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Perception Developer Coop - Slam | Kitchener, ON, Canada | 🔒 | 19d |
+| **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Perception Developer Coop - Slam | Kitchener, ON, Canada | 🔒 | 20d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - LLM NIM Engineering | Santa Clara, CA | 🔒 | 20d |
 | ↳ | Data Science and Insights Intern - Omniverse | Santa Clara, CA | 🔒 | 20d |
 | ↳ | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 20d |
