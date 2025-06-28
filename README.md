@@ -173,7 +173,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Auto Club Enterprises](https://simplify.jobs/c/Auto-Club-Enterprises?utm_source=GHList&utm_medium=company)** | Computer Science Intern | Coppell, TX | 🔒 | 1d |
 | **[Celonis](https://simplify.jobs/c/Celonis?utm_source=GHList&utm_medium=company)** | Intern Software Engineer | NYC | 🔒 | 4d |
-| **[Equinox](https://simplify.jobs/c/Equinox?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | 🔒 | 4d |
+| **[Equinox](https://simplify.jobs/c/Equinox?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | 🔒 | 5d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Co-op: Fall 2025 - F135 Program Digital Solutions | Hartford, CT | 🔒 | 8d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 8d |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Localization Software Developer – Co-Op | Vancouver, BC, Canada | 🔒 | 10d |
@@ -382,7 +382,7 @@
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Chantilly, VA</br>Oklahoma City, OK | 🔒 | 2mo |
 | **[Smith Micro Software](https://simplify.jobs/c/Smith-Micro-Software?utm_source=GHList&utm_medium=company)** | Engineering Intern | Pittsburgh, PA | 🔒 | 2mo |
 | **[Curtiss-Wright Corporation](https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company)** | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
-| ↳ | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
+| **[Curtiss-Wright Corporation](https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company)** | Product Engineer Intern/Co-op | Seven Hills, OH | 🔒 | 2mo |
 | **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)** | Summer 2025 Software Engineer Intern | Santa Clara, CA | 🔒 | 2mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Software Engineer Technical Intern | Melbourne, FL | 🔒 | 2mo |
 | **[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)** | Developer Co-Op | Mississauga, ON, Canada | 🔒 | 2mo |
@@ -2238,7 +2238,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Neuberger Berman](https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f?utm_source=GHList&utm_medium=company)** | Intern – Technology | London, UK | 🔒 | 3d |
+| **[Neuberger Berman](https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f?utm_source=GHList&utm_medium=company)** | Intern – Technology | London, UK | 🔒 | 4d |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)** | Intern | Aberdeen, MD | 🔒 | 7d |
 | **[Formstack](https://simplify.jobs/c/Formstack?utm_source=GHList&utm_medium=company)** | AI Intern | SF</br>Denver, CO | 🔒 | 7d |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288?utm_source=GHList&utm_medium=company)** | Data Analytics Intern | Lexington, KY | 🔒 | 7d |
