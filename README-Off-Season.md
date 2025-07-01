@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 98 Internship Roles by Category
+### Browse 99 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (56)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (22)
 
@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Emerson Electric](https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company)** | Software Development Co-op | Elyria, OH | <div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25019232?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/969f8d93-12b4-4ab6-8e8f-14b8bce2e1ba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – Internship - Production Infrastructure | Seattle, WA | <div align="center"><a href="https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/33da215d-313a-45b7-8ad3-bde21b250ffe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer – Internship - Infrastructure | NYC | <div align="center"><a href="https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9f078de1-afbf-46ec-a41a-9ed1bd030aa0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer – Internship - Production Infrastructure | NYC | <div align="center"><a href="https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0d20db7c-197a-4ec4-91c2-a72684374d51?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
