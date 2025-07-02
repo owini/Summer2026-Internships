@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 101 Internship Roles by Category
+### Browse 102 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (59)
 
@@ -18,7 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (1)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (19)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (20)
 
 ---
 
@@ -74,7 +74,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | <div align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/65fb58e9-e6fb-4b6f-8ad4-24d663589b90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer – Co-op position - HP Anyware Endpoints System Team | Vancouver, BC, Canada | <div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3152121-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/54dd25b2-06ec-4b18-be48-48a8ad1d8d6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | ↳ | Associate Software Developer – Co-op position - HP Anyware Endpoints C++ Developer | Vancouver, BC, Canada | <div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-C---Developer--Co-op-position-_3152118-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/438e8566-3e8e-49c7-aeb0-a5b3a546ffc9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
-| **[Ada](https://simplify.jobs/c/Ada?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | <div align="center"><a href="https://job-boards.greenhouse.io/ada18/jobs/4746106007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac17d57e-b870-4e16-8f16-197b1d8f6d5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
+| **[Ada](https://simplify.jobs/c/Ada?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | <div align="center"><a href="https://job-boards.greenhouse.io/ada18/jobs/4746106007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac17d57e-b870-4e16-8f16-197b1d8f6d5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | Nakisa | Software Developer Intern | Montreal, Quebec, Canada | <div align="center"><a href="https://nakisa.com/career-opportunities/?gh_jid=4590663101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
 | Dolby Laboratories, Inc. | Audio Software Engineering Intern | San Francisco, CA | <div align="center"><a href="https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 12d |
 | **[EUNA Solutions](https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151?utm_source=GHList&utm_medium=company)** | Software Developer Co-Op - Procurement | Oakville, ON, Canada | <div align="center"><a href="https://euna.bamboohr.com/careers/362/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/de022074-ecd5-4796-90ae-be0a39bdb803?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
@@ -1403,7 +1403,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Quantitative Analyst - Pension Investment Management | Toronto, ON, Canada | 🔒 | 22d |
-| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | 🔒 | 26d |
+| **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure | Remote in Canada | 🔒 | 27d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Algorithmic Trader Intern | Chicago, IL | 🔒 | 28d |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Financial Investment Analyst Co-op | Toronto, ON, Canada | 🔒 | 1mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution | Toronto, ON, Canada | 🔒 | 1mo |
@@ -1433,6 +1433,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | Embedded Solutions Intern | Toronto, ON, Canada | <div align="center"><a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R00904?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/19f0a0c7-14d4-4b86-a515-05f0e1690d15?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Waveserver Software Developer Intern | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Intern--Fall-2025-_R028360?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95abbac3-16e0-458d-83a4-ff86a0991176?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Anyware Endpoints Coop - C++ Developer | Vancouver, BC, Canada | <div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Anyware-Endpoints-Coop---C---Developer_3152071-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f308d5cf-2992-4340-8e36-4a1ca0ea941e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | System Software Engineering Intern - CUDA Driver | Santa Clara, CA | <div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/06d16f55-b0fa-406d-a305-dd1ada759031?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
