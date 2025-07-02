@@ -7,21 +7,21 @@
 
   🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-  ---
+---
 
-  ### Browse 275 Internship Roles by Category
+### Browse 11 Internship Roles by Category
 
-  💻 **[Software Engineering](#-software-engineering-internship-roles)** (205)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (4)
 
-  🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (49)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (0)
 
-  📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (6)
 
-  🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (6)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (1)
 
-  ---
+---
 
-  <div align="center">
+<div align="center">
     <h3>😫 Hate retyping your resume for every application?</h3>
     <p>
       <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Autofill all your applications in a single click</strong></p></a>
@@ -57,6 +57,7 @@
 
   > 🌍 For off-season internships please see the [Off-Season 2025 README](./README-Off-Season.md)  
   > 🎓 For new-grad tech jobs, check out [New Grad Repo](https://github.com/SimplifyJobs/New-Grad-Positions)
+  > ☀️ For older summer internships, check out [Archived Summer 2025 README](./archived/README-2025.md)
 
   ---
 
