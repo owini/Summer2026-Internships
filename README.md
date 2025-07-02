@@ -56,7 +56,7 @@
   > **Looking for something else?**
 
   > 🌍 For off-season internships please see the [Off-Season 2025 README](./README-Off-Season.md)  
-  > 🎓 For new-grad tech jobs, check out [New Grad Repo](https://github.com/SimplifyJobs/New-Grad-Positions)
+  > 🎓 For new-grad tech jobs, check out [New Grad Repo](https://github.com/SimplifyJobs/New-Grad-Positions)  
   > ☀️ For older summer internships, check out [Archived Summer 2025 README](./archived/README-2025.md)
 
   ---
