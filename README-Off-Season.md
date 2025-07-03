@@ -1472,7 +1472,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Software Developer Co-op - OS Team | Kitchener, ON, Canada | 🔒 | 27d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Networking Software Intern | Santa Clara, CA | 🔒 | 1mo |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | THW Client Intern/Co-op - Undergrad | Ottawa, ON, Canada | 🔒 | 1mo |
-| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Hardware – Design and Verification Co-op - Pcba | Ottawa, ON, Canada | 🔒 | 1mo |
+| ↳ | Hardware – Design and Verification Co-op - Pcba | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Engineering Lab Technician Co-op/Intern | Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | System Software Intern - Power Management | Santa Clara, CA | 🔒 | 1mo |
 | ↳ | Compute Systems Software Intern | Santa Clara, CA | 🔒 | 1mo |
