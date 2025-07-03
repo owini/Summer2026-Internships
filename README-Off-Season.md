@@ -47,7 +47,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
  - 🔒 - Internship application is closed
 
 > **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](./README.md).
+> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2026 README](./README.md).
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
