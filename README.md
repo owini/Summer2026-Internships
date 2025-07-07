@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 18 Internship Roles by Category
+### Browse 19 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (10)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (1)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (2)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (6)
 
@@ -98,6 +98,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | ML Intern | NYC | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6651908&gh_src=be8ebc4b1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Bank of America | Global Operations Development Summer Analyst Program 🛂 | <details><summary>**4 locations**</summary>Charlotte, North Carolina</br>Dallas, Texas</br>Jacksonville, Florida</br>Phoenix, Arizona</details> | <div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 
 
