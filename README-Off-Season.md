@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 97 Internship Roles by Category
+### Browse 98 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (53)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (54)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (27)
 
@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Verification Engineer Intern | Alpharetta, GA | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Fall-2025-_R027880?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/85964e4a-8693-4653-b1ef-cc40ee1e4bca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[EVgo](https://simplify.jobs/c/EVgo?utm_source=GHList&utm_medium=company)** | Intern – Hardware Compliance | El Segundo, CA | <div align="center"><a href="https://jobs.jobvite.com/evgo/job/oHMtwfwc?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/24b1fd12-a786-4d02-a61c-fbe07beec087?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern – Software Developer/ Stagiaire en développement logiciels | Montreal, QC, Canada | <div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/72c96fbc-f8cd-4977-9bf9-93929c6e2ac8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | ↳ | Intern – Software Developer | Montreal, QC, Canada | <div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer_25WD89837-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0bb01ae4-945e-4186-8ae4-50d75040979b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
@@ -73,7 +74,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer – Co-op position - HP Anyware Endpoints System Team | Vancouver, BC, Canada | <div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3152121-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/54dd25b2-06ec-4b18-be48-48a8ad1d8d6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[Ada](https://simplify.jobs/c/Ada?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | <div align="center"><a href="https://job-boards.greenhouse.io/ada18/jobs/4746106007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ac17d57e-b870-4e16-8f16-197b1d8f6d5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | Nakisa | Software Developer Intern | Montreal, Quebec, Canada | <div align="center"><a href="https://nakisa.com/career-opportunities/?gh_jid=4590663101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 15d |
-| Dolby Laboratories, Inc. | Audio Software Engineering Intern | San Francisco, CA | <div align="center"><a href="https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 17d |
+| Dolby Laboratories, Inc. | Audio Software Engineering Intern | San Francisco, CA | <div align="center"><a href="https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 18d |
 | **[EUNA Solutions](https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151?utm_source=GHList&utm_medium=company)** | Software Developer Co-Op - Procurement | Oakville, ON, Canada | <div align="center"><a href="https://euna.bamboohr.com/careers/362/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/de022074-ecd5-4796-90ae-be0a39bdb803?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
 | a37 | Member of Technical Staff Intern (Winter 2025) | San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 19d |
 | ↳ | Member of Technical Staff Intern (Fall 2025) | San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/a37/98b9fa73-1a6d-4aca-b1e0-67bb078f0265?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 19d |
@@ -897,7 +898,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Parallel Systems](https://simplify.jobs/c/Parallel-Systems?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer - Spring 2024 | LA | 🔒 | 21mo |
 | **[Second Order Effects](https://simplify.jobs/c/Second-Order-Effects?utm_source=GHList&utm_medium=company)** | Systems Integration/Test Engineering Intern - Spring 2024 | El Segundo, CA | 🔒 | 21mo |
 | **[1Password](https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company)** | Developer Intern - Developer Ecosystems - Winter 2024 | Remote | 🔒 | 21mo |
-| ↳ | Developer Intern - Item Management - Winter 2024 | Remote | 🔒 | 21mo |
+| **[1Password](https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company)** | Developer Intern - Item Management - Winter 2024 | Remote | 🔒 | 21mo |
 | ↳ | Developer Intern - User Lifecycle & Growth - Winter 2024 | Remote | 🔒 | 21mo |
 | ↳ | Developer Intern - Filling & Saving - Winter 2024 | Remote | 🔒 | 21mo |
 | ↳ | Developer Intern - Internal Tools - Winter 2024 | Remote | 🔒 | 21mo |
