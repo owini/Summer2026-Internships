@@ -241,7 +241,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - System Software Engineer - System Software | Palo Alto, CA | 🔒 | 2mo |
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Education Services Academia Program's Applied AI Technical Intern | Menlo Park, CA | 🔒 | 2mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer - Autonomy Systems Foundations | Palo Alto, CA | 🔒 | 2mo |
-| **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Software Compiler Engineer - AI Inference | Palo Alto, CA | 🔒 | 2mo |
+| ↳ | Internship - Software Compiler Engineer - AI Inference | Palo Alto, CA | 🔒 | 2mo |
 | ↳ | Internship - Software Engineer - Foundation Inference Infrastructure | Palo Alto, CA | 🔒 | 2mo |
 | ↳ | Internship - C++ Software Engineer - Optimus | Palo Alto, CA | 🔒 | 2mo |
 | ↳ | Internship - Haskell Software Developer - Vehicle Firmware | Palo Alto, CA | 🔒 | 2mo |
