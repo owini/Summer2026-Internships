@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 19 Internship Roles by Category
+### Browse 20 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (10)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (11)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (2)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | ERP Internship: Rising Senior Technology | Orlando, FL</br>Philadelphia, PA</br>NYC | <div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R415530?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/33ff25a9-0363-4486-acfd-48422c94be84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Product Development Internship Program | Plano, TX</br>McLean, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2026_R219617-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/76f74da0-105c-49ee-b1b4-5a933864556e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Citadel | Software Engineer Intern | Miami, FL</br>Chicago, IL</br>New York, NY | <div align="center"><a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_jid=7973726002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/67fab9f0-d34b-435f-8628-b12ac686e5bf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
@@ -85,16 +86,6 @@
 | ↳ | Software Engineer – Internship - Production Infrastructure | NYC | <div align="center"><a href="https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0d20db7c-197a-4ec4-91c2-a72684374d51?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON, Canada | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6616787003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6edde419-ebe5-443f-a8f4-22493112af20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 17d |
 
-
-<details>
-<summary>🗃️ Inactive roles (1)</summary>
-
-| Company | Role | Location | Application | Age |
-| ------- | ---- | -------- | ------ | -- |
-| Stevens Capital Management | Developer Internship | Radnor, PA | 🔒 | 0d |
-
-
-</details>
 
 
 
