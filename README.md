@@ -86,6 +86,16 @@
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON, Canada | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6616787003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6edde419-ebe5-443f-a8f4-22493112af20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 17d |
 
 
+<details>
+<summary>🗃️ Inactive roles (1)</summary>
+
+| Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ------ | -- |
+| Stevens Capital Management | Developer Internship | Radnor, PA | 🔒 | 0d |
+
+
+</details>
+
 
 
 ## 🤖 Data Science, AI & Machine Learning Internship Roles
