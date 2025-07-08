@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 20 Internship Roles by Category
+### Browse 21 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (11)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (12)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (2)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Stevens Capital Management LP](https://simplify.jobs/c/SCM?utm_source=GHList&utm_medium=company)** | Developer Intern | Radnor, PA | <div align="center"><a href="https://job-boards.greenhouse.io/scm/jobs/721888?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | ERP Internship: Rising Senior Technology | Orlando, FL</br>Philadelphia, PA</br>NYC | <div align="center"><a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R415530?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/33ff25a9-0363-4486-acfd-48422c94be84?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Product Development Internship Program | Plano, TX</br>McLean, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2026_R219617-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/76f74da0-105c-49ee-b1b4-5a933864556e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Citadel | Software Engineer Intern | Miami, FL</br>Chicago, IL</br>New York, NY | <div align="center"><a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
