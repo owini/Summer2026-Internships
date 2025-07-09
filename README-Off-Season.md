@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 90 Internship Roles by Category
+### Browse 91 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (49)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (50)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Splunk](https://simplify.jobs/c/Splunk?utm_source=GHList&utm_medium=company)** | Site Reliability Engineer Intern 🛂 | Remote | <div align="center"><a href="https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Software Co-op Student - Liquid Spectrum Applications | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Co-op-Student---Liquid-Spectrum-Applications--Fall-2025-_R028405?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ab843abc-edeb-45eb-90e0-c9cbc09a6bf9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[iSono Health](https://simplify.jobs/c/Isono-Health?utm_source=GHList&utm_medium=company)** | Software Engineering Intern (Internship) | San Bruno, CA | <div align="center"><a href="https://ats.rippling.com/isonohealth/jobs/67372c25-f4fb-4d38-8aae-6df5d74e5467?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11e59e53-7009-4f00-9efa-175b35ee840f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Brevian](https://simplify.jobs/c/Brevian?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Sunnyvale, CA | <div align="center"><a href="https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6fecfd03-e904-40de-a8ac-01b155f911de?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
