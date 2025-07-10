@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 83 Internship Roles by Category
+### Browse 82 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (34)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (12)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (33)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (32)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (4)
 
@@ -170,8 +170,7 @@
 | ↳ | Quantitative Developer Intern | Boston, MA | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Equity Volatility Quant Researcher Intern | Miami, FL | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4572985006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | Voloridge | Quantitative Research Intern | Jupiter, FL | <div align="center"><a href="https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| Susquehanna | Growth Equity Investment Analyst Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9053/Growth-Equity-Investment-Analyst-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| ↳ | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
+| Susquehanna | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Research Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Trader Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
