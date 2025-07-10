@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 97 Internship Roles by Category
+### Browse 96 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (52)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (31)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (30)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (2)
 
@@ -1103,7 +1103,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[ExodusPoint](https://simplify.jobs/c/ExodusPoint?utm_source=GHList&utm_medium=company)** | Artificial Intelligence Intern | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/exoduspoint/jobs/8070584002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c8a165ab-f25d-4201-8479-5e3036447639?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Armada](https://simplify.jobs/c/Armada?utm_source=GHList&utm_medium=company)** | AI Intern | Bellevue, WA | <div align="center"><a href="https://job-boards.greenhouse.io/armada/jobs/4684318008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b3be96c3-532e-4d78-a5f2-f996ccb99d87?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Wurl](https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/wurljobs/jobs/4570159006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/911f40b9-f027-4128-9e35-e6cc08ec56ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Amcor](https://simplify.jobs/c/Amcor?utm_source=GHList&utm_medium=company)** | Business Intelligence Intern | Oshkosh, WI | <div align="center"><a href="https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Intern_REQ_80854?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1b57440b-0c53-4152-a016-b47606fa7a2a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -1137,11 +1136,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (263)</summary>
+<summary>🗃️ Inactive roles (264)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Toronto, ON, Canada | 🔒 | 5d |
+| **[ExodusPoint](https://simplify.jobs/c/ExodusPoint?utm_source=GHList&utm_medium=company)** | Artificial Intelligence Intern | NYC | 🔒 | 0d |
+| **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Toronto, ON, Canada | 🔒 | 6d |
 | **[Exact Sciences](https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company)** | Data Science Internship | Madison, WI | 🔒 | 7d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Applied AI Research Engineering Intern | Santa Clara, CA | 🔒 | 9d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Geforce Technical Marketing Intern | Santa Clara, CA | 🔒 | 14d |
@@ -1154,7 +1154,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Perception Developer Coop - Slam | Kitchener, ON, Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - LLM NIM Engineering | Santa Clara, CA | 🔒 | 1mo |
 | ↳ | Data Science and Insights Intern - Omniverse | Santa Clara, CA | 🔒 | 1mo |
-| ↳ | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
 | **[ASML](https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company)** | Co-op – Internship - Feature Detection and Data Science | Wilton, CT | 🔒 | 1mo |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | 2025 Fall Co-op Diagnostic Object Technical Project Contributor | Markham, ON, Canada | 🔒 | 1mo |
 | **[GP Fund Solutions](https://simplify.jobs/c/GP-Fund-Solutions?utm_source=GHList&utm_medium=company)** | Data Intern | Latham, NY | 🔒 | 1mo |
