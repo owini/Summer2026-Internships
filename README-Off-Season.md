@@ -198,7 +198,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Verification Engineer Intern | Atlanta, GA | 🔒 | 2mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Software Engineer Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
-| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Software Developer Intern/Co-op | Toronto, ON, Canada</br>Kitchener, ON, Canada | 🔒 | 2mo |
+| ↳ | Software Developer Intern/Co-op | Toronto, ON, Canada</br>Kitchener, ON, Canada | 🔒 | 2mo |
 | ↳ | Risk Data Management Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Active Trader Segment Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Frontend Engineer - Applications Engineering | Fremont, CA | 🔒 | 2mo |
@@ -214,7 +214,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Designer Co-op/Intern | Canada | 🔒 | 2mo |
 | ↳ | Web Developer Co-op/Intern | Canada | 🔒 | 2mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Shoreline Backend Engineering Intern | Santa Clara, CA | 🔒 | 2mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Simulation and Virtualization | Santa Clara, CA | 🔒 | 2mo |
+| ↳ | Software Engineering Intern - Simulation and Virtualization | Santa Clara, CA | 🔒 | 2mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Web Portal Dev Co-op/Intern | Canada | 🔒 | 2mo |
 | **[Hermeus](https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company)** | Flight Software Engineer – Intern - Comms | Atlanta, GA | 🔒 | 2mo |
 | RBC | 2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months | TORONTO, Ontario, Canada | 🔒 | 2mo |
@@ -1200,7 +1200,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Analytics/Next-Gen AI Co-op/Intern | Canada | 🔒 | 2mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Compliance Model Oversight Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Distribution & Geospatial Intelligence Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
-| **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Data Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
+| ↳ | Data Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Business System Analyst Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Data Engineer Intern/Co-op | Toronto, ON, Canada | 🔒 | 2mo |
 | ↳ | Data Management Analyst Intern/Co-op - FCRM Data Strategy and Management | Toronto, ON, Canada | 🔒 | 2mo |
