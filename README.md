@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 86 Internship Roles by Category
+### Browse 85 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (37)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (36)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (12)
 
@@ -82,7 +82,6 @@
 | N1 | Software Engineer Intern (Backend, Rust) | New York | <div align="center"><a href="https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Software Engineer Intern (Fullstack) | New York | <div align="center"><a href="https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[Merck](https://simplify.jobs/c/Merck?utm_source=GHList&utm_medium=company)** | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | <div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| Lockheed Martin | Software Engineer - Intern 🇺🇸 | Annapolis Junction, MD | <div align="center"><a href="https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[Jane Street](https://simplify.jobs/c/Jane-Street?utm_source=GHList&utm_medium=company)** | Tools & Compilers Research and Development Intern | New York, NY | <div align="center"><a href="https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | Epic | Software Development Intern 🇺🇸 | Madison, WI | <div align="center"><a href="https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2026/27259?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | D. E. Shaw | Software Developer Intern | New York, NY | <div align="center"><a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
