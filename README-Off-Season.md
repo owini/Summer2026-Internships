@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 106 Internship Roles by Category
+### Browse 107 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (56)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (33)
 
@@ -61,7 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | <div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Global-Technology-Apprentice---NPower-Per-Scholas_25028925-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ab78f20f-8294-42fc-88e6-68c970b84504?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Community College | Plano, TX</br>Charlotte, NC | <div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Global-Technology-Apprentice---Community-College_25028930?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/06dac1c9-4122-4a97-8607-107fda70c938?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | <div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Global-Technology-Apprentice---NPower-Per-Scholas_25028925-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ab78f20f-8294-42fc-88e6-68c970b84504?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Global Technology Apprentice - Npower/Per Scholas | NYC | <div align="center"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Global-Technology-Apprentice---NPower-Per-Scholas_25028927?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f4aed11b-ac6f-4335-b335-a67616533eba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Airbus](https://simplify.jobs/c/Airbus?utm_source=GHList&utm_medium=company)** | Stage Développeur Full Stack / Internship Full Stack Developer | Laval, QC, Canada | <div align="center"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/STAGE-DVELOPPEUR-FULL-STACK---INTERNSHIP-FULL-STACK-DEVELOPER_JR10333525?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b1770f91-4912-4ed0-a1a1-28a99dc54101?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Zeiss](https://simplify.jobs/c/Zeiss?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dublin, CA | <div align="center"><a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Software-Engineering-Intern_JR_1042752?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/63cc4d2d-7397-4d65-af7b-a442760b16ff?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -357,7 +358,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Co-Op - Crd | Boston, MA | 🔒 | 5mo |
 | **[FM Global](https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company)** | GIS Development Co-Op | Remote in USA | 🔒 | 5mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | DE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
-| ↳ | BIE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
+| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | BIE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer | Urbana, IL | 🔒 | 5mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Santa Clara, CA | 🔒 | 5mo |
 | **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Huntsville, AL | 🔒 | 5mo |
@@ -384,7 +385,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[FM Global](https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company)** | Software Development Co-Op | Providence, RI | 🔒 | 5mo |
 | **[PulteGroup](https://simplify.jobs/c/PulteGroup?utm_source=GHList&utm_medium=company)** | IT Software Developer Intern - External Applications | Tempe, AZ</br>Atlanta, GA | 🔒 | 5mo |
 | ↳ | IT Software Developer Intern - Internal Applications | Atlanta, GA | 🔒 | 5mo |
-| **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Enterprise Business System Intern-Spring | Atlanta, GA | 🔒 | 5mo |
+| **[Carrier Global](https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company)** | Enterprise Business System Intern-Spring | Atlanta, GA | 🔒 | 6mo |
 | **[AEG](https://simplify.jobs/c/AEG?utm_source=GHList&utm_medium=company)** | Spring Intern - Application Development - Global Technology | LA | 🔒 | 6mo |
 | **[Nominal](https://simplify.jobs/c/Nominal?utm_source=GHList&utm_medium=company)** | Software Engineer – Internship | New York, NY | 🔒 | 6mo |
 | **[Eulerity](https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company)** | Web Developer Intern | New York, NY | 🔒 | 6mo |
