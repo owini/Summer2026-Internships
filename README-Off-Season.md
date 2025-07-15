@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 112 Internship Roles by Category
+### Browse 113 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (62)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (32)
 
@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Interac | Software Development Intern (e-Transfer) | Toronto, Ontario, Canada | <div align="center"><a href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Curve Dental](https://simplify.jobs/c/Curve-Dental?utm_source=GHList&utm_medium=company)** | Software Development Intern (Temporary) | Calgary, AB, Canada | <div align="center"><a href="https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/03f5eb46-608f-42b5-868d-d643e5598b1f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Associate Software Engineer Intern | Salt Lake City, UT | <div align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/efe3becb-c2ec-489d-9115-aa9b091adefa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Clarity Innovations](https://simplify.jobs/c/Clarity-Innovations?utm_source=GHList&utm_medium=company)** | Internship – Software Engineering Intern | Reston, VA | <div align="center"><a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f00fed72-e40a-4faa-90a5-5542a89666b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -1063,7 +1064,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Alert Innovation](https://simplify.jobs/c/Alert-Innovation?utm_source=GHList&utm_medium=company)** | Software Engineer Co Op | Andover, MA | 🔒 | 23mo |
 | **[Vestmark](https://simplify.jobs/c/Vestmark?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Wakefield, MA | 🔒 | 23mo |
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Internship | Toronto, ON, Canada | 🔒 | 23mo |
-| Mathworks | Engineering Development Group Internship | Natick, MA | 🔒 | 23mo |
+| Mathworks | Engineering Development Group Internship | Natick, MA | 🔒 | 24mo |
 | **[SpaceX](https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company)** | Software Engineering Internship/Co-op  | Multiple | 🔒 | 24mo |
 | **[PointClickCare](https://simplify.jobs/c/PointClickCare?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Mississauga, ON, Canada | 🔒 | 24mo |
 | Emerson Automation Solutions | Software Engineering Co-op  🛂 | Elyria, OH | 🔒 | 24mo |
@@ -1169,14 +1170,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Baker Hughes](https://simplify.jobs/c/Baker-Hughes?utm_source=GHList&utm_medium=company)** | Data Analyst Apprentice | Newcastle upon Tyne, UK | 🔒 | 20d |
 | **[Medpace, Inc.](https://simplify.jobs/c/Medpace-Inc?utm_source=GHList&utm_medium=company)** | Data Engineer Intern | Cincinnati, OH | 🔒 | 23d |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Business Insights & Analytics Intern/Co-op | Toronto, ON, Canada | 🔒 | 27d |
-| **[Hootsuite](https://simplify.jobs/c/Hootsuite?utm_source=GHList&utm_medium=company)** | Co-op/Intern - Data Engineering | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 30d |
+| **[Hootsuite](https://simplify.jobs/c/Hootsuite?utm_source=GHList&utm_medium=company)** | Co-op/Intern - Data Engineering | Toronto, ON, Canada</br>Vancouver, BC, Canada | 🔒 | 1mo |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | co-op Data Science Analyst | Oshawa, ON, Canada | 🔒 | 1mo |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Intern – Data Scientist | Toronto, ON, Canada | 🔒 | 1mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Analyst – Co-op/Internship - Risk Data Infrastructure & Technology | Chicago, IL | 🔒 | 1mo |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Perception Developer Coop - Slam | Kitchener, ON, Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - LLM NIM Engineering | Santa Clara, CA | 🔒 | 1mo |
 | ↳ | Data Science and Insights Intern - Omniverse | Santa Clara, CA | 🔒 | 1mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
+| ↳ | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
 | **[ASML](https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company)** | Co-op – Internship - Feature Detection and Data Science | Wilton, CT | 🔒 | 1mo |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | 2025 Fall Co-op Diagnostic Object Technical Project Contributor | Markham, ON, Canada | 🔒 | 1mo |
 | **[GP Fund Solutions](https://simplify.jobs/c/GP-Fund-Solutions?utm_source=GHList&utm_medium=company)** | Data Intern | Latham, NY | 🔒 | 1mo |
