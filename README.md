@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 89 Internship Roles by Category
+### Browse 90 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (39)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (40)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (12)
 
@@ -76,6 +76,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - C++ | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=6996427&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9f4cdfd7-56ef-48ca-9ae9-100399041c1e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer Intern - Python | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7055471&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/533c5cbc-2c31-4f95-b3ee-c79ed5b904ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Quantitative Development & Strategy Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7065132&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0f902ab7-852b-4624-9759-d50392926fc8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer Intern - Full Stack Web | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7060087&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9bf45871-ab21-4adf-ad7e-fc57ca65fd8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Software Engineer Intern - C# .NET Desktop | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7060377&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c0492323-352f-4760-bf7c-5c301e1b6b72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | Software Developer Intern | NYC | <div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=6790327&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/11c7b430-3f06-46c2-9c15-c05b34a0916f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
