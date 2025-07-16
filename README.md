@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 94 Internship Roles by Category
+### Browse 95 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (40)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (41)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (14)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Five Rings | Software Developer | New York | <div align="center"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Software Engineer Intern 🛂 | Draper, UT</br>San Jose, CA | <div align="center"><a href="https://www.bill.com/job?gh_jid=5588094004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - C++ | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=6996427&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9f4cdfd7-56ef-48ca-9ae9-100399041c1e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | ↳ | Software Engineer Intern - Python | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7055471&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/533c5cbc-2c31-4f95-b3ee-c79ed5b904ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
