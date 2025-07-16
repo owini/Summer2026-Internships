@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 120 Internship Roles by Category
+### Browse 121 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (64)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (65)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (38)
 
@@ -121,14 +121,15 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Data & Insights Intern | Washington, DC</br>Remote in USA | <div align="center"><a href="https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Remote/Data---Insights-Intern---Fall-2025_R-01857?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4981864d-bf87-46a3-a4bf-55cf7e548317?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Development Coop | Sunnyvale, CA | <div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19758?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/18f07f8b-3b29-4b88-be1f-dcf7aa54af89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 | **[SpaceX](https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company)** | Software Engineering Internship/Co-op | <details><summary>**8 locations**</summary>Bastrop, TX</br>Irvine, CA</br>Cape Canaveral, FL</br>Brownsville, TX</br>Redmond, WA</br>McGregor, TX</br>West Athens, CA</br>Sunnyvale, CA</details> | <div align="center"><a href="https://boards.greenhouse.io/spacex/jobs/7907307002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e18e4457-72da-4757-9fc2-ee3026f365df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
-| **[RoviSys](https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company)** | Co-op | Fayetteville, GA | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1755/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1cd88f81-0a23-4640-81ac-5705d400fa0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
+| **[RoviSys](https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company)** | Co-op | Twinsburg, OH | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1753/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/59cbcf9a-8096-4cae-846f-ca679bc43ce4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
+| ↳ | Co-op | Fayetteville, GA | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1755/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1cd88f81-0a23-4640-81ac-5705d400fa0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
 | ↳ | Co-op | Houston, TX | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1756/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/08c8f8de-61e9-4547-b8c6-fbe14b2a223f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
 | ↳ | Co-op | Holly Springs, NC | <div align="center"><a href="https://careers-rovisys.icims.com/jobs/1754/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4e89087-bab1-4c00-97ae-d0727495f79b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer | Neenah, WI | <div align="center"><a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026-_R031605?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95ee60f6-72ac-4823-befb-9abece948a70?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5mo |
 
 
 <details>
-<summary>🗃️ Inactive roles (975)</summary>
+<summary>🗃️ Inactive roles (974)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -316,7 +317,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Jobber](https://simplify.jobs/c/Jobber?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | 🔒 | 4mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Tewksbury, MA | 🔒 | 4mo |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | 🔒 | 4mo |
-| **[RoviSys](https://simplify.jobs/c/RoviSys?utm_source=GHList&utm_medium=company)** | Co-op | Twinsburg, OH | 🔒 | 4mo |
 | **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | GE Aerospace Engineering Engines Computer or Software Engineering Intern | Saugus, MA</br>Cincinnati, OH | 🔒 | 4mo |
 | ↳ | Engineering Engines Co-op - Computer or Software Engineering - Returning Students | Saugus, MA</br>Cincinnati, OH | 🔒 | 4mo |
 | ↳ | Digital Technology Co-op | Detroit, MI</br>Cincinnati, OH | 🔒 | 4mo |
@@ -1016,7 +1016,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Software Development - Winter 2024 | Toronto, ON, Canada | 🔒 | 22mo |
 | **[Sumo Digital](https://simplify.jobs/c/Sumo-Digital?utm_source=GHList&utm_medium=company)** | Games Programming Apprenticeship | Sheffield, UK | 🔒 | 22mo |
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern (Core/Database Engineering) - Spring 2024 | Bellevue, WA | 🔒 | 22mo |
-| ↳ | Software Engineer Intern (Infrastructure Automation) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
+| **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern (Infrastructure Automation) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
 | ↳ | Software Engineer Intern (Core/Database Engineering) - Spring 2024 | San Mateo, CA | 🔒 | 22mo |
 | **[The Allen Institute for AI](https://simplify.jobs/c/allenai?utm_source=GHList&utm_medium=company)** | Research Internship | Remote | 🔒 | 22mo |
 | **[Riot Games](https://simplify.jobs/c/Riot-Games?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | LA | 🔒 | 22mo |
