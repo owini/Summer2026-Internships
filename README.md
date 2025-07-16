@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 103 Internship Roles by Category
+### Browse 104 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (44)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (15)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (37)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (38)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (7)
 
@@ -181,6 +181,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Two Sigma | Quantitative Researcher | New York, NY | <div align="center"><a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Quantitative Research | Chicago, IL | <div align="center"><a href="https://akunacapital.com/job-details?gh_jid=7055793&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | CTC | Quant Trading | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Five Rings | Quantitative Trader | New York | <div align="center"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
