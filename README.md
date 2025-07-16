@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 99 Internship Roles by Category
+### Browse 100 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (42)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (43)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (14)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| CTC | Software Engineer | Chicago, IL</br>New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Susquehanna | Software Engineering Intern | Philadelphia, PA | <div align="center"><a href="https://careers.sig.com/job/SUSQA004Y9571?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Five Rings | Software Developer | New York | <div align="center"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Software Engineer Intern 🛂 | Draper, UT</br>San Jose, CA | <div align="center"><a href="https://www.bill.com/job?gh_jid=5588094004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |

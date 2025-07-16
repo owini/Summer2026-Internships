@@ -1519,7 +1519,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Waveserver Software Developer Intern | Ottawa, ON, Canada | 🔒 | 18d |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Anyware Endpoints Coop - C++ Developer | Vancouver, BC, Canada | 🔒 | 20d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | System Software Engineering Intern - CUDA Driver | Santa Clara, CA | 🔒 | 21d |
-| ↳ | Software Engineering Intern - Embedded Systems | Santa Clara, CA | 🔒 | 21d |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Embedded Systems | Santa Clara, CA | 🔒 | 22d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Waveserver Software Developer Co-op | Ottawa, ON, Canada | 🔒 | 25d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Photonics Software Developer Co-op | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Embedded C/C++ Software Dev Intern | Canada | 🔒 | 1mo |
