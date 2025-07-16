@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 96 Internship Roles by Category
+### Browse 97 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (41)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (35)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (6)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (7)
 
 ---
 
@@ -222,7 +222,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Austin, TX | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | FPGA Engineer Intern | Austin, TX | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=6945855&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2156c922-ba8a-4f27-bd2a-50aaab6dfc8c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Miami, FL</br>New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d4041518-dc22-4f01-96d9-aa0030510fd8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)** | Hardware Technology Intern | United States | <div align="center"><a href="https://jobs.apple.com/en-us/details/200606143/hardware-technology-internships?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 8d |
