@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 117 Internship Roles by Category
+### Browse 118 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (62)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (35)
 
@@ -61,7 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| AMD | Graphics Software Engineering Intern/Co-op 🛂 | Markham, Canada | <div align="center"><a href="https://careers.amd.com/careers-home/jobs/64975?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| AMD | Software Engineering Intern/Co-Op 🛂 | Markham, Canada | <div align="center"><a href="https://careers.amd.com/careers-home/jobs/64986?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Graphics Software Engineering Intern/Co-op 🛂 | Markham, Canada | <div align="center"><a href="https://careers.amd.com/careers-home/jobs/64975?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Fall | Reston, VA | <div align="center"><a href="https://jobs.smartrecruiters.com/ATPCO1/744000071086725?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/601ab90d-c0b2-4c34-aba9-5d9aeb94ac47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | Honeywell | Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | <div align="center"><a href="https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Geotab](https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Toronto, ON, Canada</br>Oakville, ON, Canada</br>Kitchener, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/4575184008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2eb982ee-9ac1-4246-a93b-fdd920748148?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
