@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 102 Internship Roles by Category
+### Browse 101 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (42)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (15)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (38)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (37)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (7)
 
@@ -208,7 +208,6 @@
 | Citi | Quantitative Analyst Intern | New York, NY | <div align="center"><a href="https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Trading Fundamental Analyst Intern | Miami, FL</br>New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9cdfa6eb-02ea-42c8-9c5c-df6f3c50b215?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | ↳ | Quantitative Trading Intern | Miami, FL</br>New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4bea6abc-61ee-4c08-98aa-d9cd4e4450f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
-| ↳ | Quantitative Research Analyst Intern | Miami, FL</br>New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1351d97b-ce83-4efb-9f80-d78871c99cd9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | ↳ | Designated Market Maker (DMM) Trading Intern | New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trading-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/77c50183-6d12-4e5e-b96d-a938345fb1bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | BNP Paribas | Quant Research & Trading Intern | New York, NY | <div align="center"><a href="https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
 | **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Quantitative Data Analytics Summer Analyst Intern | <details><summary>**4 locations**</summary>Atlanta, GA</br>Charlotte, NC</br>Chicago, IL</br>New York, NY</details> | <div align="center"><a href="https://careers.bankofamerica.com/en-us/students/job-detail/12929/global-quantitative-data-analytics-summer-2026-analyst-global-risk-management-multiple-locations?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
@@ -221,10 +220,11 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1)</summary>
+<summary>🗃️ Inactive roles (2)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Quantitative Research Analyst Intern | Miami, FL</br>New York, NY | 🔒 | 10d |
 | **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)** | Quantitative Research Analyst Intern | Greenwich, CT</br>Miami, FL</br>New York, NY | 🔒 | 10d |
 
 
