@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 103 Internship Roles by Category
+### Browse 102 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (43)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (42)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (14)
 
@@ -74,7 +74,6 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| Wells Fargo | Software Engineer Internship 🛂 | <details><summary>**5 locations**</summary>Charlotte, North Carolina</br>Dallas Market Area (Irving)</br>Iselin, New Jersey</br>Phoenix Market Area (Chandler, Phoenix)</br>St. Louis, Missouri</details> | <div align="center"><a href="https://www.wellsfargojobs.com/en/jobs/r-474982/2026-technology-summer-internship-early-careers-software-engineer/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | CTC | Software Engineer | Chicago, IL</br>New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | Susquehanna | Software Engineering Intern | Philadelphia, PA | <div align="center"><a href="https://careers.sig.com/job/SUSQA004Y9571?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | Five Rings | Software Developer | New York | <div align="center"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
