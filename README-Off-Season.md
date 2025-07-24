@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 125 Internship Roles by Category
+### Browse 124 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (42)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (41)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (5)
 
@@ -134,8 +134,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Associate Software Engineer Intern | Salt Lake City, UT | 🔒 | 9d |
 | **[BitGo](https://simplify.jobs/c/BitGo?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Remote in Canada | 🔒 | 10d |
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Intern | <details><summary>**7 locations**</summary>Alberta, Canada</br>British Columbia, Canada</br>Ontario, Canada</br>NB, Canada</br>Charlottetown, PE, Canada</br>Nova Scotia, Canada</br>Manitoba, Canada</details> | 🔒 | 10d |
-| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Community College | Plano, TX</br>Charlotte, NC | 🔒 | 11d |
-| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | 🔒 | 12d |
+| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Community College | Plano, TX</br>Charlotte, NC | 🔒 | 12d |
+| ↳ | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | 🔒 | 12d |
 | ↳ | Global Technology Apprentice - Npower/Per Scholas | NYC | 🔒 | 12d |
 | **[Fullscript](https://simplify.jobs/c/FullScript?utm_source=GHList&utm_medium=company)** | Co-op/Intern Ruby Engineer | Ottawa, ON, Canada | 🔒 | 12d |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern Software Developer - Stagiaire en Développement Logiciel | Montreal, QC, Canada | 🔒 | 12d |
@@ -379,7 +379,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[State Street](https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f?utm_source=GHList&utm_medium=company)** | Co-Op - Crd | Boston, MA | 🔒 | 5mo |
 | **[FM Global](https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company)** | GIS Development Co-Op | Remote in USA | 🔒 | 5mo |
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | DE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
-| ↳ | BIE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
+| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | BIE Co-op Fall Internship | Seattle, WA | 🔒 | 5mo |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer | Urbana, IL | 🔒 | 5mo |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Santa Clara, CA | 🔒 | 5mo |
 | **[Teledyne](https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Huntsville, AL | 🔒 | 5mo |
@@ -1142,7 +1142,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Warner Bros.](https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company)** | CNN Research & Analytics Internships - Fall 2025 | Atlanta, GA | <div align="center"><a href="https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/CNN-Research---Analytics-Internships--ATL---Fall-2025_R000096208?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5946f52b-26d5-4c66-ab61-661cc98cf32e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | ↳ | Sports Analytics Internships - Fall 2025 | Atlanta, GA | <div align="center"><a href="https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Analytics-Internships--ATL---Fall-2025_R000096210?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b5df519b-b779-42c4-9aec-265558818b47?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Scaleout Intern | Austin, TX</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4583168007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/090d7464-14d7-468a-af4c-53506f99815c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
-| ↳ | Physical Design for Machine Learning Intern | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Stage – Transformation numérique des opérations / Internship - Digital Transformation of Operations | Longueuil, QC, Canada | <div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Internship-Fall_01780876?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/245c8ebf-1af2-42e6-93b0-07e3797dde29?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[CrucialLogics](https://simplify.jobs/c/CrucialLogics?utm_source=GHList&utm_medium=company)** | Intern Associate Consultant - Microsoft AI Solutions | Remote in Canada | <div align="center"><a href="https://ats.rippling.com/cruciallogics/jobs/da995c92-0158-4064-9990-a3f22bec110b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/30afcb1f-8682-4fb1-94b8-d73d1eae3d78?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Lactalis](https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55?utm_source=GHList&utm_medium=company)** | Digital Assets Intern | Buffalo, NY | <div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3420129?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/29d95b44-7fe1-4b45-a48f-6035bb8f33c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
@@ -1179,11 +1178,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (280)</summary>
+<summary>🗃️ Inactive roles (281)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Bilingual – Digital Adoption Intern - Eng/FR | Oakville, ON, Canada | 🔒 | 2d |
+| **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Physical Design for Machine Learning Intern | Austin, TX | 🔒 | 5d |
 | **[CSC](https://simplify.jobs/c/CSC?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern | Wheeling, IL</br>Lewisville, TX | 🔒 | 8d |
 | **[ExodusPoint](https://simplify.jobs/c/ExodusPoint?utm_source=GHList&utm_medium=company)** | Artificial Intelligence Intern | NYC | 🔒 | 14d |
 | **[Hello Fresh](https://simplify.jobs/c/Hello-Fresh?utm_source=GHList&utm_medium=company)** | Intern – Executive Analytics & Tools | NYC | 🔒 | 14d |
