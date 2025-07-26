@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 130 Internship Roles by Category
+### Browse 131 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (58)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (45)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (46)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (5)
 
@@ -1137,6 +1137,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Accenture](https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company)** | Graduate Intern - Applied Research Scientist | Mountain View, CA | <div align="center"><a href="https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c5e2a6e7-15d7-4f60-8131-1e9a26916bb5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[N1](https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company)** | Research Intern | Oakland, CA</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d48ec36f-aeb5-4c12-92bc-b624855ba19d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| **[ PrizePicks](https://simplify.jobs/c/PrizePicks?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | Atlanta, GA | <div align="center"><a href="http://prizepicks.com/position?gh_jid=6660981003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ad043edd-7bfb-41b6-aeee-c9274666b67a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Physical Automation Co-Op | McKinney, TX | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MCKINNEY-TXMCY/Physical-Automation-Co-Op_R25025593?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7795cff9-7de8-4256-b810-d3e481b2d8ba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Simulation and Applied Statistics Intern | Arden, NC | <div align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Simulation-and-Applied-Statistics-Intern_R2025-2872?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/564a7cb1-829f-4e2f-bd89-26dab87c5903?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[CompScience](https://simplify.jobs/c/CompScience?utm_source=GHList&utm_medium=company)** | Engineering Internship Program | Remote in USA | <div align="center"><a href="https://jobs.ashbyhq.com/compscience/0701a16f-4858-4d63-b9fb-2f052655369d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/73899a9e-ce46-4fd5-880e-b47eca53da42?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
