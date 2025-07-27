@@ -1115,7 +1115,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - CQC | SF | 🔒 | 24mo |
 | Amazon Robotics | Software Engineering Intern (SDE) Co-op | North Reading, MA, US | 🔒 | 24mo |
 | Garmin | Software Engineer Intern | Olath, KS | 🔒 | 24mo |
-| Vivacity Tech | Software Engineer Intern | Remote | 🔒 | 24mo |
+| Vivacity Tech | Software Engineer Intern | Remote | 🔒 | 25mo |
 | Langan | Software Engineer Intern | Parsippany, NJ | 🔒 | 25mo |
 | Medpace | Software Development Intern | Cincinnati, OH | 🔒 | 25mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. | Multiple | 🔒 | 25mo |
