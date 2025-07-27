@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 134 Internship Roles by Category
+### Browse 135 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (55)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (56)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (49)
 
@@ -63,6 +63,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Fizz](https://simplify.jobs/c/Fizz-Social?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2b9c6225-2cfa-4dea-8b2b-d48dbf13661a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | <div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026_R5002161-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5aa10fb5-3d39-408c-9311-932f526d394d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
+| ↳ | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | <div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c85290c7-5fdf-40ed-b7f7-4c14438a1317?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Co-Op for NPOP Team | Newark, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/Co-Op-for-NPOP-Team_R25020204?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cfe6f158-be63-4ed0-89c1-ae005702a634?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[McKesson](https://simplify.jobs/c/McKesson?utm_source=GHList&utm_medium=company)** | Software Development Intern | Mississauga, ON, Canada | <div align="center"><a href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software-Development-Intern---Fall-2025_JR0133412-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/839bdd2c-1074-4967-973f-0d0ff562e9ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | Rocket Lab | Software Intern Fall 2025 | Toronto, ON, Canada | <div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?gh_src=3ad4b3093us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
@@ -1220,8 +1221,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[American Financial Group](https://simplify.jobs/c/American-Financial-Group?utm_source=GHList&utm_medium=company)** | Catastrophe Modeling & Data Analytics Intern | Cincinnati, OH | 🔒 | 1mo |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Perception Developer Coop - Slam | Kitchener, ON, Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - LLM NIM Engineering | Santa Clara, CA | 🔒 | 1mo |
-| ↳ | Data Science and Insights Intern - Omniverse | Santa Clara, CA | 🔒 | 1mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Data Science and Insights Intern - Omniverse | Santa Clara, CA | 🔒 | 1mo |
+| ↳ | Windows AI Engineering Intern | Santa Clara, CA | 🔒 | 1mo |
 | **[ASML](https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company)** | Co-op – Internship - Feature Detection and Data Science | Wilton, CT | 🔒 | 1mo |
 | **[General Motors](https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company)** | 2025 Fall Co-op Diagnostic Object Technical Project Contributor | Markham, ON, Canada | 🔒 | 1mo |
 | **[GP Fund Solutions](https://simplify.jobs/c/GP-Fund-Solutions?utm_source=GHList&utm_medium=company)** | Data Intern | Latham, NY | 🔒 | 1mo |
