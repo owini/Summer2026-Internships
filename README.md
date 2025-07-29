@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 130 Internship Roles by Category
+### Browse 131 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (55)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (44)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (8)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (9)
 
 ---
 
@@ -258,6 +258,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| General Dynamics | Embedded Software Engineering Co-Op 🛂 | Scottsdale, AZ | <div align="center"><a href="https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Co-Op | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Co-Op--September-2025-_R028482?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1da66c59-4963-47db-8e28-5af910a96d72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 12d |
 | ↳ | FPGA Engineer Intern | Austin, TX | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 12d |
