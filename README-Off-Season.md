@@ -1201,7 +1201,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[ PrizePicks](https://simplify.jobs/c/PrizePicks?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | Atlanta, GA | 🔒 | 4d |
 | **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Bilingual – Digital Adoption Intern - Eng/FR | Oakville, ON, Canada | 🔒 | 7d |
-| **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Agentic AI Developer Intern | Toronto, ON, Canada | 🔒 | 7d |
+| **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Agentic AI Developer Intern | Toronto, ON, Canada | 🔒 | 8d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Physical Design for Machine Learning Intern | Austin, TX | 🔒 | 11d |
 | **[CSC](https://simplify.jobs/c/CSC?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern | Wheeling, IL</br>Lewisville, TX | 🔒 | 14d |
 | **[Magna](https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company)** | Data Science & Analytics WCM Co-op Student | Brampton, ON, Canada | 🔒 | 18d |
