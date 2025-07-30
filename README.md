@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 138 Internship Roles by Category
+### Browse 139 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (57)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (23)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (47)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (48)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (11)
 
@@ -207,6 +207,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| AQR | Portfolio Implementation, Trading and Portfolio Finance Summer Analyst | Greenwich, CT | <div align="center"><a href="https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Squarepoint | Intern Quant Researcher | New York | <div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Keybank | 2026 Summer Analytics and Quantitative Modeling Internship 🛂 | Cleveland, Ohi | <div align="center"><a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Intern Conversion - Credit Sales & Trading Analyst Program | Charlotte, NC</br>NYC</br>Atlanta, GA | <div align="center"><a href="https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7074846a-4bbe-4274-883a-7c52fe779fa8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
