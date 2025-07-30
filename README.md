@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 143 Internship Roles by Category
+### Browse 144 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (61)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (62)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (23)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Reality Defender | Computer Vision Intern | Global Remote | <div align="center"><a href="https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)** | Research Internship – AI Agents for Industrial Applications | Santa Clara, CA | <div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Catalent | AI Operations Project | Emeryville, CA | <div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/en-US/External/job/Emeryville-CA/AI-Operations-Project-Internship_0090310?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Audubon, PA | <div align="center"><a href="https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
