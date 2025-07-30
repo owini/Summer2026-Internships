@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 141 Internship Roles by Category
+### Browse 142 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (62)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (48)
 
@@ -61,6 +61,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| BMW Group | Product Development - Telematics & ConnectedDrive Services | Woodcliff Lake, NJ | <div align="center"><a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | L3Harris Technologies | Software Engineer Intern 🛂 | Tulsa, OK | <div align="center"><a href="https://careers.l3harris.com/en/job/-/-/4832/84133135648?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Gimlet Labs](https://simplify.jobs/c/Gimlet-Labs?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | SF | <div align="center"><a href="https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8154f734-12f7-4652-a99d-d28d1ac14d60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Fable](https://simplify.jobs/c/Fable?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | SF | <div align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f5fa501e-e474-417b-8138-03f9c5a8e002?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -558,7 +559,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Astranis](https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company)** | Ground Software Engineer – Intern - Winter 2025 | SF | 🔒 | 9mo |
 | ↳ | Ground Software Engineer – Intern - Spring 2025 | SF | 🔒 | 9mo |
 | **[Telesat](https://simplify.jobs/c/Telesat?utm_source=GHList&utm_medium=company)** | Winter 2025 Systems Engineering Co-Op | Ottawa, ON, Canada | 🔒 | 9mo |
-| **[Point72](https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company)** | 2025 Technology Internship - Software Engineer | New York, NY | 🔒 | 9mo |
+| **[Point72](https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company)** | 2025 Technology Internship - Software Engineer | New York, NY | 🔒 | 10mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Junior Software Developer – Co-op/Internship - Winter 2025 - 4 months | Toronto, ON, Canada | 🔒 | 10mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | O'Fallon, IL | 🔒 | 10mo |
 | **[Berkshire Grey](https://simplify.jobs/c/BerkshireGrey?utm_source=GHList&utm_medium=company)** | Spring 2025 Software UIUX Co-op | Bedford, MA | 🔒 | 10mo |
