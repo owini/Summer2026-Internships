@@ -301,7 +301,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Internship - Fullstack Engineer - Cell Manufacturing Software | Fremont, CA | 🔒 | 3mo |
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Co-op Software Developer | Burnaby, BC, Canada | 🔒 | 3mo |
 | Shopify | Engineering Internships, Fall 2025 - USA | Remote in USA | 🔒 | 3mo |
-| ↳ | Engineering Internships, Fall 2025 - Canada | Toronto, Canada | 🔒 | 3mo |
+| Shopify | Engineering Internships, Fall 2025 - Canada | Toronto, Canada | 🔒 | 3mo |
 | **[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Toronto, ON, Canada | 🔒 | 3mo |
 | **[Fermilab](https://simplify.jobs/c/Fermilab?utm_source=GHList&utm_medium=company)** | Beam Instrumentation Software Engineering Co-op Position | Batavia, IL | 🔒 | 3mo |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7?utm_source=GHList&utm_medium=company)** | 2025 Fall Co-op Software Engineer Intern | Chantilly, VA | 🔒 | 3mo |

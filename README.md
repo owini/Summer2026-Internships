@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 153 Internship Roles by Category
+### Browse 154 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (66)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (67)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| SEL | Software Application Engineer Intern | Pullman, WA | <div align="center"><a href="https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | Software Engineer Intern 🛂 | Sioux Falls, SD | <div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Cloud Media Services Intern | Palo Alto, CA | <div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | EControls | IoT Software Developer Intern | San Antonio, TX | <div align="center"><a href="https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
