@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 148 Internship Roles by Category
+### Browse 149 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (25)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (48)
 
@@ -166,7 +166,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)** | Data Science Intern | San Francisco, CA | <div align="center"><a href="https://asana.com/jobs/apply/7078152?gh_jid=7078152&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)** | Data Science Intern | Vancouver, Canada | <div align="center"><a href="https://asana.com/jobs/apply/7078192?gh_jid=7078192&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Data Science Intern | San Francisco, CA | <div align="center"><a href="https://asana.com/jobs/apply/7078152?gh_jid=7078152&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | American Heart Association | Intern, Data Science 🛂 | Remote | <div align="center"><a href="https://careers-heart.icims.com/jobs/16131/intern%2c-data-science-remote/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Arcade AI](https://simplify.jobs/c/Arcade-AI?utm_source=GHList&utm_medium=company)** | Intern – Research Engineer - Applied AI | South Bay, SF | <div align="center"><a href="https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6b3b1281-6754-43d9-9311-e74b76e2555b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Castleton Commodities International](https://simplify.jobs/c/Castleton-Commodities-International?utm_source=GHList&utm_medium=company)** | GenAI Internship | Houston, TX | <div align="center"><a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2026-_R1102?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/95f8fa32-d4e4-4fb1-8e84-8ce6f9db2f21?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
