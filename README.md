@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 142 Internship Roles by Category
+### Browse 143 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (60)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (61)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (23)
 
@@ -74,13 +74,14 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)** | Research Internship – AI Agents for Industrial Applications | Santa Clara, CA | <div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Catalent | AI Operations Project | Emeryville, CA | <div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/en-US/External/job/Emeryville-CA/AI-Operations-Project-Internship_0090310?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Audubon, PA | <div align="center"><a href="https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)** | Firmware Engineer Intern 🛂 | Fremont, CA | <div align="center"><a href="https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Deloitte | Deloitte Technology - US Intern - Summer 2026 🛂 | Hermitage, TN | <div align="center"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2026/307248?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Software Developer Internship | Spring, TX | <div align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1b55e4c6-d1d8-4f1d-afbc-52357b131ae9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | San Francisco, NY | <div align="center"><a href="https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
-| Datavisor | Software Engineer | Mountain View, CA | <div align="center"><a href="https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| Datavisor | Software Engineer | Mountain View, CA | <div align="center"><a href="https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | <div align="center"><a href="https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103688?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[AI Fund](https://simplify.jobs/c/AI-Fund?utm_source=GHList&utm_medium=company)** | Full-Stack Engineer Intern 🛂 | San Francisco, CA | <div align="center"><a href="https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | Genworth | IT Development Program Intern 🛂 | Richmond, VA | <div align="center"><a href="https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
