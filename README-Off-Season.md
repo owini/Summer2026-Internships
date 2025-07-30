@@ -1201,7 +1201,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[ PrizePicks](https://simplify.jobs/c/PrizePicks?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | Atlanta, GA | 🔒 | 4d |
-| **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Bilingual – Digital Adoption Intern - Eng/FR | Oakville, ON, Canada | 🔒 | 7d |
+| **[Veolia](https://simplify.jobs/c/Veolia?utm_source=GHList&utm_medium=company)** | Bilingual – Digital Adoption Intern - Eng/FR | Oakville, ON, Canada | 🔒 | 8d |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Agentic AI Developer Intern | Toronto, ON, Canada | 🔒 | 8d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Physical Design for Machine Learning Intern | Austin, TX | 🔒 | 11d |
 | **[CSC](https://simplify.jobs/c/CSC?utm_source=GHList&utm_medium=company)** | Business Systems Analyst Intern | Wheeling, IL</br>Lewisville, TX | 🔒 | 14d |
@@ -1214,7 +1214,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Kyndryl Holdings](https://simplify.jobs/c/Kyndryl-Holdings?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Toronto, ON, Canada | 🔒 | 25d |
 | **[Sutter Health](https://simplify.jobs/c/Sutter-Health?utm_source=GHList&utm_medium=company)** | Data Analytics & AI Intern | Sacramento, CA | 🔒 | 26d |
 | **[Hearst](https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company)** | Intern – Governance - Risk & Compliance | New York, NY | 🔒 | 26d |
-| **[Exact Sciences](https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company)** | Data Science Internship | Madison, WI | 🔒 | 26d |
+| **[Exact Sciences](https://simplify.jobs/c/Exact-Sciences?utm_source=GHList&utm_medium=company)** | Data Science Internship | Madison, WI | 🔒 | 27d |
 | **[Lendbuzz](https://simplify.jobs/c/Lendbuzz?utm_source=GHList&utm_medium=company)** | Co-op – Machine Learning Engineer - Portuguese / Spanish | Boston, MA | 🔒 | 27d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Applied AI Research Engineering Intern | Santa Clara, CA | 🔒 | 29d |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Geforce Technical Marketing Intern | Santa Clara, CA | 🔒 | 1mo |

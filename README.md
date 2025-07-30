@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 150 Internship Roles by Category
+### Browse 151 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (64)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (48)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (49)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (12)
 
@@ -217,6 +217,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| PNC Bank | Quantitative Analytics Undergraduate Intern | Pittsburgh, PA | <div align="center"><a href="https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | AQR | Portfolio Implementation, Trading and Portfolio Finance Summer Analyst | Greenwich, CT | <div align="center"><a href="https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Squarepoint | Intern Quant Researcher | New York | <div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Keybank | 2026 Summer Analytics and Quantitative Modeling Internship 🛂 | Cleveland, Ohi | <div align="center"><a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
