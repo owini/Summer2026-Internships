@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 149 Internship Roles by Category
+### Browse 150 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (70)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (49)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (50)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (9)
 
@@ -937,7 +937,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Winter 2024 | Toronto, ON, Canada | 🔒 | 21mo |
 | ↳ | Intern – Full Stack Software Engineer - Winter 2024 | Toronto, ON, Canada | 🔒 | 21mo |
 | ↳ | Intern – Full Stack Software Engineer - Winter 2024 | Toronto, ON, Canada | 🔒 | 21mo |
-| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer-Cloud Solutions & Services – Co-op position | Burnaby, BC, Canada | 🔒 | 21mo |
+| **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Associate Software Developer-Cloud Solutions & Services – Co-op position | Burnaby, BC, Canada | 🔒 | 22mo |
 | **[Kepler Communications](https://simplify.jobs/c/Kepler-Communications?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Winter 2024 - 4 - Months | Toronto, ON, Canada | 🔒 | 22mo |
 | **[Kinaxis](https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company)** | Co-Op/Intern Test Developer - Product Verification | Ottawa, ON, Canada | 🔒 | 22mo |
 | **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Fall 2024 | Neenah, WI | 🔒 | 22mo |
@@ -1030,7 +1030,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Co-Op/Intern Developer - Query Engine - Back End Technologies | Canada</br>Ottawa, ON, Canada | 🔒 | 22mo |
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Internship - Winter 2024 - 4 Months | Toronto, ON, Canada | 🔒 | 22mo |
 | ↳ | Software Developer – Co-op/Internship - Winter 2024 - 8 Months | Toronto, ON, Canada | 🔒 | 22mo |
-| **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Spring 2024 | Raleigh, NC | 🔒 | 22mo |
+| **[Plexus](https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company)** | Intern – Software Engineer - Spring 2024 | Raleigh, NC | 🔒 | 23mo |
 | **[Kinaxis](https://simplify.jobs/c/Kinaxis?utm_source=GHList&utm_medium=company)** | Co-Op/Intern Developer - Clients - Front End Technologies | Ottawa, ON, Canada | 🔒 | 23mo |
 | ↳ | Co-Op/Intern Software Developer - Architecture & Innovation | Ottawa, ON, Canada | 🔒 | 23mo |
 | ↳ | Co-Op/Intern Software Test Developer - Algorithms | Ottawa, ON, Canada | 🔒 | 23mo |
@@ -1154,6 +1154,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Wealth.com](https://simplify.jobs/c/Wealth?utm_source=GHList&utm_medium=company)** | Applied Scientist - AI/ML | Remote in USA | <div align="center"><a href="https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3b9c9e36-fa52-4dd0-9a56-09a52dfd6e31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[FGS Global](https://simplify.jobs/c/FGS-Global?utm_source=GHList&utm_medium=company)** | IT Intern – CRM & Data Analytics | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/fgsglobal/jobs/4805848007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/86878f63-163d-404e-bb3d-ddadee7605fa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Microchip Technology](https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company)** | Intern-Engineering - Data Analyst | Chandler, AZ | <div align="center"><a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1091-25?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/555cee32-8a3c-42f4-80fb-0cabe87ef3bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[HarbourVest](https://simplify.jobs/c/HarbourVest?utm_source=GHList&utm_medium=company)** | Portfolio Analytics Intern | Boston, MA | <div align="center"><a href="https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1920?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/bcf459e6-8c48-4c98-8acc-7425e5de6630?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
@@ -1681,7 +1682,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Systems Hardware Integration Engineer – Intern - Fall 2024 | SF | 🔒 | 21mo |
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories?utm_source=GHList&utm_medium=company)** | Fall Internship: Embedded Systems - RF Machine Learning | Malibu, CA | 🔒 | 21mo |
 | **[Ample](https://simplify.jobs/c/Ample?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer INTERN - January 2024 | SF | 🔒 | 21mo |
-| **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Embedded Firmware Co-Op - Fall 2023 | Rochester, NY | 🔒 | 21mo |
+| **[Applied Materials](https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company)** | Embedded Firmware Co-Op - Fall 2023 | Rochester, NY | 🔒 | 22mo |
 | **[Sanctuary AI](https://simplify.jobs/c/Sanctuary-AI?utm_source=GHList&utm_medium=company)** | Hardware Co-op: Firmware Engineering - January 2024 term | Vancouver, BC, Canada | 🔒 | 22mo |
 | **[Kepler Communications](https://simplify.jobs/c/Kepler-Communications?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Intern - Winter 2024 - 4 - Months | Toronto, ON, Canada | 🔒 | 22mo |
 | **[Symbotic](https://simplify.jobs/c/symbotic?utm_source=GHList&utm_medium=company)** | Co-op-Embedded Software Engineer - Spring | Burlington, MA | 🔒 | 22mo |
