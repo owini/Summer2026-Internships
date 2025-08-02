@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 169 Internship Roles by Category
+### Browse 168 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (81)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (27)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (48)
 
@@ -202,7 +202,6 @@
 | Kearney&Co | Data Analytics Internship 🇺🇸 | Alexandria, VA | <div align="center"><a href="https://careers.kearneyco.com/jobs/4822?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Investment Data Science Intern | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565271006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/46895a50-4c9a-41cc-aa44-fe8c9aa4abe4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
 | **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern 🛂 | Draper, UT</br>San Jose, CA | <div align="center"><a href="https://www.bill.com/job?gh_jid=5588103004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 16d |
-| **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Technology Intern | New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565278006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fcc647a6-bbe5-44f4-bd54-7ec4741098ea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
 | Protiviti | Digital Intern 🛂 | New York, NY | <div align="center"><a href="https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 24d |
 | **[Morgan Stanley](https://simplify.jobs/c/Morgan-Stanley?utm_source=GHList&utm_medium=company)** | 2026 Technology Summer Analyst Program | New York, NY | <div align="center"><a href="https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 24d |
 | D. E. Shaw | Fundamental Research Analyst Intern | New York, NY | <div align="center"><a href="https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 24d |
@@ -215,7 +214,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (5)</summary>
+<summary>🗃️ Inactive roles (6)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -223,6 +222,7 @@
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | McLean, VA</br>Richmond, VA | 🔒 | 17d |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 18d |
 | **[Lamb Weston](https://simplify.jobs/c/Lamb-Weston?utm_source=GHList&utm_medium=company)** | Lamb Weston Summer Internship Program | Kennewick, WA | 🔒 | 24d |
+| **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Technology Intern | New York, NY | 🔒 | 24d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | ERP Internship: Rising Senior Technology | Orlando, FL</br>Philadelphia, PA</br>New York, NY | 🔒 | 25d |
 
 
