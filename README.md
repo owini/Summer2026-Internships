@@ -158,11 +158,10 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (8)</summary>
+<summary>🗃️ Inactive roles (7)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| GDIT | Software Developer Associate (Intern) | Bossier City, LA | 🔒 | 3d |
 | Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 3d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2025 Emerging Talent Apprentice - Lgcc | NYC | 🔒 | 13d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | 🔒 | 23d |
