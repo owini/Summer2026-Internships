@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 181 Internship Roles by Category
+### Browse 182 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (89)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (90)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (29)
 
@@ -74,7 +74,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| TikTok | Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533029779479791890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| TikTok | Software Engineer Intern (Data Ecosystem) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533388869200333074?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533029779479791890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote | <div align="center"><a href="https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | New York, NY</br>San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Technology Internship Program - Summer 2026 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
