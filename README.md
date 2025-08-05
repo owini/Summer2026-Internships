@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 184 Internship Roles by Category
+### Browse 185 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (92)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (93)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (29)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| EPIC | Student Associate - Software Engineer 🛂 | Rochester, NY | <div align="center"><a href="https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | <div align="center"><a href="https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | TikTok | Software Engineer Intern (Data Ecosystem) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533388869200333074?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533029779479791890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
@@ -236,7 +237,7 @@
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | 🔒 | 14d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Investment Data Science Intern | NYC | 🔒 | 14d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | McLean, VA</br>Richmond, VA | 🔒 | 20d |
-| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 21d |
+| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 22d |
 | **[Lamb Weston](https://simplify.jobs/c/Lamb-Weston?utm_source=GHList&utm_medium=company)** | Lamb Weston Summer Internship Program | Kennewick, WA | 🔒 | 27d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Technology Intern | New York, NY | 🔒 | 28d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | ERP Internship: Rising Senior Technology | Orlando, FL</br>Philadelphia, PA</br>New York, NY | 🔒 | 28d |
