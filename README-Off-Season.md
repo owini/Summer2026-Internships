@@ -191,7 +191,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[EUNA Solutions](https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151?utm_source=GHList&utm_medium=company)** | Software Developer Co-Op - Procurement | Oakville, ON, Canada | 🔒 | 1mo |
 | **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test – Co-op - Sdet | Halifax Regional Municipality, NS, Canada | 🔒 | 1mo |
 | ↳ | Co-op Java Developer | Vancouver, BC, Canada | 🔒 | 1mo |
-| ↳ | Co-op Software Development Engineer in Test - Sdet | Vancouver, BC, Canada | 🔒 | 1mo |
+| **[Global Relay](https://simplify.jobs/c/Global-Relay?utm_source=GHList&utm_medium=company)** | Co-op Software Development Engineer in Test - Sdet | Vancouver, BC, Canada | 🔒 | 1mo |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Product Verification Automation Co-op | Ottawa, ON, Canada | 🔒 | 1mo |
 | **[Behaviour Interactive](https://simplify.jobs/c/Behaviour-Interactive?utm_source=GHList&utm_medium=company)** | Technical Designer - Concepteur·trice technique | Montreal, QC, Canada | 🔒 | 1mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Networking | Santa Clara, CA | 🔒 | 1mo |
@@ -235,7 +235,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | 2mo |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Backend Developer Co-op | Kitchener, ON, Canada | 🔒 | 2mo |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Backend Development Engineer Co-op | Montreal, QC, Canada</br>Ottawa, ON, Canada | 🔒 | 2mo |
-| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Solutions Engineering AV | Santa Clara, CA | 🔒 | 2mo |
+| **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Solutions Engineering AV | Santa Clara, CA | 🔒 | 3mo |
 | **[NimbleRx](https://simplify.jobs/c/NimbleRx?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Carlos, CA | 🔒 | 3mo |
 | **[TD Bank](https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company)** | Certification Intern/Co-op | Mississauga, ON, Canada | 🔒 | 3mo |
 | **[Verkada](https://simplify.jobs/c/Verkada?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Backend | San Mateo, CA | 🔒 | 3mo |
