@@ -156,8 +156,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Vanguard](https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company)** | IT Co-Op | Malvern, PA</br>Charlotte, NC | 🔒 | 3d |
 | **[T. Rowe Price](https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | Owings Mills, MD</br>Baltimore, MD | 🔒 | 4d |
 | **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)** | Engineering Intern - Internal Platform | NYC | 🔒 | 6d |
-| **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | 🔒 | 10d |
-| ↳ | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | 🔒 | 10d |
+| **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | 🔒 | 11d |
+| ↳ | Digital Technology Co-op | Livonia, MI</br>Cincinnati, OH | 🔒 | 11d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | Co-Op for NPOP Team | Newark, NJ | 🔒 | 12d |
 | **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | Software Intern - AI Compilers | Toronto, ON, Canada</br>Austin, TX</br>Santa Clara, CA | 🔒 | 16d |
 | **[Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company)** | 2026 Software Engineering Internship - Uber Career Prep | SF | 🔒 | 17d |

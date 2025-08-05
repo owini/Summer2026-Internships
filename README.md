@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 182 Internship Roles by Category
+### Browse 183 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (90)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (91)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (29)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | <div align="center"><a href="https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | TikTok | Software Engineer Intern (Data Ecosystem) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533388869200333074?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics) | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533029779479791890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote | <div align="center"><a href="https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
