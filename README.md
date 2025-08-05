@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 177 Internship Roles by Category
+### Browse 178 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (86)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (28)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (29)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (50)
 
@@ -191,6 +191,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| New York Life | Technology Analyst Intern | New York, NY | <div align="center"><a href="https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Mobile Developer Intern (AI / ML) | Dallas, TX | <div align="center"><a href="https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | GDIT | Artificial Intelligence/Machine Learning Associate Internship 🛂 | Falls Church, VA | <div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Data Science Associate Internship 🇺🇸 | Tampa, FL | <div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
