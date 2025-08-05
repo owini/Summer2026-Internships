@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 175 Internship Roles by Category
+### Browse 176 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (86)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (26)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (27)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (50)
 
@@ -191,7 +191,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| GDIT | Data Science Associate Internship 🇺🇸 | Tampa, FL | <div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| GDIT | Artificial Intelligence/Machine Learning Associate Internship 🛂 | Falls Church, VA | <div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Data Science Associate Internship 🇺🇸 | Tampa, FL | <div align="center"><a href="https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Dexcom](https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company)** | 2026 Summer Internship Early Interest - Technical Degrees | San Diego, CA | <div align="center"><a href="https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/XMLNAME-2026-Summer-Internship-Early-Interest---Technical-Degrees_JR111757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a10f1b7f-c44a-4762-9b3b-ab6e8c43981a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)** | 2026 Data Science Analyst Program – Summer Analyst | <details><summary>**5 locations**</summary>Delaware</br>Dallas, TX</br>Chicago, IL</br>Columbus, OH</br>NYC</details> | <div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210648373?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/61a2608b-35e4-4743-bdc4-763b642e1dab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | <div align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990008860976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cae188bf-ce85-4b79-8028-954730fbaca8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
