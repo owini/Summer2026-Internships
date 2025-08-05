@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 187 Internship Roles by Category
+### Browse 186 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (94)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (30)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (29)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (50)
 
@@ -221,7 +221,6 @@
 | a37 | Fullstack/MLE Intern | San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 12d |
 | Kearney&Co | Data Analytics Internship 🇺🇸 | Alexandria, VA | <div align="center"><a href="https://careers.kearneyco.com/jobs/4822?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern 🛂 | Draper, UT</br>San Jose, CA | <div align="center"><a href="https://www.bill.com/job?gh_jid=5588103004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 19d |
-| Protiviti | Digital Intern 🛂 | New York, NY | <div align="center"><a href="https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 28d |
 | **[Morgan Stanley](https://simplify.jobs/c/Morgan-Stanley?utm_source=GHList&utm_medium=company)** | 2026 Technology Summer Analyst Program | New York, NY | <div align="center"><a href="https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 28d |
 | D. E. Shaw | Fundamental Research Analyst Intern | New York, NY | <div align="center"><a href="https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 28d |
 | BNP Paribas | Summer Analyst Intern | Jersey City, NJ | <div align="center"><a href="https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 28d |
