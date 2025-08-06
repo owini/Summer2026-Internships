@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 136 Internship Roles by Category
+### Browse 135 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (9)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (8)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (25)
 
@@ -152,7 +152,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Intern | <details><summary>**7 locations**</summary>Alberta, Canada</br>British Columbia, Canada</br>Ontario, Canada</br>NB, Canada</br>Charlottetown, PE, Canada</br>Nova Scotia, Canada</br>Manitoba, Canada</details> | 🔒 | 23d |
 | **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Community College | Plano, TX</br>Charlotte, NC | 🔒 | 24d |
 | ↳ | Global Technology Apprentice - Npower/Per Scholas | Plano, TX</br>Richmond, VA</br>Lawrence Township, NJ | 🔒 | 24d |
-| ↳ | Global Technology Apprentice - Npower/Per Scholas | NYC | 🔒 | 24d |
+| **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)** | Global Technology Apprentice - Npower/Per Scholas | NYC | 🔒 | 25d |
 | **[Zeiss](https://simplify.jobs/c/Zeiss?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dublin, CA | 🔒 | 25d |
 | **[Fullscript](https://simplify.jobs/c/FullScript?utm_source=GHList&utm_medium=company)** | Co-op/Intern Ruby Engineer | Ottawa, ON, Canada | 🔒 | 25d |
 | **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad?utm_source=GHList&utm_medium=company)** | Intern Software Developer - Stagiaire en Développement Logiciel | Montreal, QC, Canada | 🔒 | 25d |
@@ -1513,7 +1513,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Quantitative Researcher – Intern | London, UK | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6758938&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dc377bc8-2dda-40b8-87af-873d80d8980a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Blockhouse](https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company)** | Quantitative Developer Internship | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/blockhouse/6d7d9c01-5524-4ecd-854c-0dce64cc4696/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c83bc117-7f93-4416-b994-ac0f460a74e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 12d |
 | **[Blockhouse](https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company)** | Quantitative Research Internship | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a54ed89d-22a5-4e70-a329-1f4c976443e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Morgan Stanley](https://simplify.jobs/c/Morgan-Stanley?utm_source=GHList&utm_medium=company)** | MSIM-Portfolio Solutions-Quant Generalist-Intern | NYC | <div align="center"><a href="https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM--Portfolio-Solutions--Quant-Generalist--Intern_JR017183?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3c831e96-b42c-4023-99fe-aca3702e3e05?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |

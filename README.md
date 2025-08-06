@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 206 Internship Roles by Category
+### Browse 207 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (104)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (49)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (50)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (14)
 
@@ -185,8 +185,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 4d |
-| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship 🛂 | Charlotte, NC</br>Atlanta, GA | 🔒 | 5d |
+| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 5d |
+| ↳ | Technology and Innovation Internship 🛂 | Charlotte, NC</br>Atlanta, GA | 🔒 | 5d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Farmington, CT | 🔒 | 5d |
 | Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 6d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | 🔒 | 6d |
@@ -283,6 +283,7 @@
 | **[U.S. Bank](https://simplify.jobs/c/US-Bank?utm_source=GHList&utm_medium=company)** | Capital Markets Summer Intern-Investment Grade Sales & Trading | Charlotte, NC | <div align="center"><a href="https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2026-Capital-Markets-Summer-Intern--Investment-Grade-Sales---Trading_2025-0018375?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/036fbedd-299d-4b1b-b760-4e3aeb1164a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[DV Trading](https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company)** | 2026 Summer Internship - Trading - DV Commodities | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4589597005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/382024b6-73a3-43ef-82df-7401bb6b194b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | ↳ | 2026 Summer Internship - Trading - DV Commodities | London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4592911005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/909eb4b5-0aa0-4faf-86d9-d4774690f1f5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
+| **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Quantitative Researcher – Intern | London, UK | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6758938&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dc377bc8-2dda-40b8-87af-873d80d8980a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | AQR | Portfolio Implementation, Trading and Portfolio Finance Summer Analyst | Greenwich, CT | <div align="center"><a href="https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
 | Squarepoint | Intern Quant Researcher | New York | <div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)** | Algorithm Development – Internship - Quant Research | NYC | <div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998811&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9ba23c17-8fb9-4971-9c69-ff7db55428ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
