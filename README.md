@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 199 Internship Roles by Category
+### Browse 200 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (104)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (32)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (33)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (49)
 
@@ -224,6 +224,7 @@
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Data Science Intern - Year-Round 🛂 | Auburn Hills, MI | <div align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/33987f80-ae9c-4965-b728-c5695237c165?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Hudl](https://simplify.jobs/c/Hudl?utm_source=GHList&utm_medium=company)** | Marketing Analytics Intern | Lincoln, NE | <div align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/7116298?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/26f248b0-f4d4-422a-92d1-ffeef39806be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Agent Development Intern - Marketing and UA Support | London, UK | <div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Agent-Development-Intern--Marketing-and-UA-Support-_R105863-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a9497452-a419-40ae-aa8a-c37fe469414a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
+| **[Wealth.com](https://simplify.jobs/c/Wealth?utm_source=GHList&utm_medium=company)** | Applied Scientist - AI/ML | Remote in USA | <div align="center"><a href="https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3b9c9e36-fa52-4dd0-9a56-09a52dfd6e31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[AbbVie](https://simplify.jobs/c/AbbVie?utm_source=GHList&utm_medium=company)** | Business Technology Solutions Intern | Waukegan, IL | <div align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990008860976?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cae188bf-ce85-4b79-8028-954730fbaca8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
 | **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)** | Data Science Intern | Vancouver, Canada | <div align="center"><a href="https://asana.com/jobs/apply/7078192?gh_jid=7078192&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
 | ↳ | Data Science Intern | San Francisco, CA | <div align="center"><a href="https://asana.com/jobs/apply/7078152?gh_jid=7078152&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
