@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 211 Internship Roles by Category
+### Browse 212 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (104)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (54)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (55)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (14)
 
@@ -302,6 +302,7 @@
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Quantitative Development & Strategy Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7065132&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0f902ab7-852b-4624-9759-d50392926fc8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | ↳ | Quantitative Research Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=7055793&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/08d72057-2262-4940-ab32-648dcc930353?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Credit & Rates Rotational Trading Intern | New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trading-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/16352480-c9f0-45d4-9945-7ce4aba872fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
+| ↳ | Quantitative Research Analyst Intern - BS/MS | London, UK</br>Paris, France | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b977109a-8e8c-4173-a584-460e709a733f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)** | Quantitative Trader Intern | NYC | <div align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=7062358&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/af6d9dca-b7a3-41bf-8aa1-c0ef7d83707a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Quantitative Researcher Intern | Boston, MA | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565293006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8daccd86-7eef-4564-b20b-e3cdee2229ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |
 | ↳ | Quantitative Developer Intern | Boston, MA | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d7cc2264-cc9b-42af-a3a1-75d57798dd06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |

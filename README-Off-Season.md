@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 131 Internship Roles by Category
+### Browse 130 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (4)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (25)
 
@@ -605,10 +605,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Sigma Computing](https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company)** | Frontend Software Engineering Intern – Recent Grad | SF | 🔒 | 10mo |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Full Stack Software Engineer – Intern - Winter 2025 | Toronto, ON, Canada | 🔒 | 10mo |
 | **[Anduril](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)** | Mission Software Engineer Co-op - Anduril Maritime Fall 2025 | Quincy, MA | 🔒 | 10mo |
-| **[Super](https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
-| ↳ | Software Engineering Intern - Internal Tools - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
-| ↳ | Software Engineering Intern - Fullstack - Product - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
-| ↳ | Software Engineering Intern - Ops Tools - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
+| **[Super](https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company)** | Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
+| ↳ | Software Engineering Intern - Internal Tools - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
+| ↳ | Software Engineering Intern - Fullstack - Product - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
+| ↳ | Software Engineering Intern - Ops Tools - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Business Intelligence Graduate Intern - Spring 2025 | Celebration, FL | 🔒 | 11mo |
 | **[Disney Careers](https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6?utm_source=GHList&utm_medium=company)** | System App Dev & Sustainment Intern - Spring 2025 | Orlando, FL | 🔒 | 11mo |
 | **[MarketAxess](https://simplify.jobs/c/MarketAxess?utm_source=GHList&utm_medium=company)** | Data Software Engineering Intern 2025 | New York, NY | 🔒 | 11mo |
@@ -1261,7 +1261,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Deep Learning Server Software Intern - Dgx | Santa Clara, CA | 🔒 | 2mo |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company)** | Analyst – Co-op/Internship - People Analytics | Toronto, ON, Canada | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Stage – Science des données et Analytique d’affaires / Internship - Data Science and Business Analytics | Longueuil, QC, Canada | 🔒 | 2mo |
-| ↳ | Stage – Gestion de projets et développement d'outils d'analyse en qualité - Quality Project management and data analysis tool development | Longueuil, QC, Canada | 🔒 | 2mo |
+| **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Stage – Gestion de projets et développement d'outils d'analyse en qualité - Quality Project management and data analysis tool development | Longueuil, QC, Canada | 🔒 | 2mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Data Intelligence Co-op | Remote in USA | 🔒 | 2mo |
 | **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)** | Stage Automne-Support aux projets Données Clients / Internship Fall-Support to Customer Master | Longueuil, QC, Canada | 🔒 | 2mo |
 | **[Cibc](https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company)** | Analytics Co-Op | Toronto, ON, Canada | 🔒 | 2mo |
@@ -1389,8 +1389,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[The Walt Disney Company](https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company)** | Decision Science Data Engineering Intern - Spring 2025 | Celebration, FL | 🔒 | 10mo |
 | **[Wellmark](https://simplify.jobs/c/Wellmark?utm_source=GHList&utm_medium=company)** | Data Analytics Internship - Technology & Experience Analytics | Des Moines, IA | 🔒 | 10mo |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Co-op – Machine Learning - Computer Vision - And AI - Spring 2025 | Western Springs, IL | 🔒 | 10mo |
-| **[Super](https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company)** | Data Engineering Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
-| ↳ | Data Analyst Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
+| **[Super](https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company)** | Data Engineering Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
+| ↳ | Data Analyst Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 11mo |
 | **[Disney Careers](https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6?utm_source=GHList&utm_medium=company)** | Commercial Strategy Data Science Intern - Spring 2025 | Celebration, FL | 🔒 | 11mo |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Atlanta, GA | 🔒 | 11mo |
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Data Science - Winter 2025 | Remote in USA | 🔒 | 11mo |
@@ -1515,7 +1515,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Blockhouse](https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company)** | Quantitative Research Internship | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a54ed89d-22a5-4e70-a329-1f4c976443e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Quantitative Trading Intern | Chicago, IL | <div align="center"><a href="https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a7b25c67-23aa-477b-9ed2-a9c12120932a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 25d |
-| **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Quantitative Research Analyst Intern - BS/MS | London, UK</br>Paris, France | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b977109a-8e8c-4173-a584-460e709a733f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Algorithmic Trader Intern | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/cf412da4-1f1d-43aa-8f7d-135ac859dfdf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2mo |
 
 
