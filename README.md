@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 190 Internship Roles by Category
+### Browse 191 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (99)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (100)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (28)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Roblox](https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company)** | Software Engineer Intern 🛂 | San Mateo, CA | <div align="center"><a href="https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | New York, NY | <div align="center"><a href="https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)** | Software Engineer Intern, Front-End, PMS 🛂 | New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)** | Software Development Engineer in Test Intern - Global E-Commerce | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7533352137058011399/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/28443410-8587-45ee-93eb-e6a3250f2e60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -182,7 +183,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 4d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Farmington, CT | 🔒 | 5d |
-| Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 5d |
+| Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 6d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | 🔒 | 6d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2025 Emerging Talent Apprentice - Lgcc | NYC | 🔒 | 16d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | 🔒 | 25d |
