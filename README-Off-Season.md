@@ -10,7 +10,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 126 Internship Roles by Category
+### Browse 125 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
@@ -18,7 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (2)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (22)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (21)
 
 ---
 
@@ -1559,7 +1559,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ------- | ---- | -------- | ------ | -- |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Edinburgh, UK | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer-Intern_R56319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/212dc499-a662-4704-9d3b-ac2080f5586a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation?utm_source=GHList&utm_medium=company)** | Co-op – Firmware Engineering | Cambridge, ON, Canada | <div align="center"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R25-6419-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c3f5016e-69ca-46fb-92b8-73f66b983257?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
-| **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | King of Prussia, PA | <div align="center"><a href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/97f40342-4b82-4bae-b1d4-e95c5ab11c37?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | **[NXP Semiconductors](https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984?utm_source=GHList&utm_medium=company)** | Digital Verification Intern | Chandler, AZ | <div align="center"><a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Fall-2025_R-10059450?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e0d07aa8-10d6-41ba-ac9d-be52f1a304ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer – Co-op | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028495?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
 | **[Stax](https://simplify.jobs/c/cc710af5-f21c-4b74-b377-d3b394b7b124?utm_source=GHList&utm_medium=company)** | Software Engineer Internship | Orem, UT | <div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3442794?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c55b74b5-fb2e-4dd6-a742-8a2a98658a58?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |

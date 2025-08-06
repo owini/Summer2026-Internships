@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 216 Internship Roles by Category
+### Browse 217 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (104)
 
@@ -17,7 +17,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (56)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (17)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (18)
 
 ---
 
@@ -360,6 +360,7 @@
 | ↳ | Campus ASIC Engineer – Intern | Bristol, UK | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6959818&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b32c6f61-f7a1-467d-b08e-3bb78a3dce30?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[PennState University](https://simplify.jobs/c/Penn-State?utm_source=GHList&utm_medium=company)** | Embedded Systems and Hardware Co-Op 🇺🇸 | Warminster, PA | <div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9b3a298c-8894-407e-bb7b-b72434713c39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | Komatsu | Embedded Controls Software Intern | Warrendale, PA | <div align="center"><a href="https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 7d |
+| **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)** | Software Engineer Co-op | Audubon, PA | <div align="center"><a href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/97f40342-4b82-4bae-b1d4-e95c5ab11c37?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 7d |
 | General Dynamics | Embedded Software Engineering Co-Op 🛂 | Scottsdale, AZ | <div align="center"><a href="https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 8d |
 | **[Lynk](https://simplify.jobs/c/Lynk?utm_source=GHList&utm_medium=company)** | Summer Intern - Telecommunications | Washington, DC | <div align="center"><a href="https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dfcb48e7-381f-4da6-aae8-8a10cb50f316?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | ↳ | Software Engineering Intern | Washington, DC | <div align="center"><a href="https://jobs.ashbyhq.com/Lynk/45674c74-be04-41ac-94d0-dfa83e3fe210/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3645e780-ebd4-46d8-83c0-6809c351c341?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
