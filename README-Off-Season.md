@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 133 Internship Roles by Category
+### Browse 132 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (63)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (39)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (6)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (5)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (25)
 
@@ -549,7 +549,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Fullstack Application Developer – Co-op position | Vancouver, BC, Canada | 🔒 | 9mo |
 | ↳ | Associate Software Developer – Co-op position | Vancouver, BC, Canada | 🔒 | 9mo |
 | ↳ | Associate Software Developer – Co-op position - Anyware Endpoints | Vancouver, BC, Canada | 🔒 | 9mo |
-| **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick?utm_source=GHList&utm_medium=company)** | Capital Markets Intern - Spring 2025 | New York, NY | 🔒 | 9mo |
+| **[Weber Shandwick](https://simplify.jobs/c/Weber-Shandwick?utm_source=GHList&utm_medium=company)** | Capital Markets Intern - Spring 2025 | New York, NY | 🔒 | 10mo |
 | **[IPG DXTRA](https://simplify.jobs/c/IPG-DXTRA?utm_source=GHList&utm_medium=company)** | Capital Markets Intern - Spring 2025 | New York, NY | 🔒 | 10mo |
 | **[Gearset](https://simplify.jobs/c/Gearset?utm_source=GHList&utm_medium=company)** | Software Engineering Intern 2025 | Cambridge, UK | 🔒 | 10mo |
 | **[Kognitos](https://simplify.jobs/c/142611da-5149-464d-b83b-10184af37def?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern - Winter 2025 | San Jose, CA | 🔒 | 10mo |
@@ -1368,7 +1368,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Intradiem](https://simplify.jobs/c/Intradiem?utm_source=GHList&utm_medium=company)** | AI/ML Intern | Remote in USA | 🔒 | 9mo |
 | **[PayPal](https://simplify.jobs/c/PayPal?utm_source=GHList&utm_medium=company)** | Machine Learning Intern | San Jose, CA | 🔒 | 9mo |
 | **[Rivian](https://simplify.jobs/c/Rivian?utm_source=GHList&utm_medium=company)** | Engineering Intern – Winter 2025 Co-Op - Machine Learning | Normal, IL | 🔒 | 9mo |
-| **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Optical Algorithms & Analytics Engineer – Co-op | Ottawa, ON, Canada | 🔒 | 9mo |
+| **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99?utm_source=GHList&utm_medium=company)** | Optical Algorithms & Analytics Engineer – Co-op | Ottawa, ON, Canada | 🔒 | 10mo |
 | **[Snowflake](https://simplify.jobs/c/Snowflake?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - AI/ML - Spring 2025 | Bellevue, WA | 🔒 | 10mo |
 | ↳ | Software Engineer Intern - AI/ML - Spring 2025 | San Mateo, CA | 🔒 | 10mo |
 | **[Teleo](https://simplify.jobs/c/Teleo?utm_source=GHList&utm_medium=company)** | Machine Learning – Perception Internship/Co-op - Winter/Spring 2025 | Palo Alto, CA | 🔒 | 10mo |
@@ -1391,7 +1391,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Co-op – Machine Learning - Computer Vision - And AI - Spring 2025 | Western Springs, IL | 🔒 | 10mo |
 | **[Super](https://simplify.jobs/c/Super?utm_source=GHList&utm_medium=company)** | Data Engineering Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
 | ↳ | Data Analyst Intern - Remote - Waterloo Winter 2025 | Remote in Canada | 🔒 | 10mo |
-| **[Disney Careers](https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6?utm_source=GHList&utm_medium=company)** | Commercial Strategy Data Science Intern - Spring 2025 | Celebration, FL | 🔒 | 10mo |
+| **[Disney Careers](https://simplify.jobs/c/f4ca773e-168e-4f3d-bc3d-e0cc32345fc6?utm_source=GHList&utm_medium=company)** | Commercial Strategy Data Science Intern - Spring 2025 | Celebration, FL | 🔒 | 11mo |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | Data Scientist Intern | Atlanta, GA | 🔒 | 11mo |
 | **[Wealthsimple](https://simplify.jobs/c/Wealthsimple?utm_source=GHList&utm_medium=company)** | Intern – Data Science - Winter 2025 | Remote in USA | 🔒 | 11mo |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Data Engineer/Analyst Intern | O'Fallon, IL</br>Illinois | 🔒 | 11mo |
@@ -1514,7 +1514,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Blockhouse](https://simplify.jobs/c/Blockhouse?utm_source=GHList&utm_medium=company)** | Quantitative Research Internship | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a54ed89d-22a5-4e70-a329-1f4c976443e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 13d |
-| **[Bridgewater Associates](https://simplify.jobs/c/Bridgewater-Associates?utm_source=GHList&utm_medium=company)** | Investment Engineer Intern | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/bwaltpostings/jobs/7950099002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a8440d30-9b5e-4550-b1e4-b7c7efb1f49d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)** | Quantitative Trading Intern | Chicago, IL | <div align="center"><a href="https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a7b25c67-23aa-477b-9ed2-a9c12120932a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 25d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Credit & Rates Rotational Trading Intern | NYC | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trading-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/16352480-c9f0-45d4-9945-7ce4aba872fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | ↳ | Quantitative Research Analyst Intern - BS/MS | London, UK</br>Paris, France | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b977109a-8e8c-4173-a584-460e709a733f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
