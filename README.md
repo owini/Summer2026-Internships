@@ -231,7 +231,7 @@
 | **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 5d |
 | ↳ | Technology and Innovation Internship 🛂 | Charlotte, NC</br>Atlanta, GA | 🔒 | 5d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Farmington, CT | 🔒 | 6d |
-| Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 6d |
+| Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 7d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | 🔒 | 7d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2025 Emerging Talent Apprentice - Lgcc | NYC | 🔒 | 17d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | 🔒 | 26d |
