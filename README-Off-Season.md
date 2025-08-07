@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 130 Internship Roles by Category
+### Browse 133 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (69)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (71)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (43)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (44)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (2)
 
@@ -61,6 +61,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Platform efficiency | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7530513185797359880?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/779f212c-f34e-4260-b5af-2e54a8c159fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Frontend Engineer Project Intern - Tiktok-Search-Client | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533782486234007816?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/83b8625c-9a5f-4932-b128-ddd4a88b0c0e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Software Engineer – Intern | Chicago, IL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7124769&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7893ae36-4fcf-4ff9-8f3b-593b393a5ba9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Campus UI Software Engineer – Intern | Chicago, IL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7125381&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6fdace5c-6ca0-411d-a5fa-170c4212dd45?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Wurl](https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/wurljobs/jobs/4552288006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dc49de1f-c56b-4912-92a6-d240db6835c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -1159,6 +1161,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Data Science intern - 2025 Start - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7478599213392251154?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a1525997-1c16-4b29-9052-9bf2afbf8d99?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Model-Based Design Algorithm Engineer Intern | Southfield, MI | <div align="center"><a href="https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT556-Farmington-Hills-34705-West-12-Mile-Rd-MI-48331-USA/Model-Based-Design-Algorithm-Engineer-Intern_20140445?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e18f467d-ae15-442d-b239-6eb0d2604b1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Data Engineer – Intern | Chicago, IL | <div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7125399&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/75484706-7428-413f-965c-0440ead8978d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Wabtec](https://simplify.jobs/c/fafa7828-221b-4c03-8031-f534d09caac1?utm_source=GHList&utm_medium=company)** | Part-time Co-op | Pittsburgh, PA</br>Fort Worth, TX | <div align="center"><a href="https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Fort-Worth-TX/Part-time-Fall-2025-Co-op_R0101047?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/df374bf3-f271-48b5-8451-81b30a306ddb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
