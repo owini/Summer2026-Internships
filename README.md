@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 320 Internship Roles by Category
+### Browse 321 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (172)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (65)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (61)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (23)
 
@@ -373,6 +373,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Quantitative Trader | New York, NY</br>. Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Xantium | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/xantium/jobs/7094436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://xantium.com/careers/interns_2026/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)** | Algorithm Trader – Internship - Quantitative Trader | NYC | <div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8267bdf4-b0c6-4073-871b-6799c86aac52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
@@ -467,9 +468,9 @@
 | ↳ | Software Engineering Intern | Washington, DC | <div align="center"><a href="https://jobs.ashbyhq.com/Lynk/45674c74-be04-41ac-94d0-dfa83e3fe210/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3645e780-ebd4-46d8-83c0-6809c351c341?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 10d |
 | **[Eight Sleep](https://simplify.jobs/c/Eight-Sleep?utm_source=GHList&utm_medium=company)** | Hardware Support & Test Intern | San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/eightsleep/86959a9a-44a5-401d-8009-f9a691acefee/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f661f3e1-e3bd-4e3b-921a-87a50652d0be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 12d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Embedded Software Engineer Co-Op | Ottawa, ON, Canada | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Co-Op--September-2025-_R028482?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1da66c59-4963-47db-8e28-5af910a96d72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
-| **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | CPU Design Verification Intern 🇺🇸 | Austin, TX</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2a159136-4b54-47ea-841a-cd9da6e2ed19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
-| ↳ | Acceleration Kernel Developer Intern 🇺🇸 | Toronto, ON, Canada</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/53a083aa-f7ae-4f4d-8a2d-4a9130721f72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
-| ↳ | CPU Core Performance Verification Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4ccd3cc1-f196-4041-996c-f33e4728a6fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
+| **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | CPU Design Verification Intern 🇺🇸 | Austin, TX</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2a159136-4b54-47ea-841a-cd9da6e2ed19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 20d |
+| ↳ | Acceleration Kernel Developer Intern 🇺🇸 | Toronto, ON, Canada</br>Santa Clara, CA | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/53a083aa-f7ae-4f4d-8a2d-4a9130721f72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 20d |
+| ↳ | CPU Core Performance Verification Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | <div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4ccd3cc1-f196-4041-996c-f33e4728a6fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 20d |
 | **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | FPGA Engineer Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 22d |
 | ↳ | FPGA Engineer Intern | Austin, TX | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 22d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Hardware Engineer Intern | Chicago, IL | <div align="center"><a href="https://www.akunacapital.com/job-details?gh_jid=6945855&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2156c922-ba8a-4f27-bd2a-50aaab6dfc8c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 24d |
@@ -484,7 +485,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | RTL Design Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | 🔒 | 19d |
+| **[Tenstorrent](https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company)** | RTL Design Intern - CPU/AI Hardware 🇺🇸 | Austin, TX | 🔒 | 20d |
 
 
 </details>
