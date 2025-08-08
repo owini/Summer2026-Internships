@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 314 Internship Roles by Category
+### Browse 315 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (168)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (169)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (65)
 
@@ -74,7 +74,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)** | Cloud Infrastructure Engineer Intern | Remote, United Kingdom | <div align="center"><a href="https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)** | Confluent Software Engineering Intern | Toronto, Canada | <div align="center"><a href="https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Cloud Infrastructure Engineer Intern | Remote, United Kingdom | <div align="center"><a href="https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Frontend Engineer Intern - Tiktok-Pgc-Ogc - 2026 Summer - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533107403265624338?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fe3ab54a-d42a-47ab-acb5-7781d79c5ca8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Mobile Software Engineer Intern - Tiktok-Engineering Excellence-Dev Infra - 2026 Summer - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7533295344253143314?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/238e92e1-c653-4e99-a9eb-74f8cc0629a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7532582984265812231?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e0b68754-f6bf-4417-b34d-9809dde9c3e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
