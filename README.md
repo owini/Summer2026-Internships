@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 321 Internship Roles by Category
+### Browse 322 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (172)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (65)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (61)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (62)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (23)
 
@@ -373,7 +373,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Quantitative Trader | New York, NY</br>. Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)** | Campus Quantitative Researcher | New York, NY</br>Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/7026718/?gh_jid=7026718&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Campus Quantitative Trader | New York, NY</br>. Chicago, IL | <div align="center"><a href="https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Xantium | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/xantium/jobs/7094436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://xantium.com/careers/interns_2026/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)** | Algorithm Trader – Internship - Quantitative Trader | NYC | <div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8267bdf4-b0c6-4073-871b-6799c86aac52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
