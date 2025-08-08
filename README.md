@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 317 Internship Roles by Category
+### Browse 318 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (170)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (65)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (59)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (23)
 
@@ -371,7 +371,8 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| Xantium | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://xantium.com/careers/interns_2026/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| Xantium | Quantitative Researcher 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://job-boards.greenhouse.io/xantium/jobs/7094436?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
+| ↳ | Quantitative Developer 🛂 | New York, NY</br>London, UK | <div align="center"><a href="https://xantium.com/careers/interns_2026/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)** | Algorithm Trader – Internship - Quantitative Trader | NYC | <div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8267bdf4-b0c6-4073-871b-6799c86aac52?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)** | Quantitative Analyst Intern 🛂 | New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 1d |
 | **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)** | Quant Trading Internship | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593774005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/51309188-7d62-41e9-9fbe-d02b155f9d0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
