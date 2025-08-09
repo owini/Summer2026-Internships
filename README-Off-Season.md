@@ -656,7 +656,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Web Portal Developer Co-op/Intern | Ottawa, ON | 🔒 | 11mo |
 | **[The Boeing Company](https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company)** | Software Development Intern | Richmond, BC, Canada | 🔒 | 11mo |
 | **[STR](https://simplify.jobs/c/STR?utm_source=GHList&utm_medium=company)** | Research Engineer Spring Co-Op | Burlington, MA | 🔒 | 11mo |
-| **[PayPal](https://simplify.jobs/c/PayPal?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | <details><summary>**6 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York, NY</details> | 🔒 | 11mo |
+| **[PayPal](https://simplify.jobs/c/PayPal?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | <details><summary>**6 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York, NY</details> | 🔒 | 12mo |
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)** | Software Developer Co-op | Kitchener, ON, Canada | 🔒 | 12mo |
 | ↳ | Software Developer Co-op | Kitchener, ON, Canada | 🔒 | 12mo |
 | **[Intel](https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Toronto, ON, Canada | 🔒 | 12mo |
