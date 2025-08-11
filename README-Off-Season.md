@@ -12,9 +12,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ### Browse 144 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (77)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (76)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (47)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (48)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (3)
 
@@ -61,7 +61,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)** | Frontend/Full Stack Software Engineer Intern - Winter 2026 | New York, NY</br>San Francisco, CA | <div align="center"><a href="https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)** | ISM Co-op | Parsippany-Troy Hills, NJ | <div align="center"><a href="https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/025a1866-9b08-422d-9dbe-9f224b1bbb41?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Perseus Group](https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7?utm_source=GHList&utm_medium=company)** | Front End Intern | Markham, ON, Canada</br>Remote in Canada | <div align="center"><a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c5da6175-1c3c-42ec-89e4-74c588029c24?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)** | Software Engineer 1 – Intern Conversion - Front End | Western Springs, IL | <div align="center"><a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5433b62-9bcc-4d95-b781-0df543e6b03b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
@@ -1173,6 +1172,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | San Francisco, CA | <div align="center"><a href="https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Intern – Technical | Salt Lake City, UT | <div align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Intern---Technical_JR-022518?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ae7b9acb-3d87-46c2-a4ea-cad85161e2d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Nextiva](https://simplify.jobs/c/Nextiva?utm_source=GHList&utm_medium=company)** | AI Engineer Intern - Go-to-Market - Part-time | Scottsdale, AZ | <div align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8106564002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca9aa085-672f-467f-afe9-1ea438a7d115?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
 | **[Navy Federal](https://simplify.jobs/c/Navy-Federal?utm_source=GHList&utm_medium=company)** | Intern – Year Round - Marketing Data Science & Analytics | Vienna, VA | <div align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25975?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/93286af5-50cb-488a-bbd4-809e1567dbf3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
