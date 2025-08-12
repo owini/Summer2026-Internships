@@ -275,7 +275,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Huntsville, AL | 🔒 | 3mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship - Backend Engineer - Cell Manufacturing Software | Fremont, CA | 🔒 | 3mo |
 | **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Resource Technology Intern | Washington, DC | 🔒 | 3mo |
-| **[IJM](https://simplify.jobs/c/IJM?utm_source=GHList&utm_medium=company)** | Data & Insights Intern | Washington, DC</br>Remote in USA | 🔒 | 3mo |
+| ↳ | Data & Insights Intern | Washington, DC</br>Remote in USA | 🔒 | 3mo |
 | **[Nokia](https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company)** | Software Designer Co-op/Intern | Canada | 🔒 | 3mo |
 | ↳ | Web Developer Co-op/Intern | Canada | 🔒 | 3mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Shoreline Backend Engineering Intern | Santa Clara, CA | 🔒 | 3mo |
@@ -1225,7 +1225,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Intern – Technical | Salt Lake City, UT | 🔒 | 2d |
+| **[WGU](https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb?utm_source=GHList&utm_medium=company)** | Intern – Technical | Salt Lake City, UT | 🔒 | 3d |
 | **[Harris Computer](https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8?utm_source=GHList&utm_medium=company)** | Software Developer – Co-op/Intern | Remote in Canada | 🔒 | 3d |
 | **[Cognitiv](https://simplify.jobs/c/Cognitiv?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern | San Mateo, CA | 🔒 | 4d |
 | **[Manulife](https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5?utm_source=GHList&utm_medium=company)** | Reporting & Analytics Analyst – Global Operations Risk & Control Co-op | Toronto, ON, Canada | 🔒 | 4d |
