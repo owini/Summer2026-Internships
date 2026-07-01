@@ -243079,7 +243079,7 @@
         "company_name": "Eulerity",
         "id": "120a581b-07a7-488c-8947-a7a7c018bd10",
         "title": "Backend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256792,7 +256792,7 @@
         "company_name": "Snap",
         "id": "322f0106-31b4-4881-94ad-e76fd4413368",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262855,7 +262855,7 @@
         "company_name": "Verkada",
         "id": "1b2a515c-420c-4739-90eb-0ca8c93613b4",
         "title": "Frontend Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298626,7 +298626,7 @@
         "company_name": "Cirrus Logic",
         "id": "1381f4c1-ac21-4e96-811a-f6b3cb3bbfc3",
         "title": "Analog/Mixed-Signal Verification Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345531,7 +345531,7 @@
         "company_name": "JINGDONG",
         "id": "2fba0bab-80a5-4c1b-a674-b0ccaa5019a2",
         "title": "Business Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -350322,7 +350322,7 @@
         "company_name": "Lunon",
         "id": "1ce95d16-4d81-413d-b47f-f66d2c855b3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
