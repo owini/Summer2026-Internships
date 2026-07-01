@@ -331514,7 +331514,7 @@
         "company_name": "Nokia",
         "id": "9cfe8061-a3a5-4fc3-a58c-c21fb3f3b108",
         "title": "Design Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349513,7 +349513,7 @@
         "company_name": "Kinaxis",
         "id": "9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c",
         "title": "Software Engineer Co-op/Intern - Developer Framework",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
