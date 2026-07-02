@@ -350228,7 +350228,7 @@
         "company_name": "ACLU Kentucky",
         "id": "9c647182-768d-410f-acf7-e162259bd5f2",
         "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354178,6 +354178,122 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Target",
+        "id": "d8994fd7-be5f-416d-89a2-0cdc35beb198",
+        "title": "Technology Leadership Program Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782962944,
+        "date_posted": 1782957127,
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Current-Interns-Only--Technology-Leadership-Program--Summer-2026-Intern-Posting_R0000443508",
+        "locations": [
+            "Brooklyn Park, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Target",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Valeo",
+        "id": "57867254-f2d4-4dde-8c88-48df01a1f80f",
+        "title": "Warranty Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782962486,
+        "date_posted": 1782956878,
+        "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Warranty-Engineering-Co-Op_REQ2026071365",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Valeo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advocate Health Care",
+        "id": "f411fbb0-e7e4-412c-baf8-d663f84fef6f",
+        "title": "Pearl Innovation District Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782961755,
+        "date_posted": 1782956596,
+        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247321",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Advocate-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Intermountain Healthcare",
+        "id": "821df725-8277-4656-845f-df116ea22cc6",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782961023,
+        "date_posted": 1782956352,
+        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R174949",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Intermountain-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "35d73839-e8d5-46bd-9d06-9cfafc3a8c62",
+        "title": "Frontend Software Engineer Project Intern - Global CRM",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782961023,
+        "date_posted": 1782956219,
+        "url": "https://lifeattiktok.com/search/7654431844394322229",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
