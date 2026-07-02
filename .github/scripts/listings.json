@@ -291302,7 +291302,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -324278,7 +324278,7 @@
         "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
         "id": "02a3daa8-78be-409a-bd55-b630dfae60c1",
         "title": "Academy Performance Analyst Intern - Academy Performance Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -338909,7 +338909,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341718,7 +341718,7 @@
         "company_name": "Together AI",
         "id": "2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
         "title": "Research Intern - Inference",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341928,7 +341928,7 @@
         "company_name": "Together AI",
         "id": "27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
         "title": "Systems Research Engineer Intern - GPU Programming",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346922,7 +346922,7 @@
         "company_name": "Together AI",
         "id": "be2e3a34-763e-4546-b44d-affa9c4f634e",
         "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354363,5 +354363,238 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Two Six Technologies",
+        "id": "35880e25-246d-4a52-9e52-2241407852fd",
+        "title": "China Subject Matter Expert Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031941,
+        "date_posted": 1783030493,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X Development",
+        "id": "22924009-36ef-406f-a964-9076c39fa889",
+        "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783032221,
+        "date_posted": 1783031441,
+        "url": "https://x.company/careers/8616839002?gh_jid=8616839002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moment Energy",
+        "id": "dbf73971-bce3-47b3-929f-77929a59c11c",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031941,
+        "date_posted": 1783031372,
+        "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4257336009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Moment-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moment Energy",
+        "id": "c43a8efe-18e4-4741-95da-c6e0f6e5f3f7",
+        "title": "Firmware Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031941,
+        "date_posted": 1783031371,
+        "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4257334009",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Moment-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nestle",
+        "id": "ff74b8b6-7a9e-4cdb-bca1-bf6a841120c9",
+        "title": "R&D Sustainability Intern - Nestl\u00e9 Health Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783031941,
+        "date_posted": 1783029964,
+        "url": "https://jobdetails.nestle.com/job/Bridgewater-R&D-Sustainability-Intern-Nestl%C3%A9-Health-Science-NJ-08807/1410946433/?ats=successfactors",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Nestle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kpler",
+        "id": "38fae718-2ebc-4e97-af8f-e135cff957b4",
+        "title": "Quantitative Data Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783031941,
+        "date_posted": 1783029915,
+        "url": "https://jobs.lever.co/kpler/2c127e67-55ee-48eb-823e-d49f5fb207ec/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kpler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Copart",
+        "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
+        "title": "Strategic Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031956,
+        "date_posted": 1783029930,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031924,
+        "date_posted": 1783030661,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bot Auto",
+        "id": "1294efe4-9bb6-417c-83bc-7da76b87978c",
+        "title": "Deep Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031568,
+        "date_posted": 1783030290,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783031398,
+        "date_posted": 1783030231,
+        "url": "https://apply.workable.com/connectprep/j/C0CA13664F/apply",
+        "locations": [
+            "Washington, DC",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
