@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1762283977,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/RESPECInc/publication/643d3be0-a063-4b49-8b31-049c95eb74a5?dcr_ci=RESPECInc",
-        "company_name": "RESPEC",
-        "title": "Student Software Engineering Intern",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "2a29b5ad-fd2f-4b02-a0b8-ed25048576d8",
-        "date_posted": 1762270710,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Lumen Technologies",
