@@ -112250,7 +112250,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306376,7 +306376,7 @@
         "company_name": "MongoDB",
         "id": "34e5f044-5304-4c9e-af40-55a70118657b",
         "title": "Software Engineer Intern - Developer Productivity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -321903,7 +321903,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354229,7 +354229,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354632,6 +354632,31 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
+        "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765583620,
+        "date_posted": 1765583620,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
