@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1762221023,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe",
-        "company_name": "Lambda",
-        "title": "2026 Machine Learning Research Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "a98da37d-f2b8-42b4-ada2-c3015f537130",
-        "date_posted": 1762221023,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software Engineering",
         "company_name": "Awardco",
@@ -30280,7 +30257,7 @@
         "company_name": "NewsBreak",
         "id": "8261c45f-0003-4ded-af10-939ad6ab3ca8",
         "title": "Engineering High-Potential Launch Program Intern to Full-Time Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -96147,7 +96124,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -248714,7 +248691,7 @@
         "company_name": "TikTok",
         "id": "411b3542-fea3-4d69-9491-dea180fbc135",
         "title": "Machine Learning Engineer Intern - App Ads",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317129,7 +317106,7 @@
         "company_name": "Vertiv",
         "id": "b848db11-dc5a-42f0-a423-85de3197f87f",
         "title": "Placement Student - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -332258,7 +332235,7 @@
         "company_name": "Electronic Arts",
         "id": "5c520aff-46ae-4816-86db-f0e15f726997",
         "title": "Rendering Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339549,7 +339526,7 @@
         "company_name": "Walleye Capital",
         "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
         "title": "Risk Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339573,7 +339550,7 @@
         "company_name": "Walleye Capital",
         "id": "37f29e78-6188-4883-8606-42dcbabb6448",
         "title": "Volatility Trading Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339764,7 +339741,7 @@
         "company_name": "Walleye Capital",
         "id": "cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9",
         "title": "Quantic \u2013 Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339808,7 +339785,7 @@
         "company_name": "Walleye Capital",
         "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
         "title": "Central Equity Quant Research Intern - Ceqr",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339912,7 +339889,7 @@
         "company_name": "Walleye Capital",
         "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
         "title": "Investment Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339980,7 +339957,7 @@
         "company_name": "Walleye Capital",
         "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
         "title": "PhD Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340003,7 +339980,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340027,7 +340004,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340313,7 +340290,7 @@
         "company_name": "Nokia",
         "id": "944d8f70-e423-4643-94bf-b86edfbcf307",
         "title": "ASIC CAD Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -342250,7 +342227,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342907,7 +342884,7 @@
         "company_name": "University of Arkansas",
         "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
         "title": "Graduate Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -354467,5 +354444,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rochester Regional Health",
+        "id": "82b2aa29-b508-449f-940e-6811aada2561",
+        "title": "Web Applications Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782956348,
+        "date_posted": 1782955884,
+        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op_REQ_233331",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Rochester-Regional-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
