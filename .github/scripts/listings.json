@@ -319478,7 +319478,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325136,7 +325136,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354212,7 +354212,7 @@
         "company_name": "NVIDIA",
         "id": "cf5b742b-7660-43e5-969b-f4a57b8b9935",
         "title": "Java Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354709,6 +354709,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9720993c-ebdc-41b6-81e1-d589d6ab63ee",
+        "title": "SoC Performance Modeling Internship - Platform Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763513880,
+        "date_posted": 1763513880,
+        "url": "https://jobs.apple.com/en-us/details/200629965",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
