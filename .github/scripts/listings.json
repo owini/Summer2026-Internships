@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "b7daac34-0a43-4511-bd61-102463daf2e2",
-        "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762240766,
-        "date_posted": 1762240766,
-        "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Tenstorrent",
         "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
         "title": "Physical Design for Machine Learning Intern",
@@ -37,48 +16,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Interac",
-        "id": "71b70fa0-02f7-473b-b92a-37da538c7782",
-        "title": "Product Specialist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241103,
-        "date_posted": 1762241103,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "ba1ddec5-a80d-4a3b-8092-e63865caf0f8",
-        "title": "Product Management Intern - Verified",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241097,
-        "date_posted": 1762241097,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1987",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -106,27 +43,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KSM",
-        "id": "0babbbab-c98c-4fa9-ab7e-bd9d4218b6b4",
-        "title": "AI & Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762240633,
-        "date_posted": 1762240633,
-        "url": "https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/KSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Tenstorrent",
         "id": "b70ee37b-cff5-4644-a282-fc170450316c",
@@ -142,49 +58,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "972f6ca3-a0d7-4bca-926c-d2e0066d40cd",
-        "title": "Product Intern - Money Movement",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241104,
-        "date_posted": 1762241104,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement-_REQ-1976",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "40cd80e3-7fee-4ad4-9ced-8d303e82cc2e",
-        "title": "Product Management Intern - Verified",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1762241105,
-        "date_posted": 1762241105,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1979",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
