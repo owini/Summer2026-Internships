@@ -339699,7 +339699,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343313,7 +343313,7 @@
         "company_name": "Deloitte",
         "id": "f4f6aea6-b621-4eb8-81a1-1ecc91bb291f",
         "title": "Hiring Our Heroes Fellowship - AI & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
