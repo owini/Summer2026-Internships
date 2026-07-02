@@ -1,73 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Awardco",
-        "id": "c64a512f-2622-44bb-9b61-40e707833008",
-        "title": "Back-End Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762503303,
-        "date_posted": 1762222263,
-        "url": "https://award.co/position?gh_jid=4322220004",
-        "locations": [
-            "Lindon, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Awardco",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KeyBank",
-        "id": "1d9a9612-d8bc-4141-9d65-5d6a621094ea",
-        "title": "Summer 2026 Corporate Center \u2013 Measurement & Impact Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762222215,
-        "date_posted": 1762222215,
-        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2026-Corporate-Center---360-Measurement---Impact-Intern_R-36011",
-        "locations": [
-            "Brooklyn, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KeyBank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Awardco",
-        "id": "b7be327f-10fa-4775-8a1c-183ea4b062ce",
-        "title": "Front-End Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762532645,
-        "date_posted": 1762222266,
-        "url": "https://award.co/position?gh_jid=4136562004",
-        "locations": [
-            "Orem, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Awardco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Waymo",
         "id": "f4b49d48-87c0-47fc-987a-48de0a10af23",
@@ -170,29 +103,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Awardco",
-        "id": "e557434b-0d3c-47b5-ad58-2188a1ccc5ae",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762503613,
-        "date_posted": 1762222270,
-        "url": "https://award.co/position?gh_jid=5458149004",
-        "locations": [
-            "Lindon, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Awardco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -12220,27 +12130,6 @@
             "Southfield, MI"
         ],
         "company_url": "https://simplify.jobs/c/GHD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "7-Eleven",
-        "id": "d0a6ea20-188d-4c95-8664-a43446417e23",
-        "title": "Restaurant Culinary Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762222367,
-        "date_posted": 1762222367,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Restaurant-Culinary-Intern_R25_0000009258",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -322834,7 +322723,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328211,7 +328100,7 @@
         "company_name": "NVIDIA",
         "id": "b32acaf4-dae5-4de6-976f-d8efb876afe7",
         "title": "PhD Research Intern - Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339526,7 +339415,7 @@
         "company_name": "Walleye Capital",
         "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
         "title": "Risk Technology Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339550,7 +339439,7 @@
         "company_name": "Walleye Capital",
         "id": "37f29e78-6188-4883-8606-42dcbabb6448",
         "title": "Volatility Trading Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339741,7 +339630,7 @@
         "company_name": "Walleye Capital",
         "id": "cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9",
         "title": "Quantic \u2013 Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339785,7 +339674,7 @@
         "company_name": "Walleye Capital",
         "id": "7b479664-d0af-4690-be2a-c9ba5d81314a",
         "title": "Central Equity Quant Research Intern - Ceqr",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339889,7 +339778,7 @@
         "company_name": "Walleye Capital",
         "id": "c32147c4-e359-49f8-8d2e-d52f0a1646d8",
         "title": "Investment Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339957,7 +339846,7 @@
         "company_name": "Walleye Capital",
         "id": "6a61710a-02c6-4915-a7f3-863dbf8c835b",
         "title": "PhD Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339980,7 +339869,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342227,7 +342116,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342405,7 +342294,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354465,5 +354354,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "b0bf160f-6eac-4862-8d26-22b97b2bc5b3",
+        "title": "Software Safety Engineer - Level",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782957421,
+        "date_posted": 1782957318,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Safety-Engineer---Level-1-2_R10234431",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
