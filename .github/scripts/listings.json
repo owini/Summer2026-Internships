@@ -105167,7 +105167,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -112250,7 +112250,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -234806,7 +234806,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305585,7 +305585,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306330,7 +306330,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -321903,7 +321903,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341910,7 +341910,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348660,7 +348660,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348707,7 +348707,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -354229,7 +354229,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354278,7 +354278,7 @@
         "company_name": "NVIDIA",
         "id": "22a20d43-6a5e-4760-88c0-cadff9b8bacc",
         "title": "Applied Research Intern - NLP",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
