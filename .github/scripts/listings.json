@@ -339699,7 +339699,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354774,6 +354774,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "bdac1050-d452-49f0-95e7-93ed2722fd24",
+        "title": "Product Solutions and Operations Project Intern - Commerce Ads",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782972901,
+        "date_posted": 1782972893,
+        "url": "https://lifeattiktok.com/search/7657640284071954741",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e3120af7-ace0-4475-94c7-4d8fd0dce411",
+        "title": "Hardware System Design Engineer - Apple Vision Pro",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782972543,
+        "date_posted": 1782972525,
+        "url": "https://jobs.apple.com/en-us/details/200666594",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
