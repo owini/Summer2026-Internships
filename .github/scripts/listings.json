@@ -3214,27 +3214,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "AECOM",
-        "id": "cec23af5-203d-47f4-8213-3315c51ee4e4",
-        "title": "Digital Technology / Drone Pilot Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762363937,
-        "date_posted": 1762363937,
-        "url": "https://jobs.smartrecruiters.com/AECOM2/744000091836045",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/AECOM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "IPG DXTRA",
         "id": "ecaf7986-d731-44df-8970-27acec9e50df",
         "title": "Analytics Intern - Spring 2026",
@@ -338675,7 +338654,7 @@
         "company_name": "Cummins",
         "id": "5c420a56-27d6-498b-8244-a21b9df392ba",
         "title": "Student \u2013 School to Work-Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342168,7 +342147,7 @@
         "company_name": "Intel",
         "id": "54658487-cbd9-481a-af00-ad1d73459d42",
         "title": "Silicon Architecture Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
