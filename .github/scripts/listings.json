@@ -353587,5 +353587,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rise8",
+        "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
+        "title": "Skillbridge Intern - Product Manager",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783042220,
+        "date_posted": 1782771852,
+        "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rise8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
