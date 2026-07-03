@@ -347382,7 +347382,7 @@
         "company_name": "Sun Life",
         "id": "d752d3de-1880-4a55-86e3-f62e4c6ce7d0",
         "title": "Student Associate Front-End Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347907,7 +347907,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353357,7 +353357,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353687,6 +353687,29 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Clio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerence",
+        "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
+        "title": "Student Worker",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783088461,
+        "date_posted": 1783087615,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerence",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
