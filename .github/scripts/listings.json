@@ -286909,7 +286909,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320277,7 +320277,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320835,7 +320835,7 @@
         "company_name": "ASM International",
         "id": "fa13bf02-a314-4b2e-8bc3-b2ac7835ed67",
         "title": "Simulation and Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -351356,7 +351356,7 @@
         "company_name": "GE Appliances",
         "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -352261,7 +352261,7 @@
         "company_name": "Magna",
         "id": "3ddc1130-8b7c-449d-ae26-330f7dd9334b",
         "title": "Computer Vision Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
