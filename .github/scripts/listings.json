@@ -345113,7 +345113,7 @@
         "company_name": "University Health Network",
         "id": "217a4bc5-fe0f-4b63-b0e9-a12e44778fb3",
         "title": "Junior Report Developer Intern - Analytics and Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349813,7 +349813,7 @@
         "company_name": "The Walt Disney Company",
         "id": "256296b9-f70f-4a10-99a9-7fda3af904fb",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
