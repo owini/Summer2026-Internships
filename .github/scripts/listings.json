@@ -328565,7 +328565,7 @@
         "company_name": "Sherwin-Williams",
         "id": "ce9cfe28-1f61-400e-a4d2-1cc1887fd921",
         "title": "R&D Product Engineering Co-op - Commercialization Engineering - Process Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -345580,7 +345580,7 @@
         "company_name": "Interac",
         "id": "d85d289c-51f3-4f64-a4f9-fb72a227ccf2",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349237,7 +349237,7 @@
         "company_name": "Sun Life",
         "id": "de7e28ae-dd6e-4b47-82b3-0afd505f197e",
         "title": "Student \u2013 B2B Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
