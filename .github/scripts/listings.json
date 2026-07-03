@@ -313962,7 +313962,7 @@
         "company_name": "Nash",
         "id": "18dfe12d-d680-403f-a860-d29fc7293efe",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320078,7 +320078,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352720,7 +352720,7 @@
         "company_name": "Intel",
         "id": "109a73d9-1b88-4bc7-a011-1b5eda9250d7",
         "title": "SOC AI Power and Performance Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
