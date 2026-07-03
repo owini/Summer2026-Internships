@@ -317653,7 +317653,7 @@
         "company_name": "Salesforce",
         "id": "ee3a2690-9c32-4a25-8422-5047a291bb4d",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -317764,7 +317764,7 @@
         "company_name": "Salesforce",
         "id": "f15f48ce-a8f4-4d99-93f4-526a6654b335",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
