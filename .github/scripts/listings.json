@@ -347907,7 +347907,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -353357,7 +353357,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -353710,6 +353710,29 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eulerity",
+        "id": "da2a97f8-9827-4fe9-a716-a33f244952bc",
+        "title": "Website Development & Content Marketing Intern - AI & Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783089227,
+        "date_posted": 1783088667,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
