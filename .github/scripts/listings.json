@@ -1,70 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
-        "title": "Application Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1762334286,
-        "date_posted": 1762334286,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
-        "locations": [
-            "Malvern, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Datacor",
-        "id": "beafc757-13d6-4c05-8238-94710d040043",
-        "title": "Summer 2026 AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762333489,
-        "date_posted": 1762333489,
-        "url": "https://job-boards.greenhouse.io/datacor/jobs/4962021007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Datacor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Neuberger Berman",
-        "id": "60765b44-a9ad-40f7-8696-9e22d4ce6377",
-        "title": "Fixed Income 2026 Summer Quant Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762333369,
-        "date_posted": 1762333369,
-        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Chicago-IL/Fixed-Income-2026-Summer-Quant-Internship_R0011397",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762359538,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -60732,7 +60667,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -103170,7 +103105,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -245572,7 +245507,7 @@
         "company_name": "Atomic Semi",
         "id": "8273dd4e-b31d-493a-9d57-963229920587",
         "title": "Packaging Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320462,7 +320397,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346663,7 +346598,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346710,7 +346645,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026",
