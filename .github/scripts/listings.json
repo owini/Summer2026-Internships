@@ -344980,7 +344980,7 @@
         "company_name": "Oklahoma State Government",
         "id": "933ba205-c388-4e90-860a-b5e1ca92ba18",
         "title": "Information Systems Application Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349445,7 +349445,7 @@
         "company_name": "The Walt Disney Company",
         "id": "41ae06f8-2f03-4a37-8105-9b69f2aa172e",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
