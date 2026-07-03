@@ -320277,7 +320277,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352261,7 +352261,7 @@
         "company_name": "Magna",
         "id": "3ddc1130-8b7c-449d-ae26-330f7dd9334b",
         "title": "Computer Vision Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
