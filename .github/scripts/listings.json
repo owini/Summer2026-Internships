@@ -147057,7 +147057,7 @@
         "company_name": "Copart",
         "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308040,7 +308040,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318388,7 +318388,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323328,7 +323328,7 @@
         "company_name": "Intel",
         "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
         "title": "Silicon Performance Validation and Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339477,7 +339477,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341126,7 +341126,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342674,7 +342674,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
