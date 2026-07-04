@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 10230 Inactive Internship Roles by Category
+### Browse 10231 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3222)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3223)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (763)
 
@@ -281,14 +281,14 @@
 <td>Embase Hightech Bound Intern 🎓</td>
 <td>Dover, NH</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Datacenter Intern</td>
 <td>Dover, NH</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company">Eulerity</a></strong></td>
@@ -791,6 +791,13 @@
 <td><strong><a href="https://simplify.jobs/c/US-Bank?utm_source=GHList&utm_medium=company">U.S. Bank</a></strong></td>
 <td>Mainframe Software Engineering Apprentice</td>
 <td>Brookfield, WI<br>Cincinnati, OH</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Skyscanner?utm_source=GHList&utm_medium=company">Skyscanner</a></strong></td>
+<td>Software Engineering Apprentice</td>
+<td>Glasgow, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -9836,7 +9843,7 @@
 <td>Front-End Developer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
@@ -15009,7 +15016,7 @@
 <td>Intern Software Developer - Summer 2026</td>
 <td>Montreal, QC, Canada<br>London, UK</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GuideStone?utm_source=GHList&utm_medium=company">GuideStone</a></strong></td>
@@ -24665,7 +24672,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Circle?utm_source=GHList&utm_medium=company">Circle</a></strong></td>
+<td>↳</td>
 <td>Intern – Product Management</td>
 <td>SF</td>
 <td>🔒</td>
@@ -28071,21 +28078,21 @@
 <td>Graduate Intern</td>
 <td>Golden, CO</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Graduate Intern - Building Energy Modeling and Analysis</td>
 <td>LA</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Graduate Intern - AI-Assisted Autonomous Electron Microscopy</td>
 <td>Golden, CO</td>
 <td>🔒</td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305?utm_source=GHList&utm_medium=company">BCBST</a></strong></td>
@@ -61315,7 +61322,7 @@
 <td>Field Engineer Apprentice</td>
 <td>Dallas, TX</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
@@ -64790,7 +64797,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>Embedded Systems / Firmware Engineering Intern-2</td>
 <td>Stoke-on-Trent, UK</td>
 <td>🔒</td>
