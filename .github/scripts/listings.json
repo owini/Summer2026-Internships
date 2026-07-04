@@ -57990,7 +57990,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -190493,7 +190493,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -195991,7 +195991,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209111,7 +209111,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234096,7 +234096,7 @@
         "company_name": "Tencent",
         "id": "e4becf68-5294-4c91-a10c-4626a344f605",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270120,7 +270120,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283146,7 +283146,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283235,7 +283235,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294052,7 +294052,7 @@
         "company_name": "Loblaw Companies",
         "id": "e78fc999-e787-4237-beb5-6e129705ecca",
         "title": "Analyst Co-op - Finance Insights and Technology Engagement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -316437,7 +316437,7 @@
         "company_name": "NVIDIA",
         "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
         "title": "PhD Data Generation and User Simulation Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321227,7 +321227,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -329347,7 +329347,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341126,7 +341126,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342945,7 +342945,7 @@
         "company_name": "Baker Hughes",
         "id": "fb992b23-820c-466a-a892-242e64f92f4a",
         "title": "Mechanical Production Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343735,7 +343735,7 @@
         "company_name": "Bank of Montreal",
         "id": "e855295f-176f-4209-a6ce-21b8ee7ed4e3",
         "title": "Database Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344827,7 +344827,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345517,7 +345517,7 @@
         "company_name": "Vanguard",
         "id": "d0f72c8c-e847-415b-82d7-2a6f0635fc6b",
         "title": "IT Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346018,7 +346018,7 @@
         "company_name": "Rise8",
         "id": "e48da94e-987a-48e6-a34c-82e0558ae8bb",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346134,7 +346134,7 @@
         "company_name": "Sony",
         "id": "fd11d261-e3de-44d6-b3fa-d08465e79bbd",
         "title": "Research on Generative and Protective AI for Content Creation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346339,7 +346339,7 @@
         "company_name": "The Home Depot",
         "id": "f3334e9e-b58d-49f7-b126-3f786ea0ceb0",
         "title": "Firmware Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -346408,7 +346408,7 @@
         "company_name": "The Home Depot",
         "id": "f88cf8a9-bc5a-4c1c-9279-140b822920e4",
         "title": "AI Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -347017,7 +347017,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349207,7 +349207,7 @@
         "company_name": "Palo Alto Networks",
         "id": "e7d75784-3452-4e8b-ab92-f6c42a3641c1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349253,7 +349253,7 @@
         "company_name": "Palo Alto Networks",
         "id": "f31feaa4-e89d-4c20-b16e-06bd9d94cc8f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349300,7 +349300,7 @@
         "company_name": "Palo Alto Networks",
         "id": "b7d021aa-5607-4809-a3f2-fec2242c4ac8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -349394,7 +349394,7 @@
         "company_name": "Palo Alto Networks",
         "id": "fe99f8f0-316b-46b5-8453-78ece4219304",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350050,7 +350050,7 @@
         "company_name": "Target",
         "id": "d8994fd7-be5f-416d-89a2-0cdc35beb198",
         "title": "Technology Leadership Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350096,7 +350096,7 @@
         "company_name": "Advocate Health Care",
         "id": "f411fbb0-e7e4-412c-baf8-d663f84fef6f",
         "title": "Pearl Innovation District Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350303,7 +350303,7 @@
         "company_name": "NVIDIA",
         "id": "cf5b742b-7660-43e5-969b-f4a57b8b9935",
         "title": "Java Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350880,7 +350880,7 @@
         "company_name": "Aptiv",
         "id": "f31b6c02-6615-4940-99d0-cbfb01419b3c",
         "title": "Associate Engineer - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351468,7 +351468,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -351810,7 +351810,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
