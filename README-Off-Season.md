@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 263 Internship Roles by Category
+### Browse 264 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (91)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (92)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (93)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (5)
 
@@ -806,7 +806,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (870)</summary>
+<summary>🗃️ Inactive roles (869)</summary>
 
 <table>
 <thead>
@@ -7772,14 +7772,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/The-Aerospace-Corporation?utm_source=GHList&utm_medium=company">The Aerospace Corporation</a></strong></td>
-<td>2026 Software Implementation and Integration Undergrad Intern</td>
-<td>Chantilly, VA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -7859,7 +7851,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (206)</summary>
+<summary>🗃️ Inactive roles (205)</summary>
 
 <table>
 <thead>
@@ -9513,14 +9505,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
-<td>Product Management MBA Internship 🎓</td>
-<td>Round Rock, TX<br>Westborough, MA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -9549,6 +9533,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Micron-Technology?utm_source=GHList&utm_medium=company">Micron Technology</a></strong></td>
+<td>Assembly Process Technician Intern - Yield Enhancement / Failure Analysis</td>
+<td>Leander, TX</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f55b9a62-891c-491e-b541-edf1e930d143?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/OutputBio?utm_source=GHList&utm_medium=company">Output Biosciences</a></strong></td>
 <td>Research Intern - Machine Learning 🎓</td>
@@ -14776,14 +14768,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>5mo</td>
 </tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
-<td>Research Intern</td>
-<td>Redmond, WA<br>Mountain View, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -14810,6 +14794,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>Research Intern</td>
+<td>Redmond, WA<br>Mountain View, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sikich?utm_source=GHList&utm_medium=company">Sikich</a></strong></td>
 <td>Netsuite Data Science/AI Intern</td>
@@ -20546,7 +20538,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (507)</summary>
+<summary>🗃️ Inactive roles (506)</summary>
 
 <table>
 <thead>
@@ -24604,14 +24596,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
 <td>Chiplet Security Research Intern</td>
 <td>Santa Clara, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Microchip-Technology?utm_source=GHList&utm_medium=company">Microchip Technology</a></strong></td>
-<td>Intern-Engineering - Dev Tools</td>
-<td>Chandler, AZ</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>8mo</td>

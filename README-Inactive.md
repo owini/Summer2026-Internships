@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 10226 Inactive Internship Roles by Category
+### Browse 10227 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3223)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3225)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (763)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4588)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4587)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (145)
 
@@ -140,6 +140,13 @@
 <td><strong><a href="https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company">Schweitzer Engineering Laboratories</a></strong></td>
 <td>Application Engineer Intern</td>
 <td>Barrie, ON, Canada</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Dallas, TX</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
@@ -455,6 +462,13 @@
 <td><strong><a href="https://simplify.jobs/c/NEC-Software-Solutions?utm_source=GHList&utm_medium=company">NEC Software Solutions</a></strong></td>
 <td>Software Developer Apprentice</td>
 <td>Bracknell, UK</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Dallas, TX</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>
@@ -15009,7 +15023,7 @@
 <td>Intern-QMS Document Automation</td>
 <td>Leander, TX</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Squarepoint-Capital?utm_source=GHList&utm_medium=company">Squarepoint Capital</a></strong></td>
@@ -47895,10 +47909,10 @@
 <td>AI/ML Intern - Video Understanding 🎓</td>
 <td>High Wycombe, UK</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
+<td>↳</td>
 <td>AI/ML Summer Intern - Statistics & Decision Sciences - Sds</td>
 <td>Paris, France<br>High Wycombe, UK</td>
 <td>🔒</td>
@@ -48990,7 +49004,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC Research Insights & Analytics Intern</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -60148,13 +60162,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/allenai?utm_source=GHList&utm_medium=company">The Allen Institute for AI</a></strong></td>
-<td>Research Internship - Olmo</td>
-<td>Seattle, WA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -66568,7 +66575,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
+<td>↳</td>
 <td>Millennium Space Systems Summer 2026 Internship Program - Assembly - Test','And Launch','Atlo','Operations</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
@@ -68822,7 +68829,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>WDI Illusion Maker – Surface Development Intern</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
