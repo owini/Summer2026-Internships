@@ -190493,7 +190493,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -283235,7 +283235,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285181,7 +285181,7 @@
         "company_name": "NVIDIA",
         "id": "4d7b53f4-4839-4a21-9b3d-774c69c540bd",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316437,7 +316437,7 @@
         "company_name": "NVIDIA",
         "id": "f0577fa0-c379-40cc-885e-beebb1742e22",
         "title": "PhD Data Generation and User Simulation Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319868,7 +319868,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -324845,7 +324845,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332977,7 +332977,7 @@
         "company_name": "Generac",
         "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
         "title": "GPS Apprentice - Electrical",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -344827,7 +344827,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350904,7 +350904,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
