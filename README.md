@@ -7,17 +7,17 @@
 
 ---
 
-### Browse 324 Internship Roles by Category
+### Browse 330 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (108)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (112)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (7)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (147)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (148)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (10)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (52)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (53)
 
 ---
 
@@ -180,6 +180,13 @@
 <td>AI Software Engineer Intern</td>
 <td>Remote in India<br>Remote in USA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/79204fa0-81f5-4295-96d3-0a63bb614715?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -491,6 +498,13 @@
 <td>25d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ecb57e2b-b9a6-4967-9d05-bd9596de3537?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering</td>
 <td>Palo Alto, CA<br>Fremont, CA<br>United States</td>
@@ -631,6 +645,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Skyscanner?utm_source=GHList&utm_medium=company">Skyscanner</a></strong></td>
+<td>Software Engineering Apprentice</td>
+<td>Glasgow, UK</td>
+<td><div align="center"><a href="http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/816ebfe9-3db3-4901-8673-2bf1e96e730e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
 <td>Junior Full Stack Developer Co-op</td>
 <td>Oakville, ON, Canada</td>
@@ -691,6 +712,13 @@
 <td>Systems Engineer Intern 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17609982-0cbe-4cf6-8a18-8077220833cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Dallas, TX</td>
+<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b5e81d8d-839a-4ffb-b147-0a513ffea0a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -865,7 +893,7 @@
 </table>
 
 
-🔒 **[See 3225 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3220 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -1677,6 +1705,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Boys-Town?utm_source=GHList&utm_medium=company">Boys Town</a></strong></td>
+<td>Artificial Intelligence & Machine Learning Intern</td>
+<td>Omaha, NE</td>
+<td><div align="center"><a href="https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d9fcc633-0100-463e-b6d7-1abdfdda5a5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Pony-AI?utm_source=GHList&utm_medium=company">pony.ai</a></strong></td>
 <td>Research Intern - Deep Learning 🎓</td>
 <td>Fremont, CA</td>
@@ -1995,7 +2030,7 @@
 </table>
 
 
-🔒 **[See 4587 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4586 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -2346,6 +2381,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
+<td>Silicon Performance Validation and Characterization Intern</td>
+<td>Phoenix, AZ</td>
+<td><div align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/806bad6e-8c09-49ad-abad-04b898fa8ff4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Periodic-Labs?utm_source=GHList&utm_medium=company">Periodic Labs</a></strong></td>
 <td>Nanofabrication Intern</td>
 <td>Menlo Park, CA</td>
@@ -2475,7 +2517,7 @@
 </table>
 
 
-🔒 **[See 1507 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1506 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

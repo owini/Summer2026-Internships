@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 264 Internship Roles by Category
+### Browse 265 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (91)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (6)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (93)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (94)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (5)
 
@@ -9598,6 +9598,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1d</td>
 </tr>
 <tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
+<td>Data Engineer Intern</td>
+<td>Austin, TX</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/aec3e3cb-1b29-499e-85f5-1be1da41c842?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Two-Six-Technologies?utm_source=GHList&utm_medium=company">Two Six Technologies</a></strong></td>
 <td>China Subject Matter Expert Intern</td>
 <td>Remote in USA</td>
@@ -10282,7 +10290,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1151)</summary>
+<summary>🗃️ Inactive roles (1149)</summary>
 
 <table>
 <thead>
@@ -10296,14 +10304,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
-<td>Data Engineer Intern</td>
-<td>Austin, TX</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
 <td>Strategic Analyst Intern</td>
@@ -14752,22 +14752,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>5mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>Intern Economics - Reduced Form Causal Analysis 🎓</td>
-<td><details><summary><strong>5 locations</strong></summary>NYC<br>Seattle, WA<br>SF<br>Arlington, VA<br>Bellevue, WA</details></td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
-<td>Digital Transformation Analyst</td>
-<td>San Jose, CA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -14794,6 +14778,22 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
+<tr>
+<td>↳</td>
+<td>Intern Economics - Reduced Form Causal Analysis 🎓</td>
+<td><details><summary><strong>5 locations</strong></summary>NYC<br>Seattle, WA<br>SF<br>Arlington, VA<br>Bellevue, WA</details></td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
+<td>Digital Transformation Analyst</td>
+<td>San Jose, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern</td>
@@ -15107,7 +15107,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Woven-Planet?utm_source=GHList&utm_medium=company">Woven</a></strong></td>
 <td>Machine Learning Intern - Vehicle Perception 🎓</td>
 <td>Palo Alto, CA</td>
 <td>Spring 2026</td>
@@ -19522,14 +19522,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/FactSet?utm_source=GHList&utm_medium=company">FactSet</a></strong></td>
-<td>Junior Research Analyst - FactSet Fundamentals - Diverse Content Teams</td>
-<td>Florida<br>Hyderabad, Telangana, India</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -20538,7 +20530,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (506)</summary>
+<summary>🗃️ Inactive roles (505)</summary>
 
 <table>
 <thead>
@@ -24591,14 +24583,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
-<td>Chiplet Security Research Intern</td>
-<td>Santa Clara, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
