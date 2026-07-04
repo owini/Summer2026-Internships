@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "a13662a3-23ed-4943-b8f4-b8b29165fd26",
-        "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762387485,
-        "date_posted": 1762387485,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BURNABY-British-Columbia-Canada/Relationship-Manager--Business-Markets-Intern_R-0000147609",
-        "locations": [
-            "Burnaby, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "ee578f10-78cf-45e2-ab33-8aacdbca0e87",
-        "title": "2026 Summer Internship: Undergraduate Energy Intern \u2013 Corporate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762387433,
-        "date_posted": 1762387433,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Internship--Undergraduate-Energy-Intern--Corporate-Intern_R-2338305",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NVIDIA",
-        "id": "d0ff6495-21ae-4fdc-947b-2c700c462db7",
-        "title": "Product Manager MBA Intern - Enterprise AI - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762387275,
-        "date_posted": 1762387275,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2026_JR2006699-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Experian",
         "id": "98ba296b-f3ae-4839-8379-f408f850ec43",
@@ -352049,6 +351986,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sezzle",
+        "id": "136bc4e8-f085-4b75-989c-c73b7f7de779",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779113341,
+        "date_posted": 1778710242,
+        "url": "https://job-boards.greenhouse.io/sezzle/jobs/6599073003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sezzle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
