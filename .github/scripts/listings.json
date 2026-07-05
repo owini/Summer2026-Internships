@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "97faf43c-848a-46f8-96b8-bd81945272ee",
-        "title": "12-month Internship Program-Software developer AI Enablement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762541052,
-        "date_posted": 1762541052,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/XMLNAME-12-month-Internship-Program--Software-developer-AI-Enablement-Intern_R-779747-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Takeda",
         "id": "e1c0821d-3cf6-4f6c-95e0-2a00c95fd6d1",
@@ -336,71 +315,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "State Street",
-        "id": "ea317288-30f7-44f3-accd-92510ddb55a3",
-        "title": "12-months Internship Program-Efx Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762541055,
-        "date_posted": 1762541055,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/XMLNAME-12-months-Internship-Program--eFX-Developer--Intern_R-779748",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zurich Insurance",
-        "id": "45b13acf-2a28-456c-81ae-0028b20b6fa1",
-        "title": "Digital Transformation Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762540275,
-        "date_posted": 1762540275,
-        "url": "https://www.careers.zurich.com/job/Schaumburg-Digital-Transformation-Intern-(Summer-2026)-IL-60159/1330698057/?ats=successfactors",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Blue Cross Blue Shield of Michigan",
-        "id": "1c445a5e-4657-4bdd-9985-cb96dd9a1db9",
-        "title": "2026 Summer Intern-Program/Product Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762540631,
-        "date_posted": 1762540631,
-        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/13575",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -177180,56 +177094,6 @@
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1767695053,
-        "date_posted": 1762540593,
-        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1767695073,
-        "date_posted": 1762540592,
-        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
