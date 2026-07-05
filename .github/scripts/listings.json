@@ -348869,5 +348869,29 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "68dfedf9-d3ba-47ad-a7f0-c90008b2e054",
+        "title": "Machine Learning Engineer Intern - Monetization Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781504821,
+        "date_posted": 1781503941,
+        "url": "https://lifeattiktok.com/search/7562342433721862405",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
