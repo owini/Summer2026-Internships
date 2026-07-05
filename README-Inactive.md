@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 10163 Inactive Internship Roles by Category
+### Browse 10153 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3194)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (761)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (760)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4569)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4560)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (145)
 
@@ -27785,13 +27785,6 @@
 <td>Houston, TX<br>Des Plaines, IL</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
-<td>2026 Summer Internship Program: US New Product Launches – Intern - Data - Digital & Technology - DD&T</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -59739,69 +59732,6 @@
 <td>↳</td>
 <td>Data Engineer - E-commerce - BS/MS</td>
 <td>San Jose, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
-<td>2026 U.S Summer Internship Program: Machine Learning Pipeline Development Intern</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Summer Internship Program: Documentation & Artificial Intelligence Intern - IT Documentation - AI Projects</td>
-<td>Monroe, GA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship Program: DD&T Innovation Analyst Intern - Pdt</td>
-<td>Cambridge, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Manufacturing Sciences Statistical Process Control Intern - Statistical Process Control</td>
-<td>Lexington, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Analytical Development Mass Spectrometry Informatics Intern</td>
-<td>Lexington, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship Program: Data & Analytics Engineer Intern</td>
-<td>LA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship Program: Data Scientist for R&D Quality Intern - </td>
-<td>Lexington, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship Program: Data Digital and Technology – Intern - DD&T</td>
-<td>Vernon Hills, IL</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Internship Program: Data Analytics Intern</td>
-<td>Lexington, MA</td>
 <td>🔒</td>
 <td>8mo</td>
 </tr>
