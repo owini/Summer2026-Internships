@@ -230894,7 +230894,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -283686,7 +283686,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -306428,7 +306428,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312644,7 +312644,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -316896,7 +316896,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319665,7 +319665,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331365,7 +331365,7 @@
         "company_name": "Generac",
         "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
         "title": "GPS Apprentice - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -331434,7 +331434,7 @@
         "company_name": "Duke University",
         "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
         "title": "Administrative Intern - Sanford School of Public Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337444,7 +337444,7 @@
         "company_name": "mthree",
         "id": "6ce4c517-ed15-4308-b1b3-db9ed7be5a53",
         "title": "Technology Talent Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339817,7 +339817,7 @@
         "company_name": "Magna",
         "id": "5baf8620-6e7e-443a-bab5-755a61362095",
         "title": "Infrared Imaging & Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349546,7 +349546,7 @@
         "company_name": "Copart",
         "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
         "title": "Strategic Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -349856,7 +349856,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350549,7 +350549,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
