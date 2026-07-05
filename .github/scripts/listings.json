@@ -1,132 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Little Caesars Enterprises",
-        "id": "e5d2b758-c2a4-4754-b9cd-504541fda3e6",
-        "title": "Venue Technology Intern - Venue Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762538337,
-        "date_posted": 1762538337,
-        "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Venue-Technology-Intern_R7346",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Little-Caesars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "16f2e03c-9bbe-46ea-80ea-51870d08badd",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762537557,
-        "date_posted": 1762537557,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineer-Intern_R257831",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "2f1fd148-349e-40d9-825d-1dd935da6355",
-        "title": "2026 Digital Engineer Intern - Manhattan Beach CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762537894,
-        "date_posted": 1762537894,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Digital-Engineer-Intern---Manhattan-Beach-CA_R10213863",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microsoft",
-        "id": "2fdd5f02-b6f1-434f-b7c1-06e7f9f0d8b0",
-        "title": "Research Intern - AI Hardware",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762537679,
-        "date_posted": 1762537679,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "e154b75b-2e63-4fa0-8f62-ac7103b88059",
-        "title": "Associate Equipment Technician Apprenticeship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762538428,
-        "date_posted": 1762538428,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Associate-Equipment-Technician-Apprenticeship_JR-2403991-1",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AnySignal",
-        "id": "b66920c8-b169-44df-b279-16bd313ebf9b",
-        "title": "Intern \u2013 Hardware Engineer - Hardware Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762538399,
-        "date_posted": 1762538399,
-        "url": "https://jobs.lever.co/anysignal/55056c9d-96a8-41f4-845a-7376e650763d/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/AnySignal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "97faf43c-848a-46f8-96b8-bd81945272ee",
@@ -2484,27 +2358,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FM Global",
-        "id": "384436dd-aca4-448e-8d07-d5e5daa030a4",
-        "title": "Data Science Advanced Analytics Summer Technical Internship 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762816901,
-        "date_posted": 1762537262,
-        "url": "https://jobs-fmglobal.icims.com/jobs/16025/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -330907,7 +330760,7 @@
         "company_name": "Zipline",
         "id": "83eafbc5-8c79-43e8-8d3d-b06bff9f0c93",
         "title": "Computational Physics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349696,5 +349549,53 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Seven Research",
+        "id": "7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
+        "title": "Core Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782943963,
+        "date_posted": 1782943781,
+        "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Seven-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Docugami",
+        "id": "e6eb833f-8ff9-4da8-98de-2001135f3e0b",
+        "title": "Data Science PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778882761,
+        "date_posted": 1778882606,
+        "url": "https://job-boards.greenhouse.io/docugami/jobs/4192122003",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Docugami",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
