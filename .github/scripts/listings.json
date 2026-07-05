@@ -22,111 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "1X",
-        "id": "e17c765e-efc6-44de-a46d-145caed2c07a",
-        "title": "AI Residency",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762532203,
-        "date_posted": 1762532203,
-        "url": "https://1x.recruitee.com/o/ai-resident",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1x",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IDeaS",
-        "id": "d149d6a9-f6ff-4075-a7c0-cbd1b4464478",
-        "title": "Data Scientist Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762532127,
-        "date_posted": 1762532127,
-        "url": "https://ideas-sas.icims.com/jobs/40869/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/IDeaS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Point72",
-        "id": "82ee8323-e8cf-4bd4-86bc-fdc0f069d1a8",
-        "title": "Quantitative Software Developer Intern - Python & C++ - Linux Kernel Development",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762532221,
-        "date_posted": 1762532221,
-        "url": "https://boards.greenhouse.io/point72/jobs/7297666002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cloudflare",
-        "id": "4ddd3ac1-262b-40b6-a0f6-c692e6f618cb",
-        "title": "Product Manager Intern - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762532287,
-        "date_posted": 1762532287,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7362074",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MongoDB",
-        "id": "01fcf3ba-25df-4f55-8ebf-1c5e0de3c901",
-        "title": "2026 \u2013 Industry Solutions Intern - Austin",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762532318,
-        "date_posted": 1762532318,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=7292730",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Autodesk",
         "id": "e5352dcc-82be-415d-be73-c21869e5dcee",
@@ -1050,27 +945,6 @@
             "Largo, FL"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bloom Energy",
-        "id": "c711b3d1-7380-4fcf-b22a-07af6189aed2",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762533006,
-        "date_posted": 1762533006,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Systems-Engineering-Intern_JR-20849",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
