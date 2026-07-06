@@ -205686,7 +205686,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
