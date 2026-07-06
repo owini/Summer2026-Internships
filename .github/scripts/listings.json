@@ -201531,7 +201531,7 @@
         "company_name": "Copart",
         "id": "2b7c8f72-48b1-4c76-ac63-400cb8ba6b08",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279849,7 +279849,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317385,7 +317385,7 @@
         "company_name": "thyssenkrupp",
         "id": "0c426432-5715-4711-a5c1-a627c0fd3b4a",
         "title": "Trader Trainee - Metals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331088,7 +331088,7 @@
         "company_name": "Kinaxis",
         "id": "1cc4772b-29e5-48ac-a3b6-5ecb7c83060f",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341144,7 +341144,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347758,7 +347758,7 @@
         "company_name": "Centific",
         "id": "5422cc4b-e8cc-4455-8067-5eea2cebcf86",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
