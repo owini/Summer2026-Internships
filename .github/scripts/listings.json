@@ -279849,7 +279849,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317385,7 +317385,7 @@
         "company_name": "thyssenkrupp",
         "id": "0c426432-5715-4711-a5c1-a627c0fd3b4a",
         "title": "Trader Trainee - Metals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331088,7 +331088,7 @@
         "company_name": "Kinaxis",
         "id": "1cc4772b-29e5-48ac-a3b6-5ecb7c83060f",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
