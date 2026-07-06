@@ -247063,7 +247063,7 @@
         "company_name": "SharkNinja",
         "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
         "title": "Applied AI & Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339753,7 +339753,7 @@
         "company_name": "Freeform",
         "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
         "title": "Process Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349140,6 +349140,30 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Celonis",
+        "id": "0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
+        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783319401,
+        "date_posted": 1783319363,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
