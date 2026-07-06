@@ -339573,7 +339573,7 @@
         "company_name": "General Dynamics UK",
         "id": "6198d30f-d48b-4179-b867-53db2b98abe5",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347268,7 +347268,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "065e5761-d574-4c20-a590-6fd396d58e47",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
