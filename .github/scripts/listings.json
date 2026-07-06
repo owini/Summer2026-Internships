@@ -348688,7 +348688,7 @@
         "company_name": "American University",
         "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
         "title": "Lab Technician - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
