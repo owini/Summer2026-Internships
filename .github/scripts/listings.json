@@ -286006,7 +286006,7 @@
         "company_name": "Nokia",
         "id": "3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286170,7 +286170,7 @@
         "company_name": "Nokia",
         "id": "60ff2402-2f73-4588-8aff-0f7c78e9654d",
         "title": "Web Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300545,7 +300545,7 @@
         "company_name": "Nokia",
         "id": "8362ad8d-1386-49b5-b768-0a87bbacd936",
         "title": "Web Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334251,7 +334251,7 @@
         "company_name": "Arine",
         "id": "5c99289c-7083-430e-9511-14fa13015733",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342349,7 +342349,7 @@
         "company_name": "Point C",
         "id": "5a8f88cd-754a-4346-9ce0-61112aaec6f7",
         "title": "Data Science AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
