@@ -147643,7 +147643,7 @@
         "company_name": "TikTok",
         "id": "9ed2a09f-a318-418d-ada1-c33bd38b957d",
         "title": "AI Agent Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303185,7 +303185,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "25f06e2e-024c-40c2-84c6-7497e8bfdc89",
         "title": "Application Developer Analyst 1 - Power Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334458,7 +334458,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
         "title": "Application Developer 1 - Peoplesoft - Tcu",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348278,6 +348278,164 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WindBorne Systems",
+        "id": "25121cbb-b042-4319-b7e2-7f1c9d2989bd",
+        "title": "Firmware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783375924,
+        "date_posted": 1783375859,
+        "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WindBorne-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Nevada, Reno",
+        "id": "57a3c271-a794-45fe-bc73-920a2e417498",
+        "title": "Student Worker - Data Integrity Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783375924,
+        "date_posted": 1783375623,
+        "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Data-Integrity-Specialist_R0152592",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Nevada-Reno",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Bureau of Shipping",
+        "id": "2a5bc14d-3a98-403c-97a8-ed0fdf322add",
+        "title": "AI Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783376377,
+        "date_posted": 1783375624,
+        "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "American University",
+        "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
+        "title": "Quantitative Research Methodology Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783376286,
+        "date_posted": 1783375586,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
+        "title": "Research and Development Intern - Research & Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783376154,
+        "date_posted": 1783375826,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "e30dc557-ab6e-4220-8150-5bcb7dcc4598",
+        "title": "Wavelogic Systems Design Architecture Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783375561,
+        "date_posted": 1783375543,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "7ed04710-8b67-466b-b02e-56414bd6af7f",
+        "title": "Data Analytics Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783375561,
+        "date_posted": 1783375493,
+        "url": "https://careers.duke.edu/job/Durham-Data-Analytics-Fellow-NC-27710/1406032800/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
