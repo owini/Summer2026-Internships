@@ -1,93 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sanctuary AI",
-        "id": "41cbc156-8cb9-4725-965b-45c01feb1734",
-        "title": "Product Management Co-op - January 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762621591,
-        "date_posted": 1762621591,
-        "url": "https://jobs.lever.co/sanctuary/e2fefb2a-1d2b-4833-93e4-b810d1a7aa59/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "fa1a5952-4823-4e41-87f4-951d24e58a38",
-        "title": "Undergrad Software Engineer Intern - IoT Platform & Software Development",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1762621492,
-        "date_posted": 1762621492,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314479",
-        "locations": [
-            "Nashville, TN",
-            "Austin, TX",
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sanctuary AI",
-        "id": "2a4346a9-3313-4197-9bf3-2766cfa1602f",
-        "title": "Hardware Co-op: R&D - January 2026 term",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762621590,
-        "date_posted": 1762621590,
-        "url": "https://jobs.lever.co/sanctuary/f311695b-38d0-42d6-84f9-bb14bdf020c4/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "State Street",
-        "id": "422b89cf-3a73-4eff-ba36-4577c95a1562",
-        "title": "12-month Internship program: Investment Quantitative Research team in London",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762621792,
-        "date_posted": 1762621792,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/XMLNAME-12-month-Internship-program--Investment-Quantitative-Research-team-in-London_R-779710",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hitachi Energy",
         "id": "f9dba964-e13e-4db0-a12a-b1ea0d5d327e",
@@ -3479,27 +3392,6 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "0eeea078-6073-46e3-b12c-bfc910963f95",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762908235,
-        "date_posted": 1762621291,
-        "url": "https://careers-gdms.icims.com/jobs/69059/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
