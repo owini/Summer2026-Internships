@@ -316066,7 +316066,7 @@
         "company_name": "ATCO",
         "id": "cd37a9ed-984b-4df9-9072-bbe48e1dc9e3",
         "title": "Customer Connections Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349210,7 +349210,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "dd5d4222-905c-432a-b066-70d2456051d6",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
