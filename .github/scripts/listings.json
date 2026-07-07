@@ -227848,7 +227848,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -349250,6 +349250,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "90f0f122-3e2a-49f2-a6c8-688ce3720044",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783435141,
+        "date_posted": 1783433154,
+        "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Infrastructure",
+        "id": "7368949e-db4f-4508-883c-32dc7d83356c",
+        "title": "Alternative Delivery Project Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783434421,
+        "date_posted": 1783433546,
+        "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Infrastructure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
         ]
     }
 ]
