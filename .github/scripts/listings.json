@@ -316567,7 +316567,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328748,7 +328748,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328840,7 +328840,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336328,7 +336328,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336631,7 +336631,7 @@
         "company_name": "Magna",
         "id": "5baf8620-6e7e-443a-bab5-755a61362095",
         "title": "Infrared Imaging & Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347334,7 +347334,7 @@
         "company_name": "Visa",
         "id": "b3481e39-bfac-4371-a229-3988483eefff",
         "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
