@@ -270908,7 +270908,7 @@
         "company_name": "Tencent",
         "id": "1c141650-b107-465f-a7ed-290459b5da2a",
         "title": "Software Engineering Intern - PC Game Client Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288169,7 +288169,7 @@
         "company_name": "American Enterprise Institute",
         "id": "b7233a81-3ca8-492b-a0ce-e867e7413d00",
         "title": "Data Analysis and Education Policy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299121,7 +299121,7 @@
         "company_name": "Apex",
         "id": "b545f882-0812-48eb-b468-4550581dc0c8",
         "title": "Software Engineering Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333320,7 +333320,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
         "title": "Characterization and Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -348452,7 +348452,7 @@
         "company_name": "Everfox",
         "id": "8a6ae31a-c1a1-43a5-8ff4-74c51349664c",
         "title": "Product Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -349299,5 +349299,325 @@
             "Master's",
             "MBA"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GIA",
+        "id": "102c6366-4b79-497e-9cff-05ce63cc4f90",
+        "title": "Simulation & Optimization Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783463041,
+        "date_posted": 1783462335,
+        "url": "https://gia.wd1.myworkdayjobs.com/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Simulation---Optimization-Analyst-Intern_R0011449",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Industries",
+        "id": "1f3b2933-fe37-4e8a-b727-eb9166e6df99",
+        "title": "Appian Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783463290,
+        "date_posted": 1783461850,
+        "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5301639008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "1X",
+        "id": "cce4a124-68d8-4941-9fff-ddbee5dfc0b3",
+        "title": "AI Residency Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783463079,
+        "date_posted": 1783462261,
+        "url": "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1x",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
+        "title": "Quantitative Trader: Equity Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783462963,
+        "date_posted": 1783462180,
+        "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TDS",
+        "id": "2ec22e8c-8004-46f2-943c-b71ca142908f",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783462326,
+        "date_posted": 1783462184,
+        "url": "https://external-telecom-teldta.icims.com/jobs/29612/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "fb3b592b-59ee-4129-a02a-eb7b7f2f0922",
+        "title": "Business Data Analyst Intern - Business / Data Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783462919,
+        "date_posted": 1783462124,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Laval/XMLNAME-2026-Fall-Intern---Business---Data-Analyst-Intern---Stagiaire-d-Automne-2026---Analyste-d-Affaires---de-Donnes_202606-116950",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "38a95da6-cf61-402d-b348-03983059e836",
+        "title": "Clinical Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1783462761,
+        "date_posted": 1783462019,
+        "url": "https://careers.medpace.com/jobs/12845?icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783462715,
+        "date_posted": 1783461977,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043345-1",
+        "locations": [
+            "Jackson Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "7665d430-525e-4f75-9127-c9803c57367e",
+        "title": "Analytics Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783462326,
+        "date_posted": 1783461968,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst_R2607-51576",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copart",
+        "id": "4af74d82-21b0-4148-866e-dbf7bed833f7",
+        "title": "Technology Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783462385,
+        "date_posted": 1783461958,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR109793",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of British Columbia",
+        "id": "032da4e6-d497-4bfd-90b4-b4845b3bf2e7",
+        "title": "Utilities Student Worker - Water Consumption Project",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783461962,
+        "date_posted": 1783461924,
+        "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Utilities-Student-Worker---Water-Consumption-Project_JR25160",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0afd0e99-520e-4d18-ba6a-1e60dc183fd4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "af9f0a8b-b6df-4358-9834-160d1d0d7a32",
+        "title": "QNX Software Developer Co-op - Integration",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783462251,
+        "date_posted": 1783461908,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Software-Developer-Student--Integration-_20260244",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marshall Wace",
+        "id": "ae7fd66d-2ccb-4c86-894b-f1f097cff21c",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783462149,
+        "date_posted": 1783375381,
+        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "ff7b4535-774e-4e93-8b9a-61b99e1ec602",
+        "title": "Undergraduate Research Assistant - Engineering-Dr. KY",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783461781,
+        "date_posted": 1783461724,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--Engineering--Dr-KY-_R-094831",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
