@@ -142449,7 +142449,7 @@
         "company_name": "Copart",
         "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303572,7 +303572,7 @@
         "company_name": "Lambda",
         "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
         "title": "Security Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315070,7 +315070,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316479,7 +316479,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -318530,7 +318530,7 @@
         "company_name": "Intel",
         "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
         "title": "Silicon Performance Validation and Characterization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336881,7 +336881,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343718,7 +343718,7 @@
         "company_name": "Intuit",
         "id": "d249bf80-6b21-4361-bcab-b047533c7142",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346670,7 +346670,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
