@@ -280452,7 +280452,7 @@
         "company_name": "NVIDIA",
         "id": "4d7b53f4-4839-4a21-9b3d-774c69c540bd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342380,7 +342380,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346360,7 +346360,7 @@
         "company_name": "Copart",
         "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
         "title": "Strategic Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
