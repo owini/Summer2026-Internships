@@ -349173,5 +349173,29 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles River Analytics",
+        "id": "26d82c3c-2d34-4225-b3e9-810a1b478679",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783406739,
+        "date_posted": 1783406214,
+        "url": "https://cra.com/job-listings/job?gh_jid=8047653",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-River-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
