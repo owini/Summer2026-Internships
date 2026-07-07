@@ -331571,7 +331571,7 @@
         "company_name": "Field AI",
         "id": "47dd2b92-bd50-4334-9faa-63cc77a303f4",
         "title": "Field Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348981,6 +348981,76 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "d5cec203-67b4-4970-8718-20bdbbe30e43",
+        "title": "Radiation Effects Associate Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783388341,
+        "date_posted": 1783388321,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4694883006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figure",
+        "id": "84fa7902-5663-4610-8dbc-b43afd8c2691",
+        "title": "Special Projects Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783388341,
+        "date_posted": 1783388168,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4694889006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "691cf244-d5c5-4077-969a-e3f3f9af4bb4",
+        "title": "Radiation Effects Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783388341,
+        "date_posted": 1783377441,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
