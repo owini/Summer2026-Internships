@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 10128 Inactive Internship Roles by Category
+### Browse 10127 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3186)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (759)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4552)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4551)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (144)
 
@@ -18264,7 +18264,7 @@
 <td>Software Engineer Co-op/Intern</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
@@ -59608,13 +59608,6 @@
 <td>SF</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Medpace-Inc?utm_source=GHList&utm_medium=company">Medpace, Inc.</a></strong></td>
-<td>Business Intelligence Internship</td>
-<td>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
