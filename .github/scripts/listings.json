@@ -236262,7 +236262,7 @@
         "company_name": "Zip",
         "id": "5c3babf9-78e2-4c0e-a438-60625697bea7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277064,7 +277064,7 @@
         "company_name": "Axway",
         "id": "5fcc8cf3-912c-4409-a2b1-170c0075d08b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344146,7 +344146,7 @@
         "company_name": "Crowdstrike",
         "id": "8429362a-1d03-4406-8ab4-86f7dd0754b2",
         "title": "Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2026"
