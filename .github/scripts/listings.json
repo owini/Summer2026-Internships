@@ -314604,7 +314604,7 @@
         "company_name": "Primetals Technologies",
         "id": "c19dc2dc-e0ff-4616-b384-c5c1d94d2240",
         "title": "Product Line Management Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317472,7 +317472,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
         "title": "Relationship Manager Business Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320267,7 +320267,7 @@
         "company_name": "Skyscanner",
         "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
         "title": "Software Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329861,7 +329861,7 @@
         "company_name": "Mach Industries",
         "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336359,7 +336359,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -343889,7 +343889,7 @@
         "company_name": "Citadel Securities",
         "id": "37f16f32-a0e4-4c42-91e4-f29624bff893",
         "title": "Quantitative Researcher PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350465,6 +350465,439 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "aede4467-5907-43aa-850b-9d6349575538",
+        "title": "Associate/Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550945,
+        "date_posted": 1783548990,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jump Trading",
+        "id": "17780196-7325-4b2e-b9d8-42c0b3830d62",
+        "title": "Campus UI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550939,
+        "date_posted": 1783549631,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8003019",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jump Trading",
+        "id": "140e7fe6-bc56-47a0-8415-282c3257e658",
+        "title": "Campus Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783550933,
+        "date_posted": 1783549629,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loblaw Companies",
+        "id": "00bb6bac-77e5-4bdc-8de2-5007d1937338",
+        "title": "AI Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550926,
+        "date_posted": 1783549118,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/AI-Engineering---Co-op-Student_R2000681500",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hone Health",
+        "id": "8990370a-d091-498f-98bb-082a18262cfa",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550345,
+        "date_posted": 1783549314,
+        "url": "https://job-boards.greenhouse.io/honehealth/jobs/5308958008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hone-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "c1d1053c-438a-481e-8375-57149313ea2f",
+        "title": "Software and Data Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1783550642,
+        "date_posted": 1783548990,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ontic",
+        "id": "f5f1dcf1-49eb-4ce8-9868-0a412ac7b641",
+        "title": "Data Migration Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550553,
+        "date_posted": 1783548666,
+        "url": "https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jump Trading",
+        "id": "0dddbfae-5080-4262-acf4-8f92bc7de995",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783550585,
+        "date_posted": 1783549628,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8003013",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jump Trading",
+        "id": "7dde25d1-45b9-4f21-b627-cae44898fbb3",
+        "title": "AI Research Engineer Intern - Research Automation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550568,
+        "date_posted": 1783549628,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8052351",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jump Trading",
+        "id": "9d14590b-3922-4c2d-a411-04bbe025a5bc",
+        "title": "AI Research Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550569,
+        "date_posted": 1783549630,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8052281",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "807f7a33-061f-4c85-9cf4-1d8edfa19135",
+        "title": "Campus Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550572,
+        "date_posted": 1783549628,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7982648",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "45cb500e-6cea-48a1-941e-f33226a37036",
+        "title": "Campus Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550567,
+        "date_posted": 1783549628,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7848371",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "034a8e4e-0595-4935-943e-bb805676a5d2",
+        "title": "Campus Quantitative Researcher Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783550571,
+        "date_posted": 1783549628,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8049938",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jump Trading",
+        "id": "5eb655ae-5b71-490f-93e4-7026519c395f",
+        "title": "Campus Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783550567,
+        "date_posted": 1783549630,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8002989",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jump Trading",
+        "id": "5cbbf737-ec58-4199-bd17-62438749ebc9",
+        "title": "Campus AI Research Engineer Intern - Deep Learning",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550572,
+        "date_posted": 1783549627,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8052338",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SharkNinja",
+        "id": "278bc4d9-086a-49c0-bd73-d6dc29d652f9",
+        "title": "Codeshark",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783550577,
+        "date_posted": 1783549892,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flow Traders",
+        "id": "95a232c5-f611-4960-ab8f-79fcd25db5f2",
+        "title": "Quantitative Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783550431,
+        "date_posted": 1783549338,
+        "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ABB",
+        "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783550345,
+        "date_posted": 1783549112,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
+        "locations": [
+            "Lombard, IL",
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NAV CANADA",
+        "id": "91248c60-db9e-4368-be88-d8a52b43dd4d",
+        "title": "Radar Systems Engineering Student Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1783550310,
+        "date_posted": 1783549061,
+        "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NAV-CANADA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
