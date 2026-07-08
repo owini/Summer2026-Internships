@@ -309440,7 +309440,7 @@
         "company_name": "Nokia",
         "id": "3a98b62d-7278-49e8-b012-9c22e133db65",
         "title": "ASIC Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -316042,7 +316042,7 @@
         "company_name": "thyssenkrupp",
         "id": "0c426432-5715-4711-a5c1-a627c0fd3b4a",
         "title": "Trader Trainee - Metals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
