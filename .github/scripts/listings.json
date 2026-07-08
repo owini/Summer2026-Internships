@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "68adc91f-dab5-43a4-a7bf-3a315b755276",
-        "title": "Software Engineer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762742445,
-        "date_posted": 1762742445,
-        "url": "https://careers-gdms.icims.com/jobs/67921/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
         "id": "55bc3286-7fe4-4eb5-b5eb-80426b3044da",
