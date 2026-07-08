@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "76d1720a-3ef5-4e0f-9146-bbb3a3be7072",
-        "title": "AI/ML PhD Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762741481,
-        "date_posted": 1762741481,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523576003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "012e714d-906c-461c-9252-f102ba8431bb",
-        "title": "AI/ML Graduate Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762741480,
-        "date_posted": 1762741480,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523578003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "68adc91f-dab5-43a4-a7bf-3a315b755276",
