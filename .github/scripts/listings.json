@@ -265328,7 +265328,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316366,7 +316366,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -320031,7 +320031,7 @@
         "company_name": "Agilent Technologies",
         "id": "c3131935-5162-4622-90e5-cca444331d6f",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324486,7 +324486,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332920,7 +332920,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350051,6 +350051,29 @@
             "Bachelor's",
             "Master's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Banner Health",
+        "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
+        "title": "IT 2 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783512799,
+        "date_posted": 1783462554,
+        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Intern-IT-II_R4447070",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/Banner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
