@@ -193993,7 +193993,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "49770307-3bc7-4198-b335-47ffbddda332",
         "title": "Lab Systems Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -337579,7 +337579,7 @@
         "company_name": "Bugcrowd",
         "id": "5a68ce5f-816a-422c-99ab-76aaed1f7303",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342687,7 +342687,7 @@
         "company_name": "BorgWarner",
         "id": "746e1c61-ef5b-46fd-8384-970dce81b9e3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
