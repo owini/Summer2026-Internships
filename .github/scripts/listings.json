@@ -278071,7 +278071,7 @@
         "company_name": "NVIDIA",
         "id": "4d7b53f4-4839-4a21-9b3d-774c69c540bd",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314001,7 +314001,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330512,7 +330512,7 @@
         "company_name": "Pennsylvania State University",
         "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
         "title": "Research and Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
