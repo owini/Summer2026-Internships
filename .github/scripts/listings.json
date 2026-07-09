@@ -260056,7 +260056,7 @@
         "company_name": "Formlabs",
         "id": "37c6d738-3d93-410b-a82e-6fd883d15498",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310106,7 +310106,7 @@
         "company_name": "Double Eleven",
         "id": "25a8a293-3253-46d3-a3ea-1b9cba805bc8",
         "title": "Graphics Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
