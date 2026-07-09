@@ -342288,7 +342288,7 @@
         "company_name": "GE Appliances",
         "id": "8b3a040d-9740-4868-a1c8-672234e74f84",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
