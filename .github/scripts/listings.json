@@ -225467,7 +225467,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -227057,7 +227057,7 @@
         "company_name": "Tencent",
         "id": "e4becf68-5294-4c91-a10c-4626a344f605",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347182,7 +347182,7 @@
         "company_name": "Blackberry",
         "id": "af9f0a8b-b6df-4358-9834-160d1d0d7a32",
         "title": "QNX Software Developer Co-op - Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
