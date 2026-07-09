@@ -43,71 +43,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Adobe",
-        "id": "ac6e2e8f-b93b-485b-a6bb-2417bf8b913a",
-        "title": "SAMI Intern - Product Manager - Community Engagement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762821188,
-        "date_posted": 1762821188,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-SAMI-Intern---Product-Manager--Community-Engagement_R158907",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "56cf7ad2-73ae-47b1-8c2e-07ebf1ad2c2f",
-        "title": "Human Factors Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762821322,
-        "date_posted": 1762821322,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Human-Factors-Research-Intern_R-00170127-1",
-        "locations": [
-            "Arlington, VA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "50dd957c-b262-4c35-970f-bbfa0995aa34",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762821320,
-        "date_posted": 1762821320,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/AI-Research-Intern_R-00170130",
-        "locations": [
-            "Arlington, VA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qualcomm",
         "id": "ef5b017e-0947-4403-8fed-7ada14e284a3",
@@ -123,51 +58,6 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Adobe",
-        "id": "d3a0521c-615e-4fd9-bf3d-5b2df0572d8a",
-        "title": "SAMI Intern - Product Manager",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762821195,
-        "date_posted": 1762821195,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-SAMI-Intern---Product-Manager--AI-Experience_R158908",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "d2b9f839-48d0-4857-86ee-770c4b0914ce",
-        "title": "Data Sciences Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762821322,
-        "date_posted": 1762821322,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Sciences-Research-Intern_R-00170129",
-        "locations": [
-            "Arlington, VA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -82438,31 +82328,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "904092e4-9605-4713-96d1-2f623661786f",
-        "title": "Software Engineer AI Automation - AI Automation",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766482004,
-        "date_posted": 1762821935,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/210718",
-        "locations": [
-            "Vancouver, BC, Canada",
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -314246,7 +314111,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
