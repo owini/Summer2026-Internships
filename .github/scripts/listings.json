@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "08f48e31-8623-41c4-94ee-a400b7b3aab5",
-        "title": "Computer Vision Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1762903820,
-        "date_posted": 1762903820,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000093048014",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Experian",
-        "id": "2a8d6dc9-b4d6-41e5-801b-03c87723b335",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762903717,
-        "date_posted": 1762903717,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000093043924",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Memphis Meats",
         "id": "e8209aad-c335-4afe-978c-30732806a767",
         "title": "AI Intern",
@@ -347199,7 +347157,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "0a5d1e5d-49ca-48f2-bc26-b0fd949cbe4b",
         "title": "Communications & AI Intern - AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347406,7 +347364,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
