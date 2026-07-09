@@ -339345,7 +339345,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344002,7 +344002,7 @@
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344911,7 +344911,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347315,7 +347315,7 @@
         "company_name": "Amwins",
         "id": "96edf10e-0444-407a-bdcd-f798aedcb75d",
         "title": "Analytics & AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -347716,7 +347716,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
