@@ -283033,7 +283033,7 @@
         "company_name": "Nokia",
         "id": "ccebacf3-3a78-4dc6-8622-681d550955d1",
         "title": "Hardware Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306840,7 +306840,7 @@
         "company_name": "Achievers",
         "id": "c0236e7f-aeeb-463e-a68a-152612780877",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
