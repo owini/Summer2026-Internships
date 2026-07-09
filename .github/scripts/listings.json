@@ -84716,7 +84716,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -94227,7 +94227,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -101310,7 +101310,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -301905,7 +301905,7 @@
         "company_name": "Astera",
         "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
         "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310773,7 +310773,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330780,7 +330780,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341056,7 +341056,7 @@
         "company_name": "William Blair",
         "id": "502d7467-50c2-4c44-a18b-f2c32cca99f3",
         "title": "Junior Equity Sales-Trading Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348673,6 +348673,32 @@
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1",
         "locations": [
             "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783587541,
+        "date_posted": 1783472744,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
+        "locations": [
+            "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
