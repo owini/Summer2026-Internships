@@ -23,27 +23,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "GM financial",
-        "id": "3927d454-70cc-44ca-a711-12a43037677d",
-        "title": "Intern \u2013 IT Data Integration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762907644,
-        "date_posted": 1762907644,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1279",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
         "title": "Corporate Audit Data Analytics Apprentice",
@@ -122,206 +101,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Generac",
-        "id": "cce48eab-e704-4910-b502-d58402833328",
-        "title": "Firmware Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1762907768,
-        "date_posted": 1762907768,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Firmware-Engineering-Intern_JR11157",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Generac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Quantbot Technologies",
-        "id": "e3d5bb9f-3edb-4586-853f-03882d4ddb05",
-        "title": "Data Trading Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762907676,
-        "date_posted": 1762907676,
-        "url": "https://www.quantbot.com/careers/internships?gh_jid=4050570009",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantbot-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra",
-        "id": "334a24c9-4afc-4253-81d8-24fc2803b3ab",
-        "title": "Intern \u2013 Agent Development - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762907482,
-        "date_posted": 1762907482,
-        "url": "https://jobs.ashbyhq.com/Sierra/c312d046-e197-464c-90cc-2181418cef51/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GM financial",
-        "id": "00f33303-7f26-4c9d-b67f-fe9ceaea12a9",
-        "title": "Intern Software Development Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762907652,
-        "date_posted": 1762907652,
-        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1251",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cirrus Logic",
-        "id": "f766484a-1133-4b0e-9fc7-e940ccb4be6d",
-        "title": "Intern - Haptics Software Tools Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762907492,
-        "date_posted": 1762907492,
-        "url": "https://jobs.eu.lever.co/cirrus/76ead5e1-43d4-48ae-a5ba-d0bb2a399b05/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "87999427-478f-400e-aa28-e03fea54e938",
-        "title": "Firmware Engineer Intern - Master's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1762907597,
-        "date_posted": 1762907597,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Master-s-Degree_2503482",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marvell",
-        "id": "2ccf321b-8f17-4c7c-9853-a63c0307b8c6",
-        "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1762907597,
-        "date_posted": 1762907597,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASSA ABLOY",
-        "id": "8dacb748-cbd4-4a96-8792-fe053b425c40",
-        "title": "Intern AI",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762907929,
-        "date_posted": 1762907929,
-        "url": "https://assaabloy.jobs2web.com/job/Brookfield-Intern,-AI-WI-53045/1266742801/?ats=successfactors",
-        "locations": [
-            "Brookfield, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Woodward Governor",
-        "id": "5f23a423-a6fd-41e8-b6c4-82d10c04d9f1",
-        "title": "Data Science Internship - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1762907602,
-        "date_posted": 1762907602,
-        "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/Data-Science-Internship---Summer-2025_JR108012",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Woodward-Governor",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -77654,27 +77433,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Markon",
-        "id": "84eab369-8499-47d8-927b-c8836f0f0dbd",
-        "title": "Reverse Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768461831,
-        "date_posted": 1762907720,
-        "url": "https://careers-markon.icims.com/jobs/7860/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Zurn Elkay Water Solutions",
         "id": "aab8689a-a04b-4dbb-88a3-94575f49bdce",
@@ -81423,27 +81181,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Eli Health",
-        "id": "2d31027f-e6b6-4771-84ac-f0a1403d0454",
-        "title": "Product Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762907931,
-        "date_posted": 1762907931,
-        "url": "https://jobs.ashbyhq.com/eli/7adc7a1e-af19-434f-b4b3-1cb544d2c6ba/application",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Eli-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -225388,7 +225125,7 @@
         "company_name": "Nokia",
         "id": "f43aa72d-d783-422b-b95d-36487993d7eb",
         "title": "Embedded C/C++ Software Developer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
