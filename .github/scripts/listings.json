@@ -261445,7 +261445,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -332935,7 +332935,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
