@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "b0959977-7283-4788-9c5b-dbd1a258d1f5",
-        "title": "Intern/Co-op - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762910325,
-        "date_posted": 1762910325,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Software-Engineering_JR25110669",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
@@ -282019,7 +281998,7 @@
         "company_name": "Nokia",
         "id": "05b661df-ed46-482b-8ebd-7248a6a234eb",
         "title": "IP R&D Lab Technologist Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340491,7 +340470,7 @@
         "company_name": "Citadel",
         "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346276,7 +346255,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346323,7 +346302,7 @@
         "company_name": "Rockwell Automation",
         "id": "503be939-a684-4928-96bc-ae4baa9e4e7c",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -347184,7 +347163,7 @@
         "company_name": "Jump Trading",
         "id": "9d14590b-3922-4c2d-a411-04bbe025a5bc",
         "title": "AI Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347862,6 +347841,50 @@
             "Carson, CA"
         ],
         "company_url": "https://simplify.jobs/c/Vital-Lyfe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
+        "title": "Software Engineer Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783646087,
+        "date_posted": 1783645841,
+        "url": "https://www.tesla.com/careers/search/job/276333",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "b93ad719-d868-461f-85a0-10eb85509e6a",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783645911,
+        "date_posted": 1783555200,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700248",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
