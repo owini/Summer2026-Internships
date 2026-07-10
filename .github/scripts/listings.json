@@ -106,48 +106,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Gelber Group",
-        "id": "f3ff93e2-fe68-4980-ac58-77b8e82e49d9",
-        "title": "Algorithmic Trading Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762918093,
-        "date_posted": 1762918093,
-        "url": "https://job-boards.greenhouse.io/gelberhandshake/jobs/4595122006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GelberGroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "7094f375-736a-4997-8c68-a2f5df5f9c59",
-        "title": "Data Scientist Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917561,
-        "date_posted": 1762917561,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8212208002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Other",
         "active": false,
@@ -307,48 +265,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "e3cf191d-2947-4fd2-9d1a-1f8a31251f98",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762917193,
-        "date_posted": 1762917193,
-        "url": "https://job-boards.greenhouse.io/gntemp/jobs/5674841004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "067db6df-e1df-40c1-8993-852a5dcba72c",
-        "title": "Research Residency",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917361,
-        "date_posted": 1762917361,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009073009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762971307,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -393,27 +309,6 @@
         "date_posted": 1762971491,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "d9b3e012-1969-421d-af1c-ef4b2fbac29e",
-        "title": "Prototyping Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917352,
-        "date_posted": 1762917352,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009062009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -344255,7 +344150,7 @@
         "company_name": "Citadel Securities",
         "id": "b977109a-8e8c-4173-a584-460e709a733f",
         "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
