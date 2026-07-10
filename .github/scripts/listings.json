@@ -85,27 +85,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "7cf5d340-56c8-4d51-a443-8a0a78c95775",
-        "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762921518,
-        "date_posted": 1762921518,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Other",
         "active": false,
@@ -330860,7 +330839,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
