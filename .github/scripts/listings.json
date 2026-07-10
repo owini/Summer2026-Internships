@@ -80408,7 +80408,7 @@
         "company_name": "Solva",
         "id": "20e42ba9-f733-4af7-90db-2d2b6bf52da8",
         "title": "AI Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -196170,7 +196170,7 @@
         "company_name": "Copart",
         "id": "2b7c8f72-48b1-4c76-ac63-400cb8ba6b08",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286356,7 +286356,7 @@
         "company_name": "X Development",
         "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
         "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -337366,7 +337366,7 @@
         "company_name": "Generac",
         "id": "05aaf802-075e-467c-8e96-02dc1f9a1cd0",
         "title": "Manufacturing Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346384,7 +346384,7 @@
         "company_name": "ITT",
         "id": "252e949a-a495-490e-882c-b0c301195d36",
         "title": "Supply Chain Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
