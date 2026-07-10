@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1762971307,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092795107",
-        "company_name": "NBCUniversal",
-        "title": "Media Tech - Software Engineering",
-        "locations": [
-            "New York City, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "e12cfb4a-fe43-48f1-a311-26b623433aa5",
-        "date_posted": 1762971307,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762971728,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
-        "company_name": "Lyft",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "unvibingcode",
-        "id": "9c51b9b0-e4da-4393-8990-143f4c42b142",
-        "date_posted": 1762971491,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
@@ -305909,7 +305863,7 @@
         "company_name": "Nokia",
         "id": "b6bad08e-5aba-42dd-9885-70896516ce8b",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -342255,7 +342209,7 @@
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
