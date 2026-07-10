@@ -207,27 +207,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "44c85850-08ce-48d2-b763-f68423094bee",
-        "title": "Data Analyst Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762928784,
-        "date_posted": 1762928784,
-        "url": "https://job-boards.greenhouse.io/gntemp/jobs/5674891004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Sandisk",
         "id": "bc9fc38e-9b14-4c8a-8b20-ff9c66518308",
         "title": "GenAI & AI/ML Engineering Intern",
@@ -342745,7 +342724,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
