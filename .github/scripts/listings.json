@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sandisk",
-        "id": "bc9fc38e-9b14-4c8a-8b20-ff9c66518308",
-        "title": "GenAI & AI/ML Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762989720,
-        "date_posted": 1762989720,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000093026280",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TDS",
-        "id": "0a1d0a30-b318-4cbb-9e67-018548cfa93f",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762989772,
-        "date_posted": 1762989772,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28284/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dell Technologies",
         "id": "4b4965ac-bcd0-426f-b3e9-0bb7956ca569",
@@ -321792,7 +321750,7 @@
         "company_name": "Base Power",
         "id": "425f9072-8894-4abe-aff3-1bf6ccd9c848",
         "title": "Hardware Reliability & Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
