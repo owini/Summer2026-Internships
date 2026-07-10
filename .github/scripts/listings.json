@@ -3,27 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
-        "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
-        "title": "Corporate Audit Data Analytics Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762922908,
-        "date_posted": 1762922908,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Corporate-Audit-Data--Analytics-Apprentice_R-779872",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
         "id": "ae5efd4c-2b1a-465a-b61a-cc638bad1699",
         "title": "Software Engineer Intern - ML/Data Engineer",
         "active": false,
@@ -338379,7 +338358,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346445,7 +346424,7 @@
         "company_name": "Draper",
         "id": "fadd801b-b2eb-4bd6-85da-f05b99404d03",
         "title": "Microsystems Integration Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
