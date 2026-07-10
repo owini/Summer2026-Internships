@@ -107,48 +107,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "f3b8fc78-7533-480d-8328-7fed9d36505b",
-        "title": "Application Engineering Intern - AI for Chemistry and Materials",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762914890,
-        "date_posted": 1762914890,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Application-Engineering-Intern--AI-for-Chemistry-and-Materials---Summer-2026_JR2007587",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertex Pharmaceuticals",
-        "id": "884b4cc7-1b49-4a28-9a79-8be9cad1ef98",
-        "title": "Vertex Spring 2026 Co-op - Process Development Data Systems",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762915398,
-        "date_posted": 1762915398,
-        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-2026-Co-op--Process-Development-Data-Systems_REQ-27090-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Gelber Group",
         "id": "f3ff93e2-fe68-4980-ac58-77b8e82e49d9",
@@ -167,30 +125,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASM Global",
-        "id": "dcfb7425-efa2-4e02-be38-07a823bd678f",
-        "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762915687,
-        "date_posted": 1762915687,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Hospitality-and-Merchandise-Insights-Intern_R100117872",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -304,29 +238,6 @@
         "date_posted": 1762960795,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baxter International",
-        "id": "16ab5de1-8ebe-4443-9aae-91ba403734dc",
-        "title": "R&D Connected Monitoring Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762915577,
-        "date_posted": 1762915577,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/R---D-Connected-Monitoring-Co-op_JR-191856-1",
-        "locations": [
-            "Auburn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
