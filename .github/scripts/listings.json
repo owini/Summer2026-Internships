@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ID.me",
-        "id": "5689bc99-6bb0-45fb-99f3-743cacdaba79",
-        "title": "University 2026 Intern: Product Manager",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762995122,
-        "date_posted": 1762995122,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "League",
-        "id": "8807e1f2-0fff-4856-8aa7-3ddc12841a39",
-        "title": "Data Engineer \u2013 Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762994598,
-        "date_posted": 1762994598,
-        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5673420004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/League",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Haleon",
         "id": "3652dcd4-e063-4e8d-abd3-0ef6300a5070",
