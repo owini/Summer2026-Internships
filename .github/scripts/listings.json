@@ -262603,7 +262603,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272411,7 +272411,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293568,7 +293568,7 @@
         "company_name": "SOTI",
         "id": "572bd542-bdd6-4494-adf5-c3e38316b280",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308975,7 +308975,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330536,7 +330536,7 @@
         "company_name": "Magna",
         "id": "5baf8620-6e7e-443a-bab5-755a61362095",
         "title": "Infrared Imaging & Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331781,7 +331781,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345841,7 +345841,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
