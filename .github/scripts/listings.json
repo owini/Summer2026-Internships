@@ -1,93 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Haleon",
-        "id": "3652dcd4-e063-4e8d-abd3-0ef6300a5070",
-        "title": "Co-Op Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762997534,
-        "date_posted": 1762997534,
-        "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Missouri---St-Louis/XMLNAME-2026-Co-Op--Engineering--6-months--July-2026-start-_535454",
-        "locations": [
-            "Catskill, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Haleon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HiveWatch",
-        "id": "c33fb2d9-d0c3-4dbd-8999-d55eab15b54b",
-        "title": "AI Data Labeling Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762998765,
-        "date_posted": 1762998765,
-        "url": "https://job-boards.greenhouse.io/hivewatch/jobs/5687363004",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/HiveWatch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Meta",
-        "id": "88e9e020-0a8c-44d1-a282-c3c461a0a979",
-        "title": "Research Scientist Intern - Soft Wearable Tactile Sensors - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1762998744,
-        "date_posted": 1762998744,
-        "url": "https://www.metacareers.com/jobs/833432782356431",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "54888b20-7434-4721-bae2-2683bd8133d1",
-        "title": "Intern - Power BI Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762997808,
-        "date_posted": 1762997808,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Intern--Summer-2026---PowerBI-Developer--Onsite-_01805774",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "ServiceNow",
         "id": "fe202bbe-116f-4d30-9f05-c0d6c14b47fc",
@@ -162338,31 +162251,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ID.me",
-        "id": "f25bf7c0-978f-493e-a51e-4d2f1b712864",
-        "title": "University Product Manager",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1771889941,
-        "date_posted": 1762998632,
-        "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388743003",
-        "locations": [
-            "McLean, VA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDme",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
         ]
     },
     {
@@ -340754,7 +340642,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346171,5 +346059,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "World Surf League",
+        "id": "3e18521c-a71b-49fb-a9d0-ef94b9361ce6",
+        "title": "Partnerships Analytics & Reporting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1783733845,
+        "date_posted": 1783733650,
+        "url": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002",
+        "locations": [
+            "Inglewood, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WorldSurfLeague",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
