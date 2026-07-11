@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ServiceNow",
-        "id": "fe202bbe-116f-4d30-9f05-c0d6c14b47fc",
-        "title": "Senior Product Marketing Specialist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763000588,
-        "date_posted": 1763000588,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093329375",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BorgWarner",
-        "id": "23dd54ef-a4e3-4dac-9322-d22c027e9901",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763000965,
-        "date_posted": 1763000965,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Development-Intern_R2025-4349",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Interstates",
         "id": "e019b0ce-4c0e-490b-b51c-9ac7e88b4472",
