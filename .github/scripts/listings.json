@@ -221753,7 +221753,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -315805,7 +315805,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322745,7 +322745,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331458,7 +331458,7 @@
         "company_name": "Magna",
         "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340575,7 +340575,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341197,7 +341197,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343953,7 +343953,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346035,6 +346035,32 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783780517,
+        "date_posted": 1783641600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Denver--CO-_R4043455-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
