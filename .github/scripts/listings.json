@@ -323785,7 +323785,7 @@
         "company_name": "Kinaxis",
         "id": "1cc4772b-29e5-48ac-a3b6-5ecb7c83060f",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339988,7 +339988,7 @@
         "company_name": "TDS",
         "id": "28ba42da-8a23-42a0-8f6c-e867d40c6e48",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -343834,7 +343834,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "272daeda-6504-4221-a6fb-f2970bd123c7",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
