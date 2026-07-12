@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "13eb2ad1-1b16-43d0-b410-2121bd1b076c",
-        "title": "Data Science Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1763091024,
-        "date_posted": 1763091024,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Data-Science-Research-Intern_R0112340",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
