@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Great American Insurance Company",
-        "id": "6e3cef00-04f4-42b8-bb64-7d9653cff91e",
-        "title": "RPA Automation Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763086480,
-        "date_posted": 1763086480,
-        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/RPA-Automation-Developer-Intern_R8206",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Great-American-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rivian",
         "id": "1e32dd6a-0978-4f67-988e-1315eb98f2f0",
         "title": "Software Engineering Intern - Connected Systems - Summer 2026",
@@ -388,27 +367,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skydio",
-        "id": "0e210d8b-c821-47be-a3ff-945db72ee04d",
-        "title": "Flight Test Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763087019,
-        "date_posted": 1763087019,
-        "url": "https://www.skydio.com/jobs/7506782003?gh_jid=7506782003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Uber",
         "id": "6350eb2e-4adb-46e3-80bb-4bddc729711d",
@@ -453,27 +411,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "SharkNinja",
-        "id": "138c196d-8d84-4e04-b143-6e373f2e12a5",
-        "title": "Consumer Insights Intern - February to May",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763087146,
-        "date_posted": 1763087146,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4613202006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Lifeway",
         "id": "a4d021fc-c379-4f45-a496-8915f8070698",
@@ -489,48 +426,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lifeway",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Apex Fintech Solutions",
-        "id": "94e64928-b15c-4dca-95a0-37ad8f59c0f0",
-        "title": "Software Engineering Intern - Trading",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763086576,
-        "date_posted": 1763086576,
-        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Trading-_JR103849",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "57635adb-c4ef-4b25-908a-3b801e0a4d05",
-        "title": "Software Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763086564,
-        "date_posted": 1763086564,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-Intern---Summer-2026_R0028425",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -557,27 +452,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skydio",
-        "id": "ff90c89b-bdce-43bd-bf1a-dae5dc76734b",
-        "title": "Hardware Test and Reliability Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763087027,
-        "date_posted": 1763087027,
-        "url": "https://www.skydio.com/jobs/7506850003?gh_jid=7506850003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -628,50 +502,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "4b66fab7-2a55-454d-9d82-4dd0b9f34b8a",
-        "title": "2026 PhD Software Engineer Intern - Airports & Travel - United States",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763087252,
-        "date_posted": 1763087252,
-        "url": "https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Avis Budget Group",
-        "id": "67f3247a-bf70-494c-b643-e37fc9d18645",
-        "title": "Accelerate \u2013 And Analytics Intern - Commercial Strategy - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763087307,
-        "date_posted": 1763087307,
-        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Commercial-Strategy--Technology--and-Analytics-Intern---Summer-2026_R0182085",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "c78d23b0-ea55-4c23-b1a7-d4752680933c",
@@ -687,48 +517,6 @@
             "Apopka, FL"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exact Sciences",
-        "id": "a934eb31-8220-4a78-98ad-9400e276039b",
-        "title": "AI Engineer Intern - GenAI - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763087391,
-        "date_posted": 1763087391,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---GenAI_R25-10994",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Copart",
-        "id": "5dca6184-7112-47e0-b629-2a027b1f6304",
-        "title": "Data Analytics Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763086653,
-        "date_posted": 1763086653,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR105745",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -825,28 +613,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Fermilab",
-        "id": "f05c6632-ea9c-4f15-a547-bb8a1a28ba21",
-        "title": "VALOR Apprenticeship",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1763086951,
-        "date_posted": 1763086951,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/VALOR-Apprenticeship-2026_R_009134",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -952,27 +718,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Gusto",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marshall Wace",
-        "id": "5a39b23d-86d7-4bac-8b8a-27ca9830d261",
-        "title": "2026 Summer Semis & Tech Hardware Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763087299,
-        "date_posted": 1763087299,
-        "url": "https://job-boards.greenhouse.io/mwnaintern/jobs/8206708002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Marshall-Wace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -54040,27 +53785,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wing",
-        "id": "db9dcad3-9de1-4888-8884-16ac33ab1234",
-        "title": "Manufacturing Software Test Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764867547,
-        "date_posted": 1763087016,
-        "url": "https://wing.com/careers/8249812002?gh_jid=8249812002",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
@@ -73448,27 +73172,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marshall Wace",
-        "id": "19216d8d-516a-45eb-8265-b4f7ea981ec3",
-        "title": "Technology Placement - 2026 - 4-Months",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763087294,
-        "date_posted": 1763087294,
-        "url": "https://job-boards.greenhouse.io/mwam-imperial-placements/jobs/8147000002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Marshall-Wace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
