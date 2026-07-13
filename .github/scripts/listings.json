@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "cd03a082-9213-4579-9990-b0cf732433fb",
-        "title": "Graduate Intern - Enterprise Resiliency Modeling and Simulation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763249222,
-        "date_posted": 1763249222,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Meta",
         "id": "2552f47e-f5b4-40b8-9dae-7e52f4057813",
         "title": "Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD",
@@ -338921,7 +338900,7 @@
         "company_name": "Charles River Analytics",
         "id": "26d82c3c-2d34-4225-b3e9-810a1b478679",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
