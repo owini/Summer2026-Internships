@@ -50691,7 +50691,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Autodesk?utm_source=GHList&utm_medium=company">Autodesk</a></strong></td>
+<td>↳</td>
 <td>PhD Intern - Efficient 3D Generation Frameworks 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -69606,7 +69606,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
+<td>↳</td>
 <td>SoC Performance Modeling Internship - Platform Architecture</td>
 <td>London, UK</td>
 <td>🔒</td>
