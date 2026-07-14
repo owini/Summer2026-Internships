@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Viavi Solutions",
-        "id": "43d0509e-4129-4a31-8720-25df5364dbbe",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763335145,
-        "date_posted": 1763335145,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Altom Transport",
         "id": "12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
         "title": "Software Development Intern",
@@ -344667,6 +344646,105 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Papa John's",
+        "id": "e42cef8b-1e0f-4fe3-830d-7f97990f5a30",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071144,
+        "date_posted": 1783987200,
+        "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Co-Op_R26_0000001989",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Papa-Johns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "8975659b-0873-4463-9888-45451e2e150b",
+        "title": "Growth Engineer Intern - Growth Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784070965,
+        "date_posted": 1784067265,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
+        "title": "Graduate Intern - Transportation Systems Analysis",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1784070776,
+        "date_posted": 1783987200,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
+        "title": "AI & Strategic Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784070704,
+        "date_posted": 1783987200,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
