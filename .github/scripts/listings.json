@@ -217672,7 +217672,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321983,7 +321983,7 @@
         "company_name": "Nokia",
         "id": "aef8e1d7-1422-403a-ba01-d5800f15dfcf",
         "title": "IT Network Software/AI Development Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338324,7 +338324,7 @@
         "company_name": "Jane Street",
         "id": "767f1b1b-9676-407d-99db-e3582821b87a",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338366,7 +338366,7 @@
         "company_name": "Jane Street",
         "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338458,7 +338458,7 @@
         "company_name": "Jane Street",
         "id": "33b81d4d-2080-4016-b2af-33d8a690356f",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341739,7 +341739,7 @@
         "company_name": "Jane Street",
         "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
         "title": "Hardware Engineer - FPGA/Asic",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343899,6 +343899,142 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orbital Industries",
+        "id": "698fe2c1-8146-44d2-ad0e-8b4bcb8a9cbb",
+        "title": "AI Residency Programme",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784038861,
+        "date_posted": 1784038197,
+        "url": "https://jobs.ashbyhq.com/orbitalindustries/837b7e29-b89a-4ea4-b90d-48d8782f48b8/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Orbital-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Levi Strauss & Co.",
+        "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
+        "title": "Global Retail Strategy and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784039120,
+        "date_posted": 1783987200,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Global-Retail-Strategy-and-Analytics-Intern_R-0154103",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper Companies",
+        "id": "e5397189-689a-4937-a8b1-69dbafad6b22",
+        "title": "GPS Data Insights Specialist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784038901,
+        "date_posted": 1784037774,
+        "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11901",
+        "locations": [
+            "Whiteley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "0565c6b8-b9c6-41d7-bb06-a8c9ff81ba74",
+        "title": "Student 2 - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784038890,
+        "date_posted": 1783987200,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223357",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PartnerRe",
+        "id": "1321df93-f6e4-4e90-a109-4823e8c107a3",
+        "title": "Business Data Analyst Co-op",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784038698,
+        "date_posted": 1784038122,
+        "url": "https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PartnerRe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "d468be51-8b10-474e-8f23-181ab53a5712",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784038321,
+        "date_posted": 1784038047,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137672769",
+        "locations": [
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
