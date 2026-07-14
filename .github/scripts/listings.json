@@ -3949,7 +3949,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -44090,7 +44090,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -44922,7 +44922,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -45871,7 +45871,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -123054,7 +123054,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -175659,7 +175659,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -191822,7 +191822,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191845,7 +191845,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -194277,7 +194277,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268241,7 +268241,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268948,7 +268948,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300595,7 +300595,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306206,7 +306206,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -308308,7 +308308,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309185,7 +309185,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309918,7 +309918,7 @@
         "company_name": "Agilent Technologies",
         "id": "c3131935-5162-4622-90e5-cca444331d6f",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310012,7 +310012,7 @@
         "company_name": "Boys Town",
         "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
         "title": "Artificial Intelligence & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314671,7 +314671,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322807,7 +322807,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339872,7 +339872,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339921,7 +339921,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
