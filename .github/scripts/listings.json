@@ -217672,7 +217672,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -269955,7 +269955,7 @@
         "company_name": "Nokia",
         "id": "ef28b998-9837-4977-b29f-394f8f217639",
         "title": "Support Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338324,7 +338324,7 @@
         "company_name": "Jane Street",
         "id": "767f1b1b-9676-407d-99db-e3582821b87a",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338366,7 +338366,7 @@
         "company_name": "Jane Street",
         "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338458,7 +338458,7 @@
         "company_name": "Jane Street",
         "id": "33b81d4d-2080-4016-b2af-33d8a690356f",
         "title": "Quantitative Trader",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341739,7 +341739,7 @@
         "company_name": "Jane Street",
         "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
         "title": "Hardware Engineer - FPGA/Asic",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
