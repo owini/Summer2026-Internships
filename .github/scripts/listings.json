@@ -344037,5 +344037,51 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "ff8f09d6-f3c9-4203-b9c6-e0a36e4deabe",
+        "title": "Student 2 - AI/ML Governance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784041638,
+        "date_posted": 1783987200,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---AI-ML-Governance_JR223360",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+        "id": "fcd24d2e-1552-4b2e-a939-87596e9177ce",
+        "title": "Student 2 - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784041638,
+        "date_posted": 1783987200,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223359",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cincinnati-Childrens-Hospital-And-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
