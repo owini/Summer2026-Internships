@@ -70038,7 +70038,7 @@
         "company_name": "Anthropic",
         "id": "cae148c6-4ac9-4ecd-b929-2dea3f0fe173",
         "title": "AI Safety Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322807,7 +322807,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336494,7 +336494,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
