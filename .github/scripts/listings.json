@@ -322807,7 +322807,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336494,7 +336494,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343064,7 +343064,7 @@
         "company_name": "WPP Media",
         "id": "62cf381c-6186-4f84-a47c-edd68da74e63",
         "title": "Thrive Future Talent Scheme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
