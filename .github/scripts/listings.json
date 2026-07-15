@@ -215779,7 +215779,7 @@
         "company_name": "Rivian",
         "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
         "title": "UIUC Research Park Intern - Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334740,7 +334740,7 @@
         "company_name": "Citi",
         "id": "91db4853-adf9-4087-93dc-8182d251fe06",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336528,7 +336528,7 @@
         "company_name": "Lovable",
         "id": "b36ca521-c0c7-4fb0-a50a-04c0f2c5302d",
         "title": "Product Experience Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
