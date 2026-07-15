@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763363620,
-        "date_posted": 1763363620,
-        "url": "https://apply.workable.com/altom-transport/j/6C00FDED5C/apply",
-        "locations": [
-            "Markham, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "5e8c6458-5233-41c8-ab55-9f38615a3acd",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763363621,
-        "date_posted": 1763363621,
-        "url": "https://apply.workable.com/altom-transport/j/04A9461007/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "St. Jude Children's Research Hospital",
         "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
         "title": "Intern - Web Software Engineer",
@@ -344949,6 +344907,29 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784099881,
+        "date_posted": 1784097228,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
