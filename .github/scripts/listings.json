@@ -76869,30 +76869,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Perplexity AI",
-        "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
-        "title": "Intern Program",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1763380856,
-        "date_posted": 1763380856,
-        "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
@@ -302789,7 +302765,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309705,7 +309681,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338041,7 +338017,7 @@
         "company_name": "Everfox",
         "id": "6cb5903c-5bc9-4ea2-b00c-1bd9fddc9e35",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343740,7 +343716,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "4edfe0d1-ad5d-4255-8e5f-66a744cb423d",
         "title": "Global Retail Strategy and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
