@@ -264705,7 +264705,7 @@
         "company_name": "Blockhouse",
         "id": "5fd9c494-f770-4b60-8ebc-a384213edb6e",
         "title": "Rust Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -291645,7 +291645,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "1890070e-5df6-42c3-99b3-fe0af8d95d7f",
         "title": "Data Analyst Intern - Power Control Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342045,7 +342045,7 @@
         "company_name": "Revvity",
         "id": "00b3e0f0-200c-473f-a437-7cb992e24028",
         "title": "Front-End AI Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
