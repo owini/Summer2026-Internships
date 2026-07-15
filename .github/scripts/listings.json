@@ -282962,7 +282962,7 @@
         "company_name": "Tesla",
         "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
         "title": "Software Engineer Intern - Integration Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301064,7 +301064,7 @@
         "company_name": "Rocket Lab USA",
         "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
