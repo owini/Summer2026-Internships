@@ -315826,7 +315826,7 @@
         "company_name": "Solink",
         "id": "17d9db99-a20c-4b11-b8d4-c4f90a8148cb",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333257,7 +333257,7 @@
         "company_name": "Cummins",
         "id": "276b6815-7fb8-46f1-b5aa-156dd9ac093d",
         "title": "Repower Program: Product Engineering Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
