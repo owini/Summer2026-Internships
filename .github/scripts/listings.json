@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Uber",
-        "id": "70374354-6ebd-428b-948d-38d9b22f9e1b",
-        "title": "2026 Summer Software Engineering Internship - Northeast",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763443332,
-        "date_posted": 1763443332,
-        "url": "https://www.uber.com/global/en/careers/list/150555/",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "0e8defc0-861b-4439-8617-64ab865fb210",
-        "title": "2026 Summer Software Engineering Internship - Northeast",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763442922,
-        "date_posted": 1763442922,
-        "url": "https://university-uber.icims.com/jobs/150555/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Keysight Technologies",
         "id": "ba87fff5-dbdc-4671-b5ae-17ec821c78b3",
         "title": "Product Support Intern",
@@ -338384,7 +338342,7 @@
         "company_name": "OLG",
         "id": "0e77d643-8649-4aaa-8742-15190102da70",
         "title": "Front End Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
