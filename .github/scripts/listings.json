@@ -281406,7 +281406,7 @@
         "company_name": "Tesla",
         "id": "60a4718f-a0f3-41c8-99e8-7e1535bd4516",
         "title": "Data Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -342041,7 +342041,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
