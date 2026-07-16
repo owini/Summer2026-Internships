@@ -42333,7 +42333,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -193991,7 +193991,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289621,7 +289621,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304282,7 +304282,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -307970,7 +307970,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307994,7 +307994,7 @@
         "company_name": "Agilent Technologies",
         "id": "c3131935-5162-4622-90e5-cca444331d6f",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322579,7 +322579,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -342826,7 +342826,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -344123,7 +344123,7 @@
         "company_name": "Cybernetic Labs",
         "id": "fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
         "title": "Full-Stack Software Engineer Intern - Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -344327,6 +344327,30 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "98537212-dc48-4242-be21-0c9794ff159f",
+        "title": "Disaster and Climate Resilience Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784197622,
+        "date_posted": 1784066894,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42479",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
