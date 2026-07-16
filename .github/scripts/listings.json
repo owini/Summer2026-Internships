@@ -43165,7 +43165,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -173735,7 +173735,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -179233,7 +179233,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256598,7 +256598,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264220,7 +264220,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -266317,7 +266317,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267024,7 +267024,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282717,7 +282717,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -307261,7 +307261,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309800,7 +309800,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -312747,7 +312747,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325776,7 +325776,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326068,7 +326068,7 @@
         "company_name": "Baker Hughes",
         "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330280,7 +330280,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337419,7 +337419,7 @@
         "company_name": "Copart",
         "id": "4af74d82-21b0-4148-866e-dbf7bed833f7",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337948,7 +337948,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340791,7 +340791,7 @@
         "company_name": "U.S. Bank",
         "id": "d39e516b-ae65-4cf9-9970-b8daf6d787ef",
         "title": "Mainframe Software Engineering Apprentice 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343662,7 +343662,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343955,7 +343955,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344096,7 +344096,7 @@
         "company_name": "Cybernetic Labs",
         "id": "d939c49f-1d93-4ba9-aa2f-32e4e7398633",
         "title": "Forward Deployed Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
