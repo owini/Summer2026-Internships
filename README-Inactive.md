@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 9914 Inactive Internship Roles by Category
+### Browse 9912 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3127)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3125)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (739)
 
@@ -21961,20 +21961,6 @@
 <td>Tempe, AZ</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
-<td>2026 Summer Software Engineering Internship - Northeast</td>
-<td>SF</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2026 Summer Software Engineering Internship - Northeast</td>
-<td>SF</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
