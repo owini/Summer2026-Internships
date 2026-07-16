@@ -338158,7 +338158,7 @@
         "company_name": "OLG",
         "id": "464d3bee-1f3b-477c-ac68-50ee629f3a9d",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338226,7 +338226,7 @@
         "company_name": "OLG",
         "id": "6ffa4911-a821-45a3-9d35-7e473db2ebb1",
         "title": "Enterprise Analytics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342309,7 +342309,7 @@
         "company_name": "Navy Federal",
         "id": "4e9240aa-a379-4464-a140-2114eff885a2",
         "title": "Frontend Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
