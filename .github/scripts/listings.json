@@ -2116,7 +2116,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -337280,7 +337280,7 @@
         "company_name": "Copart",
         "id": "4af74d82-21b0-4148-866e-dbf7bed833f7",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343408,7 +343408,7 @@
         "company_name": "Revvity",
         "id": "8557ee50-9c1f-49e9-98b8-692547114b0a",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343481,7 +343481,7 @@
         "company_name": "Revvity",
         "id": "599919c9-248d-495b-a106-81088707bc82",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
