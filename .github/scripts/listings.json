@@ -216049,7 +216049,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337985,7 +337985,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "c397c573-0849-4481-968f-9dd2b5b1ab87",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -344504,6 +344504,27 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Revvity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of British Columbia",
+        "id": "74875a99-6903-4125-ae86-24a7ba6b33bb",
+        "title": "Graduate Teaching Assistant Health Data Analytics Course: Introduction to the Big Data Era",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784168122,
+        "date_posted": 1784073600,
+        "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Graduate-Teaching-Assistant--Health-Data-Analytics-Course--Introduction-to-the-Big-Data-Era---Opportunities-for-Better-Health-Care_JR25265",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0afd0e99-520e-4d18-ba6a-1e60dc183fd4",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
