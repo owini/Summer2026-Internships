@@ -323452,7 +323452,7 @@
         "company_name": "UL Solutions",
         "id": "2bef29e6-fbc8-4d38-bf89-2ea3edabb152",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343502,7 +343502,7 @@
         "company_name": "Revvity",
         "id": "069e94c8-0ad8-44b9-9f03-5cd31a1154ff",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343912,7 +343912,7 @@
         "company_name": "Revvity",
         "id": "365705d7-043e-406a-a42b-c1114d889dfb",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
