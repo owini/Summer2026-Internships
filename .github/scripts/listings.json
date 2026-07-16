@@ -43165,7 +43165,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130374,7 +130374,7 @@
         "company_name": "Copart",
         "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173735,7 +173735,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -179233,7 +179233,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -192353,7 +192353,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256598,7 +256598,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266317,7 +266317,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267024,7 +267024,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268469,7 +268469,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -324736,7 +324736,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330119,7 +330119,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339836,7 +339836,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
