@@ -318114,7 +318114,7 @@
         "company_name": "Meshy",
         "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
         "title": "Fullstack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333961,7 +333961,7 @@
         "company_name": "Traackr",
         "id": "8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
         "title": "Software Engineer Intern - Internal Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342403,7 +342403,7 @@
         "company_name": "NextGen Federal Systems",
         "id": "9e6bfed5-144f-4120-94d0-868f2cb83d3a",
         "title": "Data Science & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344053,7 +344053,7 @@
         "company_name": "Revvity",
         "id": "9f3c0656-6cef-4be9-9103-18c13986bef8",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
