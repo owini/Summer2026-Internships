@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "959c4d01-1b50-4bf5-8994-4c8f73221afd",
-        "title": "2026 Internship - Spring - Data Science",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763483891,
-        "date_posted": 1763483891,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000094222026",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Zebra Technologies",
         "id": "760cd1f6-a7f1-4233-bd35-2285763c6d4d",
