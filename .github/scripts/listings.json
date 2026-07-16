@@ -268191,7 +268191,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285593,7 +285593,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304282,7 +304282,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304379,7 +304379,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307947,7 +307947,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -307994,7 +307994,7 @@
         "company_name": "Agilent Technologies",
         "id": "c3131935-5162-4622-90e5-cca444331d6f",
         "title": "Predictive Sales Prospecting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315295,7 +315295,7 @@
         "company_name": "Tesla",
         "id": "68693f9b-ad91-420c-a9a5-b2631f2fcdc8",
         "title": "Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315678,7 +315678,7 @@
         "company_name": "Tesla",
         "id": "31c33423-00ae-4812-8d33-cdb0744b3c81",
         "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322579,7 +322579,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -324781,7 +324781,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334570,7 +334570,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339259,7 +339259,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343343,7 +343343,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344096,7 +344096,7 @@
         "company_name": "Cybernetic Labs",
         "id": "d939c49f-1d93-4ba9-aa2f-32e4e7398633",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -344123,7 +344123,7 @@
         "company_name": "Cybernetic Labs",
         "id": "fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
         "title": "Full-Stack Software Engineer Intern - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
