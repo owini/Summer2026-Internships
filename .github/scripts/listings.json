@@ -302970,7 +302970,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322924,7 +322924,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326068,7 +326068,7 @@
         "company_name": "Baker Hughes",
         "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330119,7 +330119,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -343662,7 +343662,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343955,7 +343955,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
