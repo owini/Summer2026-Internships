@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Trimble",
-        "id": "8581c2af-35c6-4c3f-b48e-cbd95d7d2874",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763512382,
-        "date_posted": 1763512382,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Data-Analyst-Intern_R52694",
-        "locations": [
-            "Dayton, OH",
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "47526592-a406-43c7-9bfc-a83deed589d7",
         "title": "Statistics & Decision Sciences Intern",
@@ -41,197 +19,6 @@
             "Ambler, PA"
         ],
         "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "08f79d46-4ec4-483c-9e30-a973e0dbeeca",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763513814,
-        "date_posted": 1763513814,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thomson Reuters",
-        "id": "a65ab694-9ed7-4e46-8653-2d2087d81bd9",
-        "title": "Software Engineer AI Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763513028,
-        "date_posted": 1763513028,
-        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Software-Engineer-AI-Intern_JREQ194965",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Moog ",
-        "id": "998d7eec-0eca-4cc8-87ab-25c2c4c982cf",
-        "title": "Intern IT Computer Science",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763512807,
-        "date_posted": 1763512807,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--IT-Computer-Science_R-25-14926",
-        "locations": [
-            "Blacksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "85787b3e-a5d3-4777-8516-d6fc04aac06a",
-        "title": "Autonomy Engineer Intern-Motion Planning",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763512691,
-        "date_posted": 1763512691,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Engineer-Intern_R41758",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercedes-Benz",
-        "id": "6a06b447-0755-41b3-97ff-51db6e78d737",
-        "title": "OBD Certification & Compliance Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763512983,
-        "date_posted": 1763512983,
-        "url": "https://jobs.lever.co/MBRDNA/e1e1c1c9-0a72-4cf6-b880-7ae4f4ec58b6/apply",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genuine Parts Company",
-        "id": "36f32c53-d3e5-4fc7-ac53-0abb252c6576",
-        "title": "Technology Intern-Payments - Payments",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763512963,
-        "date_posted": 1763512963,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern-Payments---Summer-2026_R25_0000041714",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DTCC",
-        "id": "25cee9b1-7e4e-494c-b993-8410fe12faf1",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763512702,
-        "date_posted": 1763512702,
-        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211734",
-        "locations": [
-            "Boston, MA",
-            "Tampa, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DTCC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumen Technologies",
-        "id": "c510fd0d-1b8a-419c-9007-bc7b3ffd78ec",
-        "title": "Intern \u2013 Network Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763512522,
-        "date_posted": 1763512522,
-        "url": "https://jobs.lumen.com/global/en/job/340265",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Trimble",
-        "id": "664ddc45-7ed8-4506-8c43-4168fbab96c5",
-        "title": "Geomatics Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763512384,
-        "date_posted": 1763512384,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geomatics-Engineering-Intern_R52774",
-        "locations": [
-            "Vaughan, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -74016,28 +73803,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TENEX-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "342fd4e1-680d-40c1-abdb-39bbf3124ef4",
-        "title": "Working Student-Business Intelligence - All genders",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763512737,
-        "date_posted": 1763512737,
-        "url": "https://careers.bcg.com/global/en/job/55928",
-        "locations": [
-            "Neukirchen-Vluyn, Germany",
-            "Munich, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -278000,7 +277765,7 @@
         "company_name": "Stoke Space",
         "id": "2845d21e-63c0-4afb-b882-9a71cd501850",
         "title": "Software Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -332767,31 +332532,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "9720993c-ebdc-41b6-81e1-d589d6ab63ee",
-        "title": "SoC Performance Modeling Internship - Platform Architecture",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763513880,
-        "date_posted": 1763513880,
-        "url": "https://jobs.apple.com/en-us/details/200629965",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Bosch Home Comfort",
         "id": "065e5761-d574-4c20-a590-6fd396d58e47",
@@ -338718,7 +338458,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342366,7 +342106,7 @@
         "company_name": "Revvity",
         "id": "f3aec7a7-c5eb-4dec-9f05-09219cea5333",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
