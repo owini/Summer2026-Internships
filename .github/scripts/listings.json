@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zebra Technologies",
-        "id": "760cd1f6-a7f1-4233-bd35-2285763c6d4d",
-        "title": "2026 Summer Internship - US - AI Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763510494,
-        "date_posted": 1763510494,
-        "url": "https://zebra.eightfold.ai/careers/job/343636218622",
-        "locations": [
-            "Lake Grove, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Trimble",
         "id": "8581c2af-35c6-4c3f-b48e-cbd95d7d2874",
@@ -38,132 +17,6 @@
             "Westminster, CO"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chubb",
-        "id": "447585ba-333f-439f-b186-2a498e516ae5",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763512120,
-        "date_posted": 1763512120,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27844",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "3f227be2-32d9-4cbd-92cd-fc3b572ae83c",
-        "title": "Intern FPGA Engineer for Space and Embedded Crypto Solutions",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763511905,
-        "date_posted": 1763511905,
-        "url": "https://careers-gdms.icims.com/jobs/68590/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amgen",
-        "id": "872d4623-6033-4890-b755-fabf9df08be1",
-        "title": "R&D Protein Footprinting Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763511504,
-        "date_posted": 1763511504,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/R-D-Protein-Footprinting-Data-Analysis-Grad-Intern_R-230569",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amgen",
-        "id": "3a4f7860-1ad4-41ac-8180-4ea2247547c6",
-        "title": "R&D Medical Data Analytics Program \u2013 Grad Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763511503,
-        "date_posted": 1763511503,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/R-D-Medical-Data-Analytics-Program---Grad-Intern_R-230834",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xcel Energy",
-        "id": "b19a8928-f3ec-4bfa-ae0b-e15181fad520",
-        "title": "Electrical Technician Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763510969,
-        "date_posted": 1763510969,
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Edina-MN-55435/Electric-Distribution-Construction-Technical-Intern---Edina--MN_JR109603",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Xcel-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "League",
-        "id": "c50d936a-723b-430a-8a90-7e1c46760f73",
-        "title": "AI Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763510780,
-        "date_posted": 1763510780,
-        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5711705004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/League",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -14205,27 +14058,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thorlabs",
-        "id": "30ffd7b3-c670-47ca-9611-7661ff0be386",
-        "title": "Summer 2026 Laser Systems and Technology Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764667424,
-        "date_posted": 1763510461,
-        "url": "https://apply.workable.com/thorlabs/j/E906D229C4/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Thorlabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -128658,7 +128490,7 @@
         "company_name": "John Deere",
         "id": "a1e44252-3bf0-45df-8ab0-c334f73f3a90",
         "title": "Part-Time Student - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -278168,7 +278000,7 @@
         "company_name": "Stoke Space",
         "id": "2845d21e-63c0-4afb-b882-9a71cd501850",
         "title": "Software Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
