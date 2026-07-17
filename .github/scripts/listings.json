@@ -224945,7 +224945,7 @@
         "company_name": "Atomic Semi",
         "id": "f67f6221-52d3-4905-91fe-1edaf42ed08c",
         "title": "Rust Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225155,7 +225155,7 @@
         "company_name": "Atomic Semi",
         "id": "a3fc7a58-e89b-45d9-b974-7bb42ada9d3f",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343486,7 +343486,7 @@
         "company_name": "RTX",
         "id": "ffbb5a63-45f4-4589-8f3e-814233effd30",
         "title": "Digital Project Engineer Intern - Digital Project Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
