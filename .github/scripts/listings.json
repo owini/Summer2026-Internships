@@ -195767,7 +195767,7 @@
         "company_name": "TikTok",
         "id": "df86468a-0723-4315-bf56-0803134d3889",
         "title": "Data Analyst Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283957,7 +283957,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295745,7 +295745,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302646,7 +302646,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319218,7 +319218,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320914,7 +320914,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331740,7 +331740,7 @@
         "company_name": "NVIDIA",
         "id": "cf5b742b-7660-43e5-969b-f4a57b8b9935",
         "title": "Java Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332880,7 +332880,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336745,7 +336745,7 @@
         "company_name": "Zoox",
         "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
         "title": "Student Worker - Manufacturing Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338167,7 +338167,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341972,7 +341972,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343357,6 +343357,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Formlabs",
+        "id": "6d7eaee5-c397-4318-a363-1aca5bdb6bde",
+        "title": "Supply Chain Operations Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784283304,
+        "date_posted": 1784280488,
+        "url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "972e03ef-c056-4f91-b82e-b8a7547ba855",
+        "title": "Digital Project Engineer Intern - Digital Project Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784283527,
+        "date_posted": 1784067386,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
