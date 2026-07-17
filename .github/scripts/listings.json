@@ -309072,7 +309072,7 @@
         "company_name": "ByteDance",
         "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
         "title": "Student Researcher - Multimedia Streaming",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338494,7 +338494,7 @@
         "company_name": "RTX",
         "id": "4add536b-2385-45cb-a5b4-45157793163e",
         "title": "Transformation numerique Intern - Digital Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
