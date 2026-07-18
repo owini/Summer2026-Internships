@@ -9455,7 +9455,7 @@
         "company_name": "Ambarella",
         "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -10182,7 +10182,7 @@
         "company_name": "Ambarella",
         "id": "7ec18b92-6234-459e-a584-65cfa7366928",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -41382,7 +41382,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -128456,7 +128456,7 @@
         "company_name": "Copart",
         "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177059,7 +177059,7 @@
         "company_name": "Ambarella",
         "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
         "title": "Software Architecture Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266247,7 +266247,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299225,7 +299225,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6dcde314-705f-4b7a-be39-dd4ad1a50c29",
         "title": "Student Intern - Data Analyst - Personal Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323803,7 +323803,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327400,7 +327400,7 @@
         "company_name": "RFCUNY",
         "id": "8ce746f2-4dd9-4c00-bfee-754334ef88ec",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327653,7 +327653,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328769,7 +328769,7 @@
         "company_name": "Expedia Group",
         "id": "7203fd2a-618f-4b83-add2-568ca918f1b1",
         "title": "Career Discovery Program - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328976,7 +328976,7 @@
         "company_name": "RFCUNY",
         "id": "4d6d9d8d-ef9c-4af6-98d5-d441afd6ea36",
         "title": "Fullstack Web Development Peer Tutor",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336894,7 +336894,7 @@
         "company_name": "NAV CANADA",
         "id": "91248c60-db9e-4368-be88-d8a52b43dd4d",
         "title": "Radar Systems Engineering Student Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -336918,7 +336918,7 @@
         "company_name": "Alberta Investment Management Corporation",
         "id": "71c738a9-558b-4c3a-a341-192d180602f3",
         "title": "Student Economics & Investment Research",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339623,7 +339623,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339886,7 +339886,7 @@
         "company_name": "Arizona State University",
         "id": "64902580-c49d-4221-8f19-a1e00d5b2f02",
         "title": "Student Data Science Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342215,7 +342215,7 @@
         "company_name": "University of British Columbia",
         "id": "74875a99-6903-4125-ae86-24a7ba6b33bb",
         "title": "Graduate Teaching Assistant Health Data Analytics Course: Introduction to the Big Data Era",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
