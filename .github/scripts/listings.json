@@ -119191,7 +119191,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -265059,7 +265059,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334106,7 +334106,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337193,7 +337193,7 @@
         "company_name": "Microchip Technology",
         "id": "6c97854c-c8cd-46cc-b26a-8a3f63aab585",
         "title": "Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337952,7 +337952,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338996,7 +338996,7 @@
         "company_name": "City of Aurora",
         "id": "6c19b14a-0f26-40c2-b7d0-f97d947d40f3",
         "title": "Water GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341793,7 +341793,7 @@
         "company_name": "Sentara Health",
         "id": "681c9b80-c50a-46fc-8f94-cec1e4cbb554",
         "title": "Enterprise Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
