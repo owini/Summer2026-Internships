@@ -312879,7 +312879,7 @@
         "company_name": "Tesla",
         "id": "374d074b-0137-4dae-98f5-8441c0136ad4",
         "title": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329988,7 +329988,7 @@
         "company_name": "Citadel Securities",
         "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
         "title": "Machine Learning Researcher PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330012,7 +330012,7 @@
         "company_name": "Citadel Securities",
         "id": "8f8172aa-6806-412b-b161-9e3f526a849c",
         "title": "Quantitative Researcher PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
