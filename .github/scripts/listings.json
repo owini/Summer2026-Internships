@@ -22,27 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "53a4a3b4-826b-4dc2-9acd-5b0d72011aa8",
-        "title": "KLAS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763662790,
-        "date_posted": 1763662790,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/KLAS-Summer-Intern_2532577-1",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cisco",
         "id": "cdb1294e-74ca-496d-8b2e-58dcbda9d67f",
@@ -334,49 +313,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA",
-        "id": "395ba236-d8b3-4b62-898f-6a0de1a1338c",
-        "title": "Software Engineer Intern - AI/ML",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763662788,
-        "date_posted": 1763662788,
-        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241",
-        "locations": [
-            "Milpitas, CA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA",
-        "id": "6bbb70de-3654-4d0c-a616-2930d87ebd5a",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763662794,
-        "date_posted": 1763662794,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Engineering-Intern_2532597-1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Rivian",
         "id": "fe5880d5-2009-4f24-bd33-8c6d5d1ba4e3",
@@ -652,75 +588,6 @@
             "Westminster, CO"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "c3d72f2a-592a-43eb-a234-2fd2565bbe60",
-        "title": "Data Lineage Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763662790,
-        "date_posted": 1763662790,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Data-Lineage-Summer-Intern_2532576-1",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "ab4c8b22-eb4c-4db4-b864-e00c70e031be",
-        "title": "Advanced Algorithm Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763663275,
-        "date_posted": 1763663275,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532229",
-        "locations": [
-            "Boston, MA",
-            "Fremont, CA",
-            "Milpitas, CA",
-            "San Jose, CA",
-            "Santa Clara, CA",
-            "Ann Arbor, MI",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AJ Bell",
-        "id": "3e9261e0-a728-4184-9686-d9c8b8f0c633",
-        "title": "Software Developer Apprenticeship - Software Developer",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763663291,
-        "date_posted": 1763663291,
-        "url": "https://jobs.smartrecruiters.com/AJBell1/744000085059753",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AJ-Bell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -337255,7 +337122,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337828,7 +337695,7 @@
         "company_name": "M&T Bank",
         "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
         "title": "Technology Development Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -339218,7 +339085,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339337,7 +339204,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
