@@ -305317,7 +305317,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312998,7 +312998,7 @@
         "company_name": "Tesla",
         "id": "308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
         "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314767,7 +314767,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328307,7 +328307,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333053,7 +333053,7 @@
         "company_name": "State of North Carolina",
         "id": "ea6ba83a-cbc7-4a99-9493-82d668c1e4a0",
         "title": "Geographic Information Systems Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343033,7 +343033,7 @@
         "company_name": "Rehlko",
         "id": "c54f531b-4624-4f68-82cb-e5b58e94e872",
         "title": "Field Service Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
