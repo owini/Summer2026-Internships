@@ -9544,7 +9544,7 @@
         "company_name": "Ardian",
         "id": "bb4315b8-bb8b-468f-932a-30ee22b6b85c",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -322829,7 +322829,7 @@
         "company_name": "Viridien",
         "id": "8937b4a1-831c-441b-b889-821e11516a62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339568,7 +339568,7 @@
         "company_name": "Accenture",
         "id": "8b5a3466-7c18-4d0d-8bd5-93107823d12e",
         "title": "Technology Apprentice Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341638,7 +341638,7 @@
         "company_name": "Revvity",
         "id": "aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
