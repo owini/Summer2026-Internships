@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kimley-Horn",
-        "id": "90ca48ca-49d9-4e0a-b918-44b98aefac7f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763713561,
-        "date_posted": 1763713561,
-        "url": "https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Norcross, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mercer Advisors",
-        "id": "ff22b5a9-53b0-455a-b3be-2c439a3de398",
-        "title": "Data Intern - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763712811,
-        "date_posted": 1763712811,
-        "url": "https://job-boards.greenhouse.io/merceradvisors/jobs/4985987008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-Advisors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altera Corporation",
-        "id": "b7f49903-2fde-4a68-a633-187a62710fb9",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763712555,
-        "date_posted": 1763712555,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R01489",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "4bed4681-dcb0-4a45-9755-379bcd73a25d",
-        "title": "FPGA Design Verification Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763712556,
-        "date_posted": 1763712556,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R01631",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NinjaTrader",
-        "id": "3288a08a-f16e-43ad-8f48-55b75ca30702",
-        "title": "Software Engineer in Test Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763712259,
-        "date_posted": 1763712259,
-        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4613350006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/NinjaTrader",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Riot Games",
         "id": "d8427a97-cc0f-4090-b372-a4d0421aa1ec",
@@ -121,48 +16,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Riot-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ICF International",
-        "id": "fdfbb3f2-ea12-4ae7-8b2a-47d7f3b8ecd7",
-        "title": "Intern - Full-Stack Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763712509,
-        "date_posted": 1763712509,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Full-Stack-Developer--Remote-_R2503169",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "cb41a13b-c891-4270-8bdb-bec99492da77",
-        "title": "FPGA Design Verification Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763712551,
-        "date_posted": 1763712551,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R01629",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -191,27 +44,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CLO Virtual Fashion",
-        "id": "f89c0dd9-15d4-4ed5-8b79-a79046553f6f",
-        "title": "R&D \u2013 Summer Intern - 2025 - US",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1763712078,
-        "date_posted": 1763712078,
-        "url": "https://jobs.lever.co/clovirtualfashion/91841298-c1b4-4585-bb49-248ca059089c/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/CLO-Virtual-Fashion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Gen",
         "id": "ecc183fb-3972-4764-a0a6-cbf8c8ddaa64",
@@ -227,48 +59,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "8b8c4ec1-7df9-46e5-ba74-65399e51ab29",
-        "title": "Undergraduate Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763712548,
-        "date_posted": 1763712548,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergraduate-Intern_R01543",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fulton Bank",
-        "id": "8b1d2f6c-7126-4ca5-a508-7b98799fcc10",
-        "title": "Intern \u2013 Commercial Strategy & Product",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763712182,
-        "date_posted": 1763712182,
-        "url": "https://careers-fult.icims.com/jobs/22891/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lancaster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fulton-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -317,27 +107,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Intuit",
-        "id": "46bd7367-537a-4670-8697-51e9db993e51",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763713665,
-        "date_posted": 1763713665,
-        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-product-manager-intern/27595/88653400736",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Federal Reserve System",
         "id": "3fbb7c67-fe44-48d7-baa2-63f41a4af140",
@@ -353,27 +122,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "bf414982-1459-4d88-a58b-57e441fb4fc0",
-        "title": "Software Engineer Intern - Scu",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763713605,
-        "date_posted": 1763713605,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27339",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -458,27 +206,6 @@
             "Richmond, VA"
         ],
         "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Micron Technology",
-        "id": "72c25cde-8226-4fee-90c3-05ae10d27f03",
-        "title": "Intern \u2013 System Software Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763713788,
-        "date_posted": 1763713788,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -44676,27 +44403,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corning",
-        "id": "211065f6-a602-4e7b-9f90-f566833832ce",
-        "title": "Characterization Sciences Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763713122,
-        "date_posted": 1763713122,
-        "url": "https://corningjobs.corning.com/job/Corning-Characterization-Sciences-Intern-Summer-2026-NY-14831/1344650400/?ats=successfactors",
-        "locations": [
-            "Elmira, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
         "id": "318f1c36-c90c-4e24-a580-7a8b0fe8d2c8",
@@ -61878,29 +61584,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mechanize",
-        "id": "a1ecbf9e-9344-4664-983e-f5e0e6edb31b",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1768383027,
-        "date_posted": 1763712709,
-        "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Mechanize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -315707,7 +315390,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326077,7 +325760,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333563,7 +333246,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -334732,7 +334415,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
