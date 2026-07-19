@@ -307405,7 +307405,7 @@
         "company_name": "Gensyn",
         "id": "f77cdfb9-e8db-45de-82ea-2c529cd2f8f8",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332492,7 +332492,7 @@
         "company_name": "Bank of Montreal",
         "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
         "title": "Data Scientist Co-op/Internship - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334186,7 +334186,7 @@
         "company_name": "Vital Lyfe",
         "id": "1de12102-5f3b-4c75-83ce-02e4d9bb828d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
