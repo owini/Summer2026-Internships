@@ -1,281 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Riot Games",
-        "id": "d8427a97-cc0f-4090-b372-a4d0421aa1ec",
-        "title": "Insights Analyst Intern - Teamfight Tactics - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763714519,
-        "date_posted": 1763714519,
-        "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/7306495",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Riot-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vertiv",
-        "id": "b299b0c0-56d7-4f18-834f-ebce7c85a866",
-        "title": "Product Management Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763714661,
-        "date_posted": 1763714661,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256902",
-        "locations": [
-            "Delaware",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gen",
-        "id": "ecc183fb-3972-4764-a0a6-cbf8c8ddaa64",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763714205,
-        "date_posted": 1763714205,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Product-Management-Intern_54908",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seagate Technology ",
-        "id": "0b98ca26-9901-41a4-93b9-3a381e23779b",
-        "title": "Advanced Data Storage Material Discovery",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763714353,
-        "date_posted": 1763714353,
-        "url": "https://seagatecareers.com/job/Bloomington-Advanced-Data-Storage-Material-Discovery-Intern-MN/1344689500/?ats=successfactors",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trimble",
-        "id": "aaaa3fc4-0b0a-499f-8b3f-84bc71097953",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763714267,
-        "date_posted": 1763714267,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Software-Engineering-Intern_R53099",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Federal Reserve System",
-        "id": "3fbb7c67-fe44-48d7-baa2-63f41a4af140",
-        "title": "2026 Summer Internship Program \u2013 IT Portfolio Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763714079,
-        "date_posted": 1763714079,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2026-Summer-Internship-Program---IT-Portfolio-Management-Intern_R-0000030710-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "b78c36bf-8ce0-42c7-8ac3-cf5fe8788c90",
-        "title": "Intern \u2013 Advanced Signal Processing and Embedded Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1763714351,
-        "date_posted": 1763714351,
-        "url": "https://seagatecareers.com/job/Shakopee-Intern-Advanced-Signal-Processing-and-Embedded-Engineer-MN/1344464700/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fortive",
-        "id": "4d5406f1-d2a6-4874-b5ec-f30a38338c36",
-        "title": "Software Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763714135,
-        "date_posted": 1763714135,
-        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7963",
-        "locations": [
-            "Everett, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Enveda Biosciences",
-        "id": "86be8e7b-0542-46d9-8ad0-e4acd45f8a4a",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763714167,
-        "date_posted": 1763714167,
-        "url": "https://jobs.lever.co/envedabio/f1c510ba-349c-45fc-97a2-bd379954243b/apply",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Enveda-Biosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dominion Energy",
-        "id": "02cf283c-e356-4463-8019-373d19185e72",
-        "title": "Intern \u2013 System Operations Center Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763714495,
-        "date_posted": 1763714495,
-        "url": "https://careers.dominionenergy.com/job/RICHMOND-Intern-System-Operations-Center-Engineering-VA-23227/1344464000/?ats=successfactors",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Rivian",
-        "id": "d1f5116a-8037-4671-b9d7-7f107c27c18a",
-        "title": "Technical Program Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763713916,
-        "date_posted": 1763713916,
-        "url": "https://careers.rivian.com/jobs/27879?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chewy",
-        "id": "3c85927b-23b7-43d4-bb01-f367e6019b68",
-        "title": "AI Research Scientist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763714465,
-        "date_posted": 1763714465,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7403107",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Rivian",
-        "id": "fead194f-1bea-4ba5-82f5-0b8ae3c41df1",
-        "title": "Technical Product Management \u2013 MBA Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763713892,
-        "date_posted": 1763713892,
-        "url": "https://careers.rivian.com/jobs/27871?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Ticketmaster",
         "id": "5be34ee3-26f4-4ed5-b934-5dc8fe1a14ba",
@@ -44766,27 +44491,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Trane Technologies",
-        "id": "dde0623d-e560-4340-98e7-8a218446901b",
-        "title": "Validation & Verification Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763715081,
-        "date_posted": 1763715081,
-        "url": "https://careers.tranetechnologies.com/global/en/job/2506312",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Trane-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251401,7 +251105,7 @@
         "company_name": "TikTok",
         "id": "55c29391-7472-4e4d-a26f-2f38c7efc55e",
         "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325760,7 +325464,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331673,7 +331377,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333275,7 +332979,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339054,7 +338758,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340063,7 +339767,7 @@
         "company_name": "Light & Wonder",
         "id": "3206a3c7-6479-4c8b-a740-4ef15061ca24",
         "title": "Mathematics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
