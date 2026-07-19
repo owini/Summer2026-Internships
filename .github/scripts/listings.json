@@ -167773,7 +167773,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -283633,7 +283633,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -287704,7 +287704,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -306759,7 +306759,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331955,7 +331955,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335579,7 +335579,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336784,7 +336784,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
