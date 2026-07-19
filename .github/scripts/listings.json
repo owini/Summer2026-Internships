@@ -332541,7 +332541,7 @@
         "company_name": "Bank of Montreal",
         "id": "5e294159-e3e6-40db-afb9-65ff63749aa3",
         "title": "Data Scientist Co-op/Internship - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334186,7 +334186,7 @@
         "company_name": "Vital Lyfe",
         "id": "1de12102-5f3b-4c75-83ce-02e4d9bb828d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339465,7 +339465,7 @@
         "company_name": "Torch Technologies",
         "id": "8c876217-e8c7-4d37-9703-ecd3485077ae",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
