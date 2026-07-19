@@ -307405,7 +307405,7 @@
         "company_name": "Gensyn",
         "id": "f77cdfb9-e8db-45de-82ea-2c529cd2f8f8",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
