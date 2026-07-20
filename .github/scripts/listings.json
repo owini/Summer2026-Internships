@@ -299877,7 +299877,7 @@
         "company_name": "Salesforce",
         "id": "1a2e58cc-f4e5-478e-a272-afd67fbeedd1",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331654,7 +331654,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337407,7 +337407,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337638,7 +337638,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
