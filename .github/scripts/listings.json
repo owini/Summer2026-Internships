@@ -229848,7 +229848,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -278304,7 +278304,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299095,7 +299095,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300658,7 +300658,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -327227,7 +327227,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328012,7 +328012,7 @@
         "company_name": "American University",
         "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
         "title": "Lab Technician - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332493,7 +332493,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336319,7 +336319,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338692,6 +338692,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "62a3a51b-c71e-44c9-b28b-32be479dc488",
+        "title": "Cloud & Data Specialist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784541722,
+        "date_posted": 1784505600,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
