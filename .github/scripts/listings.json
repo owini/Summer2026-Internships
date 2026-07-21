@@ -289450,7 +289450,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -289709,7 +289709,7 @@
         "company_name": "Tencent",
         "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
         "title": "Agent Evaluation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293123,7 +293123,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -293679,7 +293679,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299445,7 +299445,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300016,7 +300016,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -300039,7 +300039,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300063,7 +300063,7 @@
         "company_name": "Agilent Technologies",
         "id": "c3131935-5162-4622-90e5-cca444331d6f",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300157,7 +300157,7 @@
         "company_name": "Boys Town",
         "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
         "title": "Artificial Intelligence & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333636,7 +333636,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
