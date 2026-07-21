@@ -11366,15 +11366,15 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
-<td>Intern-Software Engineering</td>
-<td>Austin, TX</td>
+<td>Software Intern</td>
+<td>San Jose, CA</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Software Intern</td>
-<td>San Jose, CA</td>
+<td>Intern-Software Engineering</td>
+<td>Austin, TX</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
@@ -64189,14 +64189,14 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>AI & Chip Design Intern</td>
+<td>SSG Design Engineering Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>SSG Design Engineering Intern</td>
+<td>AI & Chip Design Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>4mo</td>
