@@ -7,13 +7,13 @@
 
 ---
 
-### Browse 261 Internship Roles by Category
+### Browse 260 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (81)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (9)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (116)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (115)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (18)
 
@@ -337,13 +337,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Software Engineer Intern 🎓</td>
-<td>Dallas, TX</td>
-<td><div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7e13e0d3-bd62-458e-869e-bb070af80106?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/IHerb?utm_source=GHList&utm_medium=company">iHerb</a></strong></td>
 <td>Software Development Intern</td>
 <td>Remote in USA</td>
@@ -432,6 +425,13 @@
 <td>Software Engineer Intern</td>
 <td>LA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6b82845f-920e-43ac-9aab-77038fb0b19b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>Grid Automation & Software Intern</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a4cdfbff-a13d-4e76-9f16-0ee63fbbdbbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -946,13 +946,6 @@
 <td>Ticket Strategy & Analytics Intern</td>
 <td>Brooklyn, NY</td>
 <td><div align="center"><a href="https://www.bseglobal.net/job/?gh_jid=7637035003&gh_jid=7637035003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b42c248-89b6-4e59-94bc-3d92930dbd27?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Thyssenkrupp?utm_source=GHList&utm_medium=company">thyssenkrupp</a></strong></td>
-<td>Analytics Intern</td>
-<td>Cleveland, OH</td>
-<td><div align="center"><a href="https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7185eeaf-ca13-448b-9914-08c197b45f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
@@ -1603,7 +1596,7 @@
 </table>
 
 
-🔒 **[See 4413 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4414 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
