@@ -154757,7 +154757,7 @@
         "company_name": "Expedia Group",
         "id": "0065f072-c487-4769-b10d-6993af68f633",
         "title": "Machine Learning Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242741,7 +242741,7 @@
         "company_name": "Marvell",
         "id": "5554c80f-ceeb-4a82-8ca0-1c82e6c6313c",
         "title": "Model Correlation & SI Intern - PhD Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248217,7 +248217,7 @@
         "company_name": "Axos Bank",
         "id": "f4bde942-8a53-4997-8a6e-3c3ad226eb46",
         "title": "Automation Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -249661,7 +249661,7 @@
         "company_name": "TikTok",
         "id": "55c29391-7472-4e4d-a26f-2f38c7efc55e",
         "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250324,7 +250324,7 @@
         "company_name": "ASM Global",
         "id": "5cd59edf-b58d-4908-b0f7-77448a2242ec",
         "title": "Automation & AI Technology Experience Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294830,7 +294830,7 @@
         "company_name": "ASM Global",
         "id": "f5725c26-b649-4b69-9680-c06c8f5019d5",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314682,7 +314682,7 @@
         "company_name": "Blue Origin",
         "id": "175de2c3-24d3-42d5-8371-c3e40591e242",
         "title": "Technician - Assembly & Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -327134,7 +327134,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341860,6 +341860,53 @@
             "Silver Spring, MD"
         ],
         "company_url": "https://simplify.jobs/c/IRC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Colonial Pipeline Company",
+        "id": "70897beb-0715-463b-bd4d-9bbb36967a9b",
+        "title": "Asset Integrity Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784615865,
+        "date_posted": 1781949786,
+        "url": "https://colpipe.wd1.myworkdayjobs.com/Search/job/Alpharetta-GA/Asset-Integrity-Co-Op_R0001963",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Colonial-Pipeline-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UMB",
+        "id": "6c78eb68-253a-4844-99c0-49678769df20",
+        "title": "IT Blockchain Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784612701,
+        "date_posted": 1781360581,
+        "url": "https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/UMB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
