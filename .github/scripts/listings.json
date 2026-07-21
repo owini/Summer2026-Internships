@@ -212925,7 +212925,7 @@
         "company_name": "John Deere",
         "id": "8ff1fcfe-f7a0-41ee-9dd9-6837d7d066b6",
         "title": "Part Time Student - Data Engineering - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333628,7 +333628,7 @@
         "company_name": "GE Aerospace",
         "id": "98b2d71c-c3a4-4892-8f99-819ee747189d",
         "title": "Unison Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -341289,6 +341289,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "689d2320-97b9-49eb-910e-901bc1a4fb98",
+        "title": "Computer Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1784608141,
+        "date_posted": 1781951370,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwestern Mutual",
+        "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
+        "title": "Investment Analyst - Private Debt & Equity",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784607662,
+        "date_posted": 1778947432,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
