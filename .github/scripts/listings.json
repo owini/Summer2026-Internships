@@ -270649,7 +270649,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4686a41a-e15f-4233-8277-21cb6d26a8c2",
         "title": "CSE Researcher-Narayanan Intern - V",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -274132,7 +274132,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a543ce3e-1976-406e-9398-c700e1bfcbad",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308003,7 +308003,7 @@
         "company_name": "Tesla",
         "id": "36452090-98d7-49de-9884-697203676c3d",
         "title": "Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309289,7 +309289,7 @@
         "company_name": "GE Vernova",
         "id": "f0ac800d-804a-400b-9ee5-a6006e56c30b",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326068,7 +326068,7 @@
         "company_name": "Integrity",
         "id": "21764c96-24e4-46f7-b19f-977407981b13",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330286,7 +330286,7 @@
         "company_name": "Datasite",
         "id": "268262ab-3056-48bd-a78d-3fe70d2fb886",
         "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331962,7 +331962,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333419,7 +333419,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "1c39cba6-ebfc-4c07-b06a-3ab376302145",
         "title": "Energy Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -334789,7 +334789,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
         "title": "Graduate Intern - Transportation Systems Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -335922,7 +335922,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339892,7 +339892,7 @@
         "company_name": "Moon",
         "id": "de36e85a-366d-49db-98a9-fb9c3004ef0b",
         "title": "Software Engineer Intern - Backend & API",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341865,7 +341865,7 @@
         "company_name": "Axon",
         "id": "01ae98fa-826d-40b3-990a-3254933cd747",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342086,5 +342086,71 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a13cbb72-8a90-4b24-83d8-1896547d8948",
+        "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784668141,
+        "date_posted": 1783030633,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Simulation-Software-Engineer---Simulation-Software-Engineer_R10238808",
+        "locations": [
+            "Melbourne, FL",
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "523819c3-69f8-43ab-9ed1-81e28aea88f6",
+        "title": "Junior Layout Design Engineer - Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784663822,
+        "date_posted": 1784592000,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Junior-Layout-Design-Engineer--Trainee-_R263726",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Trane Technologies",
+        "id": "e66bd9ce-9790-409e-9e11-af9403fec303",
+        "title": "Motor Winder Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784675863,
+        "date_posted": 1784239925,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-10651",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
