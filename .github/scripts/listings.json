@@ -43352,30 +43352,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "54b8f4a9-ca1b-4733-8ea9-2d062f9dd4d5",
-        "title": "Intern Semiconductor Design Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763924800,
-        "date_posted": 1763924800,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Semiconductor-Design-Engineer_JR84962",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Sierra Nevada Corporation",
         "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
         "title": "Systems Engineer Intern - Summer 2026",
@@ -290740,7 +290716,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305796,7 +305772,7 @@
         "company_name": "University of Texas at Austin",
         "id": "1d929b62-c0c3-48c4-914d-2541b5ce214a",
         "title": "Content Management Automation Student Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320781,7 +320757,7 @@
         "company_name": "Hendrick Motorsports",
         "id": "53184a1f-0b75-4446-9995-e99531372620",
         "title": "Racing Performance Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335970,7 +335946,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336374,7 +336350,7 @@
         "company_name": "Solar Turbines",
         "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
         "title": "Gas Turbine Products Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336765,7 +336741,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337539,7 +337515,7 @@
         "company_name": "PGIM",
         "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338257,7 +338233,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341812,5 +341788,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Protech Automotive Solutions",
+        "id": "27b85c15-8a83-4408-a5d5-0d8a3a727f46",
+        "title": "Automotive ADAS Calibration Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784651584,
+        "date_posted": 1784073600,
+        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-East-Bay-North/Automotive-ADAS-Calibration-Technician-Apprentice_R0221145",
+        "locations": [
+            "Tracy, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
