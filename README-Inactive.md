@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 9766 Inactive Internship Roles by Category
+### Browse 9768 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3072)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3073)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (718)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4397)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4398)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (134)
 
@@ -678,6 +678,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Solink?utm_source=GHList&utm_medium=company">Solink</a></strong></td>
 <td>Software Engineer Co-op</td>
+<td>Ottawa, ON, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Co-op - R&D- Data Integrations</td>
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -27020,6 +27027,13 @@
 <td><strong><a href="https://simplify.jobs/c/Neighborly?utm_source=GHList&utm_medium=company">Neighborly</a></strong></td>
 <td>AI Intern</td>
 <td>Waco, TX<br>Irving, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Navaide?utm_source=GHList&utm_medium=company">Navaide</a></strong></td>
+<td>Technology & Innovation Intern</td>
+<td>Arlington, VA<br>San Diego, CA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
