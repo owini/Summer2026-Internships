@@ -293559,7 +293559,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319969,7 +319969,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322320,7 +322320,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326585,7 +326585,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329520,7 +329520,7 @@
         "company_name": "Texas A&M International University",
         "id": "ff7b4535-774e-4e93-8b9a-61b99e1ec602",
         "title": "Undergraduate Research Assistant - Engineering-Dr. KY",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337474,7 +337474,7 @@
         "company_name": "Magna",
         "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
         "title": "AI Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338304,7 +338304,7 @@
         "company_name": "Copart",
         "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338869,7 +338869,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339396,7 +339396,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339615,7 +339615,7 @@
         "company_name": "SpreeAI ",
         "id": "0b289d87-b4b1-4056-8003-0a76181dcb52",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339661,7 +339661,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339893,7 +339893,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339937,7 +339937,7 @@
         "company_name": "Moon",
         "id": "88bc4fe7-cbcb-4692-9f88-d12ee309d254",
         "title": "Software Engineer Intern - Data & Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340027,7 +340027,7 @@
         "company_name": "Democratic National Committee",
         "id": "aa65b8fb-446a-4a33-88ef-7eee9d2fa265",
         "title": "DNC Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340048,7 +340048,7 @@
         "company_name": "Ampliwork, Inc",
         "id": "8b2cbddc-da27-4fb2-b8db-666cf3beb9ca",
         "title": "Full-Stack Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341564,5 +341564,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784644911,
+        "date_posted": 1784505600,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
