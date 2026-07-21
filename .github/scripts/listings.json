@@ -265232,7 +265232,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "de513e60-9aa2-49b0-a4ff-1706a0c29703",
         "title": "Transient Research Project Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -295655,7 +295655,7 @@
         "company_name": "Northrop Grumman",
         "id": "57188420-86bc-4aa9-97c2-9a1eea64ec7d",
         "title": "Electromechanical Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341907,6 +341907,31 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/UMB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "47e85ac2-95a6-42cb-b2bb-e3f32f461248",
+        "title": "Junior Battlespace Awareness Operator",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784617668,
+        "date_posted": 1778942586,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Battlespace-Awareness-Operator---Junior_R2122851",
+        "locations": [
+            "Springfield, VA",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
