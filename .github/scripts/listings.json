@@ -316685,7 +316685,7 @@
         "company_name": "Marvell",
         "id": "536fde66-67e3-4896-ad49-2fc746ff36a5",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319502,7 +319502,7 @@
         "company_name": "University of Texas at Austin",
         "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
         "title": "DSR Lab Data Student Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320707,7 +320707,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c40fd9e2-3295-4cb4-a082-0102aefe562b",
         "title": "Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322297,7 +322297,7 @@
         "company_name": "Cadence Design Systems",
         "id": "58c07bf1-1207-453a-9803-cc5b3bcd94cb",
         "title": "Product Engineering Intern - Simulation and Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322437,7 +322437,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "468a6978-f0fe-405f-88d2-84f7d0a0cbac",
         "title": "Analyst Analytics and Data Science 2-3",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322550,7 +322550,7 @@
         "company_name": "University of Virginia",
         "id": "1a9c61d8-2a8a-481f-a0e7-a41aff6447bb",
         "title": "Audio-Visual Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341680,6 +341680,83 @@
             "Long Island, New York"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "b5d555bf-f83a-4ccb-bcee-64c6f47083f0",
+        "title": "Graduate Geospatial Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784652588,
+        "date_posted": 1783166662,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "b7a7213e-4e27-48ac-82d9-593ced5ab46d",
+        "title": "Intern to Entry Level Conversion Intern Program - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784652452,
+        "date_posted": 1783160370,
+        "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292",
+        "locations": [
+            "Germantown, MD",
+            "Seattle, WA",
+            "Houston, TX",
+            "New Orleans, LA",
+            "Long Beach, CA",
+            "Newburgh, NY",
+            "Mesa, AZ",
+            "Miami, FL",
+            "Colorado Springs, CO",
+            "Fairfax, VA",
+            "Philadelphia, PA",
+            "Merritt Island, FL",
+            "Seal Beach, CA",
+            "Tukwila, WA",
+            "St Charles, MO",
+            "San Antonio, TX",
+            "St. Louis, MO",
+            "Everett, WA",
+            "Auburn, WA",
+            "Ridgecrest, CA",
+            "Heath, OH",
+            "Fort Walton Beach, FL",
+            "Oklahoma City, OK",
+            "Kent, WA",
+            "Portland, OR",
+            "Huntsville, AL",
+            "North Charleston, SC",
+            "Huntington Beach, CA",
+            "Hazelwood, MO",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
