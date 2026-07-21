@@ -271020,7 +271020,7 @@
         "company_name": "Nokia",
         "id": "74afc000-9214-4266-baef-ff8fbab5c0a0",
         "title": "Incubation Developer Coop/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -282129,7 +282129,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -292568,7 +292568,7 @@
         "company_name": "Cadence Design Systems",
         "id": "21733e97-8cdc-4e2f-ae0c-75d18a8802da",
         "title": "Product Engineering Intern - Simulation and Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299306,7 +299306,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -301279,7 +301279,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "f67f6341-7b86-4397-a467-a0e0538e54ce",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -302983,7 +302983,7 @@
         "company_name": "Zipline",
         "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
         "title": "Perception Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304443,7 +304443,7 @@
         "company_name": "Nio",
         "id": "f8c55540-2c77-4666-a43b-0bd880b968f9",
         "title": "Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306987,7 +306987,7 @@
         "company_name": "Tesla",
         "id": "308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
         "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -309983,7 +309983,7 @@
         "company_name": "Zipline",
         "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
         "title": "Enterprise Systems Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313397,7 +313397,7 @@
         "company_name": "Synchrony Financial",
         "id": "1862811d-f108-4ae2-80e1-ebadd703d58a",
         "title": "Digital Technology Center Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313831,7 +313831,7 @@
         "company_name": "OfferUp",
         "id": "cc2fec71-d445-40e3-be3e-b8dd51184164",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316385,7 +316385,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316797,7 +316797,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -317402,7 +317402,7 @@
         "company_name": "Autodesk",
         "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
         "title": "Cloud Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319056,7 +319056,7 @@
         "company_name": "Ciena",
         "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321930,7 +321930,7 @@
         "company_name": "Ciena",
         "id": "d61485a9-6c16-4f35-ab29-9444caf5b0aa",
         "title": "Software Engineering Co-op - 8 Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -324489,7 +324489,7 @@
         "company_name": "Palo Alto Networks",
         "id": "116541fa-771d-4823-a666-0884c8ececfd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326561,7 +326561,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
