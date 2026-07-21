@@ -260260,7 +260260,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304816,7 +304816,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320542,7 +320542,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "64f8ea93-94b9-49f5-8369-66579fc43d6d",
         "title": "Research Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -321113,7 +321113,7 @@
         "company_name": "Virtu Financial",
         "id": "808f7430-55f6-4daa-9c66-727dc6615eee",
         "title": "Quantitative Research Intern - Quant Research - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321276,7 +321276,7 @@
         "company_name": "Sony",
         "id": "fd11d261-e3de-44d6-b3fa-d08465e79bbd",
         "title": "Research on Generative and Protective AI for Content Creation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327249,7 +327249,7 @@
         "company_name": "Visa",
         "id": "b3481e39-bfac-4371-a229-3988483eefff",
         "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328457,7 +328457,7 @@
         "company_name": "Jane Street",
         "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331872,7 +331872,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332151,7 +332151,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336397,7 +336397,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
         "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336951,7 +336951,7 @@
         "company_name": "Composio",
         "id": "015239c6-bc89-4abd-a7a9-97acc270ae0a",
         "title": "Full-stack Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341539,6 +341539,28 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Altasciences",
+        "id": "fc7f93ff-52fe-4d87-ba01-c2cd1966e402",
+        "title": "Process Innovation Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784642455,
+        "date_posted": 1783159793,
+        "url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753",
+        "locations": [
+            "Laval, QC, Canada",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Altasciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
