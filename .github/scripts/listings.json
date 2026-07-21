@@ -159005,7 +159005,7 @@
         "company_name": "Samsung Research America",
         "id": "f20fbf83-d899-41f4-a660-9c88cdebc5f9",
         "title": "Memory and Personalization Intern - Memory and Personalization",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339607,6 +339607,146 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "a987ed5d-5688-4a07-9db1-555aac3943d3",
+        "title": "Software Developer Intern - MS",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784592001,
+        "date_posted": 1784591909,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "3b8153da-e90c-47cf-bf5d-2b293cf61679",
+        "title": "Software Developer Intern - BS",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784592001,
+        "date_posted": 1784591923,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "817799e0-f2c4-4c4c-8634-508da3e89b72",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784592001,
+        "date_posted": 1784591890,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "c88b6245-fb2b-4f6c-84c4-c9b786738681",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784592001,
+        "date_posted": 1784591869,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/128430823337534150",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "1af2873b-32c5-4dac-9ccb-9af00aa0c9a3",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784592001,
+        "date_posted": 1784591867,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518",
+        "locations": [
+            "Palo Alto, CA",
+            "Cambridge, MA",
+            "Madison, WI",
+            "Seattle, WA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Irvine, CA",
+            "San Bruno, CA",
+            "Ann Arbor, MI",
+            "Chicago, IL",
+            "Goleta, CA",
+            "Pittsburgh, PA",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
