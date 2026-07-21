@@ -298936,7 +298936,7 @@
         "company_name": "NVIDIA",
         "id": "b32acaf4-dae5-4de6-976f-d8efb876afe7",
         "title": "PhD Research Intern - Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305842,7 +305842,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -306228,7 +306228,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -306526,7 +306526,7 @@
         "company_name": "Zipline",
         "id": "3233bc5d-9026-42f2-acc6-1cbf5cd4e5f2",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308297,7 +308297,7 @@
         "company_name": "GE Vernova",
         "id": "da6be78c-1b09-49a9-971b-358be0b1c54c",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308344,7 +308344,7 @@
         "company_name": "GE Vernova",
         "id": "043ed3a6-8e6c-45b5-a197-8b549d008117",
         "title": "Grid Automation & Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308688,7 +308688,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308780,7 +308780,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311215,7 +311215,7 @@
         "company_name": "Autodesk",
         "id": "2d6183be-3318-46d4-b9b9-0365de329244",
         "title": "Machine Learning Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314964,7 +314964,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315822,7 +315822,7 @@
         "company_name": "Synchrony Financial",
         "id": "1d75fdd5-eaef-4466-a5fc-a3e915aa252d",
         "title": "Technology Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331851,7 +331851,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341636,6 +341636,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "b8d37958-94eb-4403-bf94-50b5a7809a39",
+        "title": "Applications Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784640782,
+        "date_posted": 1780956931,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "ceffdfc7-2794-424e-836b-524a7a195428",
+        "title": "Embedded Systems Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1784640062,
+        "date_posted": 1783167574,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
