@@ -232714,7 +232714,7 @@
         "company_name": "GE Vernova",
         "id": "b999705a-0da3-486f-bf67-52950468bbe9",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -265026,7 +265026,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -277801,7 +277801,7 @@
         "company_name": "SOTI",
         "id": "10b8ba9b-4b53-4c9d-ac43-9343422d6e2d",
         "title": "Associate Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -283210,7 +283210,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304815,7 +304815,7 @@
         "company_name": "University System of New Hampshire",
         "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
         "title": "Broadband Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311330,7 +311330,7 @@
         "company_name": "Harris Computer",
         "id": "eb5df7f1-c18d-497e-8a13-2febadd687e1",
         "title": "Co-Op Student Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -313625,7 +313625,7 @@
         "company_name": "The Campbell's Company",
         "id": "6568ed59-ff3f-4485-97a2-64f6d218c8a0",
         "title": "Data Engineer Co-op - Operational Support",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315777,7 +315777,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1f22bcf0-083e-4c7f-819e-d6a83d4efadb",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326903,7 +326903,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341882,5 +341882,51 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Optiver",
+        "id": "a547349d-335a-4ac3-97e7-5f3616c53eae",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784663822,
+        "date_posted": 1784643587,
+        "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "b00bb3e9-1948-4552-b774-ff0117f8b02f",
+        "title": "Student Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784664523,
+        "date_posted": 1783163651,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865",
+        "locations": [
+            "Ferndale, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
