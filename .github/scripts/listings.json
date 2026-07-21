@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Divergent Technologies",
-        "id": "341ae831-f598-4873-9ffe-dd312e8532f7",
-        "title": "Summer 2026 Data & Process Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763889876,
-        "date_posted": 1763889876,
-        "url": "https://job-boards.greenhouse.io/divergent/jobs/4998473008",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Red Bull",
         "id": "1d1ac864-cac4-4703-8198-4651618383e2",
         "title": "Intern - Academy Performance Analysis",
@@ -13601,27 +13580,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASM Global",
-        "id": "edefacf9-57ce-4750-adc0-76eca4534416",
-        "title": "Business Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763889795,
-        "date_posted": 1763889795,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Wake-Forest-University---Winston-Salem-NC/Business-Analytics-Intern_R100112313",
-        "locations": [
-            "Winston-Salem, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -65125,29 +65083,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Voya Financial",
-        "id": "daff5849-bfca-4baa-8ff0-429234eef2c9",
-        "title": "Student - Data Analytics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763889186,
-        "date_posted": 1763889186,
-        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/VoyaFinancial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -242185,7 +242120,7 @@
         "company_name": "CME Group",
         "id": "4b95d40c-afe4-4c27-af52-6e7cff541fa8",
         "title": "Quant Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -248937,7 +248872,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282423,7 +282358,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -293949,7 +293884,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -303421,7 +303356,7 @@
         "company_name": "LiveRamp",
         "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
         "title": "Software Engineer Co-op - Conversions API",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304032,7 +303967,7 @@
         "company_name": "Ciena",
         "id": "32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304344,7 +304279,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "cffd6bd0-5186-4c17-8fac-8d5a71a2a071",
         "title": "Software / Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304907,7 +304842,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ffb3157d-ac1b-4205-86b1-fb11566e6623",
         "title": "Application Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305586,7 +305521,7 @@
         "company_name": "Generac",
         "id": "febe4c7d-4ae1-4e4b-9b98-29f1a65397b8",
         "title": "Lab Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305831,7 +305766,7 @@
         "company_name": "GE Vernova",
         "id": "bb60533b-0cc5-45ea-85d6-51c9e4bd8903",
         "title": "Data Analyst Intern - Competency Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305945,7 +305880,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306498,7 +306433,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -308958,7 +308893,7 @@
         "company_name": "Agilent Technologies",
         "id": "4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
         "title": "Predictive Sales Prospecting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312717,7 +312652,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317763,7 +317698,7 @@
         "company_name": "Magna",
         "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326855,7 +326790,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327548,7 +327483,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331943,7 +331878,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333906,7 +333841,7 @@
         "company_name": "Salesforce",
         "id": "45903a19-328a-4e71-802e-c33fbc45d459",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337035,7 +336970,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337438,7 +337373,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337864,7 +337799,7 @@
         "company_name": "Interac",
         "id": "c043acbe-1a9f-4818-a8e7-a82d105c32d1",
         "title": "Product Intern - Money Movement",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337958,7 +337893,7 @@
         "company_name": "Leidos",
         "id": "4d8b8076-1e94-416c-a4ff-e9ead56b5694",
         "title": "Targeting Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339476,7 +339411,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340207,7 +340142,7 @@
         "company_name": "Moon",
         "id": "88bc4fe7-cbcb-4692-9f88-d12ee309d254",
         "title": "Software Engineer Intern - Data & Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340228,7 +340163,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340318,7 +340253,7 @@
         "company_name": "Ampliwork, Inc",
         "id": "8b2cbddc-da27-4fb2-b8db-666cf3beb9ca",
         "title": "Full-Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341745,5 +341680,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "41a24982-1c82-4a92-a2db-647eeae2854d",
+        "title": "Part-time Research Support-Yan Li group",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784616304,
+        "date_posted": 1781360942,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Research-Support-Yan-Li-group_REQ_0000079204-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
