@@ -279092,7 +279092,7 @@
         "company_name": "Desjardins Group",
         "id": "b8011049-1548-4053-9e0a-5906cd2dbd3f",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -281570,7 +281570,7 @@
         "company_name": "Cisive",
         "id": "e018a2ac-82d3-4544-85aa-440aa29efa03",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341938,5 +341938,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "64f12046-f075-4580-9cec-4e90291c6cb3",
+        "title": "Research Computing Assistant - Student Wage",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784620634,
+        "date_posted": 1781949278,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Computing-Assistant-Summer-and-Fall-2026--Student-Wage-_R0083557",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
