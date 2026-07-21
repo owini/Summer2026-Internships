@@ -4435,7 +4435,7 @@
         "company_name": "Ardian",
         "id": "bb4315b8-bb8b-468f-932a-30ee22b6b85c",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -4456,7 +4456,7 @@
         "company_name": "Ambarella",
         "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
         "title": "Algorithm Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -4477,7 +4477,7 @@
         "company_name": "Ambarella",
         "id": "736a514c-c180-47cd-9b72-e9b5613e1d6e",
         "title": "DFT Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -4500,7 +4500,7 @@
         "company_name": "Ambarella",
         "id": "22d08295-47cf-4b31-9064-5548c060a73f",
         "title": "ASIC Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -75905,7 +75905,7 @@
         "company_name": "Marvell",
         "id": "19adb890-3588-42e8-ac86-3d099f703889",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -76583,7 +76583,7 @@
         "company_name": "Tencent",
         "id": "bdc2d554-4887-4da6-97e5-f379e292b6a8",
         "title": "NLP Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -93978,7 +93978,7 @@
         "company_name": "Equifax",
         "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -94212,7 +94212,7 @@
         "company_name": "Expedia Group",
         "id": "b398176e-abc3-4de5-a9d7-94ad6bf0cf3e",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104367,7 +104367,7 @@
         "company_name": "ASM Global",
         "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
         "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -109324,7 +109324,7 @@
         "company_name": "Jain Global",
         "id": "61a1bd21-b985-4837-bf71-6e3d21f98241",
         "title": "Quant Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330931,7 +330931,7 @@
         "company_name": "Autodesk",
         "id": "3534aeb9-7b2a-40a2-b3cb-e8812baa2816",
         "title": "AI in Design & Manufacturing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341608,5 +341608,127 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Menasha Corporation",
+        "id": "bbb57323-d6ff-4e8f-88ca-b96ac09f3ea1",
+        "title": "Material Innovation Center Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1784609824,
+        "date_posted": 1778945618,
+        "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Menasha-Wisconsin/Material-Innovation-Center-Intern_R12621",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Menasha-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Equifax",
+        "id": "6039a320-d48c-4651-98a5-3f0566350069",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784609824,
+        "date_posted": 1782559643,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ivy Tech Community College",
+        "id": "a7924bcd-c76d-4800-ae34-6449e43917c3",
+        "title": "Federal Work Study Website Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1784610862,
+        "date_posted": 1782562154,
+        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Anderson-IN/Federal-Work-Study---Website-Development-Intern_JR0000105569",
+        "locations": [
+            "Anderson, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "3bf33138-afbc-44cb-bca9-b2c0ad54283a",
+        "title": "Research and Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1784609824,
+        "date_posted": 1782956035,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "20993cd8-1b5a-4189-b6be-cfa7278f694c",
+        "title": "Analog Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784609101,
+        "date_posted": 1781360034,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
