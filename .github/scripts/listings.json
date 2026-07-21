@@ -298792,7 +298792,7 @@
         "company_name": "Samsung Research America",
         "id": "8e310c90-a96b-4c89-87e2-21f6edcf3b89",
         "title": "Computer Vision/AI Intern - Computer Vision/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309172,7 +309172,7 @@
         "company_name": "Zoox",
         "id": "a094bbba-b159-429f-905a-e52b9cadc157",
         "title": "Student Worker Automation & Behavioral Science Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329611,7 +329611,7 @@
         "company_name": "Amwins",
         "id": "96edf10e-0444-407a-bdcd-f798aedcb75d",
         "title": "Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329842,7 +329842,7 @@
         "company_name": "Rockwell Automation",
         "id": "503be939-a684-4928-96bc-ae4baa9e4e7c",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331482,7 +331482,7 @@
         "company_name": "Aptiv",
         "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
         "title": "Working Student Interior Sensing ML",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331809,7 +331809,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "0641d192-28a4-4e22-ac57-5ac4fcf90bb8",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336858,7 +336858,7 @@
         "company_name": "DNV",
         "id": "94f30519-e919-4254-ba2a-658e89d3d846",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
