@@ -3670,27 +3670,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Moderna",
-        "id": "1b0e5dfe-1637-41d7-88b1-372445f00c1a",
-        "title": "2026 Applied Technologies Co-op - Technical Development",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764212227,
-        "date_posted": 1763900158,
-        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2026-Applied-Technologies-Co-op--Technical-Development_R18216",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moderna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carrier Global",
         "id": "4fef136c-e38a-4af9-828b-ad878286a080",
         "title": "Digital Technology Intern",
@@ -37121,7 +37100,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -67328,7 +67307,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -76696,7 +76675,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -165851,7 +165830,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -171349,7 +171328,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184469,7 +184448,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274807,7 +274786,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296419,7 +296398,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -298474,7 +298453,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299351,7 +299330,7 @@
         "company_name": "Salesforce",
         "id": "f72e4f9c-46ba-4a77-aa67-a10faac92de9",
         "title": "AI Builder - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300060,7 +300039,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322180,7 +322159,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326066,7 +326045,7 @@
         "company_name": "Fidelity Investments",
         "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329792,7 +329771,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4ac1edc9-7294-4f37-bb6d-8ea01d88c666",
         "title": "Characterization and Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329911,7 +329890,7 @@
         "company_name": "Ferrovial",
         "id": "f374347b-d673-45e7-a373-d37ffa4acf3d",
         "title": "Junior Traffic & Revenue Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330978,7 +330957,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -335991,7 +335970,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336322,7 +336301,7 @@
         "company_name": "GE Healthcare",
         "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
