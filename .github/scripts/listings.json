@@ -317403,7 +317403,7 @@
         "company_name": "Autodesk",
         "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
         "title": "Cloud Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321666,7 +321666,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324349,7 +324349,7 @@
         "company_name": "Palo Alto Networks",
         "id": "e7d75784-3452-4e8b-ab92-f6c42a3641c1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324372,7 +324372,7 @@
         "company_name": "Palo Alto Networks",
         "id": "0e4a7168-4066-4c3d-a37e-732f9fe8db1c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324395,7 +324395,7 @@
         "company_name": "Palo Alto Networks",
         "id": "f31feaa4-e89d-4c20-b16e-06bd9d94cc8f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324418,7 +324418,7 @@
         "company_name": "Palo Alto Networks",
         "id": "c038aac0-6db1-415c-a34c-0eadd28627fb",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -325075,7 +325075,7 @@
         "company_name": "Palo Alto Networks",
         "id": "01788188-df5d-4bc7-8a1c-b32f1569da13",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327181,7 +327181,7 @@
         "company_name": "Moss & Associates",
         "id": "eb7c9278-b747-41eb-bd43-ea34cc2fb046",
         "title": "Construction Technologies Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -336420,7 +336420,7 @@
         "company_name": "Amentum",
         "id": "b7ce9d33-8b07-4a15-9258-6067fd375c26",
         "title": "Spaceflight Hardware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341761,6 +341761,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "78b03927-c204-476c-947a-99cb2714c3ee",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784653780,
+        "date_posted": 1784642794,
+        "url": "https://careers.medpace.com/jobs/12863?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
