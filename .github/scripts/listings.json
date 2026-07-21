@@ -288063,7 +288063,7 @@
         "company_name": "Tencent",
         "id": "395f3030-955c-467e-96f2-92d69de7f491",
         "title": "AI Agent Research & Application Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306070,7 +306070,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -313695,7 +313695,7 @@
         "company_name": "Centific",
         "id": "33224b22-75a0-49b0-84fb-9dc23b4307ae",
         "title": "Speech Research Intern - Centific AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334329,7 +334329,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334651,7 +334651,7 @@
         "company_name": "Lumentum",
         "id": "4277f49e-ede5-4c63-8d58-81f59263cd5d",
         "title": "Optical Verification Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335201,7 +335201,7 @@
         "company_name": "BlackRock",
         "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
         "title": "Global Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339230,7 +339230,7 @@
         "company_name": "Fab2",
         "id": "e33c66b9-051d-4401-813b-71a5197aa622",
         "title": "Rust Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
