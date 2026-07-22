@@ -325099,7 +325099,7 @@
         "company_name": "Eight Sleep",
         "id": "35815487-d699-4826-8eeb-d44f024341ba",
         "title": "Prototype & Test Engineer Intern - New Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325306,7 +325306,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
         "title": "Relationship Manager Commercial Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
