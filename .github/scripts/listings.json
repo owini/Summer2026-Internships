@@ -187292,7 +187292,7 @@
         "company_name": "Center for AI Safety",
         "id": "efecb7b5-256b-435f-a565-b512df915e7a",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296327,7 +296327,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329652,7 +329652,7 @@
         "company_name": "Bank of Montreal",
         "id": "951ea1eb-5dba-4124-a68e-3b001ca355d9",
         "title": "Data Scientist Co-op/Internship - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333296,7 +333296,7 @@
         "company_name": "NXP Semiconductors",
         "id": "e790b9f8-a895-4493-b4b7-acfffcb9b5d7",
         "title": "Digital Physical Design Intern - P&R",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342331,5 +342331,99 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Virtu Financial",
+        "id": "ce1d842e-89a6-4905-a608-3eca02ddd233",
+        "title": "Quantitative Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784680920,
+        "date_posted": 1784672785,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Virtu Financial",
+        "id": "800e06ea-4a8a-4db5-a93a-7aae82cfac49",
+        "title": "Software Engineer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784680915,
+        "date_posted": 1784672785,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+        "locations": [
+            "Austin, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "59e1ceb1-c7e4-4305-99e7-7761b7545cdb",
+        "title": "Quant Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784680307,
+        "date_posted": 1784672335,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "26f0b98b-cb97-4552-8846-a6e5481fe346",
+        "title": "Targeting Officer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784680993,
+        "date_posted": 1781707184,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Warrenton-VA/Targeting-Officer---Warrenton--VA_R-00180685-1",
+        "locations": [
+            "Gainesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
