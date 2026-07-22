@@ -207793,7 +207793,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -214424,7 +214424,7 @@
         "company_name": "Centific",
         "id": "cb8d8cc7-99e4-4ab8-904a-6536729dc875",
         "title": "Research Intern - Applied Reinforcement Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312423,7 +312423,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330723,7 +330723,7 @@
         "company_name": "Jump Trading",
         "id": "45cb500e-6cea-48a1-941e-f33226a37036",
         "title": "Campus Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331551,7 +331551,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332313,7 +332313,7 @@
         "company_name": "Jump Trading",
         "id": "f5ed05a7-6060-4e96-b382-c4c74b0268cd",
         "title": "Campus Quantitative Researcher M1/M2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332454,7 +332454,7 @@
         "company_name": "Jump Trading",
         "id": "a7c171b9-3bae-433c-ba6d-a3f97c7b2008",
         "title": "Campus AI Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332500,7 +332500,7 @@
         "company_name": "Jump Trading",
         "id": "6ebea6a5-6a3e-4838-a4c3-c99817331a2e",
         "title": "Campus Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332524,7 +332524,7 @@
         "company_name": "Jump Trading",
         "id": "1de8fe40-f91e-490d-9460-77065dcf122f",
         "title": "Campus Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342420,6 +342420,145 @@
             "Gainesville, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Generac",
+        "id": "209876e2-f7a5-41d9-a9de-f124384bd927",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784683407,
+        "date_posted": 1784592000,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784682978,
+        "date_posted": 1784592000,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "79710552-fb6a-4392-b3e7-d23c2d22f5f4",
+        "title": "Routing/IP Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784681839,
+        "date_posted": 1784592000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humana",
+        "id": "66058658-b81c-4603-b721-ad005299ed84",
+        "title": "Senior Data Governance Professional",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784682795,
+        "date_posted": 1784592000,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Data-Governance-Sr-Professional_R-423585",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ROCKWOOL Group",
+        "id": "c26b2364-8f05-423f-8def-b6d4e6b8ffd0",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784682651,
+        "date_posted": 1784592000,
+        "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ROCKWOOL-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ShyftLabs",
+        "id": "e58f0b09-70e5-4b05-ab01-b3f5d8348c72",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784681839,
+        "date_posted": 1784671667,
+        "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ShyftLabs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
