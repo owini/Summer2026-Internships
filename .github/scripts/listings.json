@@ -207596,7 +207596,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327940,7 +327940,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330301,7 +330301,7 @@
         "company_name": "Jump Trading",
         "id": "17780196-7325-4b2e-b9d8-42c0b3830d62",
         "title": "Campus UI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330322,7 +330322,7 @@
         "company_name": "Jump Trading",
         "id": "140e7fe6-bc56-47a0-8415-282c3257e658",
         "title": "Campus Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331354,7 +331354,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332280,7 +332280,7 @@
         "company_name": "Jump Trading",
         "id": "43879ce6-c01d-4542-80e8-d3c1d9417f75",
         "title": "Campus FPGA Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -332351,7 +332351,7 @@
         "company_name": "Jump Trading",
         "id": "16599843-64a4-4a5f-aae9-5c3b3ac8f441",
         "title": "Campus UI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332393,7 +332393,7 @@
         "company_name": "Jump Trading",
         "id": "03fc254f-2b9e-4967-8b85-06408e320808",
         "title": "Campus Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332414,7 +332414,7 @@
         "company_name": "Jump Trading",
         "id": "300ea10e-7533-4da0-a0eb-023685450972",
         "title": "Campus ASIC Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337420,7 +337420,7 @@
         "company_name": "Phaidra",
         "id": "b77751b6-859f-4a04-a1aa-66508bbaf277",
         "title": "PhD Studentship: Causal Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342972,6 +342972,52 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varian",
+        "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
+        "title": "Product Engineering Assistant Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784760519,
+        "date_posted": 1784678400,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "58fdddae-3677-433e-8a28-40e7b82c4570",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758880,
+        "date_posted": 1784758335,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
