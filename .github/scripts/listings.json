@@ -207596,7 +207596,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -231082,7 +231082,7 @@
         "company_name": "Impulse Space",
         "id": "8d3b136a-e903-480d-b1ff-ac54f742b8b7",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313382,7 +313382,7 @@
         "company_name": "Solar Turbines",
         "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
         "title": "Gas Compressor Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327940,7 +327940,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330023,7 +330023,7 @@
         "company_name": "TelevisaUnivision",
         "id": "af313090-f2b7-4478-8239-1f0e03c22f17",
         "title": "Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330301,7 +330301,7 @@
         "company_name": "Jump Trading",
         "id": "17780196-7325-4b2e-b9d8-42c0b3830d62",
         "title": "Campus UI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330322,7 +330322,7 @@
         "company_name": "Jump Trading",
         "id": "140e7fe6-bc56-47a0-8415-282c3257e658",
         "title": "Campus Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332280,7 +332280,7 @@
         "company_name": "Jump Trading",
         "id": "43879ce6-c01d-4542-80e8-d3c1d9417f75",
         "title": "Campus FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -332351,7 +332351,7 @@
         "company_name": "Jump Trading",
         "id": "16599843-64a4-4a5f-aae9-5c3b3ac8f441",
         "title": "Campus UI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332372,7 +332372,7 @@
         "company_name": "Jump Trading",
         "id": "0c2aa586-6aed-4f97-a1d4-e56e503f47a2",
         "title": "Campus ML Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332393,7 +332393,7 @@
         "company_name": "Jump Trading",
         "id": "03fc254f-2b9e-4967-8b85-06408e320808",
         "title": "Campus Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332414,7 +332414,7 @@
         "company_name": "Jump Trading",
         "id": "300ea10e-7533-4da0-a0eb-023685450972",
         "title": "Campus ASIC Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334755,7 +334755,7 @@
         "company_name": "General Atlantic",
         "id": "a7fdba37-efe3-4ac2-b779-bbc47aa7daee",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342909,6 +342909,73 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Later",
+        "id": "eda1aead-c8ff-4d2b-84d5-5e921bdfc622",
+        "title": "Software Development Co-op - Later Influence",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758160,
+        "date_posted": 1784758137,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Later",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kepler Communications",
+        "id": "fa4975ec-d463-48d0-9a3e-2333084e1c63",
+        "title": "FPGA Digital Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1784758728,
+        "date_posted": 1784757938,
+        "url": "https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kepler-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "6e043ff4-35f3-4dd9-b704-1be62043d4e9",
+        "title": "AI Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784758622,
+        "date_posted": 1784757845,
+        "url": "https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
