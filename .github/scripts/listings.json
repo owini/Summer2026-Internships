@@ -330859,7 +330859,7 @@
         "company_name": "ABB",
         "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
         "title": "Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
