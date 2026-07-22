@@ -64108,7 +64108,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "818b6742-1ac3-4971-a101-50412e68b6f8",
         "title": "Military Fellowship Program: Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -67307,7 +67307,7 @@
         "company_name": "Leggett & Platt",
         "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
