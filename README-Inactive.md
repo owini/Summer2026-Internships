@@ -95,6 +95,13 @@
 <td>7d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Custom-Computer-Specialists?utm_source=GHList&utm_medium=company">Custom Computer Specialists</a></strong></td>
+<td>Developer Intern</td>
+<td>Long Island, New York</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Navy-Federal?utm_source=GHList&utm_medium=company">Navy Federal</a></strong></td>
 <td>Frontend Application Engineer Intern</td>
 <td>Pensacola, FL<br>Vienna, VA</td>
@@ -21595,13 +21602,6 @@
 <td><strong><a href="https://simplify.jobs/c/NRG-Energy?utm_source=GHList&utm_medium=company">NRG Energy</a></strong></td>
 <td>Software Engineer Intern - Mobile Apps</td>
 <td>Boston, MA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan?utm_source=GHList&utm_medium=company">Blue Cross Blue Shield of Michigan</a></strong></td>
-<td>Intern Summer 2026 - Operational Performance</td>
-<td>Detroit, MI</td>
 <td>🔒</td>
 <td>8mo</td>
 </tr>
