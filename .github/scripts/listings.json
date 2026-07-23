@@ -206171,7 +206171,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -263404,7 +263404,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330004,7 +330004,7 @@
         "company_name": "Exowatt",
         "id": "c0a71d19-4941-44c1-9408-7c39f29dfb85",
         "title": "Software Engineer Intern - Agent Platform - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340739,7 +340739,7 @@
         "company_name": "Virtu Financial",
         "id": "800e06ea-4a8a-4db5-a93a-7aae82cfac49",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341789,7 +341789,7 @@
         "company_name": "Virtu Financial",
         "id": "462f2077-96ee-46b5-82ee-70c2d671d849",
         "title": "Quantitative Researcher Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342685,5 +342685,202 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "4239cf96-37b5-405d-8764-53684b347047",
+        "title": "Relationship Manager Commercial Markets Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
+        "locations": [
+            "Charlottetown, PE, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "15949f9f-5891-47a6-bcc1-7d9b08cc30da",
+        "title": "Relationship Manager Commercial Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768",
+        "locations": [
+            "Inverness, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spectrum Control",
+        "id": "72d8a4a8-d0c7-40a5-bad9-c085945a7d7e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449",
+        "locations": [
+            "Erie, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spectrum-Control",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vizient ",
+        "id": "82173387-f97a-42e2-9dfa-4b62cdf081a0",
+        "title": "Data and Analytic Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784846702,
+        "date_posted": 1784764800,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Data-and-Analytic-Fellow_34534R-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "f3b7a1a3-5bd5-4370-87cd-0c469759e19f",
+        "title": "Graduate Researcher - Redwing Group - Materials Science and Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845981,
+        "date_posted": 1784764800,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Compassion International",
+        "id": "452bd6d1-0b35-4f40-aa51-c0ae49420249",
+        "title": "Software Developer Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845981,
+        "date_posted": 1784764800,
+        "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Compassion-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Golden Pet Brands",
+        "id": "c3cb586c-7a74-433e-9247-a5bf6ab308e5",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784844809,
+        "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Pet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d0537d89-d21b-4246-b1b8-89bc300cc337",
+        "title": "Data Analytics and Cloud Engineer - Military Bridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784764800,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "36a3cb41-211c-4c6c-9c0d-c92318a763a6",
+        "title": "Data Analytics and Cloud Engineer - Military Bridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784845081,
+        "date_posted": 1784764800,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463-1",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
