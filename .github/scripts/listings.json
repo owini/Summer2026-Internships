@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "ab867ca3-5592-4d38-9299-c1eba466f26c",
-        "title": "Intern \u2013 ASIC Verification Intern - MS Only",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764038561,
-        "date_posted": 1764038561,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000095228494",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NVIDIA",
-        "id": "7499c074-9165-4dee-9025-438e2c82b95c",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764038227,
-        "date_posted": 1764038227,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Autonomous-Vehicles-ADAS---Summer-2026_JR2007939",
-        "locations": [
-            "California",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Parsons",
         "id": "8b39928a-cf99-4ff8-a4a9-c6f129c00fb0",
         "title": "Computer Engineer Internship - Summer 2026",
@@ -335776,7 +335732,7 @@
         "company_name": "Aptiv",
         "id": "8229df40-7faa-475d-8805-f0c10dad0a39",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
