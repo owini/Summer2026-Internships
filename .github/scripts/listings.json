@@ -218884,7 +218884,7 @@
         "company_name": "SA Technologies",
         "id": "40b3806c-fa11-45ec-b641-43558f1402ee",
         "title": "Python Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310589,7 +310589,7 @@
         "company_name": "AMAROK Security",
         "id": "cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
         "title": "Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
