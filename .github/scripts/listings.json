@@ -206194,7 +206194,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -258637,7 +258637,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324962,7 +324962,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331484,7 +331484,7 @@
         "company_name": "Adaptive Security",
         "id": "fdcce4dd-7800-4e80-bc0f-fa79d580e58c",
         "title": "AI Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342057,7 +342057,7 @@
         "company_name": "T. Rowe Price",
         "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
         "title": "Quantitative Equity Investing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
