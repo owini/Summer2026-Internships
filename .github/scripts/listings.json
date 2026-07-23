@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "fb2ea0ba-0744-4453-8df7-9aa480ce7521",
-        "title": "Intern-Yield Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764056509,
-        "date_posted": 1764056509,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Yield-Engineering_R2202-25",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Cross Blue Shield of Michigan",
-        "id": "b0c4cef1-2705-4675-be49-bfbb43059822",
-        "title": "Intern Summer 2026 - Operational Performance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764056320,
-        "date_posted": 1764056320,
-        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/13572",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NRG Energy",
         "id": "d8f7a0d5-deba-4f46-930d-8a1d476ff0bf",
@@ -319864,7 +319822,7 @@
         "company_name": "ACLU Kentucky",
         "id": "9c647182-768d-410f-acf7-e162259bd5f2",
         "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333544,7 +333502,7 @@
         "company_name": "Five Rings Capital",
         "id": "14baa8ae-f151-483f-b5e0-77ca5086d04e",
         "title": "Software Developer Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333565,7 +333523,7 @@
         "company_name": "Custom Computer Specialists",
         "id": "c3433d6a-bf30-4d16-8e0f-5126b09236cf",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336055,7 +336013,7 @@
         "company_name": "Climate Corps",
         "id": "23a69404-7ade-4000-a127-89479fe6ddeb",
         "title": "Building Performance Standards Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337480,7 +337438,7 @@
         "company_name": "Nokia",
         "id": "f17887e1-b557-419a-a332-f1b6b7c4f712",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342452,6 +342410,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bespoke Technologies, Inc.",
+        "id": "6db3dedb-6d02-4025-82ce-507796ab97fd",
+        "title": "R&D Computer Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784792239,
+        "date_posted": 1784788080,
+        "url": "https://bespoketechinc.applytojob.com/apply/6elfOe74I1/RD-Computer-Engineer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/b318f405-2413-4f07-a506-d44b6b4a9c0c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
