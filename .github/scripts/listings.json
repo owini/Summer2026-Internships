@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Playfly Sports",
-        "id": "91f4dd7c-d2f6-449a-95bc-02851b881bff",
-        "title": "Consulting & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764034331,
-        "date_posted": 1764034331,
-        "url": "https://playfly.com/join-our-team/?gh_jid=4051889009",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Playfly-Sports",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Toro Company",
-        "id": "bfb50dfc-e802-46d3-90c7-aacca72db54e",
-        "title": "Global Trade & Data Analysis Intern - The Toro Company",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764034961,
-        "date_posted": 1764034961,
-        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Global-Trade---Data-Analysis-Intern---The-Toro-Company_JR14489",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "da74c322-6237-4abc-9b1a-2c9765047a85",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764034725,
-        "date_posted": 1764034725,
-        "url": "https://careers-gdms.icims.com/jobs/69417/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "c52e2c13-651b-41c7-bfd3-db32065ec4f9",
-        "title": "Engineering Intern - Spring",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764034498,
-        "date_posted": 1764034498,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Spring_REQ31463",
-        "locations": [
-            "Falmouth, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Express",
         "id": "d6fdb237-6dd5-44ff-ae39-9a110b0986b5",
@@ -327231,7 +327147,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330230,7 +330146,7 @@
         "company_name": "Eulerity",
         "id": "c5e8d6dd-ca17-4cde-89c3-e8da016a78e5",
         "title": "Digital Marketing Intern - Technical AI & Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332246,7 +332162,7 @@
         "company_name": "DRW",
         "id": "d1bb038f-04a0-4995-9bcc-ff779f3a2054",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332271,7 +332187,7 @@
         "company_name": "DRW",
         "id": "e7fc3ab1-8a1d-4b71-b1aa-d3179e9244f9",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -332612,7 +332528,7 @@
         "company_name": "DRW",
         "id": "82a9dd04-7074-414b-8928-07e34a66ca17",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
