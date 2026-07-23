@@ -65813,7 +65813,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -73887,7 +73887,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -180499,7 +180499,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206300,7 +206300,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259021,7 +259021,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -280636,7 +280636,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314284,7 +314284,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1f22bcf0-083e-4c7f-819e-d6a83d4efadb",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318334,7 +318334,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321954,7 +321954,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324504,7 +324504,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326644,7 +326644,7 @@
         "company_name": "General Motors",
         "id": "4a1df858-5ad9-47bc-a093-0d00f0f40b6c",
         "title": "Research and Development Intern - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328472,7 +328472,7 @@
         "company_name": "NVIDIA",
         "id": "49ac286b-0d2a-44df-b39a-c6540778f26a",
         "title": "Performance Engineer Intern - Systems Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329469,7 +329469,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330058,7 +330058,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330156,7 +330156,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332238,7 +332238,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333684,7 +333684,7 @@
         "company_name": "BlackRock",
         "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
         "title": "Global Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333774,7 +333774,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335248,7 +335248,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336022,7 +336022,7 @@
         "company_name": "PGIM",
         "id": "2f47de17-a088-41a1-8238-0a8713c924ae",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336516,7 +336516,7 @@
         "company_name": "Akuna Capital University",
         "id": "6a196f62-5321-4ff7-b50a-011045a440fc",
         "title": "Expression of Interest: Trading Sneak Peek Weeks",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336787,7 +336787,7 @@
         "company_name": "Copart",
         "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337212,7 +337212,7 @@
         "company_name": "Deloitte",
         "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
         "title": "Audit & Assurance - Assistant - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337352,7 +337352,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337498,7 +337498,7 @@
         "company_name": "Google",
         "id": "820400f1-d2e5-43b3-94b0-c8913692b46a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337599,7 +337599,7 @@
         "company_name": "Google",
         "id": "817799e0-f2c4-4c4c-8634-508da3e89b72",
         "title": "Student Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337782,7 +337782,7 @@
         "company_name": "Junior AI",
         "id": "6409dda3-9704-4933-a226-3ae46b43d171",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341430,7 +341430,7 @@
         "company_name": "Amgen",
         "id": "48d0b90c-9c5e-437f-b99d-acbd486c271c",
         "title": "Undergraduate Co-op - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -342349,5 +342349,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Columbia Helicopters",
+        "id": "33a6e305-a6ec-4c1e-9804-54d9fea0f673",
+        "title": "NDT Technician Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784797440,
+        "date_posted": 1784596661,
+        "url": "https://ats.rippling.com/colheli/jobs/a4feeeb1-e7b2-41b5-8f33-b1a012e28b18",
+        "locations": [
+            "Woodburn, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Helicopters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
