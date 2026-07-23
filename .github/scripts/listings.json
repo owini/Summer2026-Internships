@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Express",
-        "id": "ea755069-c7b8-4bdd-93a9-6ce15ba018ff",
-        "title": "Campus Apprenticeship Programme - Technology Software Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764043437,
-        "date_posted": 1764043437,
-        "url": "https://aexp.eightfold.ai/careers/job/38991449",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dover",
-        "id": "f0096eac-6ae5-4547-b031-a07fdfc48505",
-        "title": "Customer Quality/Warranty Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764043825,
-        "date_posted": 1764043825,
-        "url": "https://careers.dovercorporation.com/job/Conyers-Customer-QualityWarranty-Intern-GA-30013/1270480601/?ats=successfactors",
-        "locations": [
-            "Lithonia, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Emerson Electric",
         "id": "cff05de8-2ea8-4bb1-a58c-285a779ad98a",
         "title": "Cloud Developer Intern",
@@ -163075,7 +163033,7 @@
         "company_name": "Phia",
         "id": "2e0aa3df-91b7-4de3-bc9d-f452dc1c7183",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
