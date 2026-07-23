@@ -60501,7 +60501,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -292314,7 +292314,7 @@
         "company_name": "Kinaxis",
         "id": "937ea815-7e19-4bed-a8eb-a226a5201df1",
         "title": "Software Development Co-op/Intern - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320749,7 +320749,7 @@
         "company_name": "Ribbon",
         "id": "97d542d1-34cd-4cd5-a7fc-6d841b5b0a28",
         "title": "UI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333422,7 +333422,7 @@
         "company_name": "NewsBreak",
         "id": "8975659b-0873-4463-9888-45451e2e150b",
         "title": "Growth Engineer Intern - Growth Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333523,7 +333523,7 @@
         "company_name": "Five Rings Capital",
         "id": "589e122b-8999-49a6-8442-c90ddb3b04bf",
         "title": "Quantitative Trader Intern - Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333588,7 +333588,7 @@
         "company_name": "Five Rings Capital",
         "id": "25634961-9424-41ec-9553-925a6e400699",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337197,7 +337197,7 @@
         "company_name": "Chicago Trading Company",
         "id": "5fdbf0e9-e98a-4251-b983-801d494ae586",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337221,7 +337221,7 @@
         "company_name": "Chicago Trading Company",
         "id": "9ec52711-cf87-406e-83ad-c5bb73c1e65d",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342132,5 +342132,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rantec Power Systems Inc.",
+        "id": "e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
+        "title": "PCB Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784788131,
+        "date_posted": 1784787216,
+        "url": "https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/5c001c0b-6adf-491d-843c-2f5e3d92250d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "a998ee7a-7f05-482d-82bb-d6e84da94314",
+        "title": "Sports Growth Strategy and Data Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784788128,
+        "date_posted": 1784764800,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
