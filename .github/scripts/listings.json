@@ -251826,7 +251826,7 @@
         "company_name": "X Development",
         "id": "89566391-fb11-4a1c-8973-916ece3bb6ce",
         "title": "PhD Residency Intern - Operations Research and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -342400,5 +342400,58 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3dB Labs",
+        "id": "e21e6f0c-d60c-47df-aee9-20fc973d43ba",
+        "title": "Labs",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784790824,
+        "date_posted": 1784788074,
+        "url": "https://3dblabs.applytojob.com/apply/cIQG0IKloM/Digital-Signal-Processing-DSP-Engineer",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/03bf14c0-5c5e-49bd-8ca7-c9f7535ec8b8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "T. Rowe Price",
+        "id": "56695ff1-b6c0-40d2-b758-8cdd4c91994b",
+        "title": "Global Product Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028",
+            "Fall 2028",
+            "Spring 2029",
+            "Summer 2029"
+        ],
+        "date_updated": 1784790018,
+        "date_posted": 1784764800,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
