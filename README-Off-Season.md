@@ -1142,7 +1142,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (801)</summary>
+<summary>🗃️ Inactive roles (800)</summary>
 
 <table>
 <thead>
@@ -7554,14 +7554,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Pittsfield, MA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
-<td>Intern</td>
-<td>San Diego, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
 <td>8mo</td>
 </tr>
 </tbody>
@@ -10338,7 +10330,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1077)</summary>
+<summary>🗃️ Inactive roles (1074)</summary>
 
 <table>
 <thead>
@@ -18970,30 +18962,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Chanel?utm_source=GHList&utm_medium=company">Chanel</a></strong></td>
-<td>People Business Intelligence Intern</td>
-<td>London, UK</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
-<td>Data Visualization and Analytics Intern</td>
-<td>San Diego, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/National-Renewable-Energy-Laboratory?utm_source=GHList&utm_medium=company">National Renewable Energy Laboratory</a></strong></td>
-<td>Graduate Intern - Building Energy Modeling and Analysis</td>
-<td>LA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -19382,7 +19350,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Relationship Manager - Business Markets</td>
 <td>Newfoundland, Newfoundland and Labrador, Canada<br>St. John's, NL, Canada</td>
 <td>Spring 2026</td>
@@ -23950,7 +23918,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Falmouth, MA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>

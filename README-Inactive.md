@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 9772 Inactive Internship Roles by Category
+### Browse 9769 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3074)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3073)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (718)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4401)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4399)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (131)
 
@@ -21595,13 +21595,6 @@
 <td><strong><a href="https://simplify.jobs/c/Renault-Group?utm_source=GHList&utm_medium=company">Renault Group</a></strong></td>
 <td>Digital Workplace Intern</td>
 <td>Banbury, UK</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan?utm_source=GHList&utm_medium=company">Blue Cross Blue Shield of Michigan</a></strong></td>
-<td>Summer 2026 Intern - Operational Performance</td>
-<td>Detroit, MI</td>
 <td>🔒</td>
 <td>8mo</td>
 </tr>
@@ -57444,14 +57437,14 @@
 <td>Global Trade & Data Analysis Intern - The Toro Company</td>
 <td>Bloomington, MN</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Playfly-Sports?utm_source=GHList&utm_medium=company">Playfly Sports</a></strong></td>
 <td>Consulting & Analytics</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paramount-Global?utm_source=GHList&utm_medium=company">Paramount Global</a></strong></td>
@@ -57471,20 +57464,6 @@
 <td><strong><a href="https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company">Inmar Intelligence</a></strong></td>
 <td>Data Science Intern</td>
 <td>Chicago, IL<br>Winston-Salem, NC</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
-<td>Data Engineering Intern</td>
-<td>San Diego, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Data Science and Analytics</td>
-<td>Austin, TX</td>
 <td>🔒</td>
 <td>8mo</td>
 </tr>
