@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Parsons",
-        "id": "8b39928a-cf99-4ff8-a4a9-c6f129c00fb0",
-        "title": "Computer Engineer Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764041403,
-        "date_posted": 1764041403,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Computer-Engineer-Internship--Summer-2026-_R174960-2",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genuine Parts Company",
-        "id": "d5a3782d-45cf-4923-b65e-ba8a6bb7ceeb",
-        "title": "Technology Intern - Digital Analytics-Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764041007,
-        "date_posted": 1764041007,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern---Digital-Analytics--Summer-2026_R25_0000042264",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "a02d588d-fdf9-412b-b905-8a788233f50c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764040802,
-        "date_posted": 1764040802,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/128836",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Express",
         "id": "ea755069-c7b8-4bdd-93a9-6ce15ba018ff",
@@ -337835,7 +337772,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "0a82dc54-725b-4222-9f22-2a0b904f79f8",
         "title": "Predoctoral Young Investigator - Open Ecosystem",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341935,7 +341872,7 @@
         "company_name": "SS&C",
         "id": "c6d3e347-aaa3-4ae3-a5fc-9feec76b9f77",
         "title": "Healthcare AI & Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
