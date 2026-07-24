@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 9746 Inactive Internship Roles by Category
+### Browse 9747 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3069)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (714)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4386)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4387)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (132)
 
@@ -87,6 +87,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ee6743be-7d7e-46c8-991e-36d9229825c5?utm_source=GHList&utm_medium=company">Onware</a></strong></td>
+<td>Full Stack Developer-Intern Opportunity</td>
+<td>Edmonton, AB, Canada</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Denari?utm_source=GHList&utm_medium=company">Denari</a></strong></td>
+<td>Product & Software Internship</td>
+<td>Madison, WI</td>
+<td>🔒</td>
+<td>3d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Custom-Computer-Specialists?utm_source=GHList&utm_medium=company">Custom Computer Specialists</a></strong></td>
 <td>Developer Intern</td>
@@ -238,13 +252,6 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">Palantir</a></strong></td>
 <td>Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial</td>
 <td>Chicago, IL</td>
-<td>🔒</td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Database Engineer Intern</td>
-<td>Dallas, TX</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
@@ -987,13 +994,6 @@
 <td><strong><a href="https://simplify.jobs/c/University-System-Of-New-Hampshire?utm_source=GHList&utm_medium=company">University System of New Hampshire</a></strong></td>
 <td>IP Hightech Bound Intern</td>
 <td>Dover, NH</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Magna?utm_source=GHList&utm_medium=company">Magna</a></strong></td>
-<td>Product Engineering Engineer Intern</td>
-<td>Grand Rapids, MI</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -4057,7 +4057,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
+<td>↳</td>
 <td>Web and Marketing Intern</td>
 <td>Waltham, MA</td>
 <td>🔒</td>
@@ -26853,7 +26853,7 @@
 <td>Research Intern - Translation Software</td>
 <td>Edinburgh, UK</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305?utm_source=GHList&utm_medium=company">BCBST</a></strong></td>
@@ -27153,6 +27153,13 @@
 <td>↳</td>
 <td>Data Engineer Intern - E-commerce</td>
 <td>Seattle, WA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>Research Intern 🎓</td>
+<td>Bellevue, WA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -53104,7 +53111,7 @@
 <td>Data and Automation Engineer Intern</td>
 <td>Norwalk, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AMC-Networks?utm_source=GHList&utm_medium=company">AMC Networks</a></strong></td>
@@ -57353,10 +57360,10 @@
 <td>Quantitative Research Analyst Intern</td>
 <td>Miami, FL<br>NYC</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
+<td>↳</td>
 <td>Quantitative Trader Intern</td>
 <td>Miami, FL<br>NYC</td>
 <td>🔒</td>
