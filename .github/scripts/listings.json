@@ -191306,7 +191306,7 @@
         "company_name": "GE Vernova",
         "id": "2bfd1c4d-795c-497f-b0d6-1d455cd67aeb",
         "title": "Controls Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207735,7 +207735,7 @@
         "company_name": "GE Vernova",
         "id": "7439f59d-7849-4135-905d-ac5f88ad7b9b",
         "title": "Controls Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341930,5 +341930,26 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quadrillion",
+        "id": "53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784874241,
+        "date_posted": 1784874073,
+        "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/856db7dd-5e23-4bcd-a161-c06cda5ac820",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
