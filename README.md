@@ -7,13 +7,13 @@
 
 ---
 
-### Browse 255 Internship Roles by Category
+### Browse 254 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (94)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (4)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (5)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (109)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (107)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (19)
 
@@ -236,7 +236,7 @@
 <td>Intern to Entry Level Conversion Intern Program - Engineering</td>
 <td><details><summary><strong>30 locations</strong></summary>Germantown, MD<br>Seattle, WA<br>Houston, TX<br>New Orleans, LA<br>Long Beach, CA<br>Newburgh, NY<br>Mesa, AZ<br>Miami, FL<br>Colorado Springs, CO<br>Fairfax, VA<br>Philadelphia, PA<br>Merritt Island, FL<br>Seal Beach, CA<br>Tukwila, WA<br>St Charles, MO<br>San Antonio, TX<br>St. Louis, MO<br>Everett, WA<br>Auburn, WA<br>Ridgecrest, CA<br>Heath, OH<br>Fort Walton Beach, FL<br>Oklahoma City, OK<br>Kent, WA<br>Portland, OR<br>Huntsville, AL<br>North Charleston, SC<br>Huntington Beach, CA<br>Hazelwood, MO<br>El Segundo, CA</details></td>
 <td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7a7213e-4e27-48ac-82d9-593ced5ab46d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company">Eulerity</a></strong></td>
@@ -816,11 +816,18 @@
 <td><div align="center"><a href="https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td>30d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Flagright?utm_source=GHList&utm_medium=company">Flagright</a></strong></td>
+<td>Product Operations Intern</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/987779ef-3c25-4288-b559-7f8a99d2b578?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 </tbody>
 </table>
 
 
-🔒 **[See 715 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 714 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -858,13 +865,6 @@
 <td>0d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/cb60507a-b7da-4f6f-8587-d1f06fea1d04?utm_source=GHList&utm_medium=company">Aptura</a></strong></td>
-<td>Investment Banking MBA Intern - AI Research 🎓</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/aptura/fbe2e597-52df-49f8-9bed-0e3a21e620a9/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f7ab19f7-01aa-450e-aae8-eb040b5b3ea2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/26fe0875-9e6d-48ab-8925-4ff06e9bb71a?utm_source=GHList&utm_medium=company">Kinetic Systems</a></strong></td>
 <td>Applied AI Intern 🎓</td>
 <td>SF</td>
@@ -883,13 +883,6 @@
 <td>Management Analyst Intern - Research and Planning Division</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td>Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns… 🎓</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eb1d24c5-f96d-49eb-88c4-9c78d81659f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -1051,7 +1044,7 @@
 <td>Business Analyst Apprentice</td>
 <td>Virginia</td>
 <td><div align="center"><a href="https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ea053f2a-38d8-4cc1-af0b-e280de37935e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
@@ -1610,7 +1603,7 @@
 </table>
 
 
-🔒 **[See 4386 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4388 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
