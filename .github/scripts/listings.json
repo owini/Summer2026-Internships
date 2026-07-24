@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Central Hudson",
-        "id": "d834d2a4-d1da-4621-a786-1f10385e1182",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764113450,
-        "date_posted": 1764113450,
-        "url": "https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Analytics-Intern_R1858",
-        "locations": [
-            "Poughkeepsie, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Central-Hudson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cisco",
-        "id": "3b9caaa6-7f40-4f6b-b94c-2b47ed4af777",
-        "title": "AI Research Scientist 1 - Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764114543,
-        "date_posted": 1764114543,
-        "url": "https://careers.cisco.com/global/en/job/2002885",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Blue Shield of California",
-        "id": "3639699b-0502-487c-b705-9c6ff24bfa1c",
-        "title": "2026 Summer Platforms Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764114122,
-        "date_posted": 1764114122,
-        "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252286",
-        "locations": [
-            "Redding, CA",
-            "Long Beach, CA",
-            "Rancho Cordova, CA",
-            "Galt, CA",
-            "Canoga Park, LA",
-            "Oakland, CA",
-            "El Dorado Hills, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Shield-Of-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Geico",
         "id": "654f6fbc-1ad8-426f-a357-dc935efddde4",
@@ -306221,7 +306151,7 @@
         "company_name": "Seaspan",
         "id": "60991e37-67ca-469f-8e49-c284d1974106",
         "title": "Digital Ship Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
