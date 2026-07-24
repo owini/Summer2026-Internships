@@ -22,71 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "9cdb0c27-0676-4ab8-9018-1ba02684ee68",
-        "title": "Intern-Engineering - Test",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764119818,
-        "date_posted": 1764119818,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Test-_R2066-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "7899b794-8c31-4940-a90a-6233c699f5f9",
-        "title": "2027 Intern Test & Evaluation",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764119672,
-        "date_posted": 1764119672,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Test---Evaluation_R10215535",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "4b26fdbe-e869-4ee9-94ca-5c8e4b3b3b52",
-        "title": "Data Science Intern - AI/ML Research for Ion Chromatography",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764119155,
-        "date_posted": 1764119155,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sunnyvale-California-USA/Data-Science-Intern--AI-ML-Research-for-Ion-Chromatography-_R-01328159",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Huntington Bancshares",
         "id": "b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
@@ -314264,7 +314199,7 @@
         "company_name": "Texas Instruments",
         "id": "28211e9c-64fa-433f-b304-32c0827c2803",
         "title": "Engineering Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329406,7 +329341,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342486,6 +342421,53 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zoox",
+        "id": "7053c6dc-96b3-4e18-8322-262fd14f8fe4",
+        "title": "Student Worker TPM",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784855732,
+        "date_posted": 1784855476,
+        "url": "https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Group 1001",
+        "id": "a5aa45ee-0926-4b52-be7d-2da9c0da54da",
+        "title": "Quantitative Analysis Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784855341,
+        "date_posted": 1784764800,
+        "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Group-1001",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
