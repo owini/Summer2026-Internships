@@ -216979,7 +216979,7 @@
         "company_name": "Eurofins",
         "id": "e5716292-b894-459b-87fd-e4c3f4077547",
         "title": "Engineering Intern - Test Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305967,7 +305967,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
         "title": "Hardware & Embedded Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313454,7 +313454,7 @@
         "company_name": "Zoox",
         "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315781,7 +315781,7 @@
         "company_name": "Ciena",
         "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
