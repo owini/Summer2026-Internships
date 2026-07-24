@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 9756 Inactive Internship Roles by Category
+### Browse 9749 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3069)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3067)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (715)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4394)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4390)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (132)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1446)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1445)
 
 ---
 
@@ -21556,20 +21556,6 @@
 <td>🔒</td>
 <td>8mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
-<td>Intern Oracle Application Developer</td>
-<td>Irving, TX</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
-<td>PhD Software Engineer - Threat Detection 🎓</td>
-<td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -26594,7 +26580,7 @@
 <td>Product Management Intern</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -57325,7 +57311,7 @@
 <td>Transportation Modeler Intern 3</td>
 <td>McLean, VA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
@@ -57351,34 +57337,6 @@
 <tr>
 <td>↳</td>
 <td>PhD Applied Scientist Intern - Core Services Science Staff 🎓</td>
-<td>SF<br>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Daimler-Truck?utm_source=GHList&utm_medium=company">Daimler Truck</a></strong></td>
-<td>Engineering Quality – And Compliance Intern - Safety</td>
-<td>Portland, OR</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
-<td>PhD Applied Scientist Intern - Road Safety 🎓</td>
-<td>SF<br>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>PhD Applied Scientist Intern - Trusted Identity 🎓</td>
-<td>SF<br>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Data Science Intern</td>
 <td>SF<br>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>8mo</td>
@@ -57430,7 +57388,7 @@
 <td>Relationship Manager Commercial Markets Intern - Agriculture</td>
 <td>Oakland, ON, Canada</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
@@ -68463,13 +68421,6 @@
 <td>Dallas, TX</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Seagate-Technology?utm_source=GHList&utm_medium=company">Seagate Technology </a></strong></td>
-<td>Firmware/Software Intern</td>
-<td>Shakopee, MN</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
