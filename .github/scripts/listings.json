@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Landscape Forms",
-        "id": "6828ff57-9a8d-4562-8536-9780eb6970a7",
-        "title": "Product Engineering CAD Intern - Starting in January",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764120700,
-        "date_posted": 1764120700,
-        "url": "https://job-boards.greenhouse.io/landscapeforms/jobs/7489671003",
-        "locations": [
-            "Kalamazoo, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Landscape-Forms",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Bancshares",
-        "id": "b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
-        "title": "Data Science Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764122144,
-        "date_posted": 1764122144,
-        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Science---Co-Op_R0067592",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Affirm",
-        "id": "0c494f66-1d71-4451-a4fe-1a973be8af10",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764122099,
-        "date_posted": 1764122099,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uber",
         "id": "8b8f84c8-f4b9-47a2-b067-456d21d5b757",
         "title": "PhD Software Engineer - Threat Detection",
