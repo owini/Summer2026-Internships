@@ -27,27 +27,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Altera Corporation",
-        "id": "b2880550-18ca-4bda-b36b-92d3eadf267d",
-        "title": "High Level Synthesis \u2013 Compiler Intern - Hls",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764116152,
-        "date_posted": 1764116152,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis--HLS--Compiler-Intern_R01623",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "LabCorp",
         "id": "9909d8e0-02a6-4e22-b78b-7d06712763ab",
         "title": "Intern Software Engineer",
@@ -309725,7 +309704,7 @@
         "company_name": "Nokia",
         "id": "d87ba5de-5c2e-473f-b2ba-296e4efd80c5",
         "title": "Product Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
