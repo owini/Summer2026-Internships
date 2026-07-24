@@ -321695,7 +321695,7 @@
         "company_name": "Palo Alto Networks",
         "id": "116541fa-771d-4823-a666-0884c8ececfd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330625,7 +330625,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "1c39cba6-ebfc-4c07-b06a-3ab376302145",
         "title": "Energy Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -330937,7 +330937,7 @@
         "company_name": "Salesforce",
         "id": "224ca026-078b-4524-bf33-5a214373c094",
         "title": "Associate Product Manager Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
