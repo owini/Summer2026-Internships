@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arcadis",
-        "id": "8bc63f29-8912-4fec-b780-05c3dec2e79c",
-        "title": "Climate Adaptation Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764154259,
-        "date_posted": 1764154259,
-        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36046",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Machina Labs",
-        "id": "5d7235e7-0fc2-4adb-8b06-db0592c1b0ff",
-        "title": "Frontend Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764154346,
-        "date_posted": 1764154346,
-        "url": "https://jobs.lever.co/MachinaLabs/1e24999b-9c52-4805-823b-ab2821611f74/apply",
-        "locations": [
-            "Canoga Park, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/MachinaLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "158fa4be-60fd-4c5d-89ec-307e47335eb4",
-        "title": "Intern \u2013 AI/DA Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764154400,
-        "date_posted": 1764154400,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---AI-DA-Engineer_JR85118",
-        "locations": [
-            "Leander, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "UntilLabs",
-        "id": "f23ab17e-6d67-4b8c-92dd-098a04625f45",
-        "title": "Software & ML Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764153744,
-        "date_posted": 1764153744,
-        "url": "https://jobs.lever.co/until/a93653b6-b900-463d-b321-1d1a4524e732/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/UntilLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "624f3974-081c-4af4-9529-285d6268698e",
@@ -184,56 +100,6 @@
             "Gaithersburg, MD"
         ],
         "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Truist Bank",
-        "id": "21417ed8-afe3-4008-9e33-99c7f368da25",
-        "title": "AFCO Direct \u2013 Product Team Intern - Digital Strategy",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764154325,
-        "date_posted": 1764154325,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Lake-Forest-IL---Telecommuter/XMLNAME-2026-AFCO-Direct---Digital-Strategy---Summer-Product-Team-Internship_R0108533",
-        "locations": [
-            "Washington, DC",
-            "Charlotte, NC",
-            "Fort Lauderdale, FL",
-            "Highland Park, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DigiKey",
-        "id": "c8aae6cf-ac92-4e55-a388-2e59704f3f14",
-        "title": "Application Engineering Intern Embedded Systems",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1764154253,
-        "date_posted": 1764154253,
-        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Application-Engineering--Intern-Embedded-Systems_R5121",
-        "locations": [
-            "Erskine, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/DigiKey",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7181,27 +7047,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ALSO",
-        "id": "12982849-c8cd-45b0-9bd7-7e6fb4732b47",
-        "title": "Hardware Engineering Intern - Mechanical Design",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764755440,
-        "date_posted": 1764153346,
-        "url": "https://jobs.ashbyhq.com/Ridealso/f8d17844-a4cc-42fe-a525-162e74cc9f7f/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ALSO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -40631,27 +40476,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "f3c11d3e-418c-462f-a6d4-f9bd42cb42e1",
-        "title": "Intern Layout AI-Automation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766161207,
-        "date_posted": 1764154395,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Layout-AI-Automation_JR86351",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Sierra Nevada Corporation",
         "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
         "title": "Systems Engineer Intern - Summer 2026",
@@ -59075,7 +58899,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -64349,30 +64173,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ford Motor Company",
-        "id": "35047dbd-ad72-4418-acce-3bba8f32a32e",
-        "title": "Student Worker Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766568611,
-        "date_posted": 1764153391,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/54554",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -110410,7 +110210,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -257445,7 +257245,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280395,7 +280195,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286611,7 +286411,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -292200,7 +292000,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293583,7 +293383,7 @@
         "company_name": "GE Healthcare",
         "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299030,7 +298830,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -312125,7 +311925,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323182,7 +322982,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323746,7 +323546,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332002,7 +331802,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334329,7 +334129,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334635,7 +334435,7 @@
         "company_name": "Magna",
         "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335935,7 +335735,7 @@
         "company_name": "Ditto",
         "id": "9b52fccb-d8e8-4e83-bcf6-81d70ecd30e7",
         "title": "Ditto Intern Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337119,7 +336919,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337165,7 +336965,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
