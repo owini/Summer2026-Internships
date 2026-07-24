@@ -216935,7 +216935,7 @@
         "company_name": "Eurofins",
         "id": "4cebd7e3-5455-4983-b475-3512278305c2",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334933,7 +334933,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340942,7 +340942,7 @@
         "company_name": "Axogen",
         "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
