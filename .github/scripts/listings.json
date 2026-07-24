@@ -328366,7 +328366,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334521,7 +334521,7 @@
         "company_name": "Centerstone",
         "id": "fec42271-5a2c-43cd-8fc9-d3ab4140f87c",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340962,7 +340962,7 @@
         "company_name": "Leidos",
         "id": "fbe907df-048b-4499-93d8-d597c25a6efb",
         "title": "Signal Processing Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
