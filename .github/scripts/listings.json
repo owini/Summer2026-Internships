@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Lightmatter",
-        "id": "370929d0-fe09-4fcf-8665-31d89ec75240",
-        "title": "Electro-Optical Automation Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764208792,
-        "date_posted": 1764208792,
-        "url": "https://boards.greenhouse.io/lightmatter/jobs/5012145008",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightmatter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "cfd0ba3b-8ed3-451e-ae91-b0fcade88eb6",
-        "title": "Applications Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764208316,
-        "date_posted": 1764208316,
-        "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Applications-Engineering-Intern_2531670-2",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "accd02c7-d7e2-46bd-aafc-3b720a079e6b",
-        "title": "Supply Chain Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764208319,
-        "date_posted": 1764208319,
-        "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Supply-Chain-Data-Science-Intern_2532571-1",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Virtua Health",
         "id": "3ea30991-c634-406a-84b0-b8db3457408e",
         "title": "Intern Data Scientist - Data Science",
@@ -397,27 +334,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Spotify",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Copart",
-        "id": "0f6c7447-54b7-41b3-a8ee-0f74d113a958",
-        "title": "Technology Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764208825,
-        "date_posted": 1764208825,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105929",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -74869,30 +74785,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "b5006151-258f-4913-94aa-a5c8820e86b5",
-        "title": "Supply Chain Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764208319,
-        "date_posted": 1764208319,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Supply-Chain-Data-Science-Intern_2532571-2",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
             "PhD"
         ]
     },
@@ -315052,7 +314944,7 @@
         "company_name": "Freeform",
         "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
         "title": "Process Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
