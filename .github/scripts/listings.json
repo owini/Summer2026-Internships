@@ -235759,7 +235759,7 @@
         "company_name": "TikTok",
         "id": "fd19cd39-0127-4f16-8be0-0bc3e3f39226",
         "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254804,7 +254804,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255971,7 +255971,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278921,7 +278921,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -285137,7 +285137,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322272,7 +322272,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323827,7 +323827,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -326961,7 +326961,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332084,7 +332084,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
         "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333130,7 +333130,7 @@
         "company_name": "Prudential Financial",
         "id": "8e9a164a-393f-4f52-8c16-a283cc796352",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333768,7 +333768,7 @@
         "company_name": "GE Healthcare",
         "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334828,7 +334828,7 @@
         "company_name": "Google",
         "id": "c88b6245-fb2b-4f6c-84c4-c9b786738681",
         "title": "Student Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335210,7 +335210,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335325,7 +335325,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335559,7 +335559,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335603,7 +335603,7 @@
         "company_name": "Moon",
         "id": "de36e85a-366d-49db-98a9-fb9c3004ef0b",
         "title": "Software Engineer Intern - Backend & API",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335645,7 +335645,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335691,7 +335691,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337891,7 +337891,7 @@
         "company_name": "AQR Capital Management",
         "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
         "title": "Trading Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338166,7 +338166,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340538,7 +340538,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
