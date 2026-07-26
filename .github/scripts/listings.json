@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAFacts",
-        "id": "6f1eddaf-74b9-4c64-9253-168bfd1eaa95",
-        "title": "Software Development Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764292206,
-        "date_posted": 1764292206,
-        "url": "https://job-boards.greenhouse.io/usafacts/jobs/4029872009",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/USAFacts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AT&T",
         "id": "3b275ed7-7c20-468f-a291-09b73f95638f",
@@ -57231,29 +57209,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "William Blair",
-        "id": "0e820fc5-e397-4823-ab37-30fa89b0c301",
-        "title": "Technology - Application Development",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767961867,
-        "date_posted": 1764292309,
-        "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/William-Blair",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -326692,7 +326647,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
