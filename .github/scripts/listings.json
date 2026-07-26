@@ -1,127 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chevron Corporation",
-        "id": "badac9c9-d8fd-4b6e-94f5-b3d30a2c0dd7",
-        "title": "Earth Science Intern \u2013 Previous Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764301377,
-        "date_posted": 1764301377,
-        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2025-2026-Earth-Science-Intern--Previous-Intern-_R000064423",
-        "locations": [
-            "Houston, TX",
-            "Covington, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chevron Corporation",
-        "id": "a5c0ed89-39c2-430e-b4d4-52d42301aac6",
-        "title": "2025 \u2013 Previous Intern - 2026 Earth Scientist Full Time",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764301377,
-        "date_posted": 1764301377,
-        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2025-2026-Earth-Scientist-Full-Time--Previous-Intern-_R000064559",
-        "locations": [
-            "Houston, TX",
-            "Covington, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chevron Corporation",
-        "id": "67edabcd-aab9-4cce-8a49-f6b219d06781",
-        "title": "Earth Science Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764301363,
-        "date_posted": 1764301363,
-        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2025-2026-Earth-Science-Intern_R000064568",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "660e6d86-5b04-4252-ac0c-6b5128c78444",
-        "title": "Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764301148,
-        "date_posted": 1764301148,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Product-Manager-Intern_REQ339260",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "61d563ea-f9a1-4bd3-bc18-2bf60734d99e",
-        "title": "AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764301146,
-        "date_posted": 1764301146,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-AI-Engineering-Internship_REQ339417",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764346884,
         "sponsorship": "Other",
         "active": true,
@@ -543,27 +421,6 @@
             "Springfield, MO"
         ],
         "company_url": "https://simplify.jobs/c/Bass-Pro-Shops",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "7cc01184-40b7-4392-bf1a-30dd375fbfca",
-        "title": "Machine Learning Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764416280,
-        "date_posted": 1764302417,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Intern---Co-Op-III_R_1458689",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -59721,56 +59578,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "ae09b4db-4f1a-4d58-8067-d048c287b9c5",
-        "title": "Java Student Developer Advocate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764301812,
-        "date_posted": 1764301812,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stantec",
-        "id": "72638986-ee6f-4805-b9ea-a673bcb088cd",
-        "title": "Geologist in Training",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764301051,
-        "date_posted": 1764301051,
-        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003228",
-        "locations": [
-            "Whitehorse, YT, Canada",
-            "Edmonton, AB, Canada",
-            "Saskatoon, SK, Canada",
-            "Vancouver, BC, Canada",
-            "Yellowknife, NT, Canada",
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stantec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -127614,33 +127421,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Consulting Group",
-        "id": "4da69189-8815-49b8-bdb2-3f7d951cb756",
-        "title": "Female Talent Intern - BCG Platinion - All genders",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1771323288,
-        "date_posted": 1764301258,
-        "url": "https://careers.bcg.com/global/en/job/726",
-        "locations": [
-            "Stuttgart, Germany",
-            "Munich, Germany",
-            "Berlin, Germany",
-            "Neukirchen-Vluyn, Germany",
-            "Wenden, Germany",
-            "Frankfurt, Germany",
-            "Hamburg, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
