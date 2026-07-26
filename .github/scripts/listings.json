@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Colliers",
-        "id": "b545458a-51b1-4ea4-a2e1-dd740a02773d",
-        "title": "Data Governance Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764367499,
-        "date_posted": 1764367499,
-        "url": "https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Summer-2026---Data-Governance-Analyst-Summer-Intern_JR16713",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Colliers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Bass Pro Shops",
         "id": "b2b57151-f4c6-4b3e-8a7a-bd3f7aa39c6a",
@@ -16084,27 +16063,6 @@
             "Spring Hill, FL"
         ],
         "company_url": "https://simplify.jobs/c/Reworld",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "d1660f37-c2cc-446b-a6ba-181370bfcb7b",
-        "title": "College Intern - Technical",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1765458422,
-        "date_posted": 1764367819,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ32073",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -325695,7 +325653,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
