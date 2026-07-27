@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 9702 Inactive Internship Roles by Category
+### Browse 9700 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3057)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3055)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (706)
 
@@ -95,9 +95,9 @@
 <td>4d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ee6743be-7d7e-46c8-991e-36d9229825c5?utm_source=GHList&utm_medium=company">Onware</a></strong></td>
-<td>Full Stack Developer-Intern Opportunity</td>
-<td>Edmonton, AB, Canada</td>
+<td><strong><a href="https://simplify.jobs/c/Denari?utm_source=GHList&utm_medium=company">Denari</a></strong></td>
+<td>Product & Software Internship</td>
+<td>Madison, WI</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -256,13 +256,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Database Engineer Intern</td>
-<td>Dallas, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Lunon?utm_source=GHList&utm_medium=company">Lunon</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>SF</td>
@@ -385,13 +378,6 @@
 <td><strong><a href="https://simplify.jobs/c/UL-Solutions?utm_source=GHList&utm_medium=company">UL Solutions</a></strong></td>
 <td>Software Development Intern</td>
 <td>Fremont, CA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/LexisNexis-Risk-Solutions?utm_source=GHList&utm_medium=company">LexisNexis Risk Solutions</a></strong></td>
-<td>Software Engineer Apprentice</td>
-<td>Southampton, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -3172,14 +3158,14 @@
 <td>Software Engineering Intern</td>
 <td>SF</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Applied Research Engineering Intern</td>
 <td>SF</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
@@ -4106,7 +4092,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Revvity?utm_source=GHList&utm_medium=company">Revvity</a></strong></td>
+<td>↳</td>
 <td>Web and Marketing Intern</td>
 <td>Waltham, MA</td>
 <td>🔒</td>
@@ -26482,7 +26468,7 @@
 <td>AI Data Solutions Intern - Data Partnerships</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/cb60507a-b7da-4f6f-8587-d1f06fea1d04?utm_source=GHList&utm_medium=company">Aptura</a></strong></td>
@@ -57073,10 +57059,10 @@
 <td>Quantitative Research Analyst Intern</td>
 <td>Miami, FL<br>NYC</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
+<td>↳</td>
 <td>Quantitative Trader Intern</td>
 <td>Miami, FL<br>NYC</td>
 <td>🔒</td>
