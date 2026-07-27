@@ -200226,7 +200226,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -276165,7 +276165,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309813,7 +309813,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1f22bcf0-083e-4c7f-819e-d6a83d4efadb",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317483,7 +317483,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325024,7 +325024,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325685,7 +325685,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329958,7 +329958,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332316,7 +332316,7 @@
         "company_name": "Copart",
         "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332881,7 +332881,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333408,7 +333408,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333604,7 +333604,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333861,7 +333861,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -333905,7 +333905,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338863,7 +338863,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339206,7 +339206,7 @@
         "company_name": "City of Austin",
         "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
         "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339572,7 +339572,7 @@
         "company_name": "Baldwin Group",
         "id": "2b13f4dd-1d4a-4fb8-8ba3-4678e471fa6c",
         "title": "Rotational Undergraduate Analyst - Msi",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
