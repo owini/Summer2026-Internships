@@ -331226,7 +331226,7 @@
         "company_name": "City of Charlotte",
         "id": "a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36",
         "title": "Management Analyst Intern - Research and Planning Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331606,7 +331606,7 @@
         "company_name": "Interac",
         "id": "c043acbe-1a9f-4818-a8e7-a82d105c32d1",
         "title": "Product Intern - Money Movement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332695,7 +332695,7 @@
         "company_name": "Sun Life",
         "id": "98447d49-92bc-4310-9267-507b8efcbe81",
         "title": "Student Associate Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338905,7 +338905,7 @@
         "company_name": "Northwell Health",
         "id": "c9e4f3b2-4e34-43ea-add3-ddcd7ae26931",
         "title": "Data Analytics / Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
