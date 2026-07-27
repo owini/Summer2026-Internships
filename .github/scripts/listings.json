@@ -214228,7 +214228,7 @@
         "company_name": "Global Channel Management",
         "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
         "title": "Data Analyst Lead",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -310421,7 +310421,7 @@
         "company_name": "Viking Global",
         "id": "6200c443-ced9-4868-902f-2ba885ed5c02",
         "title": "Execution Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329839,7 +329839,7 @@
         "company_name": "Sentara Health",
         "id": "681c9b80-c50a-46fc-8f94-cec1e4cbb554",
         "title": "Enterprise Data & AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338624,7 +338624,7 @@
         "company_name": "Appian",
         "id": "f4b6208a-2701-4f97-bf10-b54704e67c32",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340213,5 +340213,122 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excel Sports Management",
+        "id": "916fc67e-6e47-46e3-b796-7f0f0b45a65a",
+        "title": "Football Coaches Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785192018,
+        "date_posted": 1785190254,
+        "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Excel-Sports-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodak",
+        "id": "50f076dc-b912-4d1b-b7d7-59cfb38b5688",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190681,
+        "date_posted": 1785190183,
+        "url": "https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Later",
+        "id": "230714a7-6047-4f24-882a-5616896d2794",
+        "title": "Data/Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785190681,
+        "date_posted": 1785190192,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8647385002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Later",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "8468a0fc-41d7-41eb-b908-66f723a8eea4",
+        "title": "R&D Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785191776,
+        "date_posted": 1785189958,
+        "url": "https://jobs.keysight.com/jobs/53652?icims=1",
+        "locations": [
+            "Santa Clara, CA",
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waystar",
+        "id": "0988d1cc-3a7b-4621-84fc-6367ac9218d9",
+        "title": "Application Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785191703,
+        "date_posted": 1785110400,
+        "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waystar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
