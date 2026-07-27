@@ -56235,7 +56235,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -201877,7 +201877,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325587,7 +325587,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325842,7 +325842,7 @@
         "company_name": "Jane Street",
         "id": "d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
         "title": "Hardware Engineer - FPGA/Asic",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339689,7 +339689,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "5dc00cee-4e2e-4533-9b44-94c295ffddd4",
         "title": "Agentic Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339751,5 +339751,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
+        "title": "QNX Application Engineering Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785162111,
+        "date_posted": 1785110400,
+        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260267",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
