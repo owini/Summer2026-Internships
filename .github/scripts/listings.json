@@ -56235,7 +56235,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -165388,7 +165388,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308976,7 +308976,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316171,7 +316171,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328341,7 +328341,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339595,7 +339595,7 @@
         "company_name": "Mosaic",
         "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
         "title": "Operations & Automation Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
