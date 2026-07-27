@@ -339658,5 +339658,29 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f9c3682d-25e0-42b3-aeb8-ae98854876fe",
+        "title": "Software Engineer Intern - Payment Network - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610909,
+        "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
