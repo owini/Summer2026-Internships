@@ -295634,7 +295634,7 @@
         "company_name": "ByteDance",
         "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
         "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299033,7 +299033,7 @@
         "company_name": "Tesla",
         "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
         "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299174,7 +299174,7 @@
         "company_name": "Tesla",
         "id": "a8790742-1793-4b5a-b3a7-faf1d438c4fb",
         "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
