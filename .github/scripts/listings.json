@@ -165663,7 +165663,7 @@
         "company_name": "Meta",
         "id": "de215e2c-25b9-4713-90e5-31dba65622de",
         "title": "Research Scientist Intern PhD - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -339419,7 +339419,7 @@
         "company_name": "RSM",
         "id": "dd063926-c4ed-4671-9412-bc5e8fcb7b5d",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
