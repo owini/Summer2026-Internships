@@ -1253,27 +1253,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LinkedIn",
-        "id": "31b5a900-9531-4d1b-b336-9e5e30b1b927",
-        "title": "AI/ML Engineer Intern - Generative AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764512766,
-        "date_posted": 1764512766,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095221125",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "6d7aec6c-69ae-46a8-ae30-91c6e60efa17",
@@ -335777,7 +335756,7 @@
         "company_name": "Virtu Financial",
         "id": "ce1d842e-89a6-4905-a608-3eca02ddd233",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338266,7 +338245,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339322,7 +339301,7 @@
         "company_name": "RTX",
         "id": "96f057ba-4984-4466-ad7a-4e8f75d1ddf9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339599,7 +339578,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339896,7 +339875,7 @@
         "company_name": "Northrop Grumman",
         "id": "97736cf7-6766-46a2-81bc-b5cc5f9ea248",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340288,7 +340267,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340393,5 +340372,31 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Citadel Securities",
+        "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
+        "title": "FPGA Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785248432,
+        "date_posted": 1783318269,
+        "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
