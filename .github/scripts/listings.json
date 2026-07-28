@@ -106736,7 +106736,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -164812,7 +164812,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242127,7 +242127,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252553,7 +252553,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279197,7 +279197,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310212,7 +310212,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323373,7 +323373,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329113,7 +329113,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332959,7 +332959,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335915,7 +335915,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338609,7 +338609,7 @@
         "company_name": "Magna",
         "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
         "title": "R&D-Computer Vision Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340387,6 +340387,30 @@
             "Burnaby, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "d3981dc2-eb59-464b-bef9-70365bd9af64",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1785242973,
+        "date_posted": 1784073600,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
+        "locations": [
+            "State College, PA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
