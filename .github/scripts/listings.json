@@ -102063,27 +102063,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KLA",
-        "id": "26805e68-c29a-4153-b49a-b4a17e9ce780",
-        "title": "AI Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770207996,
-        "date_posted": 1764522538,
-        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechanical-Engineering-Internship_2532346",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thales",
         "id": "dc652799-07b1-48c6-81ac-a1ad5c1e4f70",
@@ -328137,7 +328116,7 @@
         "company_name": "BlackRock",
         "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
         "title": "Global Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335392,7 +335371,7 @@
         "company_name": "Generac",
         "id": "209876e2-f7a5-41d9-a9de-f124384bd927",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
