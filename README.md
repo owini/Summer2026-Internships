@@ -7,7 +7,7 @@
 
 ---
 
-### Browse 230 Internship Roles by Category
+### Browse 228 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (85)
 
@@ -15,7 +15,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (93)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (18)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (16)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (29)
 
@@ -222,7 +222,7 @@
 <td>Intern to Entry Level Conversion Intern Program - Engineering</td>
 <td><details><summary><strong>30 locations</strong></summary>Germantown, MD<br>Seattle, WA<br>Houston, TX<br>New Orleans, LA<br>Long Beach, CA<br>Newburgh, NY<br>Mesa, AZ<br>Miami, FL<br>Colorado Springs, CO<br>Fairfax, VA<br>Philadelphia, PA<br>Merritt Island, FL<br>Seal Beach, CA<br>Tukwila, WA<br>St Charles, MO<br>San Antonio, TX<br>St. Louis, MO<br>Everett, WA<br>Auburn, WA<br>Ridgecrest, CA<br>Heath, OH<br>Fort Walton Beach, FL<br>Oklahoma City, OK<br>Kent, WA<br>Portland, OR<br>Huntsville, AL<br>North Charleston, SC<br>Huntington Beach, CA<br>Hazelwood, MO<br>El Segundo, CA</details></td>
 <td><div align="center"><a href="https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7a7213e-4e27-48ac-82d9-593ced5ab46d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eulerity?utm_source=GHList&utm_medium=company">Eulerity</a></strong></td>
@@ -704,7 +704,7 @@
 </table>
 
 
-🔒 **[See 3059 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3058 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -816,13 +816,6 @@
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td>Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns… 🎓</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eb1d24c5-f96d-49eb-88c4-9c78d81659f8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/CAE?utm_source=GHList&utm_medium=company">CAE</a></strong></td>
 <td>Data Specialist Intern</td>
 <td>Montreal, QC, Canada</td>
@@ -932,6 +925,13 @@
 <td>RL Engineer Intern - RL Engineer - Tesla AI</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/275494?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/904269e6-581d-458f-9376-a8c3d9e74a98?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Thyssenkrupp?utm_source=GHList&utm_medium=company">thyssenkrupp</a></strong></td>
+<td>Analytics Intern</td>
+<td>Cleveland, OH</td>
+<td><div align="center"><a href="https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7185eeaf-ca13-448b-9914-08c197b45f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>27d</td>
 </tr>
 <tr>
@@ -1442,7 +1442,7 @@
 </table>
 
 
-🔒 **[See 4368 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 4367 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -1501,20 +1501,6 @@
 <td>Quantitative Research Analyst Bachelor's or master's degree Intern 🎓</td>
 <td>London, UK<br>Paris, France</td>
 <td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b977109a-8e8c-4173-a584-460e709a733f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Credit & Rates Rotational Trader Intern</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/119372b9-773c-43f5-a19e-c61469564529?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Designated Market Maker Intern - Designated Market Maker - Trader</td>
-<td>NYC</td>
-<td><div align="center"><a href="https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5d95fbd7-3bfc-46bc-8fd9-9f014b6308ed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>22d</td>
 </tr>
 <tr>
@@ -1591,7 +1577,7 @@
 </table>
 
 
-🔒 **[See 129 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 131 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
