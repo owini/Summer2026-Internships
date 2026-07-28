@@ -1233,27 +1233,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "1eed9aec-c01a-4d91-a985-ea772b0a934a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764510758,
-        "date_posted": 1764510758,
-        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1340354900/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NBCUniversal",
         "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
         "title": "Engineering Intern",
@@ -336641,7 +336620,7 @@
         "company_name": "Varian",
         "id": "5552be60-0f97-4b78-9b64-2eb8fef91cee",
         "title": "Product Engineering Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
