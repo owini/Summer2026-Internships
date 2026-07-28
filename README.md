@@ -935,13 +935,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Thyssenkrupp?utm_source=GHList&utm_medium=company">thyssenkrupp</a></strong></td>
-<td>Analytics Intern</td>
-<td>Cleveland, OH</td>
-<td><div align="center"><a href="https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7185eeaf-ca13-448b-9914-08c197b45f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
 <td>AI Co-op</td>
 <td>Ardmore, PA</td>
@@ -1338,6 +1331,13 @@
 <td>Generative AI Engineer Intern 🎓</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8ee2c108-7c86-4c94-b7bb-5667b48e3d3a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/060f3244-8261-437d-837f-2f8bce40f7a4?utm_source=GHList&utm_medium=company">CHEP</a></strong></td>
+<td>FP&A Business Intelligence Intern</td>
+<td>London, UK<br>Orlando, FL<br>Atlanta, GA</td>
+<td><div align="center"><a href="https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/513d3867-26bc-4203-8cd2-ade981572975?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
