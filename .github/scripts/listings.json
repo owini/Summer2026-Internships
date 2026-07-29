@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1764858222,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/virturecruitinghidden/jobs/8314488002",
-        "company_name": "Virtu Financial",
-        "title": "Internship - Low Latency Software Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "angie-hue",
-        "id": "e3c092ba-0df0-448d-bb53-ee47883f2be7",
-        "date_posted": 1764604736,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Seagate Technology ",
