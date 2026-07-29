@@ -200042,7 +200042,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -224939,7 +224939,7 @@
         "company_name": "GE Vernova",
         "id": "b999705a-0da3-486f-bf67-52950468bbe9",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -224963,7 +224963,7 @@
         "company_name": "GE Vernova",
         "id": "b693b1d7-b061-40b3-b7ee-a66cddbd42b6",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282917,7 +282917,7 @@
         "company_name": "Brunswick",
         "id": "a2b670ca-0966-45f7-9a77-1365adca98b8",
         "title": "Computer Graphics Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306244,7 +306244,7 @@
         "company_name": "KPH Healthcare Services",
         "id": "e3b700af-e7ed-4996-8e20-210929055da8",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338750,7 +338750,7 @@
         "company_name": "RSM",
         "id": "a4a63327-9224-4cff-a56d-a4ee9adb6cf3",
         "title": "Business Central Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -339546,7 +339546,7 @@
         "company_name": "XTX Markets",
         "id": "f47c36ad-cc2d-42e4-9f83-4e5ebe4340e0",
         "title": "Philanthropy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
