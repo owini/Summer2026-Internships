@@ -1,56 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "e58ad3e6-d27e-4a16-b91e-7a37db8fd6b7",
-        "title": "Application-Specific Integrated Circuit \u2013 Engineer Intern - ASIC",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764555268,
-        "date_posted": 1764555268,
-        "url": "https://amazon.jobs/en/jobs/3134081/application-specific-integrated-circuit-asic-engineer-internship-2026-us",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "5b7bacca-24bf-4491-9e54-823cd4251250",
-        "title": "Software Development Engineer Test Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764554884,
-        "date_posted": 1764554884,
-        "url": "https://amazon.jobs/en/jobs/3134079/software-development-engineer-test-intern-summer",
-        "locations": [
-            "Seattle, WA",
-            "Los Gatos, CA",
-            "NYC",
-            "Bellevue, WA",
-            "Cupertino, CA",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
@@ -332046,7 +331996,7 @@
         "company_name": "Varick Agents",
         "id": "c240d04c-b78f-4385-95d6-379ebd0c3801",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
