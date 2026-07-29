@@ -225236,7 +225236,7 @@
         "company_name": "Eulerity",
         "id": "6f53e7a8-a859-4111-972d-988f2d4b31e2",
         "title": "Android Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339883,7 +339883,7 @@
         "company_name": "Loblaw Companies",
         "id": "5d6565ee-57cf-4fcf-9e34-63db06c7b27e",
         "title": "Analyst Co-op - Data Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
