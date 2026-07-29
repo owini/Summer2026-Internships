@@ -57524,29 +57524,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Morgan Stanley",
-        "id": "10a8315a-069e-4177-a5e0-e546001384bf",
-        "title": "Machine Learning Research Associate Program - PhD",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764564624,
-        "date_posted": 1764564624,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Centific",
         "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
         "title": "Student Worker",
@@ -339569,7 +339546,7 @@
         "company_name": "Bank of Montreal",
         "id": "f762c709-479e-46fb-9c5a-1a6d1dc19968",
         "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339634,7 +339611,7 @@
         "company_name": "Bank of Montreal",
         "id": "e189179d-efd7-43f6-9072-206e51c3b392",
         "title": "Data and AI Operations Analyst Co-op/Internship - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
