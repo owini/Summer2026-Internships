@@ -200042,7 +200042,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -266987,7 +266987,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317783,7 +317783,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "d132216a-f98b-4a13-9f0f-2204eee2733a",
         "title": "Hardware Prototyping Intern - Data Center Rack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339773,7 +339773,7 @@
         "company_name": "Berkshire Grey",
         "id": "73bb6ea9-7c91-4d28-850a-8d24908aee9c",
         "title": "Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340136,6 +340136,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
+        "title": "Digital Vehicle Experience Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785334683,
+        "date_posted": 1785283200,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "77059d8e-b73d-47d8-916b-60c5925c13ab",
+        "title": "Autonomous Driving Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785334664,
+        "date_posted": 1785333971,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140462550",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
