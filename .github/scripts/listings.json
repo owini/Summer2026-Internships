@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
-        "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764568592,
-        "date_posted": 1764568592,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
-        "locations": [
-            "Silver Spring, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764858222,
         "sponsorship": "Other",
         "active": false,
@@ -337944,7 +337923,7 @@
         "company_name": "Blackberry",
         "id": "7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
         "title": "QNX Application Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
