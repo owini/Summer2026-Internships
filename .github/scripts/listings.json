@@ -335610,7 +335610,7 @@
         "company_name": "RSM",
         "id": "176683ad-4f54-4461-9907-17a88c4e7569",
         "title": "Tax Technology Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
