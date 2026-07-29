@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HERE Technologies",
-        "id": "9e2542a0-7769-4aea-ba17-7d6a79f61a8b",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764607151,
-        "date_posted": 1764607151,
-        "url": "https://careers-here.icims.com/jobs/78822/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/HERE-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HERE Technologies",
-        "id": "6e5f30a9-f2c0-4e99-8986-e385ce51ba3b",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764607150,
-        "date_posted": 1764607150,
-        "url": "https://careers-here.icims.com/jobs/78823/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/HERE-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Apex Fintech Solutions",
         "id": "9d3fed51-680c-43ea-973d-8580b15701bd",
@@ -34413,28 +34371,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh & McLennan",
-        "id": "3663406a-f1d4-489a-a573-de26f40d89e2",
-        "title": "Government Health Consulting Informatics Summer Intern - College Program 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764608378,
-        "date_posted": 1764608378,
-        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2026_R_332424-1",
-        "locations": [
-            "Phoenix, AZ",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
