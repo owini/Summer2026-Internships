@@ -248490,7 +248490,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -252461,7 +252461,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281627,7 +281627,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -288599,7 +288599,7 @@
         "company_name": "GE Healthcare",
         "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292193,7 +292193,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -308953,7 +308953,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309993,7 +309993,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315856,7 +315856,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323451,7 +323451,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337350,7 +337350,7 @@
         "company_name": "Magna",
         "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
         "title": "R&D-Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338152,7 +338152,7 @@
         "company_name": "Copart",
         "id": "b87fb0cc-a6b4-405f-8642-7485bd8fffee",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339138,7 +339138,7 @@
         "company_name": "Pennsylvania State University",
         "id": "d3981dc2-eb59-464b-bef9-70365bd9af64",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
