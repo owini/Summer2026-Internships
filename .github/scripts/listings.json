@@ -40195,7 +40195,7 @@
         "company_name": "TikTok",
         "id": "f7d5b131-06e8-4d41-8a6a-3513004116da",
         "title": "General Hire \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317826,7 +317826,7 @@
         "company_name": "Cloudflare",
         "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
         "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322954,7 +322954,7 @@
         "company_name": "DRW",
         "id": "d1bb038f-04a0-4995-9bcc-ff779f3a2054",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323272,7 +323272,7 @@
         "company_name": "DRW",
         "id": "6d81dba4-27af-4e8b-b52b-a5b3b123f393",
         "title": "FPGA Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323320,7 +323320,7 @@
         "company_name": "DRW",
         "id": "82a9dd04-7074-414b-8928-07e34a66ca17",
         "title": "Quantitative Trading Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339029,5 +339029,240 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trillium",
+        "id": "a00101f6-5c51-4a7d-a424-e3f3a7ac8a16",
+        "title": "Equity Trader",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785451362,
+        "date_posted": 1785450312,
+        "url": "https://www.trlm.com/apply/5191110007?gh_jid=5191110007",
+        "locations": [
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "3e85b72b-71fc-400c-ba5f-6453f85dff12",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785450601,
+        "date_posted": 1785369600,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sparksoft",
+        "id": "9f4f7324-75cc-408e-8f40-d332e544174f",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785451310,
+        "date_posted": 1785450179,
+        "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Sparksoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LightGuide, Inc.",
+        "id": "cdaa541b-91c1-4d8e-9532-02dc579cfa22",
+        "title": "Application Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785451089,
+        "date_posted": 1785449826,
+        "url": "https://ats.rippling.com/lightguide/jobs/37069bc9-a6ba-4841-97fb-b7d743826af0",
+        "locations": [
+            "Wixom, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/e4ceb7ca-b9b5-4eda-b494-85c226f01789",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autostore",
+        "id": "0c5577ea-da23-4f9c-b54f-70bc34fee45d",
+        "title": "AI Engineer - Hardware Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785450601,
+        "date_posted": 1785369600,
+        "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-USA/AI-Engineer---HW-Development_JR102615",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autostore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McGill University",
+        "id": "706c75b3-f742-409b-b72b-e6e9b3930bac",
+        "title": "Data & Analytics Coordinator",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785450601,
+        "date_posted": 1785369600,
+        "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Data---Analytics-Coordinator_JR0000079001",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McGill-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Rochester",
+        "id": "288b98cb-c28a-4749-b863-533bf90afd67",
+        "title": "Research Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785450708,
+        "date_posted": 1785369600,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GoDaddy",
+        "id": "12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785450644,
+        "date_posted": 1785449532,
+        "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/GoDaddy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Helsing",
+        "id": "d8dde7da-b9cd-456f-8810-481073996ee1",
+        "title": "AI Research Intern - 3D Computer Vision",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785449882,
+        "date_posted": 1785449524,
+        "url": "https://helsing.ai/jobs/4941957101?gh_jid=4941957101",
+        "locations": [
+            "London, UK",
+            "Paris, France",
+            "Berlin, Germany",
+            "Sant Cugat del Vall\u00e8s, Barcelona, Spain",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Helsing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "University of Virginia Investment Management Company (UVIMCO)",
+        "id": "7c270e85-d47c-4c59-88ce-1f61ded9511a",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785450949,
+        "date_posted": 1785364087,
+        "url": "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/UVIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
