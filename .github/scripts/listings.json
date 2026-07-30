@@ -1,100 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransUnion",
-        "id": "2ae511d6-d808-419c-9db1-0f70e9af5280",
-        "title": "Data Science & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764653022,
-        "date_posted": 1764653022,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2026_19038170",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "e711d59e-ae19-48d5-9148-5e7038a60393",
-        "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1764652409,
-        "date_posted": 1764652409,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony",
-        "id": "6fac482f-97c8-49bc-94b9-7088623f5f3f",
-        "title": "Engineering Intern - AI Ethics",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764652342,
-        "date_posted": 1764652342,
-        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Engineering-Intern--AI-Ethics-_JR-118474",
-        "locations": [
-            "California",
-            "Washington, DC",
-            "LA",
-            "Texas",
-            "San Jose, CA",
-            "Newark, NJ",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Daikin Applied",
-        "id": "64ff76af-138a-4c64-bf43-6ea642058c4d",
-        "title": "Energy Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764652327,
-        "date_posted": 1764652327,
-        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Tampa-FL-33619/Energy-Analyst-Intern_R000297-1",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Daikin-Applied",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Motorola",
         "id": "851c7bd4-52f5-4adc-b2e5-6c9acd67353b",
@@ -316654,7 +316560,7 @@
         "company_name": "Aptiv",
         "id": "f31b6c02-6615-4940-99d0-cbfb01419b3c",
         "title": "Associate Engineer - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327054,7 +326960,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
         "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338372,7 +338278,7 @@
         "company_name": "RSM",
         "id": "0bf94cb7-2b2d-40de-a556-981ceae82413",
         "title": "Business Intelligence Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -339068,7 +338974,7 @@
         "company_name": "RSM",
         "id": "08777d9c-a0f0-4302-b6ef-149f9ae7422b",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
