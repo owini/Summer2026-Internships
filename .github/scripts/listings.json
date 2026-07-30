@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Uhaul",
-        "id": "ca98fb6f-1da4-4462-835b-abc037464b92",
-        "title": "Software Development Intern - Software Development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764649538,
-        "date_posted": 1764649538,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Spring-Intern_R233385",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "07a3ac93-3449-40c4-ab46-955de891cc61",
         "title": "Software Engineering Intern - Circuit Simulation",
@@ -339035,7 +339014,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5083267e-7caf-40f1-ad4c-7ca8ac259584",
         "title": "Developer Grm - AI Innovation for Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
