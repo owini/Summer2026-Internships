@@ -27912,7 +27912,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -74288,7 +74288,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -239128,7 +239128,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239596,7 +239596,7 @@
         "company_name": "TikTok",
         "id": "74c89fde-4677-4b10-b706-43f45065e8e4",
         "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272590,7 +272590,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -278404,7 +278404,7 @@
         "company_name": "Medpace, Inc.",
         "id": "908ea2de-e80d-4c76-9020-f31ac7f04345",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306238,7 +306238,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1f22bcf0-083e-4c7f-819e-d6a83d4efadb",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313403,7 +313403,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "aff0f7eb-cbae-4dcd-a24a-f6e020259c05",
         "title": "Computing Undergraduate Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313908,7 +313908,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317715,7 +317715,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322110,7 +322110,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327202,7 +327202,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329306,7 +329306,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329643,7 +329643,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330309,7 +330309,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330395,7 +330395,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330441,7 +330441,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330997,7 +330997,7 @@
         "company_name": "Kinetic Systems",
         "id": "98fd8c34-90ad-4220-a736-36f13aaa2924",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331021,7 +331021,7 @@
         "company_name": "Monogram",
         "id": "d7821fbd-3cb4-4151-a853-5c8911d5ae97",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332916,7 +332916,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335770,7 +335770,7 @@
         "company_name": "MSI",
         "id": "3a767599-d8fd-41d0-bd1b-3537ed8da7fd",
         "title": "Rotational Undergraduate Analyst - Msi",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337196,7 +337196,7 @@
         "company_name": "Nelnet",
         "id": "11cb0443-c90b-467f-a21d-c37c98257a5f",
         "title": "Program Intern - Agentic AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337310,7 +337310,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338246,7 +338246,7 @@
         "company_name": "Brunswick",
         "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -338295,7 +338295,7 @@
         "company_name": "Newmont",
         "id": "7370520c-89d3-4038-b511-9357a4f2cbd4",
         "title": "Temp Technician - Core Shed",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338404,7 +338404,7 @@
         "company_name": "General Motors",
         "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
         "title": "Digital Vehicle Experience Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338611,7 +338611,7 @@
         "company_name": "Leidos",
         "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
