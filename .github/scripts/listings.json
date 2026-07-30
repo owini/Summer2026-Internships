@@ -299107,7 +299107,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312486,7 +312486,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -324656,7 +324656,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326297,7 +326297,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327443,7 +327443,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328559,7 +328559,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337717,7 +337717,7 @@
         "company_name": "RTX",
         "id": "febce9fd-e8ba-4d95-85fb-4d00b3760c44",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337995,7 +337995,7 @@
         "company_name": "RTX",
         "id": "513036c6-8bdd-44bf-8c57-e5d73bf66998",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338524,7 +338524,7 @@
         "company_name": "RTX",
         "id": "f28ce710-20a1-4d92-ad55-c5af195bebef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338547,7 +338547,7 @@
         "company_name": "Leidos",
         "id": "93127e7e-efae-4f1e-9ad1-c722e20cf3aa",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
