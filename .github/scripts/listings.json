@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Fiserv",
-        "id": "589af6f6-9f42-4bff-afe4-60e33759767f",
-        "title": "Technology Intern Program - Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764642796,
-        "date_posted": 1764642796,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology-Summer-Internship-Program---Application-Development--Berkeley-Heights--NJ-_R-10382311",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uhaul",
         "id": "ca98fb6f-1da4-4462-835b-abc037464b92",
         "title": "Software Development Intern - Software Development",
@@ -339507,6 +339486,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c6b69846-839a-44c7-b22c-fa62c69a2ffd",
+        "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781504821,
+        "date_posted": 1781503947,
+        "url": "https://lifeattiktok.com/search/7572358528171510069",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
