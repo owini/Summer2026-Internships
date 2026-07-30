@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AffiniPay",
-        "id": "263816ad-9073-4fcc-a715-7393a194ffaf",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764656340,
-        "date_posted": 1764656340,
-        "url": "https://www.8am.com/openings/?gh_jid=4622069006",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AffiniPay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Commonwealth of Massachusetts",
         "id": "66e8c7ad-4c85-4ff7-ae29-13e3b0d433de",
@@ -322117,7 +322096,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337092,7 +337071,7 @@
         "company_name": "RSM",
         "id": "bca3fb5a-31ba-4b4c-ba79-d90e1105b572",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -337138,7 +337117,7 @@
         "company_name": "RSM",
         "id": "8fd43783-717e-437c-9ad2-a3f7f542958d",
         "title": "ServiceNow Developer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337648,7 +337627,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338233,7 +338212,7 @@
         "company_name": "RSM",
         "id": "cc379a3a-81b6-4514-92a2-e9cf308f6ee4",
         "title": "Business Intelligence Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -339310,5 +339289,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "e1ef0c61-0133-4fe9-b4eb-f96359766b1f",
+        "title": "Trading Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785392525,
+        "date_posted": 1785391699,
+        "url": "https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
