@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Harvard Business Publishing",
-        "id": "e6ca74c2-8674-4fe2-a88f-e5dae2ebbf82",
-        "title": "Data Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764700208,
-        "date_posted": 1764700208,
-        "url": "https://hbpublishing.wd1.myworkdayjobs.com/en-US/Careers/job/Boston/Data-Engineering-Co-Op_JR250407",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/d81af397-171b-4d7e-972e-b4ec5cf23ea0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Washpost",
-        "id": "7302efc7-3bda-4998-8b68-c0b44443fb5e",
-        "title": "Intern - PhD AI/ML Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764700141,
-        "date_posted": 1764700141,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--PhD-AI-ML-Scientist_JR-90275622",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Altera Corporation",
         "id": "de5b5445-7a0c-4909-8604-bff3a9b625a4",
@@ -330970,7 +330928,7 @@
         "company_name": "Tencent",
         "id": "dabc1659-9f8e-46a2-aeab-f8c530bdc54d",
         "title": "AI Agent Research & Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
