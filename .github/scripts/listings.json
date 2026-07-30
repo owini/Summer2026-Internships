@@ -310869,7 +310869,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "64f8ea93-94b9-49f5-8369-66579fc43d6d",
         "title": "Research Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315542,7 +315542,7 @@
         "company_name": "Valeo",
         "id": "57867254-f2d4-4dde-8c88-48df01a1f80f",
         "title": "Warranty Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321902,7 +321902,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332806,7 +332806,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338294,7 +338294,7 @@
         "company_name": "General Motors",
         "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
         "title": "Digital Vehicle Experience Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338919,7 +338919,7 @@
         "company_name": "Generac",
         "id": "5fc3c1a1-dbbe-4761-91dd-17a0ab5f94c1",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
