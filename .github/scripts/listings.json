@@ -337048,7 +337048,7 @@
         "company_name": "RSM",
         "id": "d1fd9426-66a2-4330-accc-1e88592772e5",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
