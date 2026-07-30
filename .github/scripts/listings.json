@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plexus",
-        "id": "d4b10bec-2fcd-42f4-8194-b1568d20ef2d",
-        "title": "Summer Internship 2026 - Engineering Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764673219,
-        "date_posted": 1764673219,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Livingston-United-Kingdom/Summer-Internship-2026---Engineering-Solutions_R035272",
-        "locations": [
-            "Livingston, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ciena",
         "id": "be0d3c5b-5d80-40a8-9b51-3fcb5e78a7f0",
@@ -246750,7 +246729,7 @@
         "company_name": "Regal Rexnord",
         "id": "cbab2238-fe0a-4455-883d-7e0d95e8d4fc",
         "title": "Application Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -265247,7 +265226,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -274618,7 +274597,7 @@
         "company_name": "Medpace, Inc.",
         "id": "ea8ff237-6cb5-424b-917e-9ce08abf23a1",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -280100,7 +280079,7 @@
         "company_name": "Medpace, Inc.",
         "id": "e484710b-5e00-46ed-bb45-b6b53b1559ac",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -285476,7 +285455,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -286859,7 +286838,7 @@
         "company_name": "GE Healthcare",
         "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290476,7 +290455,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307213,7 +307192,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314116,7 +314095,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318577,7 +318556,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320374,7 +320353,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327911,7 +327890,7 @@
         "company_name": "Magna",
         "id": "bd081463-2c78-438c-87f7-e4ad5d580efa",
         "title": "AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328518,7 +328497,7 @@
         "company_name": "GE Healthcare",
         "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328975,7 +328954,7 @@
         "company_name": "RTX",
         "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
         "title": "Machine Learning Researcher Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329833,7 +329812,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330075,7 +330054,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330263,7 +330242,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -330286,7 +330265,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -330395,7 +330374,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332375,7 +332354,7 @@
         "company_name": "Magna",
         "id": "b00bb3e9-1948-4552-b774-ff0117f8b02f",
         "title": "Student Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332916,7 +332895,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335610,7 +335589,7 @@
         "company_name": "Magna",
         "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
         "title": "R&D-Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338316,7 +338295,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
