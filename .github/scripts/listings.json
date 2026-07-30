@@ -156249,7 +156249,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -172435,7 +172435,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248622,7 +248622,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255424,7 +255424,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286701,7 +286701,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -294868,7 +294868,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295166,7 +295166,7 @@
         "company_name": "thyssenkrupp",
         "id": "5830852c-614b-4f98-b679-c96b5f7474be",
         "title": "Trader Trainee - Steel",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296025,7 +296025,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312016,7 +312016,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312670,7 +312670,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320313,7 +320313,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321925,7 +321925,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325191,7 +325191,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325708,7 +325708,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328654,7 +328654,7 @@
         "company_name": "Copart",
         "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336325,7 +336325,7 @@
         "company_name": "Copart",
         "id": "b87fb0cc-a6b4-405f-8642-7485bd8fffee",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337223,7 +337223,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338018,7 +338018,7 @@
         "company_name": "RTX",
         "id": "513036c6-8bdd-44bf-8c57-e5d73bf66998",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338317,7 +338317,7 @@
         "company_name": "General Motors",
         "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
         "title": "Digital Vehicle Experience Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338477,7 +338477,7 @@
         "company_name": "Loop",
         "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -338524,7 +338524,7 @@
         "company_name": "Leidos",
         "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338547,7 +338547,7 @@
         "company_name": "RTX",
         "id": "f28ce710-20a1-4d92-ad55-c5af195bebef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338570,7 +338570,7 @@
         "company_name": "Leidos",
         "id": "93127e7e-efae-4f1e-9ad1-c722e20cf3aa",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
