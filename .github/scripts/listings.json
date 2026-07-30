@@ -307192,7 +307192,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "ddf8f5ba-8df7-4234-81b1-d96671596a99",
         "title": "Buildings and Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338294,7 +338294,7 @@
         "company_name": "General Motors",
         "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
         "title": "Digital Vehicle Experience Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339161,6 +339161,52 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0b26c2f0-079a-457d-b9bc-8123655ff605",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785422216,
+        "date_posted": 1785369600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Turner & Townsend",
+        "id": "60982936-8c74-4ce2-b381-e2ef98139011",
+        "title": "Corporate Responsibility Data Analyst 4 Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785421979,
+        "date_posted": 1785420430,
+        "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000140674514",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Turner-And-Townsend",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
