@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invenergy",
-        "id": "d6ea3e56-748d-43ec-8ed8-c6fb73966f48",
-        "title": "Intern Data Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764728516,
-        "date_posted": 1764728516,
-        "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Intern--Data-Engineering_R10144-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nidec",
         "id": "1f44f8c5-693c-4bb5-bb74-4ef477ca176e",
@@ -132,27 +111,6 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Paccar",
-        "id": "c3b9a889-8c9b-4028-8215-0a73267d6e20",
-        "title": "2026 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764728831,
-        "date_posted": 1764728831,
-        "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1272883801/?ats=successfactors",
-        "locations": [
-            "Denton, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Paccar",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
