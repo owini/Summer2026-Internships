@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Microchip Technology",
-        "id": "24d75ec5-a818-444c-b7a3-670e10e19e1c",
-        "title": "Intern-Engineering - Data Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764731857,
-        "date_posted": 1764731857,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Engineering-_R1967-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Figure",
-        "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
-        "title": "Embedded Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764731127,
-        "date_posted": 1764731127,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Motorola",
         "id": "c3778776-8ed1-4ec8-8781-ce5569be1206",
         "title": "Data Scientist Intern",
