@@ -271742,7 +271742,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332537,7 +332537,7 @@
         "company_name": "G-Research",
         "id": "ff38f8af-bafd-4a27-b65d-e65d625efe50",
         "title": "Machine Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332633,7 +332633,7 @@
         "company_name": "G-Research",
         "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334692,7 +334692,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335898,7 +335898,7 @@
         "company_name": "RTX",
         "id": "febce9fd-e8ba-4d95-85fb-4d00b3760c44",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336475,7 +336475,7 @@
         "company_name": "General Motors",
         "id": "c230276a-b920-41ea-8f1f-e751ebe957a0",
         "title": "Digital Vehicle Experience Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338268,5 +338268,47 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Association of People With Disabilities",
+        "id": "67b5b449-b8c2-494e-a306-0e9bc0573ab3",
+        "title": "Disability Data Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785508120,
+        "date_posted": 1784596317,
+        "url": "https://ats.rippling.com/aapd-jobs/jobs/d6167f67-df46-44ae-b7d6-63b7b50b0acd",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/968ce368-8d68-475d-90c1-247d35217e67",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
+        "title": "Software Engineer Intern - Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785507837,
+        "date_posted": 1785507001,
+        "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
