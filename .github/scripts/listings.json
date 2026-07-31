@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ServiceNow",
-        "id": "c6456e63-35d5-4467-87d7-d275a2eafd58",
-        "title": "Portfolio Associate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764721895,
-        "date_posted": 1764721895,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096698843",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "40374267-4927-48b8-ac35-6314c39e4a5f",
-        "title": "Service Offering Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764721890,
-        "date_posted": 1764721890,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096702565",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zscaler",
-        "id": "bf170d98-8fd5-41c3-91b7-2b2f36d5d0c9",
-        "title": "Product Management Intern - AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764722274,
-        "date_posted": 1764722274,
-        "url": "https://job-boards.greenhouse.io/zscaler/jobs/4996494007",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zscaler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Found Energy",
         "id": "62f50214-a277-4ad0-8710-d7c4a46fde67",
@@ -283685,7 +283622,7 @@
         "company_name": "Astranis",
         "id": "e6484fbc-0112-45c8-912b-94742f46f010",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
