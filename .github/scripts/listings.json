@@ -194809,7 +194809,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257210,7 +257210,7 @@
         "company_name": "Gemini",
         "id": "33d49b99-ffcc-4d51-ab65-58a97d2afbf0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288016,7 +288016,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312042,7 +312042,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312876,7 +312876,7 @@
         "company_name": "Tesla",
         "id": "5288f66e-452b-4ae7-a62d-12249dce5312",
         "title": "Machine Learning Intern - AI Engineer - Tesla AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314616,7 +314616,7 @@
         "company_name": "Fidelity Investments",
         "id": "17699a31-38e1-4e82-b409-fe317a841c6f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319528,7 +319528,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -320697,7 +320697,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -324517,7 +324517,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328464,7 +328464,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331187,7 +331187,7 @@
         "company_name": "JINGDONG",
         "id": "703d62e8-5b5a-4924-8563-296e03ecd37f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331497,7 +331497,7 @@
         "company_name": "North Cloud",
         "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
         "title": "AI Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334523,7 +334523,7 @@
         "company_name": "GE Appliances",
         "id": "0951e693-d645-4f21-a9eb-fb285f82ae9c",
         "title": "AI Data Science Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335330,7 +335330,7 @@
         "company_name": "Nelnet",
         "id": "11cb0443-c90b-467f-a21d-c37c98257a5f",
         "title": "Program Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336607,7 +336607,7 @@
         "company_name": "Leidos",
         "id": "13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338166,5 +338166,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NAXO",
+        "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
+        "title": "Technical Investigations Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785487272,
+        "date_posted": 1784596279,
+        "url": "https://ats.rippling.com/naxo/jobs/09e22a83-c30d-47ce-903d-f684e17f656c",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/bc41abff-ec14-4c4b-98d9-5cc02abf0715",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
