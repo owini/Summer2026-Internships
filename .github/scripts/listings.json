@@ -337269,7 +337269,7 @@
         "company_name": "Menasha Corporation",
         "id": "720b84ca-84d8-43bc-9284-172ad2ed475f",
         "title": "Supply Chain Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337569,7 +337569,7 @@
         "company_name": "BlackRock",
         "id": "87da713b-e024-4492-b0c5-f4967a852bdb",
         "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
