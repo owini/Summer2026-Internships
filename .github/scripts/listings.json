@@ -332597,7 +332597,7 @@
         "company_name": "Iowa State University",
         "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333941,7 +333941,7 @@
         "company_name": "City of Austin",
         "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
         "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
