@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "4d0d580d-c94a-4400-907a-18c33386da35",
-        "title": "Technical AI Architect Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764782306,
-        "date_posted": 1764782306,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096854835",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tencent",
-        "id": "2962898c-fae7-45cf-9285-736c2c1b01bc",
-        "title": "Data Product Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764782183,
-        "date_posted": 1764782183,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R106486",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
@@ -334397,7 +334355,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
