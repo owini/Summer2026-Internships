@@ -65597,7 +65597,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -194809,7 +194809,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257210,7 +257210,7 @@
         "company_name": "Gemini",
         "id": "33d49b99-ffcc-4d51-ab65-58a97d2afbf0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -270724,7 +270724,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288016,7 +288016,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318319,7 +318319,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320244,7 +320244,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323862,7 +323862,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324517,7 +324517,7 @@
         "company_name": "Tencent",
         "id": "1da1916d-7918-44db-9d73-5bc1eb73ea7f",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326852,7 +326852,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327440,7 +327440,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327967,7 +327967,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328163,7 +328163,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328232,7 +328232,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328420,7 +328420,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -328464,7 +328464,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331474,7 +331474,7 @@
         "company_name": "Exploration Technology Corp.",
         "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334523,7 +334523,7 @@
         "company_name": "GE Appliances",
         "id": "0951e693-d645-4f21-a9eb-fb285f82ae9c",
         "title": "AI Data Science Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336380,7 +336380,7 @@
         "company_name": "Brunswick",
         "id": "355b5e1d-f111-47b2-8e17-99593839fef6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -336607,7 +336607,7 @@
         "company_name": "Leidos",
         "id": "13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336698,7 +336698,7 @@
         "company_name": "Loop",
         "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -337274,7 +337274,7 @@
         "company_name": "Leidos",
         "id": "205cf06e-c0ef-44b0-b53d-7779000c4f23",
         "title": "Reports Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338187,5 +338187,35 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citylogix Inc.",
+        "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
+        "title": "Field Data Collection Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785488437,
+        "date_posted": 1785363479,
+        "url": "https://ats.rippling.com/citylogix/jobs/6e9e5f30-7699-402f-9979-1fe75671f0ec",
+        "locations": [
+            "Las Vegas, NV",
+            "Seattle, WA",
+            "Dallas, TX",
+            "Wakefield, MA",
+            "Phoenix, AZ",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/c16363aa-c9a1-4796-91d9-11de47269bec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
