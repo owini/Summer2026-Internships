@@ -315093,7 +315093,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338444,6 +338444,52 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "8183f0b3-f63a-4b40-a5f3-9b6811decada",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785510361,
+        "date_posted": 1785456000,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017832",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ROCKWOOL Group",
+        "id": "19968d65-79a7-4f66-ab8a-7c71dd76b833",
+        "title": "Product Management Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785510361,
+        "date_posted": 1785456000,
+        "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Milton-Ontario/Product-Management-Co-op_R0035961",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ROCKWOOL-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
