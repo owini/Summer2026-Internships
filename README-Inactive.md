@@ -418,7 +418,7 @@
 </tr>
 <tr>
 <td>↳</td>
-<td>Natural Language Processing Intern</td>
+<td>Machine Learning Research Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
 <td>8d</td>
