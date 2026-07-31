@@ -330673,7 +330673,7 @@
         "company_name": "Ciena",
         "id": "79710552-fb6a-4392-b3e7-d23c2d22f5f4",
         "title": "Routing/IP Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336298,7 +336298,7 @@
         "company_name": "Loop",
         "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -337246,7 +337246,7 @@
         "company_name": "Avery Dennison",
         "id": "902d3dbb-4510-4992-9df9-7d4d6ea58f64",
         "title": "RFID Applications Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
