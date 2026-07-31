@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Takeda",
-        "id": "e92ee221-83e3-488c-8c92-4b74cbeef5f1",
-        "title": "Intern Program: Audio Processing & Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764734918,
-        "date_posted": 1764734918,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Audio-Processing---Machine-Learning-Intern_R0165952",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Takeda",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Adobe",
         "id": "1680d782-02c0-462d-a55d-36adf2d17dc0",
@@ -328884,7 +328863,7 @@
         "company_name": "NationGraph",
         "id": "a196474c-7f86-4710-8275-f7701867a7ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
