@@ -23,91 +23,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "80a17625-cac7-4d86-a3a4-8c7cde7018f3",
-        "title": "TD Talent Connect \u2013 Co-op/Intern Applicants - University of Toronto - January  & 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764745091,
-        "date_posted": 1764745091,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TD-Talent-Connect---University-of-Toronto--January-15---16--2026-_R_1458605",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "0b791aea-83e2-45e1-8816-12ef84c88842",
-        "title": "Intern - AEM Customer Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764745128,
-        "date_posted": 1764745128,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---AEM-Customer-Engineering_R163037",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "448ee710-8d41-4b8b-a911-c8c3ee4bbcaa",
-        "title": "Firmware Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764744947,
-        "date_posted": 1764744947,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Firmware-Engineering-Intern_WD30255550",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OLG",
-        "id": "4cc5f7b5-f722-4b88-87cf-af3d8a203911",
-        "title": "Information Governance Specialist \u2013 Co-op Student",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764743886,
-        "date_posted": 1764743886,
-        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Governance-Student_R25_00573",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Sault Ste. Marie, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OLG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Bluestaq",
         "id": "964d5c3b-b5f5-4423-85ec-3940c17483fe",
@@ -326981,7 +326896,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
