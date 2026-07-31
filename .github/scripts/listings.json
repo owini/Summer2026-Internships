@@ -2,91 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Found Energy",
-        "id": "62f50214-a277-4ad0-8710-d7c4a46fde67",
-        "title": "Data Engineer Spring Co-op Spring",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764725430,
-        "date_posted": 1764725430,
-        "url": "https://job-boards.greenhouse.io/foundenergy/jobs/4622586006",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Found-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Okta",
-        "id": "474277a7-3565-4285-87ca-a712d5fa5e76",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764725063,
-        "date_posted": 1764725063,
-        "url": "https://www.okta.com/company/careers/opportunity/7235551?gh_jid=7235551",
-        "locations": [
-            "SF",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Okta",
-        "id": "c623f245-0ece-401f-b96c-299254dcecb6",
-        "title": "MBA Product Management Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764724954,
-        "date_posted": 1764724954,
-        "url": "https://www.okta.com/company/careers/opportunity/7310653?gh_jid=7310653",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "b654d596-e009-4b53-b6e0-26e27207ff3f",
-        "title": "Software Engineer \u2013 Metal Runtime Intern/PEY - Metal Runtime",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764724447,
-        "date_posted": 1764724446,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4985490007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Washpost",
         "id": "6c0257d7-a3d4-429a-8866-f9a9e17728ea",
         "title": "Intern - AI/ML Scientist",
@@ -338624,5 +338539,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Melius",
+        "id": "3d88fb1f-4b46-4e88-a576-048f777a91f2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785461215,
+        "date_posted": 1785460817,
+        "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/b15d5763-3eb7-4175-8cb2-c2d3537830b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arizona State University",
+        "id": "3c1b2328-d3a3-402c-b2bd-6a357bcea69a",
+        "title": "Management Intern - Career Data and Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785459961,
+        "date_posted": 1785369600,
+        "url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Arizona-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
