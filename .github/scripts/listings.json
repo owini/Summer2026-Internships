@@ -273991,7 +273991,7 @@
         "company_name": "Neuralink",
         "id": "7f826bfb-a9e6-425c-a6dc-82510874e1d0",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274334,7 +274334,7 @@
         "company_name": "Adobe",
         "id": "f354f30b-fb00-4fd5-b41d-93958a339309",
         "title": "Research Scientist/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314672,7 +314672,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335239,7 +335239,7 @@
         "company_name": "Apple",
         "id": "f1381efc-bd99-480d-b226-47a4c8e911f0",
         "title": "Applied Data Solutions Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337557,7 +337557,7 @@
         "company_name": "University of Virginia Investment Management Company (UVIMCO)",
         "id": "7c270e85-d47c-4c59-88ce-1f61ded9511a",
         "title": "Investment Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338284,6 +338284,27 @@
             "South SF"
         ],
         "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InstaLILY",
+        "id": "a2aeebc4-51ed-4d12-a99b-4015f9481842",
+        "title": "Software Engineer 1 Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785537082,
+        "date_posted": 1785535966,
+        "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4342089009",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/InstaLILY",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
