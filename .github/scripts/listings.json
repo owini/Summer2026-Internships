@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amgen",
-        "id": "48b7222e-4a05-4350-8ed3-a3e6e9f9a172",
-        "title": "R&D Digital Operations Grad Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764811456,
-        "date_posted": 1764811456,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/R-D-Digital-Operations---Grad-Intern_R-231752",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baxter International",
-        "id": "2f85fe2d-c0a6-4c33-b9aa-25efeb7a1310",
-        "title": "R&D Engineering Co-op for Digital Platforms - Connected Care",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764811387,
-        "date_posted": 1764811387,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/R-D-Engineering-Co-op-for-Digital-Platforms---Connected-Care_JR-191844-1",
-        "locations": [
-            "Auburn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransUnion",
-        "id": "bc7762e5-8638-466a-b9ba-0625be71aaaf",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764811101,
-        "date_posted": 1764811101,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analyst-Internship---Summer-2026_19038486",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransUnion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "AccuWeather",
         "id": "a545b5ce-3ef4-45c1-b468-a833e7f67bdc",
         "title": "Data Operations Engineer Intern - Spring/Summer 2026",
@@ -314790,7 +314727,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337744,7 +337681,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Data and Analytics Team Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338004,6 +337941,124 @@
             "Glendale, CA"
         ],
         "company_url": "https://simplify.jobs/c/ce0a7238-3a00-4964-a9ac-8359c2d519f8",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microchip Technology",
+        "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
+        "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785547375,
+        "date_posted": 1785456000,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SiMa.ai",
+        "id": "ce5c150d-10d5-4180-94b8-d13815629bd6",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785547372,
+        "date_posted": 1785546765,
+        "url": "https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiMa-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SiMa.ai",
+        "id": "0a6e8f8a-9c2f-4d47-afca-480371ebbaa1",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785547369,
+        "date_posted": 1785546765,
+        "url": "https://jobs.jobvite.com/simaai/job/o6RqAfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiMa-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SiMa.ai",
+        "id": "03f4f39a-6621-4d07-a217-dee3032bbc62",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785547377,
+        "date_posted": 1785546765,
+        "url": "https://jobs.jobvite.com/simaai/job/oBUkAfw9?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiMa-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
+        "title": "Sector Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785546723,
+        "date_posted": 1785546412,
+        "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
