@@ -23983,7 +23983,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -156897,7 +156897,7 @@
         "company_name": "Nio",
         "id": "4ea55721-8b99-4c35-9153-70fbe060609a",
         "title": "Systems Verification & Concurrent Kernel Architecture Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169694,7 +169694,7 @@
         "company_name": "Monolithic Power Systems",
         "id": "a2f342be-ccae-44b7-8563-6589e27bd20c",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172671,7 +172671,7 @@
         "company_name": "Microchip Technology",
         "id": "535343c5-cc36-48c6-8edc-cb3602183366",
         "title": "Intern Technician - Electronics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184219,7 +184219,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -226520,7 +226520,7 @@
         "company_name": "Moog ",
         "id": "d8ba3403-7b44-457e-b0fa-fa0b885bfec1",
         "title": "Intern IT Computer Science - Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238202,7 +238202,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -245298,7 +245298,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -245525,7 +245525,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251733,7 +251733,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "de513e60-9aa2-49b0-a4ff-1706a0c29703",
         "title": "Transient Research Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -260757,7 +260757,7 @@
         "company_name": "Occidental Petroleum",
         "id": "a1a84ea1-f3a8-445d-beab-d7ab4fab2d66",
         "title": "Process Systems Engineering Co-op - Automation & Data Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -260941,7 +260941,7 @@
         "company_name": "Pennsylvania State University",
         "id": "53c34c77-e7ea-4353-8938-bccf7cd46971",
         "title": "Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -268047,7 +268047,7 @@
         "company_name": "Cisive",
         "id": "e018a2ac-82d3-4544-85aa-440aa29efa03",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281646,7 +281646,7 @@
         "company_name": "American Enterprise Institute",
         "id": "8e36a779-899f-4b82-a1ef-0a881ba99667",
         "title": "Intern: Economic Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -281667,7 +281667,7 @@
         "company_name": "American Enterprise Institute",
         "id": "f878e10c-cdc3-43e4-ad04-ce59b74620e5",
         "title": "Housing Center Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -282065,7 +282065,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283377,7 +283377,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -287042,7 +287042,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297248,7 +297248,7 @@
         "company_name": "Walleye Capital",
         "id": "3ae897a1-0ad7-410e-8882-d492c1f9e19a",
         "title": "Risk Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297272,7 +297272,7 @@
         "company_name": "Walleye Capital",
         "id": "37f29e78-6188-4883-8606-42dcbabb6448",
         "title": "Volatility Trading Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297702,7 +297702,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299473,7 +299473,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307733,7 +307733,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c40fd9e2-3295-4cb4-a082-0102aefe562b",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314207,7 +314207,7 @@
         "company_name": "Moss & Associates",
         "id": "eb7c9278-b747-41eb-bd43-ea34cc2fb046",
         "title": "Construction Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -315166,7 +315166,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316892,7 +316892,7 @@
         "company_name": "Cadence Design Systems",
         "id": "9778af58-1bb3-45ce-8c29-a47b0cc9fb65",
         "title": "Characterization and Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327820,7 +327820,7 @@
         "company_name": "iHeartMedia",
         "id": "dc07a772-7098-4944-850d-dd912b2426e1",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327938,7 +327938,7 @@
         "company_name": "Pennsylvania State University",
         "id": "df79d9c9-6455-48cb-ab4f-b3339523befb",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328281,7 +328281,7 @@
         "company_name": "Pennsylvania State University",
         "id": "bb2a6ad0-6c5b-4465-8000-4860902ca8ed",
         "title": "Graduate Student Researcher - Mohney Group - Materials Science and Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329858,7 +329858,7 @@
         "company_name": "Castleton Commodities International",
         "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331151,7 +331151,7 @@
         "company_name": "G-Research",
         "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334508,7 +334508,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "61874299-a120-43cc-930f-cca8990e152b",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334811,7 +334811,7 @@
         "company_name": "Richemont",
         "id": "7a671b3f-8535-4895-8252-5687d2076563",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336749,7 +336749,7 @@
         "company_name": "Exclusive Networks",
         "id": "961779d9-4186-4d2e-b491-eab7bcacf2bd",
         "title": "Data Quality & Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337971,6 +337971,117 @@
         "date_updated": 1785585284,
         "date_posted": 1782956059,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Lab-Digital-Assistant_REQ_0000063121-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northeastern University",
+        "id": "99283317-d8aa-4b4e-be87-1a9bd31e8e11",
+        "title": "Temporary R&D Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785587041,
+        "date_posted": 1782561451,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northeastern-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Enterprise Institute",
+        "id": "f5642c16-daa2-4dc0-b84e-72e8da651a10",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785586078,
+        "date_posted": 1777673153,
+        "url": "https://internships-aei.icims.com/jobs/2616/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "99fd4fea-9448-43fb-b508-02d40e96e743",
+        "title": "Analog/Mixed-Signal IC Design Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785585731,
+        "date_posted": 1781950223,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "5fbba90c-984b-42ee-9d19-08f6cb6ad548",
+        "title": "Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785587238,
+        "date_posted": 1781952436,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electronic-Materials-and-Devices-Engineering-Intern_REQ_0000053210",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "4d9e8b53-4547-441e-9720-9ce1a24fdd5b",
+        "title": "Research Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785586229,
+        "date_posted": 1781361067,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000066766-1",
         "locations": [
             "University Park, State College, PA"
         ],
