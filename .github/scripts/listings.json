@@ -280470,7 +280470,7 @@
         "company_name": "Canadian Tire",
         "id": "0f463052-90cf-461f-8e7e-1212e29e75df",
         "title": "Data Engineering Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336498,7 +336498,7 @@
         "company_name": "Arizona State University",
         "id": "3c1b2328-d3a3-402c-b2bd-6a357bcea69a",
         "title": "Management Intern - Career Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336519,7 +336519,7 @@
         "company_name": "Heliux",
         "id": "8b98f33d-21b5-4ae4-af04-3b7378193f39",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336540,7 +336540,7 @@
         "company_name": "Heliux",
         "id": "5410157c-2206-4b07-8f6c-ef7f52129039",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -336882,7 +336882,7 @@
         "company_name": "City of Charlotte",
         "id": "ad1739cf-7cc5-44e3-aea0-36da03f51710",
         "title": "Utility AI Interaction Designer Co-Op 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336953,7 +336953,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "19968d65-79a7-4f66-ab8a-7c71dd76b833",
         "title": "Product Management Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337076,7 +337076,7 @@
         "company_name": "PSECU",
         "id": "c798be75-f002-4735-ae90-3a77727b897e",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337210,7 +337210,7 @@
         "company_name": "City of Austin",
         "id": "8ab18c77-7639-4f8a-94ee-c6b27666656c",
         "title": "Business Intelligence Intern - Business Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337348,7 +337348,7 @@
         "company_name": "Zello",
         "id": "ca4a90fa-f101-407e-a127-80abe844feab",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337392,7 +337392,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338941,5 +338941,26 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Austin",
+        "id": "d719e9cc-0e4d-4015-9ad9-367e0858f42d",
+        "title": "Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785622571,
+        "date_posted": 1785456000,
+        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
