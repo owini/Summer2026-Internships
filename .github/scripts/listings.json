@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "0ffcbb9c-c1eb-4201-9bca-af90d98cfeb3",
-        "title": "Software Fellow Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764814587,
-        "date_posted": 1764814587,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern----Software-Fellow-Engineer-Intern---Onsite--PA-_01807187",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "1X",
-        "id": "100e835b-53b4-4c8e-b181-fbea87138613",
-        "title": "CNC Machine Park Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764814046,
-        "date_posted": 1764814046,
-        "url": "https://1x.recruitee.com/o/cnc-machine-park-internship",
-        "locations": [
-            "Hayward, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1x",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uhaul",
-        "id": "f6af4cf7-7e01-4de9-b540-d1282b680abf",
-        "title": "U-Box Data Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764814674,
-        "date_posted": 1764814674,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/U-Box-Data-Engineer-Spring-Intern_R233436",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Paccar",
-        "id": "4f5e2863-2004-4c2d-a417-987bf7bedc2e",
-        "title": "Data Scientist",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764814118,
-        "date_posted": 1764814118,
-        "url": "https://jobs.paccar.com/job/Lewisville-Data-Scientist-Summer-Internship-2026-TX-75067/1273328001/?ats=successfactors",
-        "locations": [
-            "Lewisville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Paccar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Oracle",
         "id": "f0ae404f-2f29-4ba8-aed0-6904806b603d",
@@ -52832,27 +52748,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KIKOFF Leagues",
-        "id": "602c607a-9068-460f-8fd5-d49d575a59af",
-        "title": "AI Growth Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1764814449,
-        "date_posted": 1764814449,
-        "url": "https://jobs.ashbyhq.com/kikoff/f3b4ea2e-ceb9-4e2e-a35f-dba2d66bb8e2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/KIKOFF-Leagues",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
