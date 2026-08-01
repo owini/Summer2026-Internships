@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "1be347ce-62f2-4fa8-b211-aef8b048c111",
-        "title": "Software Engineering Intern - Omniverse Replicator",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764858327,
-        "date_posted": 1764858327,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1764863294,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -141379,7 +141358,7 @@
         "company_name": "Brookfield",
         "id": "413d4356-f795-4ec6-a74e-db82af5f19cb",
         "title": "Artificial Intelligence Intern - Renewable Power & Transition",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152949,7 +152928,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -273726,7 +273705,7 @@
         "company_name": "Ferrovial",
         "id": "65af49e6-163e-4ddd-8e68-1d1a4692de07",
         "title": "Digital Construction & Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281928,7 +281907,7 @@
         "company_name": "University of Virginia",
         "id": "7dc5c5a8-3a1b-4c63-ac80-e2dd4b336f29",
         "title": "TFWS Research and Insights Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -288329,7 +288308,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "f67f6341-7b86-4397-a467-a0e0538e54ce",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288895,7 +288874,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320346,7 +320325,7 @@
         "company_name": "NXP Semiconductors",
         "id": "e790b9f8-a895-4493-b4b7-acfffcb9b5d7",
         "title": "Digital Physical Design Intern - P&R",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329907,7 +329886,7 @@
         "company_name": "Castleton Commodities International",
         "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
         "title": "Full-Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331055,7 +331034,7 @@
         "company_name": "G-Research",
         "id": "ff38f8af-bafd-4a27-b65d-e65d625efe50",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331968,7 +331947,7 @@
         "company_name": "Northwestern Mutual",
         "id": "b325b0d7-6893-48a0-ba15-2cb50835c698",
         "title": "Investment Analyst Intern - Private Debt & Equity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334416,7 +334395,7 @@
         "company_name": "RTX",
         "id": "febce9fd-e8ba-4d95-85fb-4d00b3760c44",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335129,7 +335108,7 @@
         "company_name": "Euronext",
         "id": "4312a2c5-15b1-48e5-98cf-0ad7f7ee2333",
         "title": "Sales Analyst - Vie",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335660,7 +335639,7 @@
         "company_name": "CVS Health",
         "id": "40c1294a-a472-402c-882b-843d26a07449",
         "title": "Analytics & Behavior Change - Data Science - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338351,5 +338330,72 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "95ec2e27-5ee7-4cbd-815a-f2626c46c4ea",
+        "title": "Visitor",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785594242,
+        "date_posted": 1782554831,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0307-Madison-B-Sturgis-New-Agronomy-Bldg/Contingent-worker---visiting_R00115792",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nationwide Children's Hospital",
+        "id": "ac4b7c86-f2c8-4763-9e74-95e9afc7bf63",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785593161,
+        "date_posted": 1783158376,
+        "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-25571",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide-Childrens-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NatWest Group",
+        "id": "d9d98718-3266-4066-a180-d6d84556794c",
+        "title": "Tech Insight Experience - Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785593936,
+        "date_posted": 1783161800,
+        "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/791af8de-7786-4aa2-b51d-9dfed06c6b21",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
