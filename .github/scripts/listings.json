@@ -1,114 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AccuWeather",
-        "id": "a545b5ce-3ef4-45c1-b468-a833e7f67bdc",
-        "title": "Data Operations Engineer Intern - Spring/Summer 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764812488,
-        "date_posted": 1764812488,
-        "url": "https://job-boards.greenhouse.io/accuweather/jobs/7441161",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/AccuWeather",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AccuWeather",
-        "id": "73e5eb82-f022-4d5c-a659-26e5e6577a70",
-        "title": "Data Engineering Intern - Spring/Summer 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764812484,
-        "date_posted": 1764812484,
-        "url": "https://job-boards.greenhouse.io/accuweather/jobs/7441297",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/AccuWeather",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AccuWeather",
-        "id": "69bf29c0-b09b-4eb7-95c0-69d5a94f8422",
-        "title": "Applied Meteorologist Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764812481,
-        "date_posted": 1764812481,
-        "url": "https://job-boards.greenhouse.io/accuweather/jobs/7441273",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/AccuWeather",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Fidelity",
-        "id": "585470b4-9b0e-4d2c-8ed1-595e1687b33d",
-        "title": "Data Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764811951,
-        "date_posted": 1764811951,
-        "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Intern_JR296",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "55fea033-155f-464c-8e3e-7fe2154c89b8",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764812012,
-        "date_posted": 1764812012,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern---Software-Engineering_R52067",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "0ffcbb9c-c1eb-4201-9bca-af90d98cfeb3",
@@ -337514,7 +337406,7 @@
         "company_name": "Altice USA",
         "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338059,6 +337951,30 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d",
+        "title": "Software Compiler Engineer Intern - AI Inference",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1785547853,
+        "date_posted": 1785546978,
+        "url": "https://www.tesla.com/careers/search/job/278847",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
