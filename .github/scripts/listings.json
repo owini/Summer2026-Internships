@@ -329666,7 +329666,7 @@
         "company_name": "Castleton Commodities International",
         "id": "d0dbf9a8-a0ca-45d2-b171-45c248cd72b6",
         "title": "Front Office Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329690,7 +329690,7 @@
         "company_name": "Castleton Commodities International",
         "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
         "title": "Commodities Trading Analyst Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329738,7 +329738,7 @@
         "company_name": "Castleton Commodities International",
         "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
         "title": "Data Science Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329764,7 +329764,7 @@
         "company_name": "Castleton Commodities International",
         "id": "ef340463-f818-4cd0-874c-2b1574493963",
         "title": "Data Science Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329790,7 +329790,7 @@
         "company_name": "Castleton Commodities International",
         "id": "ca850495-3c93-4d92-9e87-2385877ea5c5",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329814,7 +329814,7 @@
         "company_name": "Castleton Commodities International",
         "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329839,7 +329839,7 @@
         "company_name": "Castleton Commodities International",
         "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
         "title": "Commodities Trading Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329863,7 +329863,7 @@
         "company_name": "Castleton Commodities International",
         "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
         "title": "Full-Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330046,7 +330046,7 @@
         "company_name": "Rivian",
         "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330070,7 +330070,7 @@
         "company_name": "Rivian",
         "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
         "title": "Research Park Intern - Embedded Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330095,7 +330095,7 @@
         "company_name": "Rivian",
         "id": "86d85a8b-7db1-47cc-98e9-ba9b7d14ba7a",
         "title": "UIUC Research Park Intern - Computational Methods Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330164,7 +330164,7 @@
         "company_name": "Lennox International",
         "id": "6e043ff4-35f3-4dd9-b704-1be62043d4e9",
         "title": "AI Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330348,7 +330348,7 @@
         "company_name": "OpusClip",
         "id": "b021d4b5-16c6-4efd-a380-34c4d466a750",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330371,7 +330371,7 @@
         "company_name": "Adtheorant",
         "id": "3233fcfb-8678-4efa-8fe0-1034b9db4a52",
         "title": "Enterprise AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330509,7 +330509,7 @@
         "company_name": "Warner Bros.",
         "id": "a998ee7a-7f05-482d-82bb-d6e84da94314",
         "title": "Sports Growth Strategy and Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330574,7 +330574,7 @@
         "company_name": "Warner Bros.",
         "id": "faaf208d-f3fb-4acf-90e1-a4498d1cebb6",
         "title": "Research, Analytics & Strategy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330967,7 +330967,7 @@
         "company_name": "Brandeis University",
         "id": "a3cd9446-cca0-47a9-9291-5dc3acdb2622",
         "title": "Research Assistant - School of Business and Economics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331011,7 +331011,7 @@
         "company_name": "G-Research",
         "id": "ff38f8af-bafd-4a27-b65d-e65d625efe50",
         "title": "Machine Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331035,7 +331035,7 @@
         "company_name": "G-Research",
         "id": "7b2e0135-b620-4edc-9812-0722d67b163f",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331059,7 +331059,7 @@
         "company_name": "G-Research",
         "id": "4ca02159-a836-4a7c-86cf-014e77b15a7a",
         "title": "Natural Language Processing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331107,7 +331107,7 @@
         "company_name": "G-Research",
         "id": "e0f7c410-495b-4e54-8274-9a6d2f191e10",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338802,6 +338802,50 @@
             "Berkeley, CA"
         ],
         "company_url": "https://simplify.jobs/c/7c7fbf25-9bc1-48dc-9021-9e7ee6186fca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "59019bfb-787a-487f-aeb9-969b9fd0223c",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785617764,
+        "date_posted": 1784764800,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trend Micro",
+        "id": "f3a572bd-6402-4a23-9a65-ff29f1dd08cb",
+        "title": "Malware Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785616381,
+        "date_posted": 1784678400,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Micro",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
