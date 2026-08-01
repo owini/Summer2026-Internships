@@ -313327,7 +313327,7 @@
         "company_name": "ConnectPrep",
         "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314260,7 +314260,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314304,7 +314304,7 @@
         "company_name": "Verne Robotics",
         "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314793,7 +314793,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5e40a228-3721-4f88-96d5-3f59b73be6c4",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315054,7 +315054,7 @@
         "company_name": "WindBorne Systems",
         "id": "25121cbb-b042-4319-b7e2-7f1c9d2989bd",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -315122,7 +315122,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -315166,7 +315166,7 @@
         "company_name": "Ciena",
         "id": "e30dc557-ab6e-4220-8150-5bcb7dcc4598",
         "title": "Wavelogic Systems Design Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316179,7 +316179,7 @@
         "company_name": "Global Infrastructure",
         "id": "7368949e-db4f-4508-883c-32dc7d83356c",
         "title": "Alternative Delivery Project Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338534,5 +338534,49 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baseten",
+        "id": "1fefa123-5f4a-45e9-b0eb-c51de18773df",
+        "title": "Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785603258,
+        "date_posted": 1783386603,
+        "url": "https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Baseten",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kastle AI",
+        "id": "92aff0db-bdf5-4675-a4ba-1989b1181a74",
+        "title": "Founder Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785602341,
+        "date_posted": 1783174083,
+        "url": "https://jobs.ashbyhq.com/kastle/2c764341-e028-4736-a1a7-0d5faf16e592/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Kastle-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
