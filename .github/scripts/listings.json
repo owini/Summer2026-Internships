@@ -316250,7 +316250,7 @@
         "company_name": "1X",
         "id": "cce4a124-68d8-4941-9fff-ddbee5dfc0b3",
         "title": "AI Residency Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316342,7 +316342,7 @@
         "company_name": "Medpace",
         "id": "38a95da6-cf61-402d-b348-03983059e836",
         "title": "Clinical Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -316366,7 +316366,7 @@
         "company_name": "GE Healthcare",
         "id": "372d94d1-a83d-44fb-a919-4261fb51f503",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316502,7 +316502,7 @@
         "company_name": "Texas A&M International University",
         "id": "ff7b4535-774e-4e93-8b9a-61b99e1ec602",
         "title": "Undergraduate Research Assistant - Engineering-Dr. KY",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316730,7 +316730,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316753,7 +316753,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4ac1edc9-7294-4f37-bb6d-8ea01d88c666",
         "title": "Characterization and Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316848,7 +316848,7 @@
         "company_name": "Cadence Design Systems",
         "id": "9778af58-1bb3-45ce-8c29-a47b0cc9fb65",
         "title": "Characterization and Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317480,7 +317480,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "aede4467-5907-43aa-850b-9d6349575538",
         "title": "Associate/Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317593,7 +317593,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c1d1053c-438a-481e-8375-57149313ea2f",
         "title": "Software and Data Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -317968,7 +317968,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317994,7 +317994,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318020,7 +318020,7 @@
         "company_name": "GE Healthcare",
         "id": "ec539e13-7378-478b-b778-72a9b227541d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -318256,7 +318256,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -318352,7 +318352,7 @@
         "company_name": "Vital Lyfe",
         "id": "1de12102-5f3b-4c75-83ce-02e4d9bb828d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319108,7 +319108,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332682,7 +332682,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "3393d4cf-e1e5-47d1-8143-309545e4195f",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338575,6 +338575,54 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Kastle-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centerstone",
+        "id": "a5424485-a1a0-4ab2-adaa-286ac3620977",
+        "title": "Bachelor Level Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785604625,
+        "date_posted": 1783548834,
+        "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217",
+        "locations": [
+            "Richmond, IN",
+            "Greenwood, IN",
+            "Jeffersonville, IN",
+            "Bloomington, IN",
+            "Seymour, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Centerstone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "d773df47-c740-4271-8672-f2328b32afe7",
+        "title": "Student Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785603961,
+        "date_posted": 1783555200,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Student-Research-Assistant--QEP-_R-094827",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
