@@ -308648,7 +308648,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312657,7 +312657,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "b36e0497-4128-473a-8643-099bbb5c9d0e",
         "title": "Engineering Intern - Product Development Track",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
