@@ -299928,7 +299928,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300150,7 +300150,7 @@
         "company_name": "Synchrony Financial",
         "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300265,7 +300265,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
         "title": "Characterization and Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300608,7 +300608,7 @@
         "company_name": "Solar Turbines",
         "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
         "title": "Gas Compressor Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -302284,7 +302284,7 @@
         "company_name": "Meta",
         "id": "92102d77-8574-46bc-b529-80e4985b7bbf",
         "title": "Research Scientist Intern - State Estimation for Dexterous Manipulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -302447,7 +302447,7 @@
         "company_name": "Cotiviti",
         "id": "e18b613e-4960-458a-950c-31a675aacf04",
         "title": "Agentic AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -302520,7 +302520,7 @@
         "company_name": "Synchrony Financial",
         "id": "4c265b88-cc24-4514-96f5-7d199e5670ef",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -302729,7 +302729,7 @@
         "company_name": "Meta",
         "id": "7d40282a-e5d1-4104-ba34-426064c6790a",
         "title": "Research Scientist Intern - Photorealistic Telepresence",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -303390,7 +303390,7 @@
         "company_name": "Cotiviti",
         "id": "b099116b-63e4-4ecb-8557-b5c6dffa3d3d",
         "title": "Generative AI Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -303484,7 +303484,7 @@
         "company_name": "Adaption Labs",
         "id": "9999c788-4faa-43a0-9300-8fef2f45873d",
         "title": "Modelling Resident",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -303599,7 +303599,7 @@
         "company_name": "Flagright",
         "id": "987779ef-3c25-4288-b559-7f8a99d2b578",
         "title": "Product Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303714,7 +303714,7 @@
         "company_name": "Ciena",
         "id": "5110ed9d-97da-4a84-9d8e-2bc857dc3dc5",
         "title": "Optical Modem Hardware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -303781,7 +303781,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304174,7 +304174,7 @@
         "company_name": "Beyondsoft",
         "id": "d77e9157-6bd3-45f9-82d5-488b2242147f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304521,7 +304521,7 @@
         "company_name": "Marvell",
         "id": "f988ed7a-4db7-4967-8ace-f828dfaa952f",
         "title": "Digital Logic + Design Verification Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304545,7 +304545,7 @@
         "company_name": "Marvell",
         "id": "c92c8ffc-48cf-49b7-8c51-6654a293801f",
         "title": "Digital Logic + Design Verification Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -304725,7 +304725,7 @@
         "company_name": "Nelnet",
         "id": "8edbe308-126f-4a6e-aaca-2f7af80c811e",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304821,7 +304821,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310107,7 +310107,7 @@
         "company_name": "Persistent Systems",
         "id": "99b96750-4604-4ae8-8e56-d3c3287cc493",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -310753,7 +310753,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "eeb53961-7042-4fec-9272-ed291c610f32",
         "title": "NIWC \u2013 Undergraduate Student 2 or 3 - Communications Division Engineering Support",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -324714,7 +324714,7 @@
         "company_name": "Synchrony Financial",
         "id": "3ead5def-8555-40d4-817c-7435fa78e157",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328988,7 +328988,7 @@
         "company_name": "Tencent",
         "id": "6e34bef0-a1a7-4cef-9837-41f96c2b9ab0",
         "title": "Data Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338397,5 +338397,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "72e9a1b8-bf1d-419d-a68b-ff77d2c0349f",
+        "title": "Data Product Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785597841,
+        "date_posted": 1782559823,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "64378a3e-8909-4039-badd-4fa17cf582c2",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785597066,
+        "date_posted": 1781951539,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/REI-Research-Assistant_REQ_0000079460",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
