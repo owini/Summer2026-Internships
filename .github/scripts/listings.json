@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "dabba410-1c96-4046-8d60-bbb537b899a6",
-        "title": "Bell Labs Platform ASIC Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764904321,
-        "date_posted": 1764904321,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27971",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tenstorrent",
-        "id": "b06bb128-d1f7-491e-9aba-6c7075ef3c3b",
-        "title": "AI Architecture Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764904372,
-        "date_posted": 1764904372,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4119295007",
-        "locations": [
-            "Boston, MA",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nokia",
         "id": "6f24cfe5-46c6-4a95-a973-d02fb02376ad",
