@@ -338247,7 +338247,7 @@
         "company_name": "AMD",
         "id": "751b37f3-e092-4cf4-a813-7e16d43d89ce",
         "title": "Analog/Mixed-Signal Serdes Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338836,6 +338836,56 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Two Sigma",
+        "id": "d7896522-5218-4362-8092-60cacc29a642",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785633974,
+        "date_posted": 1785633717,
+        "url": "https://twosigma.avature.net/careers/JobDetail/13945",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Two Sigma",
+        "id": "6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
+        "title": "AI Research Scientist Intern - 2027 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785633960,
+        "date_posted": 1785633715,
+        "url": "https://twosigma.avature.net/careers/JobDetail/14096",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
