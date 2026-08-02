@@ -337934,5 +337934,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Block Imaging",
+        "id": "c893299d-6d66-4c03-b7bb-2c7982182e81",
+        "title": "Field Service Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785680821,
+        "date_posted": 1783735258,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324694",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/9627faa4-4c5f-4914-b567-28b6b90b32f0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
