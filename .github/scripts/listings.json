@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Port Authority NY NJ",
-        "id": "da5689d9-0639-4086-a991-d051d6a40f83",
-        "title": "Summer Intern - Data Analysis & Performance Reporting",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764900499,
-        "date_posted": 1764900499,
-        "url": "https://jobs.jobvite.com/panynj/job/oCq1yfwl?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Port-Authority-NY-NJ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "b78125ef-e5e3-4605-b2fb-7884a46c4333",
-        "title": "Amazon Economics Apprenticeship Program - 2-Year Research Positions",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764900735,
-        "date_posted": 1764900735,
-        "url": "https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "dabba410-1c96-4046-8d60-bbb537b899a6",
@@ -48748,27 +48706,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Anthropic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marshall Wace",
-        "id": "da0e8edd-78a2-4e9d-99b9-a515f6434cbd",
-        "title": "AI Placement - AI",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764900690,
-        "date_posted": 1764900690,
-        "url": "https://job-boards.greenhouse.io/mwam-imperial-placements/jobs/8146978002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Marshall-Wace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
