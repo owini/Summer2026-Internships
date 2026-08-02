@@ -29828,27 +29828,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lucid Motors",
-        "id": "c127a9f2-2818-455b-b042-e386e1e96d2c",
-        "title": "Intern \u2013 SAP Consulting - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765365334,
-        "date_posted": 1764940256,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4996727007",
-        "locations": [
-            "Casa Grande, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
         "id": "318f1c36-c90c-4e24-a580-7a8b0fe8d2c8",
@@ -322744,7 +322723,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
