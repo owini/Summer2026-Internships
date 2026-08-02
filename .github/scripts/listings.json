@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BMO ",
-        "id": "4624bfb9-72e4-4775-a042-937573b660de",
-        "title": "Investment Analyst Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764924201,
-        "date_posted": 1764924201,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Analyst-Intern_R250030990",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Tanium",
         "id": "112775b1-9926-4305-aa04-e22ef0f62e6a",
@@ -69746,7 +69725,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -192085,7 +192064,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278945,7 +278924,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -317948,7 +317927,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334851,7 +334830,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335445,7 +335424,7 @@
         "company_name": "Citylogix Inc.",
         "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
         "title": "Field Data Collection Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
