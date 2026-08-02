@@ -215036,7 +215036,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -320086,7 +320086,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325395,7 +325395,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328845,7 +328845,7 @@
         "company_name": "Rivian",
         "id": "ad36c275-69d8-4f8a-a543-c15d377852e5",
         "title": "Research Park Intern - Embedded Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333636,7 +333636,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
