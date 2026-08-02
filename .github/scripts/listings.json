@@ -1,35 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AT&T",
-        "id": "d636941a-f03a-4646-9a6d-36941ee55059",
-        "title": "AT&T Labs Internship - Undergraduate and Masters Degrees",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764941586,
-        "date_posted": 1764941586,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Undergraduate-and-Masters-Degrees_R-89788",
-        "locations": [
-            "Austin, TX",
-            "Bothell, WA",
-            "Dallas, TX",
-            "San Ramon, CA",
-            "Redmond, WA",
-            "Plano, TX",
-            "Bedminster, NJ",
-            "Alpharetta, GA",
-            "Middletown Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
