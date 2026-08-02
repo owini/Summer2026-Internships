@@ -333238,7 +333238,7 @@
         "company_name": "Blackberry",
         "id": "a66dc648-8c3f-403a-8640-01dd140e2822",
         "title": "Application Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
