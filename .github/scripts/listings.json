@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "5339a682-c6be-4b3e-8f4b-39e225eec1ff",
-        "title": "Business Intelligence Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764952383,
-        "date_posted": 1764952383,
-        "url": "https://amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Corning",
         "id": "d5b13d85-fb65-4298-afc1-e482fb1cfc3b",
         "title": "Data Engineer Intern",
