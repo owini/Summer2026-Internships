@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Striim",
-        "id": "846285eb-2016-4a44-99e9-80f844f4a550",
-        "title": "Applied AI Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764989513,
-        "date_posted": 1764989513,
-        "url": "https://job-boards.greenhouse.io/striiminc/jobs/4999086007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Striim",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genies",
-        "id": "9ae6c5f8-b4bc-448e-a653-447b105957e3",
-        "title": "Machine Learning Engineer Intern: 3D Generative AI - Q1 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1764988611,
-        "date_posted": 1764988611,
-        "url": "https://job-boards.greenhouse.io/genies/jobs/7549190003",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Micron Technology",
         "id": "a3cf929b-4177-49d1-a66a-e7e685ab2d48",
