@@ -67987,7 +67987,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -213343,7 +213343,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -303989,7 +303989,7 @@
         "company_name": "TikTok",
         "id": "f58e93bf-7cfb-42e9-953f-7fd06e435426",
         "title": "Machine Learning Engineer Intern - Tiktok-Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304369,7 +304369,7 @@
         "company_name": "TikTok",
         "id": "f553c9db-3713-4057-af64-1d08966b7ed4",
         "title": "Software Engineer Intern - Capital Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305730,7 +305730,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322602,7 +322602,7 @@
         "company_name": "RTX",
         "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
         "title": "Machine Learning Researcher Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323587,7 +323587,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323702,7 +323702,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327568,7 +327568,7 @@
         "company_name": "Rantec Power Systems Inc.",
         "id": "e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
         "title": "PCB Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327635,7 +327635,7 @@
         "company_name": "Montgomery Investment Technology, Inc.",
         "id": "f0a9da60-9895-4079-b9cd-4026709afb56",
         "title": "Montgomery Investment Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331943,7 +331943,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338049,7 +338049,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "f3544c49-d2f8-44f9-9cc4-0a42ee9bc825",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
