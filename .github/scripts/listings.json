@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Calico Labs",
-        "id": "30d03840-7d51-4b0f-9015-950edc42a914",
-        "title": "Intern \u2013 Machine Learning for Molecule Design - MS/PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765010055,
-        "date_posted": 1765010055,
-        "url": "https://www.calicolabs.com/careers/?gh_jid=8326862002",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/CalicoLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cloudflare",
-        "id": "0fe8c919-0db4-45f0-a54b-d85adae034ab",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765010993,
-        "date_posted": 1765010993,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7444764",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "a76660fe-c45d-4515-b8dd-48e61b9ed5f0",
-        "title": "IP Routing Customer Application Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765010815,
-        "date_posted": 1765010815,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "WTW",
         "id": "6a3c3dac-9a62-4e44-af28-3e821630f8d1",
         "title": "Corporate Risk and Broking Intern - Risk & Analytics Core-2026",
@@ -46562,7 +46499,7 @@
         "company_name": "TikTok",
         "id": "8ac7eb44-6399-4d0c-a4f2-b563664d76d2",
         "title": "Software Engineer Intern - Global Site Reliability Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -52544,7 +52481,7 @@
         "company_name": "TikTok",
         "id": "6e8ba331-8d2f-49b9-b28b-65a13902265d",
         "title": "Machine Learning Engineer Intern - Commerce Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -64192,7 +64129,7 @@
         "company_name": "TikTok",
         "id": "7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc",
         "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -69281,7 +69218,7 @@
         "company_name": "TikTok",
         "id": "42b0f3dc-9fe2-4f26-ac9b-eaaa21075017",
         "title": "Software Engineer Intern - Ads Interface Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203801,7 +203738,7 @@
         "company_name": "TikTok",
         "id": "411b3542-fea3-4d69-9491-dea180fbc135",
         "title": "Machine Learning Engineer Intern - App Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -211237,7 +211174,7 @@
         "company_name": "TikTok",
         "id": "4cf90b0c-74cd-41c9-ad51-6ceaecba98ac",
         "title": "Machine Learning Engineer - Global E-Commerce Content Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242144,7 +242081,7 @@
         "company_name": "TikTok",
         "id": "85c7ef68-e176-469b-920b-6d6e0dfda0e3",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287228,7 +287165,7 @@
         "company_name": "ByteDance",
         "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
         "title": "Software Development Engineer Intern - Network Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287252,7 +287189,7 @@
         "company_name": "ByteDance",
         "id": "77245ac7-931e-4d69-8030-18400e8793a2",
         "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287415,7 +287352,7 @@
         "company_name": "ByteDance",
         "id": "6bc3983c-65aa-4d29-9a3b-a08c3230a75a",
         "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287439,7 +287376,7 @@
         "company_name": "ByteDance",
         "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
         "title": "Network Software Development Engineer Intern - Network Switch",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287463,7 +287400,7 @@
         "company_name": "ByteDance",
         "id": "38e9b155-826a-49f7-a431-a689d10c579e",
         "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304429,7 +304366,7 @@
         "company_name": "TikTok",
         "id": "70b45d75-a146-4733-a653-c4bce22c4e32",
         "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311637,7 +311574,7 @@
         "company_name": "TikTok",
         "id": "68dfedf9-d3ba-47ad-a7f0-c90008b2e054",
         "title": "Machine Learning Engineer Intern - Monetization Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315134,7 +315071,7 @@
         "company_name": "GE Healthcare",
         "id": "22e9a58d-54fd-44b6-ade3-09a5da6a7586",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315160,7 +315097,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -316274,7 +316211,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321099,7 +321036,7 @@
         "company_name": "Composio",
         "id": "015239c6-bc89-4abd-a7a9-97acc270ae0a",
         "title": "Full-stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323544,7 +323481,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323740,7 +323677,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323809,7 +323746,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323997,7 +323934,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -327051,7 +326988,7 @@
         "company_name": "Exploration Technology Corp.",
         "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327074,7 +327011,7 @@
         "company_name": "North Cloud",
         "id": "29f7ea93-41b1-408b-a3e0-8b6945e95e3e",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327761,7 +327698,7 @@
         "company_name": "SPHERIX GLOBAL INSIGHTS US INC",
         "id": "2c1e4de1-dc7c-4c61-a87f-e32d307d8d5c",
         "title": "Market Research Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327807,7 +327744,7 @@
         "company_name": "CloudFit Software",
         "id": "52bbfd3d-d9c3-4963-9367-97c721bcced4",
         "title": "CloudFit Software Internship - Company name withheld",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329275,7 +329212,7 @@
         "company_name": "TechInsights",
         "id": "42ac32cf-f533-4b2a-ba45-60441a95cdda",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330907,7 +330844,7 @@
         "company_name": "Nelnet",
         "id": "11cb0443-c90b-467f-a21d-c37c98257a5f",
         "title": "Program Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334789,7 +334726,7 @@
         "company_name": "AfterQuery",
         "id": "19b2324a-4abf-497a-8497-1c89e59e92f8",
         "title": "Coding Intern - Strategic Projects",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338277,5 +338214,420 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f85329a1-e142-4cd0-addc-48436e7b29be",
+        "title": "Research Scientist Intern - AI Infra Compute",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667379221434796341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "92df8e09-9c84-4019-9087-e8a497375754",
+        "title": "Research Scientist Intern - Multi-modal Agentic Databases",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667380184615127301/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7125ebf4-f7ce-4863-8495-30a7f8d59f7d",
+        "title": "Research Scientist Intern - Distributed NoSQL Database Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748595,
+        "url": "https://jobs.bytedance.com/en/position/7668371456348326149/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a7327377-6839-4afe-a0e7-a1e99135d7b4",
+        "title": "Software Engineer Intern - AI Infra Compute",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "d96b68e1-8512-4890-8276-eac5392e1f2d",
+        "title": "Software Engineer Intern - AI Infrastructure Compute",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e3086785-c94b-4a66-82a8-52a73cc4b994",
+        "title": "Research Scientist Intern - Distributed NoSQL Database Systems",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748594,
+        "url": "https://jobs.bytedance.com/en/position/7668371003554138421/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "861658aa-eaf0-4389-afce-80050126ac33",
+        "title": "Network Security Software Engineer Intern - Security Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667876489597257989/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "09941b8a-df5a-4b38-83d0-d44aca79128c",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7667379218929780997/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "254d1c36-2e43-4f3a-86fc-ec06b7e8a725",
+        "title": "AI Perception Intern - Pico",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7665457718334425349/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b9b419b0-d028-4baf-bd91-fc550d093bae",
+        "title": "Research Scientist Intern - Multi-modal Agentic Databases",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667380487805995269/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jane Street",
+        "id": "55344ac6-f4ad-4c84-b434-97f4ca155ae2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785748868,
+        "date_posted": 1785748562,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "aedd360d-23ce-4970-aa0b-45302887e26f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748594,
+        "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jane Street",
+        "id": "b947f29d-d045-476f-8e18-ffab71e754ee",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785748863,
+        "date_posted": 1785748556,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7a3479e6-fa2c-40d9-b917-c42922bfeaf1",
+        "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jane Street",
+        "id": "98829ac8-5a3d-440d-9370-077b910866f2",
+        "title": "Hardware Engineer Intern - FPGA/ASIC",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785748856,
+        "date_posted": 1785748557,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jane Street",
+        "id": "8be053bf-bff7-4984-aef1-e08ad2cff3e3",
+        "title": "Sales and Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748856,
+        "date_posted": 1785748560,
+        "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jane-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "9fe00265-7716-44f9-bc43-1017aa863220",
+        "title": "Software Engineer Intern - CoreAI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785748627,
+        "date_posted": 1785748322,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geo Owl",
+        "id": "1429f063-6706-404c-8ece-56be8b43bd98",
+        "title": "Maritime Cartographer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785746945,
+        "date_posted": 1784787199,
+        "url": "https://geoowl.applytojob.com/apply/lvTIoh8S9K/Cartographic-Analyst-Apprentice",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/625f0005-141f-4191-89d4-7f86f6446231",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
     }
 ]
