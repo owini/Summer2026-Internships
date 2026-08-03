@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "AstraZeneca",
-        "id": "f73461d8-ca74-45ec-9b0e-a6a93070b391",
-        "title": "Commercial Insights & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764987172,
-        "date_posted": 1764987172,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Wilmington---DE/Commercial-Insights---Analytics-Intern_R-239830",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Anduril",
-        "id": "60613172-3c99-40e9-b9be-21db30d3c2e6",
-        "title": "Manufacturing Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764987552,
-        "date_posted": 1764987552,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4997597007",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Striim",
         "id": "846285eb-2016-4a44-99e9-80f844f4a550",
         "title": "Applied AI Intern",
@@ -200624,29 +200582,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "W.R. Berkley",
-        "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
-        "title": "Quantitative Analyst Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766400719,
-        "date_posted": 1764987805,
-        "url": "https://careers-berkley.icims.com/jobs/12807/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
