@@ -149993,7 +149993,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -235198,7 +235198,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -321138,7 +321138,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331295,7 +331295,7 @@
         "company_name": "Zurich Insurance",
         "id": "14fadffb-b227-4768-8c63-9e4a32a80032",
         "title": "Data Analytics & AI Internship/Co-op - Data Analytics & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332058,7 +332058,7 @@
         "company_name": "Leidos",
         "id": "13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
