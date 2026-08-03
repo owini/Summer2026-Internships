@@ -296515,7 +296515,7 @@
         "company_name": "Lila Sciences",
         "id": "fb0ceea6-ceca-4077-a4d8-a6446bce7359",
         "title": "Machine Learning for Digital Twins Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301425,7 +301425,7 @@
         "company_name": "Autodesk",
         "id": "e7ca86c9-9b55-4d3a-a409-f781291f435d",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
