@@ -22051,7 +22051,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -166242,7 +166242,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189535,7 +189535,7 @@
         "company_name": "ByteDance",
         "id": "9b8e4726-77af-4fd7-9e6f-9986925021ff",
         "title": "Software Engineer Project Intern - Network Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213744,7 +213744,7 @@
         "company_name": "TikTok",
         "id": "aea71032-563a-4c3c-aade-447f8ec52a91",
         "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287141,7 +287141,7 @@
         "company_name": "ByteDance",
         "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
         "title": "Software Development Engineer Intern - Network Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290313,7 +290313,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298562,7 +298562,7 @@
         "company_name": "TikTok",
         "id": "ac124cf6-870e-4078-b871-ec6c45459919",
         "title": "Backend Software Engineer Intern - Media Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298586,7 +298586,7 @@
         "company_name": "TikTok",
         "id": "c5b25325-04c9-4ecd-af56-abb6aeaa6da2",
         "title": "Software Engineer Intern - Monetization Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302128,7 +302128,7 @@
         "company_name": "EOS IT Solutions",
         "id": "9feea1a6-4256-4c37-a7c3-88143f2bff96",
         "title": "Data Centre Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315758,7 +315758,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323291,7 +323291,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323481,7 +323481,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323677,7 +323677,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323746,7 +323746,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323934,7 +323934,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -326988,7 +326988,7 @@
         "company_name": "Exploration Technology Corp.",
         "id": "47e4c7a3-4e58-4c51-ae2c-1fffd28ec50d",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327744,7 +327744,7 @@
         "company_name": "CloudFit Software",
         "id": "52bbfd3d-d9c3-4963-9367-97c721bcced4",
         "title": "CloudFit Software Internship - Company name withheld",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329212,7 +329212,7 @@
         "company_name": "TechInsights",
         "id": "42ac32cf-f533-4b2a-ba45-60441a95cdda",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338628,6 +338628,29 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "77635c2b-1d19-49ef-8d73-5ade973c99b2",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785749042,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667380188619131189/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
