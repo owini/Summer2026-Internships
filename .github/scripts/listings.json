@@ -195101,7 +195101,7 @@
         "company_name": "SpaceX",
         "id": "72234fcf-6866-4797-aa4b-afd49f2e7924",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324473,7 +324473,7 @@
         "company_name": "Kirin",
         "id": "8cd6c68a-d1b7-4a16-9dc4-411fb9932fbb",
         "title": "Software Engineer Intern - AI Agents + Devices",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
