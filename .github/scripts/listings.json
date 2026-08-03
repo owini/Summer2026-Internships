@@ -333863,7 +333863,7 @@
         "company_name": "CLEAResult",
         "id": "8183f0b3-f63a-4b40-a5f3-9b6811decada",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335950,7 +335950,7 @@
         "company_name": "Postman",
         "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338753,5 +338753,213 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "ebd0e25e-fda3-446a-8872-f7292f38d1f7",
+        "title": "Quantitative Trading and Quantitative Strategy Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785796056,
+        "date_posted": 1785795124,
+        "url": "https://careers-sig.icims.com/jobs/11148/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Pentair",
+        "id": "9fede417-0d28-4566-ac69-820d4c8e5f90",
+        "title": "Product Management Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785795908,
+        "date_posted": 1785715200,
+        "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+        "locations": [
+            "Apex, NC",
+            "Brookfield, WI",
+            "Delavan, WI",
+            "North Aurora, IL",
+            "New Brighton, MN",
+            "Golden Valley, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Pentair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
+        "title": "Embedded Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785795572,
+        "date_posted": 1785794886,
+        "url": "https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams",
+        "id": "de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785795556,
+        "date_posted": 1785715200,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
+        "locations": [
+            "Salt Lake City, UT",
+            "Houston, TX",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Novanta",
+        "id": "76024ce1-258c-433e-87c4-2d704c53a61c",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785794761,
+        "date_posted": 1785715200,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487",
+        "locations": [
+            "Apex, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Novanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Novanta",
+        "id": "69d82e73-0d15-4a79-8bd0-592041531569",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785795177,
+        "date_posted": 1785715200,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484",
+        "locations": [
+            "Apex, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Novanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuEra Computing",
+        "id": "3f75b98c-3c6a-4192-8268-3e946dae7519",
+        "title": "Photonics Data Engineer Intern - Data Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785795309,
+        "date_posted": 1785794643,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Virginia",
+        "id": "001da316-b96f-440e-9c1e-3a726afb7959",
+        "title": "Media Studio Technology Consultant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785794581,
+        "date_posted": 1785715200,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Media-Studio-Technology-Consultant--Student-Wage-_R0085912",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HireVue",
+        "id": "96b741b8-2256-4846-ae66-6fbce7641a46",
+        "title": "IO Product Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785794581,
+        "date_posted": 1785794482,
+        "url": "https://jobs.smartrecruiters.com/HireVue/744000141285569",
+        "locations": [
+            "Sandy, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/HireVue",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
