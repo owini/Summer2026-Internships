@@ -10,13 +10,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 511 Internship Roles by Category
+### Browse 509 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (173)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (27)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (26)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (194)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (193)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (20)
 
@@ -9311,14 +9311,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Toshiba-Global-Commerce?utm_source=GHList&utm_medium=company">Toshiba Global Commerce</a></strong></td>
-<td>AI Product Management Intern</td>
-<td>Durham, NC</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5b8ecabc-cc7c-47e1-a045-73b4659a0f7a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/ROCKWOOL-Group?utm_source=GHList&utm_medium=company">ROCKWOOL Group</a></strong></td>
 <td>Paint & Coating Intern</td>
 <td>Chicago, IL</td>
@@ -9483,7 +9475,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (208)</summary>
+<summary>🗃️ Inactive roles (209)</summary>
 
 <table>
 <thead>
@@ -9497,6 +9489,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Toshiba-Global-Commerce?utm_source=GHList&utm_medium=company">Toshiba Global Commerce</a></strong></td>
+<td>AI Product Management Intern</td>
+<td>Durham, NC</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
 <td>Retirement Product Management Co-op - Retirement Investment Product Analysis</td>
@@ -11942,14 +11942,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>13d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/HireVue?utm_source=GHList&utm_medium=company">HireVue</a></strong></td>
-<td>Data Science Intern</td>
-<td>Draper, UT</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/HireVue/744000138728139?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7e3b0f18-833c-47d0-b356-5fbe36e7154d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Xsolla?utm_source=GHList&utm_medium=company">Xsolla</a></strong></td>
 <td>AI-First Engineer Intern</td>
 <td>LA</td>
@@ -12421,6 +12413,30 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e0d4f452-a4bf-4b10-9618-15d2cfe12f9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>RL Engineer Intern - RL Engineer - Tesla AI</td>
+<td>Palo Alto, CA</td>
+<td>Summer 2026, Fall 2026</td>
+<td><div align="center"><a href="https://www.tesla.com/careers/search/job/275494?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/904269e6-581d-458f-9376-a8c3d9e74a98?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software</td>
+<td>Fremont, CA</td>
+<td>Fall 2026</td>
+<td><div align="center"><a href="https://www.tesla.com/careers/search/job/275380?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77fe355c-f71a-4b4f-8ac1-348d2b156c64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Truland-Equipment?utm_source=GHList&utm_medium=company">Truland Equipment</a></strong></td>
+<td>Power Platform Intern</td>
+<td>Fort Wayne, IN</td>
+<td>Spring 2026, Summer 2026, Fall 2026</td>
+<td><div align="center"><a href="https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a47f5b39-f0c7-4d92-b3ba-b6eafe282f63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 
 </tbody>
 </table>
@@ -12447,30 +12463,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
-<td>RL Engineer Intern - RL Engineer - Tesla AI</td>
-<td>Palo Alto, CA</td>
-<td>Summer 2026, Fall 2026</td>
-<td><div align="center"><a href="https://www.tesla.com/careers/search/job/275494?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/904269e6-581d-458f-9376-a8c3d9e74a98?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software</td>
-<td>Fremont, CA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://www.tesla.com/careers/search/job/275380?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/77fe355c-f71a-4b4f-8ac1-348d2b156c64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Truland-Equipment?utm_source=GHList&utm_medium=company">Truland Equipment</a></strong></td>
-<td>Power Platform Intern</td>
-<td>Fort Wayne, IN</td>
-<td>Spring 2026, Summer 2026, Fall 2026</td>
-<td><div align="center"><a href="https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a47f5b39-f0c7-4d92-b3ba-b6eafe282f63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
 <td>Data Engineer Intern - Applications Engineering</td>
@@ -12772,7 +12764,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1297)</summary>
+<summary>🗃️ Inactive roles (1298)</summary>
 
 <table>
 <thead>
@@ -13143,6 +13135,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>AI R&D Engineer Co-op 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>Fall 2026, Winter 2026</td>
+<td>🔒</td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/HireVue?utm_source=GHList&utm_medium=company">HireVue</a></strong></td>
+<td>Data Science Intern</td>
+<td>Draper, UT</td>
+<td>Fall 2026</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
