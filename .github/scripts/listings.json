@@ -292034,7 +292034,7 @@
         "company_name": "Generac",
         "id": "59330e6d-91d5-4708-a9e1-00db1a90d871",
         "title": "GPS Apprentice - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -309795,7 +309795,7 @@
         "company_name": "Oracle",
         "id": "6bc56f74-fa37-4967-8bfe-dd9785fa6c29",
         "title": "Data Center Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330697,7 +330697,7 @@
         "company_name": "Deloitte",
         "id": "4b79443f-64b0-4381-aa54-5febee12149d",
         "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
