@@ -314027,7 +314027,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323587,7 +323587,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327635,7 +327635,7 @@
         "company_name": "Montgomery Investment Technology, Inc.",
         "id": "f0a9da60-9895-4079-b9cd-4026709afb56",
         "title": "Montgomery Investment Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335440,7 +335440,7 @@
         "company_name": "NatWest Group",
         "id": "d9d98718-3266-4066-a180-d6d84556794c",
         "title": "Tech Insight Experience - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338049,7 +338049,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "f3544c49-d2f8-44f9-9cc4-0a42ee9bc825",
         "title": "Data Science Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
