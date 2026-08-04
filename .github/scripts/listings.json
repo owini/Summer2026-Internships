@@ -305174,7 +305174,7 @@
         "company_name": "Ciena",
         "id": "536bc631-ba62-4ef3-9a8a-38015a2423af",
         "title": "D\u00e9veloppeur Microsoft",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329207,7 +329207,7 @@
         "company_name": "Kobo",
         "id": "4b6839e2-e49a-4a07-8df2-fae7b6226e2b",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -333481,7 +333481,7 @@
         "company_name": "Gemini",
         "id": "59b38467-71db-455a-94f0-aef60039a70c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341041,7 +341041,7 @@
         "company_name": "NBT Bank",
         "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
         "title": "Data Warehouse & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
