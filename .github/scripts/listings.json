@@ -155297,7 +155297,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269589,7 +269589,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -292608,7 +292608,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318157,7 +318157,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337602,7 +337602,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
