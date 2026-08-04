@@ -104797,7 +104797,7 @@
         "company_name": "Faculty AI",
         "id": "f5e510ee-4c7f-4a0b-b009-217ae6e5b564",
         "title": "UK Defence Veterans - Civilian Work Attachment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296751,7 +296751,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -306102,7 +306102,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313791,7 +313791,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315102,7 +315102,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315881,7 +315881,7 @@
         "company_name": "GE Healthcare",
         "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -338745,7 +338745,7 @@
         "company_name": "Williams",
         "id": "de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338902,7 +338902,7 @@
         "company_name": "StudyFetch",
         "id": "f010c8ee-806d-4f1c-96a4-0ad83bd900a7",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
