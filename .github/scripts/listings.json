@@ -49164,30 +49164,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "1b0a28cb-94c4-4dd6-aed8-ff4459443438",
-        "title": "GE Vernova Safe Human Robot Interaction and Planning - Summer 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765092243,
-        "date_posted": 1765092243,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Safe-Human-Robot-Interaction-and-Planning---Summer-2025_R5023246-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "b4de00ec-e764-4e1d-8bfc-3549f3771b9e",
         "title": "Part time Research Assistant - Public Health Sciences",
@@ -330221,7 +330197,7 @@
         "company_name": "Conagra Brands",
         "id": "f427df1b-b7a2-492a-b64b-dae0ff625bd1",
         "title": "Demand Science Rotational Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
