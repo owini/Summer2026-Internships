@@ -293835,7 +293835,7 @@
         "company_name": "Zipline",
         "id": "72e1792e-aad9-40a4-9464-641c1c28ccd1",
         "title": "Enterprise Systems Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319119,7 +319119,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320593,7 +320593,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320824,7 +320824,7 @@
         "company_name": "GE Healthcare",
         "id": "287c1182-006f-487e-aa40-c2eef51435aa",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322109,7 +322109,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323420,7 +323420,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323489,7 +323489,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323721,7 +323721,7 @@
         "company_name": "Pendulum Intelligence",
         "id": "3e2fa4d6-9588-4f77-a073-1747d963be9e",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
