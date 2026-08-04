@@ -336473,7 +336473,7 @@
         "company_name": "ZGF Architects",
         "id": "61518b6a-0c0a-450a-b25d-82c438d68acc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337746,7 +337746,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6d7e83bd-6e67-4d8c-919e-862288b8b561",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339205,7 +339205,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "f258c80b-4140-4f8b-a3f4-4c1682682d30",
         "title": "Artificial Intelligence and Software Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340902,7 +340902,7 @@
         "company_name": "Inizio",
         "id": "90bed3b5-328b-429e-a975-7d88480c2246",
         "title": "Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341006,6 +341006,29 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
+        "title": "Data and Analytics Intern - Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785853622,
+        "date_posted": 1785801600,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
