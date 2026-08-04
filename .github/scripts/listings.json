@@ -158017,7 +158017,7 @@
         "company_name": "John Deere",
         "id": "a1f9bdda-ef89-4be4-b96d-0b533c672b33",
         "title": "Part Time Student - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -321358,7 +321358,7 @@
         "company_name": "Prudential Financial",
         "id": "8e9a164a-393f-4f52-8c16-a283cc796352",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
