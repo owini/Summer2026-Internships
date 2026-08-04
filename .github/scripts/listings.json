@@ -321358,7 +321358,7 @@
         "company_name": "Prudential Financial",
         "id": "8e9a164a-393f-4f52-8c16-a283cc796352",
         "title": "Private Credit \u2013 Investment Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331021,7 +331021,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
