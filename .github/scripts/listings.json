@@ -290839,7 +290839,7 @@
         "company_name": "Tesla",
         "id": "308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
         "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332073,7 +332073,7 @@
         "company_name": "Generac",
         "id": "1198914e-0b05-4c13-a78b-3ef38d2f9697",
         "title": "AI Productivity & Adoption Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332485,7 +332485,7 @@
         "company_name": "RapDev",
         "id": "1fd1fcc8-fade-4579-a322-2bc276d73ca7",
         "title": "ServiceNow Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336261,7 +336261,7 @@
         "company_name": "Microsoft",
         "id": "14175068-fa33-4dcb-b0de-4819bdef5ae5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
