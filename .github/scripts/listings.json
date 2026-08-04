@@ -283273,7 +283273,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314785,7 +314785,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -315954,7 +315954,7 @@
         "company_name": "GE Healthcare",
         "id": "0858a27e-d921-4e91-8a7a-e791a1a6f4fd",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
