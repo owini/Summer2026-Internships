@@ -206295,7 +206295,7 @@
         "company_name": "ByteDance",
         "id": "ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
         "title": "Student Researcher - Large Language Model",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
