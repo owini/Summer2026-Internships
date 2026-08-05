@@ -173952,7 +173952,7 @@
         "company_name": "ByteDance",
         "id": "7bf6db8c-27ff-4940-b8ef-19a292ee39bd",
         "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288510,7 +288510,7 @@
         "company_name": "ByteDance",
         "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
         "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288533,7 +288533,7 @@
         "company_name": "ByteDance",
         "id": "836b094c-8889-4063-8bb3-2c4a5f202ee9",
         "title": "Research Intern - Seed",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304157,7 +304157,7 @@
         "company_name": "ByteDance",
         "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
         "title": "Student Researcher - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
