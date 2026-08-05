@@ -337587,7 +337587,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
         "title": "Data Internship - Data & AI Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338835,7 +338835,7 @@
         "company_name": "Vitalant",
         "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
