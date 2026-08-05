@@ -65685,7 +65685,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -273491,7 +273491,7 @@
         "company_name": "Tencent",
         "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
         "title": "Agent Evaluation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289624,7 +289624,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -314739,7 +314739,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -323763,7 +323763,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333384,7 +333384,7 @@
         "company_name": "NAXO",
         "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
         "title": "Technical Investigations Support Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333405,7 +333405,7 @@
         "company_name": "Citylogix Inc.",
         "id": "15163d00-cb37-433c-86b3-3f93d179b8d1",
         "title": "Field Data Collection Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334215,7 +334215,7 @@
         "company_name": "Microchip Technology",
         "id": "68d9d4d0-a1b3-4673-a429-1d2524909e32",
         "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341320,7 +341320,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
