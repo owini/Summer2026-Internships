@@ -102202,7 +102202,7 @@
         "company_name": "John Deere",
         "id": "ef1f3a44-77c2-4d49-9805-7bc0aa9c6e79",
         "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303968,7 +303968,7 @@
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310013,7 +310013,7 @@
         "company_name": "Moment Energy",
         "id": "c43a8efe-18e4-4741-95da-c6e0f6e5f3f7",
         "title": "Firmware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
