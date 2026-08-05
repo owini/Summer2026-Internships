@@ -97319,7 +97319,7 @@
         "company_name": "John Deere",
         "id": "499fcb5e-208d-44fd-a7ff-c915caf2a113",
         "title": "Part Time Student - Data & Analytics - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -143968,7 +143968,7 @@
         "company_name": "John Deere",
         "id": "2cda038e-f60e-4b0f-8cf0-5dc72c51d2c2",
         "title": "Part Time Student - Software Engineering - Champaign, IL, Technology (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
