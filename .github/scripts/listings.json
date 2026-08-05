@@ -21856,7 +21856,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -165939,7 +165939,7 @@
         "company_name": "Tencent",
         "id": "49ea6477-d2a6-4517-b1db-910fa56415d7",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264426,7 +264426,7 @@
         "company_name": "Verkada",
         "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
         "title": "Hardware Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -273421,7 +273421,7 @@
         "company_name": "Tencent",
         "id": "d47318d3-828b-49ac-932d-4d540ebae3c5",
         "title": "Agent Evaluation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289457,7 +289457,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290010,7 +290010,7 @@
         "company_name": "Rippling",
         "id": "7df6766d-b43b-464c-a03e-68387c5ffb37",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -311922,7 +311922,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322988,7 +322988,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
