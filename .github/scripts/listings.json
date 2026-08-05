@@ -194694,7 +194694,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -339261,7 +339261,7 @@
         "company_name": "PNC Financial Services",
         "id": "50302205-471f-44ae-b50c-6d339917d72f",
         "title": "Product Innovation Intern - Retail Product Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
