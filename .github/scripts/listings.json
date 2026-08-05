@@ -65685,7 +65685,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -289624,7 +289624,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -314739,7 +314739,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -323763,7 +323763,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
