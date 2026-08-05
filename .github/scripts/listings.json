@@ -283821,7 +283821,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292562,7 +292562,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322154,7 +322154,7 @@
         "company_name": "Ciena",
         "id": "2300311c-66b2-430c-88cb-0482516a6da7",
         "title": "Photonic Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332626,7 +332626,7 @@
         "company_name": "RTX",
         "id": "0b26c2f0-079a-457d-b9bc-8123655ff605",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
