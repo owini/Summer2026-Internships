@@ -1470,7 +1470,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (983)</summary>
+<summary>🗃️ Inactive roles (982)</summary>
 
 <table>
 <thead>
@@ -9337,14 +9337,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Full-Stack Developer Intern - Winter 2026</td>
 <td>San Jose, CA</td>
 <td>Winter 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Scottsdale, AZ</td>
-<td>Spring 2026</td>
 <td>🔒</td>
 <td>8mo</td>
 </tr>
@@ -24006,7 +23998,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Relationship Manager - Business Markets</td>
 <td>Newfoundland, Newfoundland and Labrador, Canada<br>St. John's, NL, Canada</td>
 <td>Spring 2026</td>
