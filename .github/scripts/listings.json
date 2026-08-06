@@ -297529,7 +297529,7 @@
         "company_name": "Cotiviti",
         "id": "e18b613e-4960-458a-950c-31a675aacf04",
         "title": "Agentic AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305789,7 +305789,7 @@
         "company_name": "Zipline",
         "id": "ae07548a-a2c2-42c2-950d-889a02c663bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328062,7 +328062,7 @@
         "company_name": "Copart",
         "id": "b87fb0cc-a6b4-405f-8642-7485bd8fffee",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341032,7 +341032,7 @@
         "company_name": "T. Rowe Price",
         "id": "c456837b-fccd-4f77-a6be-c09349b8185f",
         "title": "Investment Fellow - Fellowship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
