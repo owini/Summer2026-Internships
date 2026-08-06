@@ -1,95 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Plexus",
-        "id": "842e69a5-d5bc-491d-807b-1acfea48abd2",
-        "title": "Intern \u2013 Product Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765265323,
-        "date_posted": 1765265323,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer--Summer-2026-_R033663-1",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "a8536358-005c-4b52-9d86-a419e3b89c8f",
-        "title": "Compliance Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765264990,
-        "date_posted": 1765264990,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Spring-to-Fall-Product-Environmental-Compliance-Co-op_R14534",
-        "locations": [
-            "Irvine, CA",
-            "Beaverton, OR",
-            "Broomfield, CO",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/MKS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "596464a2-d68c-4e09-845f-2c85f3474255",
-        "title": "Designer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765264881,
-        "date_posted": 1765264881,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Calgary/Designer-Intern_2025-18710",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Airbnb",
-        "id": "73a68e3e-6de3-498a-98c8-8a01911b0357",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765264231,
-        "date_posted": 1765264231,
-        "url": "https://careers.airbnb.com/positions/7453837?gh_jid=7453837",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbnb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intuitive Surgical",
         "id": "6f4503ae-2591-4f2e-a268-2525b51554e2",
@@ -331143,7 +331054,7 @@
         "company_name": "Rockwell Automation",
         "id": "7f0b4b51-7fe2-4636-acda-1f3a52a12e19",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
