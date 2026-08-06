@@ -28196,7 +28196,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275775,7 +275775,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288722,7 +288722,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -332254,7 +332254,7 @@
         "company_name": "NAXO",
         "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
         "title": "Technical Investigations Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
