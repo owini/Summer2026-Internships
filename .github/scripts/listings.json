@@ -1,48 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "9747f3d2-0ec2-4c0e-b855-b9b2bd719a5b",
-        "title": "Intern \u2013 Software Engineer Intern - CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765284844,
-        "date_posted": 1765284844,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA601-Goleta-EW-Bldg-H01-6380-Hollister-Avenue-Building-H01-Goleta-CA-93117-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite---CA-_01810527",
-        "locations": [
-            "Goleta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nextiva",
-        "id": "c5c866bb-acf8-4357-bd43-ab09149cf8b1",
-        "title": "Intern AI Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1765284438,
-        "date_posted": 1765284438,
-        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8297628002",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765287745,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -317685,7 +317642,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340943,7 +340900,7 @@
         "company_name": "GE Appliances",
         "id": "ea40b09a-1b9a-48b0-8330-24a499d63fe8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
