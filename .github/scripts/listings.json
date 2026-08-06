@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "6cc79518-bbbc-431e-a232-51e0ec45775e",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1765245492,
-        "date_posted": 1765245492,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00171302",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Figure",
-        "id": "29f569dc-7730-4998-baf0-79017eee5e68",
-        "title": "Full-Stack Developer Intern - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765244848,
-        "date_posted": 1765244848,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4451543006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KEEN Footwear",
-        "id": "ec49fd7f-967d-4348-b2f6-b4c260531608",
-        "title": "Product Development Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765244823,
-        "date_posted": 1765244823,
-        "url": "https://www.keenfootwear.com/careers-list.html?4636794005&gh_jid=4636794005",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/KEEN-Footwear",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Intuit",
         "id": "57b5714c-7b08-476a-804d-963ff3413220",
         "title": "UR Events \u2013 Analytics Intern",
@@ -89082,7 +89019,7 @@
         "company_name": "TikTok",
         "id": "5be21c8e-1326-4ca1-9b44-d4839ecb5574",
         "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342762,6 +342699,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "fa4acb7b-e2c6-4b0a-8f93-4d09b537db1b",
+        "title": "Software Engineer Intern - Foundation Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785981421,
+        "date_posted": 1785981287,
+        "url": "https://lifeattiktok.com/search/7670281449668905269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "b2cd571c-f4e5-486e-b725-8596bbcb6db9",
+        "title": "Product Operations Intern - TikTok Shop Apps and API - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785981421,
+        "date_posted": 1785981295,
+        "url": "https://lifeattiktok.com/search/7668820702623467781",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
         ]
     }
 ]
