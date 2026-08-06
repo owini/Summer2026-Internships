@@ -3,69 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nokia",
-        "id": "76957cd3-a07d-4554-afaf-731c927f6adf",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765302718,
-        "date_posted": 1765302718,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28085",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "0ec7d8eb-5f6e-439f-bce4-c7dbe79fdfb1",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765302723,
-        "date_posted": 1765302723,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28034",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Honeywell",
-        "id": "9f2c4216-51d6-4c4e-bd5b-f385d3cf8924",
-        "title": "Product Management Intern Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1765302390,
-        "date_posted": 1765302390,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130392",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
         "id": "a1f143d1-fbb8-47e1-aac3-8f004e35ce86",
         "title": "Software Engineer Co-op/Intern",
         "active": false,
@@ -294867,7 +294804,7 @@
         "company_name": "Delta Dental",
         "id": "4e1c3c96-80a3-44d4-85ff-7da897beb1f5",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311945,7 +311882,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311992,7 +311929,7 @@
         "company_name": "Rockwell Automation",
         "id": "503be939-a684-4928-96bc-ae4baa9e4e7c",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332144,7 +332081,7 @@
         "company_name": "Altice USA",
         "id": "443c6322-3e3b-48b4-9fd4-3a9c04931db8",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341463,7 +341400,7 @@
         "company_name": "Exabeam",
         "id": "381e25f6-4ab5-4346-9d5a-2c6e06b792fb",
         "title": "AI Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
