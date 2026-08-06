@@ -317642,7 +317642,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325964,7 +325964,7 @@
         "company_name": "T. Rowe Price",
         "id": "fb1333ce-9156-4a30-a89d-92ec4d2b6185",
         "title": "Quantitative Equity Investing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326011,7 +326011,7 @@
         "company_name": "T. Rowe Price",
         "id": "1a3e9e00-5d2c-4657-be1b-e639c34231eb",
         "title": "Global Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334741,7 +334741,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "98224f6a-9244-4a2a-94e7-e9166181bd40",
         "title": "Digital & Technology Extern - Digital & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
