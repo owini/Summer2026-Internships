@@ -22,27 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Grey",
-        "id": "30d7ed67-09c1-43fe-b27e-9b44ca165002",
-        "title": "Robot Learning Research and Development Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765301292,
-        "date_posted": 1765301292,
-        "url": "https://berkshiregrey.bamboohr.com/careers/655/",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/BerkshireGrey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nokia",
         "id": "0ec7d8eb-5f6e-439f-bce4-c7dbe79fdfb1",
@@ -328262,7 +328241,7 @@
         "company_name": "GlobalFoundries",
         "id": "0b1e0284-448c-4f73-828a-e14246ce62c9",
         "title": "Device Engineer Intern - Ulp Cmos",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332142,7 +332121,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "19968d65-79a7-4f66-ab8a-7c71dd76b833",
         "title": "Product Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334275,7 +334254,7 @@
         "company_name": "ConocoPhillips",
         "id": "1d56fcf0-39ad-4779-9c90-25804a75135e",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342069,7 +342048,7 @@
         "company_name": "Nokia",
         "id": "0fefede3-d618-469a-be1e-163efc08a347",
         "title": "Electromechanical Assembly Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
