@@ -313125,7 +313125,7 @@
         "company_name": "GE Healthcare",
         "id": "ec539e13-7378-478b-b778-72a9b227541d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331024,7 +331024,7 @@
         "company_name": "Waystar",
         "id": "bab2fd6e-2b42-4dc7-96b4-3d3de7a25c32",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
