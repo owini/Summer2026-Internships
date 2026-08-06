@@ -339806,7 +339806,7 @@
         "company_name": "Inogen",
         "id": "88c6c90a-12f6-4c8e-810a-ebdd431c5950",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341424,7 +341424,7 @@
         "company_name": "Sargent & Lundy",
         "id": "6c1e882c-ab83-4d33-81c7-770ca19e76e1",
         "title": "AI & Automation Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
