@@ -339661,7 +339661,7 @@
         "company_name": "Simple Technology Solutions",
         "id": "7bd4f4c6-eca9-4fd7-93db-4bbd9540ca11",
         "title": "AI Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341695,7 +341695,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342022,7 +342022,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342038,5 +342038,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "2501f0b1-c33a-4309-87a7-8de524f63285",
+        "title": "Technology Architecture Intern - Corporate AI Foundation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786025891,
+        "date_posted": 1785974400,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3",
+        "locations": [
+            "Rimouski, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
