@@ -169390,7 +169390,7 @@
         "company_name": "Etched",
         "id": "b8e5d108-c2d4-4203-be00-c0a649c4459d",
         "title": "Electrical Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -231236,7 +231236,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312995,7 +312995,7 @@
         "company_name": "Zoox",
         "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
         "title": "Student Worker - Manufacturing Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322371,7 +322371,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -324116,7 +324116,7 @@
         "company_name": "GE Healthcare",
         "id": "664a4064-bf27-4a2a-bbd6-939cd77b76ce",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342375,7 +342375,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
