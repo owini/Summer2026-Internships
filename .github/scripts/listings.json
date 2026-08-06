@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "57b5714c-7b08-476a-804d-963ff3413220",
-        "title": "UR Events \u2013 Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765247017,
-        "date_posted": 1765247017,
-        "url": "https://jobs.intuit.com/job/mountain-view/ur-events-summer-2026-analytics-intern/27595/89314176528",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Take Two",
         "id": "bd1858db-bd0a-4cc3-8b53-0cbeefe12877",
         "title": "Data Science Intern",
@@ -37,27 +16,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Take-Two",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mackenzie Investments",
-        "id": "3ec169c8-0830-4eb3-bac5-ae9ab2dcf1e0",
-        "title": "Intern - Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765247716,
-        "date_posted": 1765247414,
-        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5737/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36812,31 +36770,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Etched.ai",
-        "id": "478541c3-9bf0-4685-8acb-3c2cfb74663b",
-        "title": "Software Intern - Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765532828,
-        "date_posted": 1765246045,
-        "url": "https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
