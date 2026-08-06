@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Intuitive Surgical",
-        "id": "6f4503ae-2591-4f2e-a268-2525b51554e2",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765266485,
-        "date_posted": 1765266485,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000097624745",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "0ea55151-6d85-44de-b8b3-22f1239039b8",
-        "title": "Embedded Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765266255,
-        "date_posted": 1765266255,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veolia",
-        "id": "9ecba065-df34-4f39-a962-6638c3c36103",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765266020,
-        "date_posted": 1765266020,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Autodesk",
         "id": "024af9c7-745f-4aa9-bf0a-06e6c65f96fe",
         "title": "Intern AI Developer",
