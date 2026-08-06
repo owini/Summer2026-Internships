@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "d3cb99ee-7ae5-46d8-a2b5-8e4985eb0a4a",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765253987,
-        "date_posted": 1765253987,
-        "url": "https://careers-gdms.icims.com/jobs/69671/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intuitive Surgical",
         "id": "0f3b453c-fb04-4e63-9852-d03592ff979a",
