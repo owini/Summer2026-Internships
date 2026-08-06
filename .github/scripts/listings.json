@@ -273199,7 +273199,7 @@
         "company_name": "BorgWarner",
         "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
         "title": "Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -337770,7 +337770,7 @@
         "company_name": "PNC Financial Services",
         "id": "ac0e3f80-3460-4cf1-b1bb-83a05b56b495",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
