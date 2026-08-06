@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Take Two",
-        "id": "bd1858db-bd0a-4cc3-8b53-0cbeefe12877",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765249132,
-        "date_posted": 1765249132,
-        "url": "https://job-boards.greenhouse.io/taketwo/jobs/7416834",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Take-Two",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "606f7c06-a20e-483e-afeb-22ac84219504",
