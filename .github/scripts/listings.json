@@ -332867,7 +332867,7 @@
         "company_name": "Alljoined",
         "id": "2085d00f-83c2-44da-ba4b-591e4820b7be",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
