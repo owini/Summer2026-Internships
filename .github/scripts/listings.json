@@ -308972,7 +308972,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -311242,7 +311242,7 @@
         "company_name": "Global Infrastructure",
         "id": "7368949e-db4f-4508-883c-32dc7d83356c",
         "title": "Alternative Delivery Project Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320583,7 +320583,7 @@
         "company_name": "RTX",
         "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
         "title": "Machine Learning Researcher Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333094,7 +333094,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4d9e8b53-4547-441e-9720-9ce1a24fdd5b",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335850,7 +335850,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
         "title": "Data Internship - Data & AI Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339444,7 +339444,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "430476fa-929a-40d6-baa9-2ff79a9c2899",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342116,5 +342116,314 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sargent & Lundy",
+        "id": "e5d6ed75-e71c-4466-a1c4-803fdc3bb93a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054469,
+        "url": "https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sargent-And-Lundy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Otter Products",
+        "id": "b02864c4-64dc-4d65-9a2c-b9f7c09f26ee",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055296,
+        "date_posted": 1786054435,
+        "url": "https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Otter-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "ec85ad4d-1542-495a-9e2a-0d122af39e86",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054437,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39285",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "a2460719-7c2d-426b-9852-b0d4d526029b",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054439,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39284",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "6cc4c3a7-299f-479c-a751-f3bb037c6cc1",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055270,
+        "date_posted": 1786054444,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39287",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "15b0b358-43ff-47d0-9761-4c4a4c29bdb4",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054435,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39286",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "14c2a7d5-4d8d-4b11-be10-60c81211e8e2",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055257,
+        "date_posted": 1786054436,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39288",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "f0643ec0-8c50-47a7-9ed4-2932c56a1413",
+        "title": "Deep Learning Research Intern - Multimodal BEV Perception",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054405,
+        "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Atoms",
+        "id": "5379a4df-fa7a-4799-8978-00d1844415b9",
+        "title": "Software Engineer Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786054501,
+        "date_posted": 1786054236,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Atoms",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "f5f8ee5c-c30e-425b-8613-da35ccc354be",
+        "title": "Software Engineer Intern - Gears of War",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786055042,
+        "date_posted": 1786054216,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556956276",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of Nebraska",
+        "id": "b74df225-de2e-4317-b24c-f56e01804516",
+        "title": "IT Construction Systems Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054688,
+        "date_posted": 1785974400,
+        "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00028484-1",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Nebraska",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "398433b0-f2f4-4367-80dd-7f56b0ee3d6b",
+        "title": "Digital Health Algorithms Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054646,
+        "date_posted": 1786054080,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canva",
+        "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
+        "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786054145,
+        "date_posted": 1786054035,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Canva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
