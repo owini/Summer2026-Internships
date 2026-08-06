@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "606f7c06-a20e-483e-afeb-22ac84219504",
-        "title": "Field Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765251841,
-        "date_posted": 1765251841,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Central-New-Jersey--NJ-_R4023412-1",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "d3cb99ee-7ae5-46d8-a2b5-8e4985eb0a4a",
@@ -327268,7 +327247,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "4239cf96-37b5-405d-8764-53684b347047",
         "title": "Relationship Manager Commercial Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
