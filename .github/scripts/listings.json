@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Bandwidth",
-        "id": "8a864735-c11b-457d-874a-4ec901879775",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765314034,
-        "date_posted": 1765314034,
-        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7455381",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bandwidth",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "23d82f28-fda2-4580-9d90-afbb45d611df",
         "title": "Software Engineer - Robot Learning Platform",
