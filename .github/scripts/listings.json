@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "23d82f28-fda2-4580-9d90-afbb45d611df",
-        "title": "Software Engineer - Robot Learning Platform",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765320564,
-        "date_posted": 1765320564,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Robot-Learning-Platform---Summer-2026_JR2007959",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
         "id": "39a4b1d2-3821-4d9e-bc9f-d56b0120a098",
@@ -75944,7 +75923,7 @@
         "company_name": "Expedia Group",
         "id": "b398176e-abc3-4de5-a9d7-94ad6bf0cf3e",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -117756,7 +117735,7 @@
         "company_name": "X Development",
         "id": "a1f62ca8-2e53-4862-8685-ff2046c581d0",
         "title": "PhD Residency - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278122,7 +278101,7 @@
         "company_name": "ATCO",
         "id": "aa358bf5-9b90-4caa-a493-2a8efd48b770",
         "title": "Forestry Planning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330219,7 +330198,7 @@
         "company_name": "Leidos",
         "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334080,7 +334059,7 @@
         "company_name": "Postman",
         "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341548,7 +341527,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341919,7 +341898,7 @@
         "company_name": "SharkNinja",
         "id": "f21fd8c2-51b1-48c3-a6af-092113970a45",
         "title": "Digital Experience Web Development - D2C",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342424,6 +342403,230 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alayacare",
+        "id": "25caade8-8d17-4ab4-bf25-ec493e15a86a",
+        "title": "Full-Stack Developer Intern - Python",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786056403,
+        "date_posted": 1786055369,
+        "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AlayaCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a65068a9-808a-4223-9f74-2421c555cb44",
+        "title": "Software Engineer Intern - Aeronautics Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786056337,
+        "date_posted": 1785974400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "d521d54d-6211-43d4-9d48-c874c592067d",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055941,
+        "date_posted": 1785974400,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "72e0ea97-517d-475f-a978-fdd5b09bc340",
+        "title": "Display Software Development Student - Product Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786055986,
+        "date_posted": 1786054807,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482576578",
+        "locations": [
+            "Dubuque, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "0d46d0ee-0a76-4970-9c7c-c4db40ae4fe5",
+        "title": "Energy Efficiency Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055908,
+        "date_posted": 1785974400,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Centerfield",
+        "id": "1200d9c3-8c18-4a2b-a55a-19887da19374",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055884,
+        "date_posted": 1786054696,
+        "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centerfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PanAgora",
+        "id": "300f2a26-9f9f-4091-b329-1bfa9f055311",
+        "title": "Dynamic Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055801,
+        "date_posted": 1785974400,
+        "url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061446",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PanAgora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PanAgora",
+        "id": "0d438fe2-a69f-466d-827d-b3f7d9479dbb",
+        "title": "Dynamic Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786055791,
+        "date_posted": 1785974400,
+        "url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PanAgora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "88a09a9b-285b-45b6-ba4d-2fda5b97f778",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786055675,
+        "date_posted": 1785974400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "8845d33a-3ce1-46af-a01c-e62c6fbecd0e",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786055675,
+        "date_posted": 1785974400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
