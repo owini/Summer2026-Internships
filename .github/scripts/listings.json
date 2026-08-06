@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sparksoft",
-        "id": "32df4c32-167c-42eb-8ef1-7eb8f0880959",
-        "title": "Artificial Intelligence Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765263620,
-        "date_posted": 1765263620,
-        "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/4998433007",
-        "locations": [
-            "Maryland"
-        ],
-        "company_url": "https://simplify.jobs/c/Sparksoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Plexus",
         "id": "842e69a5-d5bc-491d-807b-1acfea48abd2",
@@ -313708,7 +313687,7 @@
         "company_name": "ABB",
         "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
