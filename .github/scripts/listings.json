@@ -203709,7 +203709,7 @@
         "company_name": "Pennsylvania State University",
         "id": "1f07093f-af2d-4820-8147-f6ea26602897",
         "title": "AI/ML Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -338543,7 +338543,7 @@
         "company_name": "PanAgora",
         "id": "300f2a26-9f9f-4091-b329-1bfa9f055311",
         "title": "Dynamic Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
