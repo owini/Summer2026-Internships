@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "6bc9048c-0168-4ee2-af5e-6e02b18baf60",
-        "title": "Intern Associate Technical Portfolio Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765369146,
-        "date_posted": 1765369146,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097991956",
-        "locations": [
-            "Staines-upon-Thames, UK",
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "2e350d27-cce6-45f2-aecd-45ed31f5f06f",
         "title": "Research Intern - Multimodal Deep Learning for Healthcare",
@@ -18854,7 +18832,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -239876,7 +239854,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290157,7 +290135,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
