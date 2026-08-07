@@ -26719,27 +26719,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "4e31369a-e66c-4b1f-85c6-0390ad71f46b",
-        "title": "Product Marketing MBA Intern - Data Processing",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765356537,
-        "date_posted": 1765356537,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Tokyo Electron",
         "id": "0248af8a-217c-43b7-bfd2-db26a2af017b",
         "title": "ATG 3DI Simulation Intern - Summer 2026",
@@ -281038,7 +281017,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323096,7 +323075,7 @@
         "company_name": "Wells Fargo",
         "id": "0828ba46-8539-4401-9c81-3c38584a5690",
         "title": "Corporate Risk Development Program Intern - Core Risk - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342551,5 +342530,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stand Insurance",
+        "id": "1102ab64-7164-41e8-9610-96061d6fa576",
+        "title": "Fire Science Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786092301,
+        "date_posted": 1784106689,
+        "url": "https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stand-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
