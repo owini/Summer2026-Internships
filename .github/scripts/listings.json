@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital Power",
-        "id": "59561e7b-db75-46e0-8700-5ad427cc0f3c",
-        "title": "ICS Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765391888,
-        "date_posted": 1765391888,
-        "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/ICS-Engineering-Co-op_JR806753",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Netflix",
         "id": "f3e1dd51-5fa2-4d31-a191-365c1691876f",
@@ -337546,7 +337523,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
