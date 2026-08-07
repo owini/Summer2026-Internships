@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Zoox",
-        "id": "9263099a-702a-4df2-a0fe-5d25d0192258",
-        "title": "Vehicle Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765325995,
-        "date_posted": 1765325995,
-        "url": "https://jobs.lever.co/zoox/64f14dfd-80d0-4169-bf3d-1a95c87b2736/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amazon",
         "id": "c44d58c3-05e3-470a-9f21-4722f9d8522d",
@@ -5003,27 +4982,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "dafd130f-cee9-4f04-b1aa-f378511a9839",
-        "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765409445,
-        "date_posted": 1765326414,
-        "url": "https://careers-gdms.icims.com/jobs/69611/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
