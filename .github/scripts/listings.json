@@ -308604,7 +308604,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329993,7 +329993,7 @@
         "company_name": "CVS Health",
         "id": "08a728f0-6281-4206-a022-403284d64763",
         "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
