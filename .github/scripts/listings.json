@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "64fef2ad-7032-4697-ad29-4970221e9bd5",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765382760,
-        "date_posted": 1765382760,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28203",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "4d5784dc-55f2-4b2d-a9ec-d34045a2ef22",
-        "title": "Summer Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765382767,
-        "date_posted": 1765382767,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28139",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
         "id": "16d959d6-bb5f-4f6d-89df-813c4dd682d2",
@@ -197,27 +155,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chubb",
-        "id": "93c4c268-ec87-4db7-af5e-197c3a8db4b8",
-        "title": "Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765383884,
-        "date_posted": 1765383884,
-        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/28479",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Chubb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PTC",
         "id": "99f185a9-4b1f-4806-b121-595eccb1ac91",
@@ -233,27 +170,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CHS",
-        "id": "6637fff6-abef-407c-b746-94ccbefff059",
-        "title": "Trading Analytics & AI Intern - Fertilizer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765384170,
-        "date_posted": 1765384170,
-        "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Trading-Analytics-&-AI-Intern-Fertilizer-MN-55077-1721/1348750600/?ats=successfactors",
-        "locations": [
-            "Cottage Grove, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/CHS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -572,27 +488,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "9b8c97c9-3ec7-462c-ae47-fdf599f170eb",
-        "title": "Research Intern - Extended Perception Interaction Cognition - Epic",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765383871,
-        "date_posted": 1765383871,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -231964,7 +231859,7 @@
         "company_name": "X Development",
         "id": "89566391-fb11-4a1c-8973-916ece3bb6ce",
         "title": "PhD Residency Intern - Operations Research and Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
