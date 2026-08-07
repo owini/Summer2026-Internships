@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Commonwealth of Massachusetts",
-        "id": "12288166-2aab-4749-b1b1-93c25d13fbff",
-        "title": "Transit Co-op Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765323553,
-        "date_posted": 1765323553,
-        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=250007QT",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Electronic Arts",
-        "id": "60ca6f38-4c69-4def-9ca2-b9b2683f38a4",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765323486,
-        "date_posted": 1765323486,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Analytics-Intern/210921",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Zoox",
         "id": "9263099a-702a-4df2-a0fe-5d25d0192258",
