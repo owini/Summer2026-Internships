@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "ea9c64db-2da3-4386-bef4-e5bb8e359972",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1765411418,
-        "date_posted": 1765411418,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00171966",
-        "locations": [
-            "Gaithersburg, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Airbus",
-        "id": "9505648b-0283-41a4-a8ec-ff2b948d8eb4",
-        "title": "Intern - Data Science Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765411332,
-        "date_posted": 1765411332,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Atlanta-Area-GA/Summer-Internship---Data-Science-Engineering_JR10355957",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Zscaler",
         "id": "ab3f285d-16d1-478b-9e2c-bc2775ead06a",
@@ -315656,7 +315614,7 @@
         "company_name": "Fab2",
         "id": "933d10c8-03fc-4113-8981-4de8ef915675",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
