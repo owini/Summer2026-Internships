@@ -264053,7 +264053,7 @@
         "company_name": "PlusAI",
         "id": "681758c6-c283-429d-9627-0f285a799b54",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338444,6 +338444,218 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ProNexus",
+        "id": "7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786152061,
+        "date_posted": 1786151968,
+        "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/05c3e660-5408-40c2-8823-074458ea0d94",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Capula",
+        "id": "eaa01856-85b6-42f8-97ab-deedc1304759",
+        "title": "Trading and Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786152401,
+        "date_posted": 1786151943,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/c07ede24-ea28-4d89-8547-8f65381007b4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flexion Robotics",
+        "id": "11e5114f-3ac5-4d35-a25a-64c8f7661b81",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786152397,
+        "date_posted": 1786151941,
+        "url": "https://apply.workable.com/flexion-robotics/j/8FF540773C/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/889926a0-af40-4ad8-b3ea-44da6178c2e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HyperLight",
+        "id": "c6c209fe-1929-49b7-bc1b-acc754aa5793",
+        "title": "Integrated Photonics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1786152230,
+        "date_posted": 1786151883,
+        "url": "https://apply.workable.com/hyperlight/j/498D9988C8/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/1932da2e-9c4a-422e-bb79-0b1b6510e527",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "e658540c-4e9e-4242-ae48-0e3059df35a4",
+        "title": "Quantitative Trading Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786152061,
+        "date_posted": 1786151883,
+        "url": "https://apply.workable.com/wallstreetquants/j/8CB119E789/apply",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WallStreetQuants",
+        "id": "ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786152220,
+        "date_posted": 1786151883,
+        "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/46e5dfcd-8bf9-4bd1-b33f-1ccfcb129872",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Turabify",
+        "id": "bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
+        "title": "AI Automation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786152118,
+        "date_posted": 1786151850,
+        "url": "https://apply.workable.com/turabify-co/j/0B50CC0D49/apply",
+        "locations": [
+            "Franklin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/9cc23efa-7ab8-471d-ad08-519ce06f1f89",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TMEIC Corporation Americas",
+        "id": "aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+        "title": "Applications Intern - AI and Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786152006,
+        "date_posted": 1786151810,
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/975b3d75-c621-42e4-907f-b8063b08c328",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "30e36d66-cf25-4851-9655-d22bb0c6d319",
+        "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786151881,
+        "date_posted": 1786151719,
+        "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
