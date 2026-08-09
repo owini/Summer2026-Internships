@@ -323436,7 +323436,7 @@
         "company_name": "The Home Depot",
         "id": "7e366937-87f7-41fb-9481-e1c24fa3a9dd",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
