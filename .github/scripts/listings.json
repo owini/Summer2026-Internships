@@ -287346,7 +287346,7 @@
         "company_name": "General Motors",
         "id": "9c4619b9-f695-4144-b0f7-42620ccfbc1e",
         "title": "Research and Development Intern - Research & Development: AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326458,7 +326458,7 @@
         "company_name": "Postman",
         "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
