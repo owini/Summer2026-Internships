@@ -2,9 +2,6 @@
 
   Use this repo to share and keep track of **Summer 2027 tech internships** across software engineering, data science, quant, hardware engineering, AI/ML and more. The list is updated and maintained daily by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/?utm_source=github)!
 
-
-  🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2027-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
-
 ---
 
 ### Browse 280 Internship Roles by Category
