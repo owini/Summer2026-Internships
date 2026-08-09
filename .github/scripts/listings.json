@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dematic",
-        "id": "fea19860-81f2-42f0-a52d-de3617a57a09",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765497683,
-        "date_posted": 1765497683,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0082104",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dematic",
-        "id": "991c26d2-3489-48e2-a123-5ebd148c61a3",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765497689,
-        "date_posted": 1765497689,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0082262",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "66135bc9-d614-46b6-834b-711eb1181a64",
@@ -60,196 +16,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Micron Technology",
-        "id": "6f847bf4-2ee6-45e0-aeef-16a6e0aa6042",
-        "title": "Intern GEL Software - GEL",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765499198,
-        "date_posted": 1765499198,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---GEL-Software_JR87167",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "4dbcafd0-5fe0-4b9c-8fc2-b0acffe1537f",
-        "title": "National Security Solutions \u2013 Software Engineering Internship - Nss",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498695,
-        "date_posted": 1765498695,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Software-Engineering-Internship_R2116382",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "cb32868c-7d15-42f1-b389-7356edc9d703",
-        "title": "Firmware Developer  Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498448,
-        "date_posted": 1765498448,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Firmware-Developer--Co-Op_R60152",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fresenius Medical Care",
-        "id": "9e665bc8-eeb3-437e-99bd-e727e7286679",
-        "title": "IT Solutions Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765498501,
-        "date_posted": 1765498501,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lexington-MA-USA/IT-Solutions-Internship_R0231964",
-        "locations": [
-            "Lexington, MA",
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motorola",
-        "id": "5f01e37b-80bd-4b46-b02c-0bce8d14a48a",
-        "title": "AI/ML Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498455,
-        "date_posted": 1765498455,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/British-Columbia-Remote-Work/AI-ML-Engineer-Co-Op_R60011",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "024b752d-c508-4993-8748-53864e30adb3",
-        "title": "Intern \u2013 Mechanical Product Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498550,
-        "date_posted": 1765498550,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Product-Engineering_R-25-12955",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Conagra Brands",
-        "id": "8a7ca382-307a-4559-891f-c69ead9ea386",
-        "title": "AI and Automation Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498243,
-        "date_posted": 1765498243,
-        "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/AI-and-Automation-Internship----Summer-2026_Req-035761",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Conagra-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "f3358f93-cfd9-45f2-aba9-3ed97da56cb3",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498203,
-        "date_posted": 1765498203,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R51989-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Genentech",
-        "id": "0ad055c4-def1-4f7c-968b-2973d1e1cc30",
-        "title": "Intern - Gcs Computational Catalysts - Orchestra Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765498356,
-        "date_posted": 1765498356,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---gCS-Computational-Catalysts--Orchestra-Team_202512-131549",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49458,31 +49224,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "47086f50-05ec-404f-a938-eeab68a88fbf",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765498203,
-        "date_posted": 1765498203,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R51989",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -337199,6 +336940,29 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Eko-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785581409,
+        "date_posted": 1781360086,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
