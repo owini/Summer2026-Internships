@@ -307163,7 +307163,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329785,7 +329785,7 @@
         "company_name": "US Acute Care Solutions",
         "id": "fef69e02-fe37-4ff4-b158-7dceacfeb578",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333540,7 +333540,7 @@
         "company_name": "TMEIC Corporation Americas",
         "id": "aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
         "title": "Applications Intern - AI and Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333807,6 +333807,145 @@
             "University Park, State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fdd7e7ec-c300-4a26-931c-56c3adc48425",
+        "title": "Data Engineer Intern - Monetization Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786371661,
+        "date_posted": 1786371585,
+        "url": "https://lifeattiktok.com/search/7671232204182276405",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "d1768aee-f240-4353-b609-278b04785c95",
+        "title": "Software Engineer Intern - Global E-commerce-Search",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786371661,
+        "date_posted": 1786371587,
+        "url": "https://lifeattiktok.com/search/7670839727059339525",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "2851e500-7a2b-4e96-a2fa-681730e8d48e",
+        "title": "Software Engineer Intern - Global E-commerce-Search",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1786371661,
+        "date_posted": 1786371587,
+        "url": "https://lifeattiktok.com/search/7670839752644233525",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vertiv",
+        "id": "fa8b65b7-46f3-4fed-bdff-a50d4855519d",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786371121,
+        "date_posted": 1786370978,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "8fdae942-cdba-4211-9277-dd563870610d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786371167,
+        "date_posted": 1786370981,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "49768538-85b4-448b-8ccc-a130226cee78",
+        "title": "Thermal Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786371173,
+        "date_posted": 1786370976,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
