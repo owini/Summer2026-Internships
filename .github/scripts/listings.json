@@ -265341,7 +265341,7 @@
         "company_name": "Canadian Tire",
         "id": "0f463052-90cf-461f-8e7e-1212e29e75df",
         "title": "Data Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
