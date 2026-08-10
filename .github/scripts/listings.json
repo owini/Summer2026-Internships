@@ -295324,7 +295324,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316744,7 +316744,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325943,7 +325943,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "31064e52-65df-476b-89b9-d83f6663a2cc",
         "title": "Artificial Intelligence Co-op - Data Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329366,7 +329366,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330819,7 +330819,7 @@
         "company_name": "NVIDIA",
         "id": "2ccc5c31-d719-47e7-ab38-b42010d3a585",
         "title": "Software Engineer Intern - Dynamo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332416,7 +332416,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "8845d33a-3ce1-46af-a01c-e62c6fbecd0e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334403,5 +334403,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marshall Wace",
+        "id": "0a45c012-edc2-4b79-bd41-d7c92f3689ba",
+        "title": "AI Placement - Imperial 6 month placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786354268,
+        "date_posted": 1786354107,
+        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
