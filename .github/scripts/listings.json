@@ -310506,7 +310506,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
