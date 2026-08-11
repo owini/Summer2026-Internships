@@ -275045,7 +275045,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333421,7 +333421,7 @@
         "company_name": "CLEAResult",
         "id": "cf9613df-d8e3-4474-87fd-386eaa1816e8",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
