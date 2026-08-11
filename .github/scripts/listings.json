@@ -325487,7 +325487,7 @@
         "company_name": "QuEra Computing",
         "id": "3f75b98c-3c6a-4192-8268-3e946dae7519",
         "title": "Photonics Data Engineer Intern - Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334566,5 +334566,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PSP Investments",
+        "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
+        "title": "AI Solutions Intern - External Manager Selection & Monitoring",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786410783,
+        "date_posted": 1786320000,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PSP-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
