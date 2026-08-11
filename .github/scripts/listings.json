@@ -279010,7 +279010,7 @@
         "company_name": "Ancestry",
         "id": "b70cf0fc-1a6d-451a-a737-885a6a68884f",
         "title": "Machine Learning Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302101,7 +302101,7 @@
         "company_name": "Meta",
         "id": "ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8",
         "title": "Research Scientist Intern - Monetization Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -322424,7 +322424,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "a65f9dcf-4dea-46ef-a1eb-b39b21c95ab1",
         "title": "Researcher for Robotic Dexterous Picking",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335114,7 +335114,7 @@
         "company_name": "ATCO",
         "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
         "title": "Engineering Co-op - Electric Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
