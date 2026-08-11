@@ -276369,7 +276369,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -310483,7 +310483,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -315418,7 +315418,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326769,7 +326769,7 @@
         "company_name": "RTX",
         "id": "0229beda-126f-43a7-a85a-286066c436b8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326841,7 +326841,7 @@
         "company_name": "Microsoft",
         "id": "7e143f06-1c28-41b7-9291-53a869d86325",
         "title": "Software Engineer Intern - Cloud & Distributed Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328040,7 +328040,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
