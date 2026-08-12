@@ -274994,7 +274994,7 @@
         "company_name": "Nio",
         "id": "f8c55540-2c77-4666-a43b-0bd880b968f9",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275796,7 +275796,7 @@
         "company_name": "Ancestry",
         "id": "30968849-8351-4128-a546-cd9bbad4a60c",
         "title": "Data Science Co-op - AI Document Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
