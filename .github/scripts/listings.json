@@ -52463,7 +52463,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -193099,7 +193099,7 @@
         "company_name": "ByteDance",
         "id": "0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
         "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -276254,7 +276254,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -293883,7 +293883,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301344,7 +301344,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -310368,7 +310368,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327925,7 +327925,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332946,7 +332946,7 @@
         "company_name": "Sony Music Entertainment",
         "id": "08783e42-22f6-47ea-b391-ad53b2579350",
         "title": "Data Analytics Intern - A&R Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -333724,7 +333724,7 @@
         "company_name": "Sargent & Lundy",
         "id": "810c0d4f-1b94-4649-bec6-20b46e134782",
         "title": "AI & Automation Intern - Enterprise Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
