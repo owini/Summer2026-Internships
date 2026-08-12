@@ -229136,7 +229136,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273678,7 +273678,7 @@
         "company_name": "LiveRamp",
         "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
         "title": "Software Engineer Co-op - Conversions API",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335633,7 +335633,7 @@
         "company_name": "Analytic Partners",
         "id": "08dcec1c-e97a-4c39-978e-cd2dede8bb31",
         "title": "Software Engineer Co-op - Northeastern University",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
