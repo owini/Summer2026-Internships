@@ -316055,7 +316055,7 @@
         "company_name": "Nokia",
         "id": "48a3b01c-7ec9-4b30-8db4-c264431de5d9",
         "title": "Architecture AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327453,7 +327453,7 @@
         "company_name": "Microsoft",
         "id": "c3a88fbe-109d-4f95-b388-630393a1833c",
         "title": "Research Intern - Firmware Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
