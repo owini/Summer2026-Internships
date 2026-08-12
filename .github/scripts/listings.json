@@ -248696,7 +248696,7 @@
         "company_name": "Tenstorrent",
         "id": "2c1b5956-4d83-4409-b595-31acfc1544f4",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026",
@@ -324896,7 +324896,7 @@
         "company_name": "ByteDance",
         "id": "77635c2b-1d19-49ef-8d73-5ade973c99b2",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330289,7 +330289,7 @@
         "company_name": "KBR",
         "id": "65168593-c923-4365-b58a-af70c7f8c6cd",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334163,7 +334163,7 @@
         "company_name": "Deloitte",
         "id": "1782c7ab-120f-498c-b0af-430d269e5bf4",
         "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335244,7 +335244,7 @@
         "company_name": "RTX",
         "id": "4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
