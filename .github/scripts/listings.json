@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sentra",
-        "id": "c0889bab-514f-47a9-a154-15c018a7b934",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765793719,
-        "date_posted": 1765793719,
-        "url": "https://jobs.ashbyhq.com/sentra/eb51547f-e234-42f7-ab75-ab93717579d9/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "b807a658-19b9-436b-a6ac-ecee9852a938",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765793610,
-        "date_posted": 1765793610,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641809",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Tiffany & Co.",
         "id": "e3b539e1-45c3-4811-86f1-080d73e220aa",
         "title": "Intern - IT Integrations",
@@ -332925,7 +332883,7 @@
         "company_name": "Sony Music Entertainment",
         "id": "4ff7c715-a529-4fd1-b03a-7e208e1721da",
         "title": "Insight & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335286,7 +335244,7 @@
         "company_name": "RTX",
         "id": "4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
