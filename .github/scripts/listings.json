@@ -330603,7 +330603,7 @@
         "company_name": "Otter Products",
         "id": "b02864c4-64dc-4d65-9a2c-b9f7c09f26ee",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334971,7 +334971,7 @@
         "company_name": "Truist Bank",
         "id": "74882eb7-2f7f-4a33-9ecc-7ad6865fdbd5",
         "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335822,7 +335822,7 @@
         "company_name": "Bank of Montreal",
         "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
         "title": "Full Stack Engineer Intern - Data Cognition Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
