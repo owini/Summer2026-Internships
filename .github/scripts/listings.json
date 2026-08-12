@@ -284843,7 +284843,7 @@
         "company_name": "TikTok",
         "id": "a2690da9-8ffe-49b7-8e47-3db840df7b79",
         "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293883,7 +293883,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318842,7 +318842,7 @@
         "company_name": "Canadian Tire",
         "id": "28a39a26-10ea-4b63-8937-ec8a232212ed",
         "title": "AI Enablement Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327925,7 +327925,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
