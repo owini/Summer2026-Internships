@@ -294257,7 +294257,7 @@
         "company_name": "ConnectPrep",
         "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306193,7 +306193,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327203,7 +327203,7 @@
         "company_name": "HUB International",
         "id": "2930e1fb-2b4f-4e11-885f-44f806cb97cb",
         "title": "Student Programmer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330745,7 +330745,7 @@
         "company_name": "Rochester Regional Health",
         "id": "385dc12f-2ac2-4312-8605-7f8b09d77fd9",
         "title": "Web Applications Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334324,7 +334324,7 @@
         "company_name": "Assured Guaranty",
         "id": "26469c50-c009-48da-9415-b146a1d441df",
         "title": "Product Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
