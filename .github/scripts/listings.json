@@ -286045,7 +286045,7 @@
         "company_name": "Baker Hughes",
         "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
