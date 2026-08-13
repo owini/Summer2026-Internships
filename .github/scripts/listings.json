@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "258690d6-50c0-4eee-9b5b-3d9e2bcf17b7",
-        "title": "Intern - Large Language Models",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845284,
-        "date_posted": 1765845284,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2026-Summer-Intern---Large-Language-Models--Prescient-Design---AI-for-Drug-Discovery-_202512-131826-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "cdbebe86-9c32-4d75-98b3-f8853e6b4c63",
-        "title": "FC Risk Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845076,
-        "date_posted": 1765845076,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--FC-Risk-Analytics-Intern--4-Months-_R-0000152168",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
-        "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765845314,
-        "date_posted": 1765845314,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202512-131807",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "LinkedIn",
         "id": "bebf3592-aa39-4da5-9048-c919792c1707",
         "title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
@@ -306477,7 +306414,7 @@
         "company_name": "Telesat",
         "id": "a2024e6c-2b1a-4b6a-8378-7ebcde217209",
         "title": "User Terminal Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
