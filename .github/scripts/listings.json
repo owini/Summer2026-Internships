@@ -326811,7 +326811,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334883,7 +334883,7 @@
         "company_name": "InfiniteQuant",
         "id": "9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335067,6 +335067,50 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "94d4bdc8-57b1-4c13-b31f-7d40e35cdc0e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786659301,
+        "date_posted": 1786579200,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361",
+        "locations": [
+            "Wesley Chapel, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interco",
+        "id": "d05b18bf-6196-4443-8b9a-4bd3ee417cae",
+        "title": "Software Development Intern - React",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786659250,
+        "date_posted": 1786659108,
+        "url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Interco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
