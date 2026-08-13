@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 150 Inactive Internship Roles by Category
+### Browse 149 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (50)
 
@@ -14,7 +14,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (33)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (40)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (39)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (18)
 
@@ -113,7 +113,7 @@
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
@@ -267,7 +267,7 @@
 <td>Software Engineer Intern</td>
 <td><details><summary><strong>6 locations</strong></summary>Fremont, CA<br>Rochester, MN<br>San Jose, CA<br>Irvine, CA<br>Colorado Springs, CO<br>Longmont, CO</details></td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Old-Mission?utm_source=GHList&utm_medium=company">Old Mission</a></strong></td>
@@ -281,49 +281,49 @@
 <td>Software Engineering Intern</td>
 <td><details><summary><strong>6 locations</strong></summary>Seattle, WA<br>Irvine, CA<br>NYC<br>Bellevue, WA<br>Denver, CO<br>Boulder, CO</details></td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company">Five Rings Capital</a></strong></td>
 <td>Software Developer Intern - Software Developer</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Akuna-Capital-University?utm_source=GHList&utm_medium=company">Akuna Capital University</a></strong></td>
 <td>Software Engineer Intern - C++</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Development & Strategy Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - C# .NET Desktop</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Full Stack Web</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Python</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
@@ -547,7 +547,7 @@
 <td>AI & Automation Intern - Enterprise Data & Analytics</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GDIT?utm_source=GHList&utm_medium=company">General Dynamics Information Technology</a></strong></td>
@@ -732,7 +732,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
 <td>College to Corporate IT Intern - Data Science</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
@@ -799,13 +799,6 @@
 <td>Quantitative Researcher Intern - Summer 2027 🎓</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/InfiniteQuant?utm_source=GHList&utm_medium=company">InfiniteQuant</a></strong></td>
-<td>Quantitative Researcher Intern - Summer 2027 🎓</td>
-<td>Dubai - United Arab Emirates<br>NYC</td>
-<td>🔒</td>
 <td>3d</td>
 </tr>
 <tr>
@@ -827,7 +820,7 @@
 <td>Derivatives Sales Trader Intern - Summer 2027</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
@@ -897,21 +890,21 @@
 <td>Quantitative Researcher Intern 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Trader Intern - Quantitative Trader</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Akuna-Capital-University?utm_source=GHList&utm_medium=company">Akuna Capital University</a></strong></td>
 <td>Quantitative Research Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company">IMC Trading</a></strong></td>
@@ -977,7 +970,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
+<td>↳</td>
 <td>Finance & Risk Intern - Supply - Trading</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -1142,7 +1135,7 @@
 <td>Hardware Engineer Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company">Optiver</a></strong></td>
