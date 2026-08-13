@@ -261,27 +261,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redis",
-        "id": "75ea8448-265f-4a3c-8b14-0036142f7fde",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765903233,
-        "date_posted": 1765903233,
-        "url": "https://job-boards.greenhouse.io/redis/jobs/5646914004",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Redis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analytical Mechanics Associates",
         "id": "a5f6ffa2-3fb6-47d4-b836-920cc33d5476",
@@ -13551,27 +13530,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Becton Dickinson",
-        "id": "84f0355e-8588-4def-9574-eddf4756065d",
-        "title": "Co-op Global Marketing - Rxauto",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766418540,
-        "date_posted": 1765903098,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Co-op--Global-Marketing--RxAuto_R-533686-1",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -313328,7 +313286,7 @@
         "company_name": "TJX",
         "id": "6deb3431-f42f-4cf1-acb1-10a998d92800",
         "title": "Product & Quality Specialist Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330207,7 +330165,7 @@
         "company_name": "RTX",
         "id": "7225ea19-19a0-4919-8853-b1621afa60a9",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333762,7 +333720,7 @@
         "company_name": "Loblaw Companies",
         "id": "5116425b-3685-4fd2-8e7c-e7900b53e239",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
