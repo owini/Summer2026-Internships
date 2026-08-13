@@ -325081,7 +325081,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330404,7 +330404,7 @@
         "company_name": "InfiniteQuant",
         "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334814,7 +334814,7 @@
         "company_name": "RTX",
         "id": "fc4a0ca4-5bba-4b25-abdc-d15091093548",
         "title": "Validation Engineer Intern - Product Safety - Certification & Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
