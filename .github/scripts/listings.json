@@ -261440,7 +261440,7 @@
         "company_name": "PlusAI",
         "id": "ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303562,7 +303562,7 @@
         "company_name": "Revvity",
         "id": "aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335098,5 +335098,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Games",
+        "id": "31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786584601,
+        "date_posted": 1786584506,
+        "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
