@@ -306373,7 +306373,7 @@
         "company_name": "Western Digital",
         "id": "01925f31-564d-4bc0-94fc-2a2717d3132d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331753,7 +331753,7 @@
         "company_name": "Deloitte",
         "id": "0b10eb53-ff2e-4bfb-bbac-181b11ff4891",
         "title": "Risk Analytics Analyst Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
