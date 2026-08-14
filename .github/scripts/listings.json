@@ -1,112 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "f81069ed-ad4e-4318-8dfc-c634ebb35a20",
-        "title": "Relationship Manager \u2013 Business Markets Intern - North Bay - On",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765940292,
-        "date_posted": 1765940292,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NORTH-BAY-Ontario-Canada/Relationship-Manager--Business-Markets-Intern---North-Bay--ON_R-0000152830",
-        "locations": [
-            "North Bay, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FOX",
-        "id": "484343f4-80b8-4b1e-b63b-4746d55c15bc",
-        "title": "FOX Technology Intern Program - Live Sports Virtual Enhancement Operator",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1765939616,
-        "date_posted": 1765939616,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2026-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50030979",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AstraZeneca",
-        "id": "bfd6609b-daeb-406f-8cff-f55bc6048906",
-        "title": "Data Automation and Modeling Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765939855,
-        "date_posted": 1765939855,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FactSet",
-        "id": "3b381724-f8b1-4846-860a-284fa0c6d267",
-        "title": "Buy-Side Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765939475,
-        "date_posted": 1765939475,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/United-States-Charlotte-1213-W-Morehead-St-Charlotte/Buy-Side-Analytics-Internship---Charlotte--Summer-2026-_R30677",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Direct Supply",
-        "id": "6033e32c-c0e5-437a-b217-345ed193bba2",
-        "title": "Web Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765939228,
-        "date_posted": 1765939228,
-        "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Web-Development-Intern_REQ-2025-2286",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Direct-Supply",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ensign-Bickford Aerospace & Defense Company",
         "id": "54225fab-a9fc-4bb9-876f-4d6da5b01bad",
@@ -11757,27 +11651,6 @@
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "46e72733-f94f-4d17-8176-44ec8d567ca1",
-        "title": "CAD Engineer/Librarian Associate - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766796452,
-        "date_posted": 1765938913,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4626416006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -322986,7 +322859,7 @@
         "company_name": "Keysight Technologies",
         "id": "cbd56b83-ba52-4c04-b781-d4ae5e585151",
         "title": "Software Engineer Intern - R&D - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
