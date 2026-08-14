@@ -331829,7 +331829,7 @@
         "company_name": "RTX",
         "id": "98803f68-563e-4966-9b99-92606c5b702e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334061,6 +334061,216 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MaxLinear",
+        "id": "8d7b1b4b-f6f4-4db3-929d-3330c61f1430",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680721,
+        "date_posted": 1786680263,
+        "url": "https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MaxLinear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reyes Beverage Group",
+        "id": "c53d912b-b9f7-47d2-b3ee-07e72c708ece",
+        "title": "Commercial Analytics Intern - Beverage Alliance Support",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680929,
+        "date_posted": 1786680201,
+        "url": "https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reyes-Beverage-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "fd49417f-1327-426c-80eb-88916ec1a934",
+        "title": "Software Engineer Co-op - Product Development",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786680757,
+        "date_posted": 1786680166,
+        "url": "https://careers.msasafety.com/jobs/9992?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magnera",
+        "id": "fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd",
+        "title": "Data Analyst Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680689,
+        "date_posted": 1786680140,
+        "url": "https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Evansville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Magnera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FAST Enterprises",
+        "id": "4c028e78-d6cf-428b-bf6c-595531425a7a",
+        "title": "Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786680001,
+        "date_posted": 1786679934,
+        "url": "https://careers.fastenterprises.com/jobs/1594?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of China USA",
+        "id": "9dceacf0-6d35-489a-95b3-0b2244d0c8d2",
+        "title": "Data Analytics Audit Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680166,
+        "date_posted": 1786679921,
+        "url": "https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of China USA",
+        "id": "fd2f0640-b221-4c71-bf6f-c57f8f5bc712",
+        "title": "Enterprise Risk Management Risk Data Aggregation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680153,
+        "date_posted": 1786679916,
+        "url": "https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of China USA",
+        "id": "67073e06-6a56-423e-8829-d36ad479d2fe",
+        "title": "Risk Data Aggregation Intern - Enterprise Risk Management Department",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786680139,
+        "date_posted": 1786679914,
+        "url": "https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-China-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analysis Group",
+        "id": "e098b71d-fcf5-40ab-b926-e4360d6d93a5",
+        "title": "Research Professional Intern - Generalist",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786680069,
+        "date_posted": 1786679873,
+        "url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Analysis-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
