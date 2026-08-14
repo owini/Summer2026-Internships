@@ -327551,7 +327551,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2115234d-be28-4c20-b435-cbb15464dda9",
         "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328870,7 +328870,7 @@
         "company_name": "RTX",
         "id": "128dd3ba-dab5-440a-b009-46756de4170e",
         "title": "Digital Finance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
