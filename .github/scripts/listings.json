@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ensign-Bickford Aerospace & Defense Company",
-        "id": "54225fab-a9fc-4bb9-876f-4d6da5b01bad",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765940611,
-        "date_posted": 1765940611,
-        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Product-Engineer-Intern_REQ106959",
-        "locations": [
-            "Simsbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "99b34e1e-2f56-41b4-8aa7-d8a6719cac6f",
@@ -295958,7 +295937,7 @@
         "company_name": "Zoox",
         "id": "b4979a01-4110-4ef8-a1a3-cf9c33776e5a",
         "title": "Student Worker - Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
