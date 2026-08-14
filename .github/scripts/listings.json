@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "KBR",
-        "id": "4ad6b447-d58a-4bf8-93c3-a6b770eb8ecd",
-        "title": "National Security Solutions \u2013 Software Engineering Intern - Nss",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765929661,
-        "date_posted": 1765929661,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Systems-Engineering-Learning-Coordinator-Intern_R2116573",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "a8c13f3a-4a13-4143-8d8f-2c992bfb16c1",
-        "title": "2026 Summer \u2013 Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765930216,
-        "date_posted": 1765930216,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Bose",
         "id": "fc27401f-6958-43c8-9e4b-dfd74316ed97",
         "title": "Software Engineer in Test Intern/Co-op",
@@ -31730,32 +31688,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "ddccae9f-2815-4948-8c25-9fac2c92e9b9",
-        "title": "2026 Summer Student Opportunities RBC Borealis-Machine Learning Software Engineer - 4 - 8 Months",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765930995,
-        "date_posted": 1765930995,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer-Student-Opportunities-RBC-Borealis--Developer--4-8-Months-_R-0000152088",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Calgary, AB, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -323209,7 +323141,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "430476fa-929a-40d6-baa9-2ff79a9c2899",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
