@@ -330744,7 +330744,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ea64c40c-c89c-49ac-b395-a3c66a568e0f",
         "title": "Quantitative Analyst Associate - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332298,7 +332298,7 @@
         "company_name": "RTX",
         "id": "bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
         "title": "Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332322,7 +332322,7 @@
         "company_name": "GE Vernova",
         "id": "f34b1f76-8c04-44e3-af69-ab94a7694d4b",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
