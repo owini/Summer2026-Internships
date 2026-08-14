@@ -328576,7 +328576,7 @@
         "company_name": "Montenson",
         "id": "def431d1-9130-4304-b4ad-37f66f6af0cd",
         "title": "Sustainability Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331176,7 +331176,7 @@
         "company_name": "Booz Allen",
         "id": "4928dfb2-7a20-4da6-8405-a591089e515c",
         "title": "AI RAN Telecommunications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
