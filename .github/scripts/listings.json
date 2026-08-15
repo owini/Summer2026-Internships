@@ -3,48 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ASML",
-        "id": "f153b6a1-2724-4f10-8235-60e15e5829a9",
-        "title": "Intern - Optical Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766025772,
-        "date_posted": 1766025772,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Product-Engineering--_J-00327849",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "06424295-34ca-4f7a-88b7-0bb5ad17827a",
-        "title": "Intern - Platform Software Engineer In Test",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766025770,
-        "date_posted": 1766025770,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Platform-Software-Engineer-In-Test_J-00328058",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
         "id": "eed51eb7-bede-4f72-acd0-f9bce950b74d",
         "title": "Intern - Imaging Product Engineer",
         "active": false,
@@ -270159,7 +270117,7 @@
         "company_name": "Nidec",
         "id": "cfb9b365-0e85-49d1-ab5a-875453786a75",
         "title": "Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
