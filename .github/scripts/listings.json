@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genmab",
-        "id": "91a09c24-a82c-496a-9169-747909f02bf1",
-        "title": "External Data Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766016854,
-        "date_posted": 1766016854,
-        "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/External-Data-Management-Intern_R14859-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Genmab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Crane Co.",
         "id": "03f529ba-ec2e-4f9c-91f6-058feebe17d8",
@@ -321089,7 +321068,7 @@
         "company_name": "RTX",
         "id": "7a398a79-2792-4181-8700-a5fbd8d17e76",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325222,7 +325201,7 @@
         "company_name": "Axon",
         "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330614,7 +330593,7 @@
         "company_name": "Cotiviti",
         "id": "094fc400-8cf1-4839-8605-e5f144700551",
         "title": "Agentic AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
