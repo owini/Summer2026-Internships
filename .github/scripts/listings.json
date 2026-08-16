@@ -1,92 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intuitive Surgical",
-        "id": "1be1434a-dbc4-407b-8a8e-0e00f2618c15",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1766101585,
-        "date_posted": 1766101585,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000099640841",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dairyland Power Cooperative",
-        "id": "1ce42b74-12eb-4822-97e8-bf8b7437aa3c",
-        "title": "Intern Right of Way GIS - La Crosse - WI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766100957,
-        "date_posted": 1766100957,
-        "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Right-of-Way-GIS--La-Crosse--WI-_JR100852",
-        "locations": [
-            "Winona, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Dairyland-Power-Cooperative",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Learfield Amplify",
-        "id": "aac9b46f-795e-43a2-9aba-9b20913d1a58",
-        "title": "Marketing Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766100804,
-        "date_posted": 1766100804,
-        "url": "https://learfield.wd5.myworkdayjobs.com/en-US/Learfield/job/Irvine-CA/Marketing-Data-Intern_R100917-1",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Learfield-Amplify",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "0ab6261c-7878-4d27-8a5b-c0896310665f",
-        "title": "Software Engineering Intern - Omniverse",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766100900,
-        "date_posted": 1766100900,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Omniverse---Summer-2026_JR2007644",
-        "locations": [
-            "California",
-            "Santa Clara, CA",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Geotab",
         "id": "f39e2e8a-06b8-4ec8-b24b-bd0bd267760b",
@@ -229,27 +143,6 @@
             "Wichita, KS"
         ],
         "company_url": "https://simplify.jobs/c/AccuWeather",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "4e60e70e-4f9e-4c30-8fb1-b16e7be800d9",
-        "title": "Machine Learning Engineer: Intern Opportunities for University Students - Redmond",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766100775,
-        "date_posted": 1766100775,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -408,27 +301,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Curriculum Associates",
-        "id": "f8384799-b35a-4ab1-a12e-d602b2466ac7",
-        "title": "Psychometric and Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766100841,
-        "date_posted": 1766100841,
-        "url": "https://curriculumassociates.wd5.myworkdayjobs.com/External/job/US-Remote/Psychometric-and-Research-Intern_JR04709",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Curriculum-Associates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8384,27 +8256,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zurich Insurance",
-        "id": "a6ace6b4-e6b4-49e7-8966-5989c14cf7d9",
-        "title": "ZRS Intern - Quality and Compliance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766100764,
-        "date_posted": 1766100764,
-        "url": "https://www.careers.zurich.com/job/Schaumburg-ZRS-Internship-Quality-and-Compliance-Summer-2026-IL-60159/1348768057/?ats=successfactors",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
