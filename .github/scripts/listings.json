@@ -329329,7 +329329,7 @@
         "company_name": "Cenovus Energy",
         "id": "1efd9a41-d63b-4b5e-bd26-74ecbf7840bc",
         "title": "Workforce Analytics & Strategic Planning",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -329780,7 +329780,7 @@
         "company_name": "RTX",
         "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
         "title": "Electrical Computer-Aided Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331001,7 +331001,7 @@
         "company_name": "Photon",
         "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
         "title": "Software Engineering Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
