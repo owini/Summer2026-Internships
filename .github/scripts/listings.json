@@ -328549,7 +328549,7 @@
         "company_name": "SAM",
         "id": "e683494b-e060-4b63-a084-41f4f799a3be",
         "title": "Geomatics Technician Apprentice - Survey and Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328570,7 +328570,7 @@
         "company_name": "SAM",
         "id": "4602a786-39e3-49a4-9555-f9f0c95fc992",
         "title": "Geomatics Technician Apprentice - Survey and Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
