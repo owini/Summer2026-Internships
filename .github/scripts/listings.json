@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Advance Auto Parts",
-        "id": "3403928b-e8fd-486a-b5f6-0ed0f61f9c2b",
-        "title": "IT Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766188853,
-        "date_posted": 1766188853,
-        "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/IT-Product-Intern_R-0563427-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Advance-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Royal Bank of Canada",
         "id": "9790c1c2-2514-44e8-a1a7-b754c7f8afa7",
