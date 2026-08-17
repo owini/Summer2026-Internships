@@ -302797,7 +302797,7 @@
         "company_name": "Rivian",
         "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331355,6 +331355,77 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "b6112e21-7193-4107-bf60-6a9ac74a7a62",
+        "title": "FPGA Design Intern - FPGA Design",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975776,
+        "date_posted": 1786975587,
+        "url": "https://careers.rivian.com/jobs/32954?icims=1",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FAST Enterprises",
+        "id": "7838c307-daa5-4e75-b8c2-7218ab2354cb",
+        "title": "Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786975561,
+        "date_posted": 1786975505,
+        "url": "https://careers.fastenterprises.com/jobs/1709?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Levi Strauss & Co.",
+        "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
+        "title": "Analytics Intern - eCommerce",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975220,
+        "date_posted": 1786924800,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
