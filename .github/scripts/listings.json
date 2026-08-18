@@ -288936,7 +288936,7 @@
         "company_name": "Horizon Industries",
         "id": "1f3b2933-fe37-4e8a-b727-eb9166e6df99",
         "title": "Appian Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327876,7 +327876,7 @@
         "company_name": "Altera Corporation",
         "id": "0cde1dc3-c743-448c-bce2-37ae6da5bb38",
         "title": "Embedded Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
