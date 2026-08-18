@@ -71861,7 +71861,7 @@
         "company_name": "Dryft",
         "id": "bc6607ea-5320-4f25-8647-3ba280377230",
         "title": "Full-Stack Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294982,7 +294982,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
