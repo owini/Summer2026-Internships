@@ -252771,7 +252771,7 @@
         "company_name": " MAG Aerospace",
         "id": "f8909d93-bd64-4c59-950a-efeb6a7816bc",
         "title": "Systems Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281853,7 +281853,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
