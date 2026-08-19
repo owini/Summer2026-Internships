@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
-        "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766370010,
-        "date_posted": 1766370010,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Crowdstrike",
         "id": "3d8792b3-8040-45bb-aaa6-baeb1e8ca036",
         "title": "Intelligence Intern - Intelligence Automation",
@@ -302006,7 +301985,7 @@
         "company_name": "Fab2",
         "id": "f97c8aa5-6888-44e1-a593-8b2b91ce485e",
         "title": "Rust Software Engineer Intern - Chip Design Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336118,6 +336097,29 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Nextiva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4787855b-e024-4938-a00f-7829fac9f8db",
+        "title": "Immigration Data Analyst Intern - Hrops",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787105110,
+        "date_posted": 1787104954,
+        "url": "https://jobs.bytedance.com/en/position/7675376319236311349/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
