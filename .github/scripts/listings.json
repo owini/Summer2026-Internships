@@ -290846,7 +290846,7 @@
         "company_name": "Brevium",
         "id": "6de13808-7632-4d90-b7bb-993b55170ec7",
         "title": "Data Analyst Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303054,7 +303054,7 @@
         "company_name": "Adtheorant",
         "id": "3233fcfb-8678-4efa-8fe0-1034b9db4a52",
         "title": "Enterprise AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308143,7 +308143,7 @@
         "company_name": "Arkema Global",
         "id": "73204d10-3227-4e0a-a54c-1c869cac51f0",
         "title": "Manufacturing Data Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336095,6 +336095,29 @@
             "North Logan, UT"
         ],
         "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nextiva",
+        "id": "45c2f6c7-b255-45ae-a1c7-efc0701dd047",
+        "title": "Marketing Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787103014,
+        "date_posted": 1787102888,
+        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextiva",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
