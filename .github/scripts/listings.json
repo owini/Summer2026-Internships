@@ -322840,7 +322840,7 @@
         "company_name": "RTX",
         "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334602,7 +334602,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335479,7 +335479,7 @@
         "company_name": "RTX",
         "id": "ff77e8f4-7829-481b-a954-0fa6b86456dd",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
