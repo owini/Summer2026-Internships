@@ -315846,7 +315846,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "0d5b6431-b3ab-4450-8dc4-f912a69e0e6a",
         "title": "Data Analyst Intern - Power - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336431,5 +336431,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Matter",
+        "id": "52758ea7-052d-4c85-9fbe-2558a05538f1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787187982,
+        "date_posted": 1787187862,
+        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Matter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
