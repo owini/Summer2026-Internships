@@ -8,11 +8,11 @@
 
 ### Browse 201 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (69)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (68)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (13)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (44)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (45)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (49)
 
@@ -221,13 +221,6 @@
 <td>11d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Boston, MA<br>Seattle, WA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Sargent-And-Lundy?utm_source=GHList&utm_medium=company">Sargent & Lundy</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Chicago, IL</td>
@@ -365,7 +358,7 @@
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
@@ -704,6 +697,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/FreeformFuture?utm_source=GHList&utm_medium=company">Freeform</a></strong></td>
+<td>Materials Engineer Intern</td>
+<td>LA</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/National-Reconnaissance-Office?utm_source=GHList&utm_medium=company">National Reconnaissance Office</a></strong></td>
 <td>Summer Internship - Dr. Chris Scolese</td>
 <td><details><summary><strong>4 locations</strong></summary>Aurora, CO<br>Chantilly, VA<br>White Sands Missile Range, NM<br>Fort Belvoir, VA</details></td>
@@ -792,7 +792,7 @@
 <td>AI & Automation Intern - Summer 2027</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -970,7 +970,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
+<td>↳</td>
 <td>College to Corporate IT Intern - Data Science</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
