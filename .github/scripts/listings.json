@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Archer",
-        "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
-        "title": "IOS Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766562033,
-        "date_posted": 1766562033,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Archer",
-        "id": "193cba01-84fa-45bd-ab80-8d9b48d7a0b7",
-        "title": "AI Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766562031,
-        "date_posted": 1766562031,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "182476d6-bbc5-4742-b451-45a2bc54ac7e",
         "title": "Software Engineer Intern",
@@ -296601,7 +296559,7 @@
         "company_name": "Fluency",
         "id": "9ec02aa1-92f0-4290-9d73-e1fc81c000e6",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
