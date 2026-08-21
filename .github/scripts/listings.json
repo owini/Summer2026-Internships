@@ -50489,7 +50489,7 @@
         "company_name": "Equifax",
         "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327569,7 +327569,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327595,7 +327595,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329619,7 +329619,7 @@
         "company_name": "General Motors",
         "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
         "title": "Battery & Sustainability Intern - Battery Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329689,7 +329689,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1babc71b-6886-48e4-9870-7503ec24824f",
         "title": "Technology & Operations Co-op - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -333912,7 +333912,7 @@
         "company_name": "RTX",
         "id": "1b75680e-460c-4f8d-99bd-d64c248c45ba",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
