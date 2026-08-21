@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DiDi Global",
-        "id": "fb1cb019-64ad-4452-84fa-6bbb3602ff48",
-        "title": "Autonomy System & Safety Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766544447,
-        "date_posted": 1766544447,
-        "url": "https://job-boards.greenhouse.io/didi/jobs/7495391",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DiDi-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DiDi Global",
-        "id": "d0c0efe1-7d9a-4ada-bc04-6c93b30ca1e7",
-        "title": "Motion Planning Engineer \u2013 Intern/Full-time - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1766544445,
-        "date_posted": 1766544445,
-        "url": "https://job-boards.greenhouse.io/didi/jobs/7495381",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DiDi-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Archer",
         "id": "97c67d11-7750-40ca-bca6-8c9a540741b5",
