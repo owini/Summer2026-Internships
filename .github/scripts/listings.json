@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Roche",
-        "id": "38c91d95-996b-405f-aa24-f6d2546c8f5f",
-        "title": "Intern - Systems Engineer - Systems & Hardware Engineering Chapter",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536470,
-        "date_posted": 1766536470,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2026-Summer-Intern---Systems-Engineer---Systems---Hardware-Engineering-Chapter_202512-132267-1",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ASML",
         "id": "c6392809-db86-430a-9b90-1764a073577d",
@@ -37,27 +16,6 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "cb571ad6-5cf1-4f39-b917-7201a5bc3db4",
-        "title": "Intern \u2013 Thermal Modeling & Simulation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766537082,
-        "date_posted": 1766537082,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
