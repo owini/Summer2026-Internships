@@ -38451,7 +38451,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
