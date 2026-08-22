@@ -3,27 +3,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Archer",
-        "id": "18e1312e-37f3-4c1e-ae79-aacd913fa813",
-        "title": "Software Engineer Intern - Flight Controls Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766621575,
-        "date_posted": 1766621575,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7570845003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Archer",
         "id": "c68d829e-34ea-40c0-89be-cd356436d699",
         "title": "Software Engineer Intern - Electric Engine",
         "active": false,
@@ -337402,7 +337381,7 @@
         "company_name": "Vertiv",
         "id": "1c383dbb-054d-4c85-8375-ac420436d3f7",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
