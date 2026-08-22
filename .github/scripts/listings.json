@@ -22,27 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "HeyGen",
-        "id": "e4826c65-7489-4324-b124-f5b316050610",
-        "title": "Product Manager \u2013 Internship - Liveavatar",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766619694,
-        "date_posted": 1766619694,
-        "url": "https://job-boards.greenhouse.io/heygen/jobs/5012108007",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Archer",
         "id": "c68d829e-34ea-40c0-89be-cd356436d699",
@@ -2864,27 +2843,6 @@
             "Newark, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Aerospace Corporation",
-        "id": "df37b44b-1e11-4965-a577-990d884618f5",
-        "title": "Graduate Microelectronics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766619091,
-        "date_posted": 1766619091,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Microelectronics-Graduate-Internship_R014174",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -293110,7 +293068,7 @@
         "company_name": "Western Digital",
         "id": "668cc2ce-ddbc-4d16-9c40-c27e83c81d93",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -297046,7 +297004,7 @@
         "company_name": "Ambarella",
         "id": "f51a59ea-927f-4162-a6d7-d1c70b03cd7d",
         "title": "Mixed Signal Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305372,7 +305330,7 @@
         "company_name": "CALSTART",
         "id": "50713986-aff9-40ea-98ea-3a751c83b80f",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338718,6 +338676,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hoffman Construction",
+        "id": "996bb2aa-8608-46f5-9ac0-4b1da474799f",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787355375,
+        "date_posted": 1787355238,
+        "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1487",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Hoffman-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
