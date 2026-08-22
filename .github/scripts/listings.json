@@ -301771,7 +301771,7 @@
         "company_name": "Ambarella",
         "id": "7ec18b92-6234-459e-a584-65cfa7366928",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337475,7 +337475,7 @@
         "company_name": "The Home Depot",
         "id": "7248eebf-da2f-4f05-a8cb-94352df09060",
         "title": "Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
