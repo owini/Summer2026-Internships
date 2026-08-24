@@ -325431,7 +325431,7 @@
         "company_name": "Cenovus Energy",
         "id": "1efd9a41-d63b-4b5e-bd26-74ecbf7840bc",
         "title": "Workforce Analytics & Strategic Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329032,7 +329032,7 @@
         "company_name": "General Motors",
         "id": "1d43fc21-2de6-411c-8141-ec33e8fa8fed",
         "title": "Battery & Sustainability Intern - Battery Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
