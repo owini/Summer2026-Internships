@@ -283649,7 +283649,7 @@
         "company_name": "Celonis",
         "id": "0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
         "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -286771,7 +286771,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -332544,7 +332544,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333164,7 +333164,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
