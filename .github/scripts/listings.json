@@ -262873,7 +262873,7 @@
         "company_name": "Tesla",
         "id": "111dac09-feff-4585-9cde-69f369a37990",
         "title": "Software Engineer Intern - Linux Update Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334538,7 +334538,7 @@
         "company_name": "RTX",
         "id": "013fdd20-3235-4aca-8bd4-f5eb44a09c32",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
