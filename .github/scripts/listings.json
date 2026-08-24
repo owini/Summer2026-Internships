@@ -237992,7 +237992,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -248134,7 +248134,7 @@
         "company_name": "Apple",
         "id": "6def9049-74e8-421a-8971-f231e638e844",
         "title": "Hardware PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333164,7 +333164,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
