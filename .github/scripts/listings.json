@@ -338151,7 +338151,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341437,7 +341437,7 @@
         "company_name": "Raymond James Financial",
         "id": "6bfd05cd-2478-4f41-81ae-a4465639dfdc",
         "title": "Marketing Associate - Marketing Data Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
