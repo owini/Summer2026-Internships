@@ -266132,7 +266132,7 @@
         "company_name": "Meshy",
         "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
         "title": "Fullstack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279730,7 +279730,7 @@
         "company_name": "Citadel Securities",
         "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
         "title": "Machine Learning Researcher PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291831,7 +291831,7 @@
         "company_name": "Citadel Securities",
         "id": "a869b3f7-71bd-4b08-9c7e-8c6706e98035",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
