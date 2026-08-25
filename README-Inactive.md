@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 226 Inactive Internship Roles by Category
+### Browse 229 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (84)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (87)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (10)
 
@@ -88,6 +88,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Apex-Fintech-Solutions?utm_source=GHList&utm_medium=company">Apex Fintech Solutions</a></strong></td>
+<td>Technology Fintern - Software Engineering - Product Management</td>
+<td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Dallas, TX<br>Chicago, IL<br>NYC</details></td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer Intern - Summer 2027</td>
+<td>Anaheim, CA</td>
+<td>🔒</td>
+<td>0d</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
 <td>Software Developer Intern 🎓</td>
 <td>Montreal, QC, Canada<br>Toronto, ON, Canada<br>Waterloo, ON, Canada</td>
@@ -155,7 +169,7 @@
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Foster City, CA</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -294,6 +308,13 @@
 <td>↳</td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Marlborough, MA</td>
+<td>🔒</td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/McKesson?utm_source=GHList&utm_medium=company">McKesson</a></strong></td>
+<td>Technology Intern</td>
+<td>Columbus, OH</td>
 <td>🔒</td>
 <td>15d</td>
 </tr>
@@ -1191,7 +1212,7 @@
 <td>Investment Intern - Summer 2027 & 2028</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
