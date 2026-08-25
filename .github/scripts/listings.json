@@ -330030,7 +330030,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
         "title": "Technology and Operations Developer Co-op - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335587,7 +335587,7 @@
         "company_name": "Micron Technology",
         "id": "1117caa7-3295-43c8-a83c-b44e449d40eb",
         "title": "Physical Failure Analysis Engineer Intern - Yield Enhancement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341794,7 +341794,7 @@
         "company_name": "Philips",
         "id": "327ffcc9-d306-44ce-8b6d-ddbdeb204304",
         "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
