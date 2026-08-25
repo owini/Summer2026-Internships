@@ -250741,7 +250741,7 @@
         "company_name": "University of Virginia",
         "id": "7dc5c5a8-3a1b-4c63-ac80-e2dd4b336f29",
         "title": "TFWS Research and Insights Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326562,7 +326562,7 @@
         "company_name": "Dallas College",
         "id": "cec6b144-6a34-4f46-b66b-286ebe63fabd",
         "title": "SAS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332762,7 +332762,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332909,7 +332909,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
