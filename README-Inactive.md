@@ -974,7 +974,7 @@
 <td>AI & Automation Intern - Summer 2027</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
