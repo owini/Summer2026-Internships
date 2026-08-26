@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Western Union",
-        "id": "a7da50b5-63f3-4f95-bf8f-111b47e0695b",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766970143,
-        "date_posted": 1766970143,
-        "url": "https://westernunion.wd5.myworkdayjobs.com/en-US/WesternUnionJobs/job/External-Office-Location-Denver-CO-80237-Contractor-Location/Software-Engineer-Intern_JR0128790",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Union",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intelcom | Dragonfly",
         "id": "7c57c0a8-a2d0-4713-92b5-07904743f6f3",
         "title": "Software Development Intern - Last Mile",
@@ -345263,5 +345242,51 @@
         "date_posted": 1787706974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "8172b446-22d1-4377-b335-6f5fd54371aa",
+        "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787706618,
+        "date_posted": 1787706451,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "41047974-7321-45cf-b910-ac9710ae6e39",
+        "title": "Business Technology Solutions Intern - Data & Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787706618,
+        "date_posted": 1787706452,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
