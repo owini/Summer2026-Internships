@@ -260899,7 +260899,7 @@
         "company_name": "Peraton",
         "id": "8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
         "title": "Generative AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319295,7 +319295,7 @@
         "company_name": "Q5",
         "id": "56b68b11-760a-4224-ab26-17e3889e11d1",
         "title": "Research Analyst - Analytics Hub",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344968,6 +344968,50 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Maxinsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sabre Systems",
+        "id": "d32abe7f-a579-49b8-9d71-10a16fdf5fc6",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787757301,
+        "date_posted": 1787757273,
+        "url": "https://careers.sabresystems.com/jobs/4759?icims=1",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sabre-Systems-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "19594723-95da-4b7d-99b1-df2dd9b151f3",
+        "title": "Business Intelligence/Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787757357,
+        "date_posted": 1787702400,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
