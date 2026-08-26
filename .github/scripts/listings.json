@@ -313898,7 +313898,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -346001,6 +346001,194 @@
             "Longueuil, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Institutes for Research",
+        "id": "6f50d3bd-2b11-4d7a-aec6-d9ccd2482305",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787783257,
+        "date_posted": 1787783057,
+        "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Somerce",
+        "id": "1097e9c1-f863-429b-b9b7-617c3556522e",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782321,
+        "date_posted": 1787782225,
+        "url": "https://apply.workable.com/somerce/j/DD49E21C54/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Somerce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eaton",
+        "id": "c7e1704b-e6a7-44d0-a786-74424b6da2fd",
+        "title": "Data Analyst Intern - Marketing",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782143,
+        "date_posted": 1787782097,
+        "url": "https://eaton.eightfold.ai/careers/job/687238373522",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Realm",
+        "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787782168,
+        "date_posted": 1787781979,
+        "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Realm-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlossGenius",
+        "id": "19732e66-5a0d-4db2-a039-33e752197e70",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781963,
+        "date_posted": 1787781903,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlossGenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlossGenius",
+        "id": "bbe17ffe-5f99-4420-9206-e1671d6b0c3f",
+        "title": "Engineering Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787781963,
+        "date_posted": 1787781897,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GlossGenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "b462e075-bb56-4c03-96a0-66b92898fc03",
+        "title": "Embedded Software Engineer Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787781803,
+        "date_posted": 1787781211,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "1e908d1e-e2d2-490f-8aef-f6b6d7b5789d",
+        "title": "Data Scientist Intern - ECT AI and Automation",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787781770,
+        "date_posted": 1787702400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
