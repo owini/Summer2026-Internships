@@ -228775,7 +228775,7 @@
         "company_name": "Magnet Forensics",
         "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345209,6 +345209,52 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "ad3eb914-96f2-4845-9f67-f265f2fde8ec",
+        "title": "Fraud Strategy Student - 4 months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787773681,
+        "date_posted": 1787702400,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Fraud-Strategy-Student--4-months----Winter-2027_JR164531",
+        "locations": [
+            "Welland, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elk Valley Resources",
+        "id": "38a986fa-b190-4465-b469-3c68fa8f62f4",
+        "title": "Geographic Information Systems Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787773518,
+        "date_posted": 1787773396,
+        "url": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Elk-Valley-Resources",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
