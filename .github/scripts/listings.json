@@ -345240,5 +345240,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1787706974,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://grnh.se/abfli75k1us",
+        "company_name": "Steven's Capital Management",
+        "title": "Software Engineer",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2027"
+        ],
+        "category": "Software Engineering",
+        "source": "Zaku-Seven",
+        "id": "3350268b-7da8-41ee-bcc6-c85f795975ac",
+        "date_posted": 1787706974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
