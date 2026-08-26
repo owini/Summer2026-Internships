@@ -309037,7 +309037,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "8834c0d1-5351-40d0-9bd5-cf8d147e7e0a",
         "title": "AI Solutions Specialist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320328,7 +320328,7 @@
         "company_name": "Bank of Montreal",
         "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
         "title": "Full Stack Engineer Intern - Data Cognition Team",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -344902,5 +344902,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "97e495f1-2aae-4889-95a9-4b382506f276",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755401,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "d69b4378-d3d7-4270-8839-244fb787224d",
+        "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787755194,
+        "date_posted": 1787702400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Maxinsights",
+        "id": "16a33b72-1c61-4db1-b55e-63d10155b928",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787755861,
+        "date_posted": 1786505399,
+        "url": "https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060/application?embed=true",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Maxinsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
