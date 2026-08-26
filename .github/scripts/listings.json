@@ -1026,27 +1026,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "94db1c13-fb38-456d-ba6c-c9be3b028a38",
-        "title": "Product Analyst Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767179641,
-        "date_posted": 1767018088,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Analyst-Intern-Co-op--Acquisition---Engagement--CPJ--Credit-Cards--SUMMER-2026-_R_1458763",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DC Water",
         "id": "e99a2913-01d7-40e6-b4c2-d5e4f5b84635",
@@ -344897,6 +344876,31 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ffc80c46-0710-4acb-82cc-c1e1d640674c",
+        "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787754068,
+        "date_posted": 1787752959,
+        "url": "https://www.tesla.com/careers/search/job/281233",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
