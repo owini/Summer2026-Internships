@@ -1,74 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "977136ef-8040-4843-9e83-fb9840ccbe92",
-        "title": "TD Asset Management Portfolio Analytics Data Analyst Intern / Co-Op - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050965,
-        "date_posted": 1767050965,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Data-Analyst-Intern---Co-Op--Summer-2026-_R_1461624",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "BMO ",
-        "id": "d7c8dc67-5eff-4717-a9ed-c74451fc0724",
-        "title": "Product Associate \u2013 Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050227,
-        "date_posted": 1767050227,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2026--Co-op-Internship----4-months_R250032404-3",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Public Service Enterprise Group",
-        "id": "58465cc2-4dac-4d18-9cf8-ae43e24e1334",
-        "title": "Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050065,
-        "date_posted": 1767050065,
-        "url": "https://jobs.pseg.com/job/Newark-Summer-2026-Staff-Intern-Market-&-Trading-Operations-Risk-Team-NJ-07101/1352382100/?ats=successfactors",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASM International",
         "id": "4e3132c8-ac5d-4707-bfd8-a71711f59bcd",
@@ -84,48 +16,6 @@
             "Mt Laurel Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trane Technologies",
-        "id": "2d3b5231-5718-4478-88b8-d2b9d74f184a",
-        "title": "Business Systems Analyst Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767050578,
-        "date_posted": 1767050578,
-        "url": "https://careers.tranetechnologies.com/global/en/job/2507347",
-        "locations": [
-            "Winona, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Trane-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "05927dc7-ac04-4757-9e7c-0badc967c9b6",
-        "title": "TD Asset Management Portfolio Analytics Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050971,
-        "date_posted": 1767050971,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern---Co-Op--Summer-2026-_R_1461627-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -174,27 +64,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "4517181b-c420-4514-a0df-1059ec52b260",
-        "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767050559,
-        "date_posted": 1767050559,
-        "url": "https://jobs.jobvite.com/nutanix/job/oCZfyfw8?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Velera",
         "id": "241b9318-4a49-4792-8a71-c1e750d0b3b9",
@@ -210,27 +79,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Velera",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "29291a51-40c1-4728-9151-e24969d1a085",
-        "title": "2026 Summer Internship Program - Platforms & Technology - Data Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050977,
-        "date_posted": 1767050977,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Data-Engineer_R_1464257",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1679,27 +1527,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Service Enterprise Group",
-        "id": "706c4803-7992-41ed-a99b-b4ef6612ea71",
-        "title": "Summer 2026 \u2013 Technical Intern - Voice of the Customer Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767050081,
-        "date_posted": 1767050081,
-        "url": "https://jobs.pseg.com/job/Newark-Summer-2026-Technical-Intern-Voice-of-the-Customer-Team-NJ-07101/1352389400/?ats=successfactors",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Legrand",
         "id": "5d8a71d4-4716-4e46-969d-6600f6208640",
@@ -1820,27 +1647,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SCS Engineers",
-        "id": "6077c43d-0355-4c9b-a06d-342504a7f653",
-        "title": "Environmental Sustainability Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767310077,
-        "date_posted": 1767050868,
-        "url": "https://careers-scsengineers.icims.com/jobs/1640/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/SCS-Engineers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -12818,29 +12624,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yusen Logistics",
-        "id": "00f043be-c7b1-4755-b8ce-afa63a88cb61",
-        "title": "Graphic Design and Communications Graduate Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768184463,
-        "date_posted": 1767050776,
-        "url": "https://careers-yusen-logistics.icims.com/jobs/6054/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Yusen-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -234722,7 +234505,7 @@
         "company_name": "Super",
         "id": "4b224d26-3462-4bfa-9ac0-bbabe852eea9",
         "title": "Software Engineer Intern - Product - Full-Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312049,7 +311832,7 @@
         "company_name": "McKesson",
         "id": "6460be14-109c-4ede-a2ad-63b0be123a5a",
         "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325820,7 +325603,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325841,7 +325624,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325862,7 +325645,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325888,7 +325671,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325911,7 +325694,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326003,7 +325786,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326029,7 +325812,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326055,7 +325838,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326078,7 +325861,7 @@
         "company_name": "Goldman Sachs",
         "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
         "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326101,7 +325884,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333654,7 +333437,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333678,7 +333461,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -346380,5 +346163,99 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chemours",
+        "id": "1d3a3cb1-5384-4ce2-848b-1b8a5a69d356",
+        "title": "Generative AI and Data Science Intern - AI & Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785791,
+        "date_posted": 1787702400,
+        "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Chemours",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lightcast",
+        "id": "0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4",
+        "title": "Software Engineer Intern - API Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787785257,
+        "url": "https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9/apply",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conduent",
+        "id": "4b41cc6a-c7ca-4364-bf7c-41f6ca98409e",
+        "title": "Applied AI Engineer Intern - Government Healthcare Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787785268,
+        "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Conduent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "309c0d81-577f-48b1-b581-ce6643327ae4",
+        "title": "Banking Analytics Student - 4 months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787785381,
+        "date_posted": 1787702400,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Banking-Analytics-Student--4-months----Winter-2027_JR164756",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
