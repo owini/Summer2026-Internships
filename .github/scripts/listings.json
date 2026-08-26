@@ -326990,7 +326990,7 @@
         "company_name": "SharkNinja",
         "id": "cf68c1ba-7041-4bca-bf76-d41bac3fad43",
         "title": "Performance Data Co-op - Marketplace Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337519,7 +337519,7 @@
         "company_name": "Mercor",
         "id": "fe6e435e-7b34-41cb-b526-98f990b943ad",
         "title": "Research Fellowship - Apex",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
