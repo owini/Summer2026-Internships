@@ -304083,7 +304083,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342445,7 +342445,7 @@
         "company_name": "Kodiak Robotics",
         "id": "915b30af-2938-4d48-8548-bc6ea6190333",
         "title": "Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344544,6 +344544,29 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
+        "title": "Transducer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787733402,
+        "date_posted": 1787270400,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
