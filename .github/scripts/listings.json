@@ -1,90 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASM International",
-        "id": "4e3132c8-ac5d-4707-bfd8-a71711f59bcd",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767052322,
-        "date_posted": 1767052322,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4742577101",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASM International",
-        "id": "54981416-d415-4bf8-86de-e64401a3fd2f",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767052319,
-        "date_posted": 1767052319,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4742602101",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intelcom | Dragonfly",
-        "id": "d31f689b-45f5-4846-bf67-2293fb803fe4",
-        "title": "HR Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767051631,
-        "date_posted": 1767051631,
-        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/HR-Data-Analysis-Intern_JR110124",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Velera",
-        "id": "241b9318-4a49-4792-8a71-c1e750d0b3b9",
-        "title": "Intern \u2013 Product Manager - Engage Point",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767051101,
-        "date_posted": 1767051101,
-        "url": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern---Product-Manager---Engage-Point_8851",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Velera",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "GlobalFoundries",
         "id": "9c887014-6834-4e3d-bdb1-03a1c966ade7",
@@ -318929,7 +318845,7 @@
         "company_name": "Caddi Workflow Automation",
         "id": "12ce52b4-da60-4458-9f42-1581e549d94c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
