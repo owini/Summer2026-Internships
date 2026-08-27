@@ -346276,5 +346276,30 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "78fa2a7e-f922-4d62-a833-4d9225cacd2c",
+        "title": "Embedded Systems Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787800365,
+        "date_posted": 1787800294,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
