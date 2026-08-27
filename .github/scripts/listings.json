@@ -267900,7 +267900,7 @@
         "company_name": "Synchrony Financial",
         "id": "1862811d-f108-4ae2-80e1-ebadd703d58a",
         "title": "Digital Technology Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346860,6 +346860,30 @@
             "Delaware, OH"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "U.S. Venture",
+        "id": "078d1ad5-4cba-4e87-9d8f-206aa1540f43",
+        "title": "Data Science Intern - Breakthrough",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787844821,
+        "date_posted": 1787788800,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1",
+        "locations": [
+            "Green Bay, WI",
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Venture",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
