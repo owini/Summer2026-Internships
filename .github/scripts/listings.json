@@ -202814,7 +202814,7 @@
         "company_name": "Kognitos",
         "id": "58077951-984f-4310-b0ce-55853074ed6e",
         "title": "Software Engineer Intern - AI-Native",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316049,7 +316049,7 @@
         "company_name": "Axon",
         "id": "c89c7602-1daa-44bd-a2e1-6c6fa55deb73",
         "title": "Firmware Engineer Intern - Platform Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321527,7 +321527,7 @@
         "company_name": "Northrop Grumman",
         "id": "b560def8-65f9-4a57-a4f0-06cb45b403c3",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346168,6 +346168,77 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "8b9160e4-1462-4f6c-a1bd-b3b35e9f61d2",
+        "title": "Software Engineer Co-op - MedTech",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787790556,
+        "date_posted": 1787702400,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Auto-Owners Insurance",
+        "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
+        "title": "Software Developer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787790433,
+        "date_posted": 1787790359,
+        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Axon",
+        "id": "26097b03-bc67-4a75-9a2f-c6281e00319c",
+        "title": "Embedded Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787790148,
+        "date_posted": 1787790008,
+        "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
