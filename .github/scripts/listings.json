@@ -316180,7 +316180,7 @@
         "company_name": "Engineers and Geoscientists BC",
         "id": "88a53309-0a50-46d5-a5a1-9e196633f951",
         "title": "Information Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
