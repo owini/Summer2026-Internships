@@ -304911,7 +304911,7 @@
         "company_name": "SiMa.ai",
         "id": "ce5c150d-10d5-4180-94b8-d13815629bd6",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325769,7 +325769,7 @@
         "company_name": "Boom Supersonic",
         "id": "e20e8881-f8a9-45e1-84db-11e452da1606",
         "title": "Engineering and Tech Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342611,7 +342611,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345515,7 +345515,7 @@
         "company_name": "RTX",
         "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
         "title": "Engine Performance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
