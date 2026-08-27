@@ -279960,7 +279960,7 @@
         "company_name": "Aramark",
         "id": "5e6b49a0-6e9b-4f33-ba59-dad824c4a405",
         "title": "Student Barista",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345133,7 +345133,7 @@
         "company_name": "Ameren",
         "id": "5022bef0-ef20-4549-8823-95bd6b2141f5",
         "title": "Crisis Management Meteorology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
