@@ -288688,7 +288688,7 @@
         "company_name": "Navy Federal",
         "id": "4e9240aa-a379-4464-a140-2114eff885a2",
         "title": "Frontend Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -294046,7 +294046,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299370,7 +299370,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311992,7 +311992,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323566,7 +323566,7 @@
         "company_name": "KeyBank",
         "id": "093ca891-a330-4763-aeb5-b6195cb0df79",
         "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332677,7 +332677,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -334487,7 +334487,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "43d2af12-58ef-4a09-9b0c-eca848f6b3ee",
         "title": "Environment, Safety and Health Undergraduate Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335136,7 +335136,7 @@
         "company_name": "Texas Instruments",
         "id": "2019cb04-1f7e-44e2-b190-7cfbd53661c1",
         "title": "Layout Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336482,7 +336482,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343956,7 +343956,7 @@
         "company_name": "Brunswick",
         "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
         "title": "Transducer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
