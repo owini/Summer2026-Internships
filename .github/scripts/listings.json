@@ -292735,7 +292735,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -294046,7 +294046,7 @@
         "company_name": "Onware",
         "id": "47396485-020d-4723-a0eb-84364424bc72",
         "title": "Full Stack Developer-Intern Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311992,7 +311992,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343698,7 +343698,7 @@
         "company_name": "Corning",
         "id": "597ffe84-362b-4490-961d-d8b3173ea538",
         "title": "IT Asset Management Co-op - D&IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
