@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Archer",
-        "id": "6bcf5714-b0c5-4906-a13e-ef6319806d6c",
-        "title": "Integrated Test \u2013 Software Tools Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767062873,
-        "date_posted": 1767062873,
-        "url": "https://job-boards.greenhouse.io/archer56/jobs/7574272003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Archer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "4ddea740-fb9a-4266-827f-dbdd84bb101c",
@@ -340543,7 +340522,7 @@
         "company_name": "RTX",
         "id": "73bad9f8-aa3c-4578-9551-8df84938f6a3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
