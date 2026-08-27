@@ -108,27 +108,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "a5e7f5d9-a952-4096-8cc8-eba9b253d20a",
-        "title": "C++ Software Engineering Intern \u2013 2026 Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767110926,
-        "date_posted": 1767110926,
-        "url": "https://jobs.lever.co/shieldai/7dc3bb94-9590-4b6b-b292-b4effbb4fa91/apply",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intelcom | Dragonfly",
         "id": "3c1987ef-54e8-42a8-9799-0c42120007b6",
