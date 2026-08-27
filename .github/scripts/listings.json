@@ -38804,7 +38804,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281732,7 +281732,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -306794,7 +306794,7 @@
         "company_name": "Airbus",
         "id": "b722e715-5a14-4a63-a460-c1e16e834e4e",
         "title": "Electrical Assembler",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -321777,7 +321777,7 @@
         "company_name": "RRS Group",
         "id": "dce4abe7-92f7-4e7f-a318-674ebe805bfe",
         "title": "Quantitative Analytics Development Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325575,7 +325575,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328922,7 +328922,7 @@
         "company_name": "RTX",
         "id": "c097ad9b-a7e4-469f-a21b-e51a324f6202",
         "title": "Modeling, Simulation & Analysis Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333226,7 +333226,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338428,7 +338428,7 @@
         "company_name": "Google",
         "id": "e3dc5e7f-9828-4121-8b6f-6d45091a92a4",
         "title": "Research Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342611,7 +342611,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
