@@ -303924,7 +303924,7 @@
         "company_name": "University of Virginia Investment Management Company (UVIMCO)",
         "id": "7c270e85-d47c-4c59-88ce-1f61ded9511a",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304056,7 +304056,7 @@
         "company_name": "NAXO",
         "id": "0fc23464-ee24-45e4-ae4c-cbf98ca6ac10",
         "title": "Technical Investigations Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323566,7 +323566,7 @@
         "company_name": "KeyBank",
         "id": "093ca891-a330-4763-aeb5-b6195cb0df79",
         "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332677,7 +332677,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336482,7 +336482,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
