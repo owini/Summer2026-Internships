@@ -292632,7 +292632,7 @@
         "company_name": "Circle K",
         "id": "80eda434-6c14-4a62-b65d-ecd5dbcdaa18",
         "title": "Analyst Intern - Global Fuels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325218,7 +325218,7 @@
         "company_name": "Abridge",
         "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
