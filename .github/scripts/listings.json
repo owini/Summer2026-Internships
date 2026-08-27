@@ -75535,7 +75535,7 @@
         "company_name": "Exa Labs",
         "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279915,7 +279915,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "eb6abc1f-b44d-436b-a6ab-6ab6af1e18c6",
         "title": "A.1. Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344894,7 +344894,7 @@
         "company_name": "Ameren",
         "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
         "title": "Meteorology Intern - Crisis Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
