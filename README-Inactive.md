@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 244 Inactive Internship Roles by Category
+### Browse 243 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (89)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (52)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (37)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (36)
 
 ---
 
@@ -1722,13 +1722,6 @@
 <td>↳</td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Burnsville, MN</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Electrical Computer-Aided Design Engineer Intern</td>
-<td>Tucson, AZ</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
