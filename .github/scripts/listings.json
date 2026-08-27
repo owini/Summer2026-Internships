@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "c9361398-2916-4fa4-9ccd-de49ef9dadeb",
-        "title": "2026 Summer Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767114191,
-        "date_posted": 1767114191,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/XMLNAME-2026-Summer-Product-Management-Intern_REQ340836",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altera Corporation",
-        "id": "46c71047-9ccd-4237-b84c-19cd1767259f",
-        "title": "AI/ML Intern in Design Automation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767114095,
-        "date_posted": 1767114095,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intelcom | Dragonfly",
-        "id": "3c1987ef-54e8-42a8-9799-0c42120007b6",
-        "title": "AI Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767114729,
-        "date_posted": 1767114729,
-        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR110116",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Altom Transport",
         "id": "097e26ff-4b4b-484f-8cc0-8a46356f81fb",
@@ -341926,7 +341863,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
         "title": "AI Security Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
