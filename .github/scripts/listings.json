@@ -244893,7 +244893,7 @@
         "company_name": "Ohio State University",
         "id": "4ffa64b6-7b64-4745-9373-8ecb583d08ab",
         "title": "Student Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -279116,7 +279116,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
         "title": "Relationship Manager Commercial Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322553,7 +322553,7 @@
         "company_name": "Arlington County VA",
         "id": "aba2e6b6-e001-4a16-b50b-cbbb5f6f8ef2",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
