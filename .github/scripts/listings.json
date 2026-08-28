@@ -195858,7 +195858,7 @@
         "company_name": "Marvell",
         "id": "5554c80f-ceeb-4a82-8ca0-1c82e6c6313c",
         "title": "Model Correlation & SI Intern - PhD Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346366,7 +346366,7 @@
         "company_name": "CesiumAstro",
         "id": "896b0108-cef7-4d08-a0b3-a8969f63f4dc",
         "title": "Software Engineering Intern - Advanced Projects Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -348755,6 +348755,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Emerging Tech",
+        "id": "1dd628e7-87f3-4ce2-84bc-aeeba8862f1a",
+        "title": "Integration Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787957281,
+        "date_posted": 1787957154,
+        "url": "https://emergingtech.applytojob.com/apply/fWkZYtYG65/Integration-Analyst-Intern-Florida-Residents-Only",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerging-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "d21090d2-9885-45c0-804e-7946a6e64376",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787957312,
+        "date_posted": 1787875200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
