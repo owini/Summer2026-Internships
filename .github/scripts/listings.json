@@ -270562,7 +270562,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -287804,7 +287804,7 @@
         "company_name": "Cooper Companies",
         "id": "e5397189-689a-4937-a8b1-69dbafad6b22",
         "title": "GPS Data Insights Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326031,7 +326031,7 @@
         "company_name": "KeyBank",
         "id": "b87e0cb1-c096-4944-b321-820a7452bc86",
         "title": "Technology Track Intern - Key Technology and Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337658,7 +337658,7 @@
         "company_name": "Google",
         "id": "cd7682b8-7722-4a26-9813-42ece290a387",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346632,7 +346632,7 @@
         "company_name": "Medtronic",
         "id": "bc8cef80-2478-4abe-8166-7f6a226c4edd",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347992,6 +347992,29 @@
             "Tulsa, OK"
         ],
         "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emory University",
+        "id": "e2ae47c8-3242-4ff9-87f1-e19745909137",
+        "title": "Student Tester and Developer Intern - GPS Sample",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787917215,
+        "date_posted": 1787349946,
+        "url": "https://staff-emory.icims.com/jobs/172196/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Decatur, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emory-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
