@@ -75039,7 +75039,7 @@
         "company_name": "Exa Labs",
         "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308814,7 +308814,7 @@
         "company_name": "Vitalant",
         "id": "a8de70cc-4a6f-4f62-a560-4b7baef84d9b",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347716,5 +347716,96 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blockhouse",
+        "id": "07dba309-b9d0-493d-88e2-38957e2b4a65",
+        "title": "Applied AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787887134,
+        "date_posted": 1787886964,
+        "url": "https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fab2",
+        "id": "fe8d6250-c4c0-4fb3-b256-8ad1b487a711",
+        "title": "Embedded Software Engineer Intern - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787886953,
+        "date_posted": 1787886883,
+        "url": "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fab2",
+        "id": "dd9872ea-6a55-4724-9b58-908b225567fd",
+        "title": "Automation Software Engineer Intern - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787886954,
+        "date_posted": 1787886883,
+        "url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fab2",
+        "id": "0859ff2b-28b7-4854-90bb-9147bf5be674",
+        "title": "Rust Software Engineer Intern - Chip Design Tools - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1787886961,
+        "date_posted": 1787886883,
+        "url": "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application?embed=true",
+        "locations": [
+            "SF",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
