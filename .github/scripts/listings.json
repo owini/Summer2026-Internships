@@ -22,69 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plug Power",
-        "id": "f687730f-e6bd-46db-a865-41d134419249",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767140408,
-        "date_posted": 1767140408,
-        "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Rochester-Innovation-Center/Test-Engineering-Intern_R6741",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Plug-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Geotab",
-        "id": "ee817dd1-fbd4-4e72-a9d3-ca4da301e0d8",
-        "title": "Embedded Developer Intern - GO Anywhere - Summer/May 2026 Months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767140332,
-        "date_posted": 1767140332,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5011702008",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plug Power",
-        "id": "52137002-3ecc-492c-9e15-eaad7728fa95",
-        "title": "Embedded Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767140389,
-        "date_posted": 1767140389,
-        "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Embedded-Software-Intern_R6739",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Plug-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "4ed16fa8-1667-4bfb-bfdc-fbeb05498e14",
@@ -346317,7 +346254,7 @@
         "company_name": "Centene",
         "id": "efef75e4-afa3-43c8-b969-c4058c9f6e12",
         "title": "People Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
