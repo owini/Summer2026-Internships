@@ -270562,7 +270562,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337658,7 +337658,7 @@
         "company_name": "Google",
         "id": "cd7682b8-7722-4a26-9813-42ece290a387",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339694,7 +339694,7 @@
         "company_name": "RTX",
         "id": "7e7de539-7591-41e7-bf48-6e4aa966fed4",
         "title": "Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
