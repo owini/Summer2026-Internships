@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "4ed16fa8-1667-4bfb-bfdc-fbeb05498e14",
-        "title": "Operations Project Intern - Tiktok Live-Ams - BS/MS",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767147517,
-        "date_posted": 1767147517,
-        "url": "https://lifeattiktok.com/search/7589499857627498757",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "5cfa4ca6-73c7-49f0-8669-cf09cdd2e248",
-        "title": "Intern - Research Engineer - Mobile Platform and Solutions",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1767147545,
-        "date_posted": 1767147545,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Aerospace Corporation",
         "id": "21494e96-4059-4b54-8d5a-20fe43cb713f",
@@ -59,48 +16,6 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sandisk",
-        "id": "b929f0ac-29d8-4e74-b84f-b3228f1da861",
-        "title": "Intern - Firmware Verification Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767146713,
-        "date_posted": 1767146713,
-        "url": "https://jobs.smartrecruiters.com/Sandisk/744000101111465",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sandisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5ca6f7a3-055b-4a84-b4c7-14d91246afd8",
-        "title": "Operations Project Intern - Tiktok Live-Ams - 2026 Start,BS/MS",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767147516,
-        "date_posted": 1767147516,
-        "url": "https://lifeattiktok.com/search/7589500133147773237",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -306115,7 +306030,7 @@
         "company_name": "Clyde Companies",
         "id": "0ad21b0e-b334-4f46-a502-e75492ac01b2",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311942,7 +311857,7 @@
         "company_name": "Louisiana Blue",
         "id": "0c0ff931-7496-432b-8fed-37be9e38b8e7",
         "title": "Provider Reimbursement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
