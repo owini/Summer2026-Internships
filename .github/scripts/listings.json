@@ -298296,7 +298296,7 @@
         "company_name": "Astranis",
         "id": "f00fc66c-967f-457b-8706-d3f0c5a5c874",
         "title": "Software Engineer Intern - Enterprise Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335670,7 +335670,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "4e3e1767-60cb-45da-9dcb-9846e8b1d07f",
         "title": "Data Analyst Co-op - Personal Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342010,7 +342010,7 @@
         "company_name": "Nokia",
         "id": "59b202cd-fa24-4379-a08c-73de8711a9a9",
         "title": "Data Analytics & AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
