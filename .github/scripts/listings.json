@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BMO ",
-        "id": "79b12380-7333-4eaa-abfa-1d1e48a19bf2",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767222939,
-        "date_posted": 1767222939,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst-Intern--Co-op-Internship---Summer-2026--Toronto---4-months_R250033033",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Service Enterprise Group",
-        "id": "0c8f1251-0489-495b-9081-31fed5d507d5",
-        "title": "Technical Intern - Centralized Work Planning and Scheduling",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767222663,
-        "date_posted": 1767222663,
-        "url": "https://jobs.pseg.com/job/Clifton-Summer-2026-Technical-Intern-Centralized-Work-Planning-and-Scheduling-NJ-07011/1352771200/?ats=successfactors",
-        "locations": [
-            "Paterson, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Astranis",
         "id": "d3ea489f-f4ba-4607-bb94-8728c3c05fd0",
@@ -163,27 +121,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marmon Holdings",
-        "id": "aab8397d-6b39-4df0-b60b-5677da96dcc2",
-        "title": "Data Engineer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767222935,
-        "date_posted": 1767222935,
-        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Oakville-ON/Data-Engineer--Co-op-_JR0000040051",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -606,27 +543,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Legrand",
-        "id": "5d8a71d4-4716-4e46-969d-6600f6208640",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767284239,
-        "date_posted": 1767222775,
-        "url": "https://jobs-legrand.icims.com/jobs/9622/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -273026,7 +272942,7 @@
         "company_name": "Later",
         "id": "169ee4eb-3319-4a8b-9ea1-9e765661b92b",
         "title": "AI Automation Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -287395,7 +287311,7 @@
         "company_name": "Persona AI",
         "id": "12c71417-7d4c-4820-a1dc-e69c433eb686",
         "title": "Teleoperation Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
