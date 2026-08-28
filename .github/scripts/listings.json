@@ -293445,7 +293445,7 @@
         "company_name": "Egra",
         "id": "44d9733e-5e40-42b0-bed0-471fb6dfa64e",
         "title": "AI Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298934,7 +298934,7 @@
         "company_name": "Magna",
         "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
         "title": "R&D-Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326031,7 +326031,7 @@
         "company_name": "KeyBank",
         "id": "b87e0cb1-c096-4944-b321-820a7452bc86",
         "title": "Technology Track Intern - Key Technology and Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330734,7 +330734,7 @@
         "company_name": "NVIDIA",
         "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344822,7 +344822,7 @@
         "company_name": "RTX",
         "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
         "title": "Engine Performance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -346632,7 +346632,7 @@
         "company_name": "Medtronic",
         "id": "bc8cef80-2478-4abe-8166-7f6a226c4edd",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -346969,7 +346969,7 @@
         "company_name": "American University",
         "id": "e11e5194-bb9a-4c4d-b11d-dc670a511c17",
         "title": "Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
