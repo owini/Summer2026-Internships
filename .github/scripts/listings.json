@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Apollo Global",
-        "id": "da45775b-94ac-4780-b55e-6b440c98e494",
-        "title": "2026 Summer Associate \u2013 Investment Portfolio Management & Analytics Intern - Apollo Aligned Alternatives Fund - Aaa",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767141161,
-        "date_posted": 1767141161,
-        "url": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/XMLNAME-2026-Summer-Associate--Investment-Portfolio-Management---Analytics-Intern---Apollo-Aligned-Alternatives-Fund--AAA-_R253919-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Apollo-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "TikTok",
         "id": "4ed16fa8-1667-4bfb-bfdc-fbeb05498e14",
@@ -342630,7 +342609,7 @@
         "company_name": "RTX",
         "id": "dd744ff9-f99d-42d9-8199-cfc24f358f59",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345204,7 +345183,7 @@
         "company_name": "Zipline",
         "id": "b462e075-bb56-4c03-96a0-66b92898fc03",
         "title": "Embedded Software Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -345463,7 +345442,7 @@
         "company_name": "Lightcast",
         "id": "0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4",
         "title": "Software Engineer Intern - API Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
