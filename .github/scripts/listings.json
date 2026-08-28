@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intelcom | Dragonfly",
-        "id": "f7c273cb-7d49-46eb-a142-3028b2982aa2",
-        "title": "R&D Solution Builder Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767137691,
-        "date_posted": 1767137691,
-        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110133-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "d796fecb-eb7a-486c-9daf-7d8192a0e6ff",
-        "title": "New Product Development Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767138981,
-        "date_posted": 1767138981,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/New-Product-Development-Engineering-Intern_REQ32634",
-        "locations": [
-            "Daytona Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Draper",
-        "id": "18f1a901-f21b-4cdb-90f9-84b2db9bcd58",
-        "title": "Simulation Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767137542,
-        "date_posted": 1767137542,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern_JR002078",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Apollo Global",
         "id": "da45775b-94ac-4780-b55e-6b440c98e494",
@@ -142,70 +79,6 @@
             "Albany, NY"
         ],
         "company_url": "https://simplify.jobs/c/Plug-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GlobalFoundries",
-        "id": "e2fa5f1b-1ec4-4ed3-ae7f-8b4657dbe333",
-        "title": "Field Application Engineering Intern - Austin - TX",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767138636,
-        "date_posted": 1767138636,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "d20484f4-70e0-44c9-8ce3-2d6d801ecd09",
-        "title": "2026 Data and Software Engineering Grad Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767137924,
-        "date_posted": 1767137924,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-and-Software-Engineering-Grad-Intern_R014219",
-        "locations": [
-            "Chantilly, VA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CommScope",
-        "id": "024f513e-a182-4abc-b8b4-d4f397ff65de",
-        "title": "Intern-Field Application Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767137903,
-        "date_posted": 1767137903,
-        "url": "https://jobs.commscope.com/job/Catawba-Intern-Field-Application-Engineering-Nort/1352606600/?ats=successfactors",
-        "locations": [
-            "Denver, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/CommScope",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -1238,27 +1111,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intelcom | Dragonfly",
-        "id": "a85686e5-c756-4661-96c1-7fba2a7e917b",
-        "title": "Performance and Analysis Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767137684,
-        "date_posted": 1767137684,
-        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Performance-and-Analysis-Intern_JR110135",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -315584,7 +315436,7 @@
         "company_name": "Atoms",
         "id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333028,7 +332880,7 @@
         "company_name": "Freeform",
         "id": "74d636b4-f64c-4e45-87b4-df75cb3d1fee",
         "title": "Materials Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347888,6 +347740,192 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
+        "title": "AI Innovation Summer Scholar Intern - AI Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787873970,
+        "date_posted": 1787873798,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bland AI",
+        "id": "bdbf71c5-d680-4923-90cf-5550fdf3679d",
+        "title": "Machine Learning Research Intern - Audio",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787873941,
+        "date_posted": 1787873781,
+        "url": "https://jobs.ashbyhq.com/bland/bd8743ff-9e18-4f79-9c9a-288f384921f3/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "a6026254-bdf4-49e3-82e7-94a39fd78c7d",
+        "title": "Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787873793,
+        "date_posted": 1787873679,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "9da7c688-402f-4666-9f23-7ab1a3ed0fc4",
+        "title": "Geology & Geophysics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787873761,
+        "date_posted": 1787788800,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/G-G-Intern_83639-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Repsol",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "1e8a10ee-4f7e-4a42-84fe-6fcdbcb739b9",
+        "title": "MES & Industrial Automation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787873761,
+        "date_posted": 1787873686,
+        "url": "https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TELUS Digital",
+        "id": "445f9e1d-29ba-4695-b3b0-60111cfbd03b",
+        "title": "Software Engineer Intern - US - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787873609,
+        "date_posted": 1787873425,
+        "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true",
+        "locations": [
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/TELUS-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TELUS Digital",
+        "id": "25fa3cf0-19e1-48c4-a10b-cd91ace49138",
+        "title": "Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787873581,
+        "date_posted": 1787873421,
+        "url": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/TELUS-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
+        "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787822869,
+        "date_posted": 1781361445,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
