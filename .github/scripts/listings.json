@@ -1118,27 +1118,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&P Global ",
-        "id": "2ef99700-9310-44bf-8795-6ded828e4b48",
-        "title": "Research Analyst Intern \u2013 Early Career - Fuels - Chemicals & Resource Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767144062,
-        "date_posted": 1767144062,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BMO ",
         "id": "bd2a868d-7127-4125-b10e-22e6b1278e81",
@@ -297483,7 +297462,7 @@
         "company_name": "Montgomery Investment Technology, Inc.",
         "id": "f0a9da60-9895-4079-b9cd-4026709afb56",
         "title": "Montgomery Investment Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332684,7 +332663,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332708,7 +332687,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347842,6 +347821,30 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dimensional Fund Advisors",
+        "id": "2dd7e557-6d6f-4e8e-881c-5fa5d8be48d2",
+        "title": "Investment Solutions Intern - Undergraduate & Master's",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787879760,
+        "date_posted": 1787788800,
+        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Solutions--Undergraduate---Master-s-_2026-9041",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dimensional-Fund-Advisors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
