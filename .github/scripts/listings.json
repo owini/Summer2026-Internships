@@ -36139,7 +36139,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -330637,7 +330637,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
