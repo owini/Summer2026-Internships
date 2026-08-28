@@ -276752,7 +276752,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "aff0f7eb-cbae-4dcd-a24a-f6e020259c05",
         "title": "Computing Undergraduate Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330709,7 +330709,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345245,7 +345245,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "87094ff5-b65c-4fa9-8495-312b0ef96612",
         "title": "Innovation Developer - High School Student - RBC Embark",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347969,6 +347969,29 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Fab2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "596095d8-4722-4847-8780-041d4934008f",
+        "title": "Engineering Validation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787912524,
+        "date_posted": 1787270400,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
