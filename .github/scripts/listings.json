@@ -312777,7 +312777,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329492,7 +329492,7 @@
         "company_name": "Cole Engineering Services",
         "id": "1449024f-7d03-4430-a356-5c1ca206ed29",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341415,7 +341415,7 @@
         "company_name": "GE Appliances",
         "id": "bd5a92c9-7503-495c-a022-ad6970c624c8",
         "title": "People & Workforce Analytics Intern - Culture",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344962,7 +344962,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
