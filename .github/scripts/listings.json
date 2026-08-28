@@ -93823,7 +93823,7 @@
         "company_name": "Hunt Oil Company",
         "id": "83c142e0-55fd-47b2-bbc2-e6813317112c",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229427,7 +229427,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -229854,7 +229854,7 @@
         "company_name": "Salesforce",
         "id": "452daa00-79b9-40ff-902b-6a5c3ddc4357",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -248259,7 +248259,7 @@
         "company_name": "American Enterprise Institute",
         "id": "f878e10c-cdc3-43e4-ad04-ce59b74620e5",
         "title": "Housing Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295978,7 +295978,7 @@
         "company_name": "Virtu Financial",
         "id": "800e06ea-4a8a-4db5-a93a-7aae82cfac49",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331469,7 +331469,7 @@
         "company_name": "Detroit Lions",
         "id": "56a21d95-83ac-422a-a120-c42135cb3748",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335714,7 +335714,7 @@
         "company_name": "Interdigital",
         "id": "4542fdc9-ae91-4050-aa44-0ec742dd1dbe",
         "title": "Information Systems / Salesforce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344182,7 +344182,7 @@
         "company_name": "Ameren",
         "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
         "title": "Meteorology Intern - Crisis Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -348223,6 +348223,100 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TIAA",
+        "id": "5fb362f5-5857-42ff-923b-348eb5582bc7",
+        "title": "Investment Infrastructure & Technology Intern - IIT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787951576,
+        "date_posted": 1787875200,
+        "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TIAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mastercard",
+        "id": "f72cae66-cd1d-43f5-899c-f4bf16fd4709",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787951469,
+        "date_posted": 1787875200,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mastercard",
+        "id": "466b932d-3cf0-4669-af9f-fa3d799a5a18",
+        "title": "Data Scientist Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787951341,
+        "date_posted": 1787875200,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "afe892b4-c1f7-4900-a870-e2defcbe7c3e",
+        "title": "Camera Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787950924,
+        "date_posted": 1787950715,
+        "url": "https://jobs.apple.com/en-us/details/200680200",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
