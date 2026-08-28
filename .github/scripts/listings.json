@@ -312777,7 +312777,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -348043,6 +348043,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analog Devices",
+        "id": "4a0d4bf5-9311-4e02-bc23-e93e7601bcd1",
+        "title": "AI/ML Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787923981,
+        "date_posted": 1787875200,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "5fc15f21-5b6d-4848-a043-3dceb4bd4592",
+        "title": "DuraMat Degradation Analysis Postdoctoral Fellow - Energy Technologies and Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787923835,
+        "date_posted": 1784337013,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107137",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
