@@ -118974,7 +118974,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -275109,7 +275109,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
