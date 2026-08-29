@@ -163611,7 +163611,7 @@
         "company_name": "Etched",
         "id": "cce7f674-04ef-491a-8e8d-9adbfff6a06f",
         "title": "RTL Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254778,7 +254778,7 @@
         "company_name": "Clerkie",
         "id": "71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
