@@ -37162,7 +37162,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -343965,7 +343965,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -347077,7 +347077,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "5fc15f21-5b6d-4848-a043-3dceb4bd4592",
         "title": "DuraMat Degradation Analysis Postdoctoral Fellow - Energy Technologies and Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
