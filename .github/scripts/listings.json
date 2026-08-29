@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "3f4c2ed4-6bca-4865-9499-e8e58769e169",
-        "title": "Combustion Devices Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1767230456,
-        "date_posted": 1767230456,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Combustion-Devices-Engineer-Intern_R0150972-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "53c44700-c3ba-46b8-8629-9936aa93dad3",
@@ -340505,7 +340484,7 @@
         "company_name": "Concentric",
         "id": "d509448f-62cd-47bc-9971-4fb9b4f23a31",
         "title": "AI Workflow Intern - AI Workflow Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
