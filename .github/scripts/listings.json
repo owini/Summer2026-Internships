@@ -1,132 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "d3ea489f-f4ba-4607-bb94-8728c3c05fd0",
-        "title": "Embedded Software Developer \u2013 Network/Payload Software Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767224380,
-        "date_posted": 1767224380,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601134006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cambria",
-        "id": "8e92a925-6e48-4113-8e25-c57241a958fb",
-        "title": "Data Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1767225367,
-        "date_posted": 1767225367,
-        "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/Data-Developer-Intern_R-102779",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambria",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "6051b759-5f65-455e-874b-26ea6f910a34",
-        "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1767224379,
-        "date_posted": 1767224379,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cambria",
-        "id": "5ed16cc0-21af-43a6-a08f-808e78e73b5b",
-        "title": "IT Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1767225376,
-        "date_posted": 1767225376,
-        "url": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/IT-Developer-Intern_R-102780",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambria",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "02f1ad1b-de46-40e0-a367-683c3c01f6ec",
-        "title": "Embedded Software Developer \u2013 Network/Payload Software Intern 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767224380,
-        "date_posted": 1767224380,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601132006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "e410df18-a147-4fb3-91b8-77bfabe44f1c",
-        "title": "Embedded Software Developer \u2013 Network/Payload Software Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767224384,
-        "date_posted": 1767224384,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601133006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "3f4c2ed4-6bca-4865-9499-e8e58769e169",
@@ -19795,54 +19669,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Franklin Templeton",
-        "id": "835fe8f5-3c80-441b-bf87-f11eb64c7c9b",
-        "title": "Fund Administration & Oversight",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767224702,
-        "date_posted": 1767224702,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/US-Fund-Admin---Oversight_866036",
-        "locations": [
-            "Rancho Cordova, CA",
-            "Stamford, CT",
-            "San Mateo, CA",
-            "San Ramon, CA",
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Franklin Templeton",
-        "id": "2fdfdf6c-1007-4d3c-8bc5-1690b045052e",
-        "title": "Investment Management Data Science",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767224696,
-        "date_posted": 1767224696,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BAL1201-Baltimore/Investment-Management-Data-Science_866040",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -336776,7 +336602,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fd566011-9892-458b-844e-88c411b782f3",
         "title": "Systems Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
