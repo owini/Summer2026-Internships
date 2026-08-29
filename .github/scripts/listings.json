@@ -306538,7 +306538,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98635871-6276-41e4-ad95-172485704a2c",
         "title": "Data & AI Intern - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329448,7 +329448,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335822,7 +335822,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
