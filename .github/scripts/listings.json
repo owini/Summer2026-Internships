@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Textron",
-        "id": "b4ca942f-38f2-40be-99f7-21613f65119d",
-        "title": "High School Intern - Manufacturing - Business",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767251828,
-        "date_posted": 1767251828,
-        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338472",
-        "locations": [
-            "Independence, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Textron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Textron",
-        "id": "111d699c-e246-40b2-8c12-f2e735cb68a9",
-        "title": "High School Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767251823,
-        "date_posted": 1767251823,
-        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338473",
-        "locations": [
-            "Independence, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Textron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Evercore",
-        "id": "73f2a6a1-42b0-42e0-83b5-d44e276b2a30",
-        "title": "2027 Equities: Sales & Trading Summer Intern Program - New York",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1767251818,
-        "date_posted": 1767251818,
-        "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2926-2027-Equities-Sales-Trading-Summer-Intern-Program-New-York/en-GB",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Evercore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "5ffd4f18-64eb-45d8-a39e-00e37eb8a515",
-        "title": "Optical Verification Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767251720,
-        "date_posted": 1767251720,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20251883",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "3f24d559-6ee2-42b8-b55b-544dcf20f5d9",
-        "title": "Embedded Software DevSecOps Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767251717,
-        "date_posted": 1767251717,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op-Intern_20251859",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sigma Computing",
         "id": "90215abb-2818-4f0d-89a7-1cc60ee6ae26",
@@ -19224,29 +19119,6 @@
             "Halifax Regional Municipality, NS, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "c9537cb3-f4e3-41b6-871f-ca361354dd73",
-        "title": "Physics Department - Research Support - Ultrahigh Energy Neutrinos",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767251073,
-        "date_posted": 1767251073,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -341586,7 +341458,7 @@
         "company_name": "Zip",
         "id": "82583da7-e72f-4b4f-aabb-0066a8951ba5",
         "title": "Software Engineer Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
