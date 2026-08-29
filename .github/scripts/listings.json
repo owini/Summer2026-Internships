@@ -199528,7 +199528,7 @@
         "company_name": "Zoox",
         "id": "948a7229-20bf-4220-9876-ec5879966d9c",
         "title": "Student Worker Intern - Firmware Engineer - Firmware Thermal/Body",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -315095,7 +315095,7 @@
         "company_name": "The Nuclear Company",
         "id": "44950f93-2f35-41ce-9bbc-d82279022aa6",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335198,7 +335198,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -335456,7 +335456,7 @@
         "company_name": "Interdigital",
         "id": "4542fdc9-ae91-4050-aa44-0ec742dd1dbe",
         "title": "Information Systems / Salesforce Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -347110,7 +347110,7 @@
         "company_name": "Bland AI",
         "id": "bdbf71c5-d680-4923-90cf-5550fdf3679d",
         "title": "Machine Learning Research Intern - Audio",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348544,6 +348544,328 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "76b5260b-3054-4829-88cf-70102fb312d8",
+        "title": "RF Engineer Intern - Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787965112,
+        "date_posted": 1787964320,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "b451dc51-db5e-45b8-a1f7-c5ba8d0e411a",
+        "title": "Site Engineer Intern - Sites",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787965039,
+        "date_posted": 1787964320,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/632f463c-94a4-4e83-839d-825e63b75788/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clerkie",
+        "id": "0cac198d-5b59-411b-8ddf-3138668da722",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787965002,
+        "date_posted": 1787964698,
+        "url": "http://getfiber.ai/careers?gh_jid=5225258007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clerkie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northwood Space",
+        "id": "f6b7f447-ad5a-434e-bf7f-b120f36843eb",
+        "title": "Supply Chain Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787964713,
+        "date_posted": 1787964321,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "209c40be-ff27-480f-b6f4-d2ce152109bb",
+        "title": "Fleet Reliability Intern - Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787964714,
+        "date_posted": 1787964320,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1951df5b-c84e-47d9-860d-53e5d3045f6f/application?embed=true",
+        "locations": [
+            "LA",
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "1795d6df-fcca-45dc-836d-41a82dc36894",
+        "title": "Software Engineer Intern - Full Stack",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787964148,
+        "date_posted": 1787963949,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+        "locations": [
+            "Charlotte, NC",
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Persona AI",
+        "id": "88ee222e-f092-4c2a-ad37-b63eb0445010",
+        "title": "Robotics Software Intern - Manipulation",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1787963999,
+        "date_posted": 1787963892,
+        "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Persona-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bland AI",
+        "id": "25daa740-61f1-4b2b-b16f-ef6798135d16",
+        "title": "Machine Learning Research Intern - Audio",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787963990,
+        "date_posted": 1787963876,
+        "url": "https://jobs.ashbyhq.com/bland/c8a5c0de-935d-4f76-bc7d-237cbfb2cf55/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "a61f9f72-9c0c-4aae-b389-6c806edc606a",
+        "title": "Engineering Intern - Protection Systems Forensics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787963941,
+        "date_posted": 1787963847,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Games",
+        "id": "f9f97fdb-31b2-402a-8522-918cec708267",
+        "title": "Web Engineer Intern - Tools & Portals",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787963761,
+        "date_posted": 1787963649,
+        "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Philips",
+        "id": "bcea96d4-d109-4a9e-84e7-1f444b1f2e7b",
+        "title": "Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787963655,
+        "date_posted": 1787875200,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Charles Schwab",
+        "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
+        "title": "Software Engineering Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787963453,
+        "date_posted": 1787963196,
+        "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Westlake, TX",
+            "Ann Arbor, MI",
+            "Southlake, TX",
+            "Omaha, NE",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles Schwab",
+        "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
+        "title": "Data Engineering Intern - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787963452,
+        "date_posted": 1787963197,
+        "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Westlake, TX",
+            "Southlake, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-Schwab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
