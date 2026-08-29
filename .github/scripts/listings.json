@@ -256966,7 +256966,7 @@
         "company_name": "Altom Transport",
         "id": "95bf548d-b42d-4076-aee6-3afce1e110be",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286788,7 +286788,7 @@
         "company_name": "Duracell",
         "id": "a00d36e2-97e7-4df7-9732-450b605fe4d6",
         "title": "Electronics Tech Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
