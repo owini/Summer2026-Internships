@@ -329592,7 +329592,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340418,7 +340418,7 @@
         "company_name": "GE Appliances",
         "id": "bd5a92c9-7503-495c-a022-ad6970c624c8",
         "title": "People & Workforce Analytics Intern - Culture",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340921,7 +340921,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343802,7 +343802,7 @@
         "company_name": "RTX",
         "id": "bdb07e32-29e8-4fe6-bfc8-854f3a4ce18b",
         "title": "Automation Solutions Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -343825,7 +343825,7 @@
         "company_name": "RTX",
         "id": "c5d402c5-8735-4b94-86b9-a3a00c94c027",
         "title": "Engine Performance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344672,7 +344672,7 @@
         "company_name": "Blue Origin",
         "id": "e586d565-9a03-414c-881e-bb1e51ee22b7",
         "title": "Electronics/Electrical Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345972,7 +345972,7 @@
         "company_name": "American University",
         "id": "e11e5194-bb9a-4c4d-b11d-dc670a511c17",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
