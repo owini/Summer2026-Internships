@@ -330573,7 +330573,7 @@
         "company_name": "Humana",
         "id": "3cac9449-de39-427f-a7fd-9b22e0d04497",
         "title": "Technology Intern - Early ID Participants",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340391,7 +340391,7 @@
         "company_name": "Northrop Grumman",
         "id": "4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
         "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348366,5 +348366,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "c9537cb3-f4e3-41b6-871f-ca361354dd73",
+        "title": "Physics Research Support - Ultrahigh Energy Neutrinos",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785662101,
+        "date_posted": 1783167945,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
