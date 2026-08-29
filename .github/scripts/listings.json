@@ -37186,7 +37186,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328540,7 +328540,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "06976030-2482-48d6-8234-5d6c7f88c587",
         "title": "Agricultural Energy Intern - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
