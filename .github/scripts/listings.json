@@ -19041,29 +19041,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
-        "title": "Capital Markets QTS",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767347352,
-        "date_posted": 1767347352,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Capital-Markets-QTS--Software-Developer--Summer-2026--Halifax---4-Months-_R-0000152728",
-        "locations": [
-            "Halifax Regional Municipality, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
@@ -284395,7 +284372,7 @@
         "company_name": "GE Healthcare",
         "id": "345fceab-4a0f-47a4-a5ec-6282cb93c51d",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345351,7 +345328,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -345813,7 +345790,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
