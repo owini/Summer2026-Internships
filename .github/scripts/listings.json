@@ -210999,7 +210999,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329506,7 +329506,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343997,7 +343997,7 @@
         "company_name": "Leidos",
         "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
         "title": "Software Engineer Intern - Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
