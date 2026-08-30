@@ -339220,7 +339220,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a2be610b-6555-428e-aa97-517ae6f0f746",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345813,7 +345813,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
