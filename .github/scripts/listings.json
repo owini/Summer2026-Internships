@@ -288036,7 +288036,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335736,7 +335736,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -336181,7 +336181,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -340858,7 +340858,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
