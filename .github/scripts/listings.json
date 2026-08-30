@@ -309868,7 +309868,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333964,7 +333964,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ad17e33e-a964-417b-b1e2-d91d4c0f6146",
         "title": "Investments Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
