@@ -334585,7 +334585,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
