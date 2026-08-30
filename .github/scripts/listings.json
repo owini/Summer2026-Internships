@@ -210999,7 +210999,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329506,7 +329506,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335736,7 +335736,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -336181,7 +336181,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -340858,7 +340858,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343997,7 +343997,7 @@
         "company_name": "Leidos",
         "id": "cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
         "title": "Software Engineer Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
