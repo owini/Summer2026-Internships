@@ -329822,7 +329822,7 @@
         "company_name": "NVIDIA",
         "id": "d8ff5790-a34b-425f-b812-2e10a1350a70",
         "title": "Computer Vision and Deep Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333525,7 +333525,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
         "title": "Business Insights and Analytics Intern - Member Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -333964,7 +333964,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ad17e33e-a964-417b-b1e2-d91d4c0f6146",
         "title": "Investments Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345745,7 +345745,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
