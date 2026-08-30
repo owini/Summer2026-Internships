@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CME Group",
-        "id": "cbd42822-ead6-49bc-9b85-82eea9f32a0e",
-        "title": "Degree Apprentice - Computing Systems / Software Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1767320509,
-        "date_posted": 1767320509,
-        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/Degree-Apprentice---Computing-Systems---Software-Engineering_33678",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "6da7e4e6-b7ea-43a7-a78a-849338142df7",
