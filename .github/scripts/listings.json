@@ -328944,7 +328944,7 @@
         "company_name": "PIMCO",
         "id": "5370153e-8623-4e1d-b4f6-986a7ab410a1",
         "title": "Software Engineering Intern - Technology Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336177,7 +336177,7 @@
         "company_name": "The Walt Disney Company",
         "id": "10360e05-db49-4c1b-a62d-7e0038f835fd",
         "title": "Geographic Information Systems Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
