@@ -339195,7 +339195,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fe19db08-c5c8-4451-a135-035a0a2ccdcf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339801,7 +339801,7 @@
         "company_name": "Apple",
         "id": "acff4e3e-72e2-4540-80d6-874ced15ab5a",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
