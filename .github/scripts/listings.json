@@ -259479,7 +259479,7 @@
         "company_name": "Tesla",
         "id": "9ce31f80-9f48-43a4-924d-9739d2b61cf8",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314343,7 +314343,7 @@
         "company_name": "ProNexus",
         "id": "7ededa5d-af4b-4f9d-80ae-9e03985190e9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
