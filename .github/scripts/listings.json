@@ -18546,31 +18546,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "9ad674bb-f879-49d6-b13c-ad2364947fed",
-        "title": "Manager \u2013 Data Scientist - Velocity Black - Remote-Eligible",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767424722,
-        "date_posted": 1767424722,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Velocity-Black--Remote-Eligible-_R226868-2",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -31511,29 +31486,6 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "bfc7551f-36a8-4e18-8c84-cd29ed4949a8",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767424763,
-        "date_posted": 1767424763,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineer-Intern_JR103138",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -259667,7 +259619,7 @@
         "company_name": "Tesla",
         "id": "90c5d0b6-db8a-4cbe-bd09-bc14d5433132",
         "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259690,7 +259642,7 @@
         "company_name": "Tesla",
         "id": "87840e6d-dbd7-4d75-8c8f-875bc8946ef0",
         "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -265719,7 +265671,7 @@
         "company_name": "Tesla",
         "id": "e899751e-0313-4b38-844c-137b5cba368a",
         "title": "Commercial UI Software Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -267420,7 +267372,7 @@
         "company_name": "Tesla",
         "id": "85552c86-a402-4c13-80b0-25f02bf023cb",
         "title": "Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276467,7 +276419,7 @@
         "company_name": "Tesla",
         "id": "87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
         "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277051,7 +277003,7 @@
         "company_name": "Tesla",
         "id": "9a7e7535-216f-41a8-b35c-5005ec017d35",
         "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278529,7 +278481,7 @@
         "company_name": "Tesla",
         "id": "cbf7c33c-7f5a-40a6-9ec5-b27895094847",
         "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -283551,7 +283503,7 @@
         "company_name": "Tesla",
         "id": "f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
         "title": "Software Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288879,7 +288831,7 @@
         "company_name": "Tesla",
         "id": "ce535c93-f706-49f8-98ac-5f72c9bd6729",
         "title": "Energy Battery Firmware Intern - Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335476,7 +335428,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fca521d9-9f1c-4b18-aeb4-0edd5281b9f5",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
