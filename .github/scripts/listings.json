@@ -1,92 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altom Transport",
-        "id": "91ef8a18-ec73-4cc4-94ba-e9c9e62e712c",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767396730,
-        "date_posted": 1767396730,
-        "url": "https://apply.workable.com/altom-transport/j/3A3D08CBC1/apply",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Altom-Transport",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "10b40056-9602-4795-bea4-4e6a6056b737",
-        "title": "Retail Risk Modeling Intern - Grm - 4 Months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767398299,
-        "date_posted": 1767398299,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Retail-Risk-Modeling-Intern--4-Months-_R-0000149612",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Teledyne",
-        "id": "4cdb1e18-79ad-44a0-a493-bb121a3bc379",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1767397589,
-        "date_posted": 1767397589,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Systems-Engineering-Intern_REQ32274",
-        "locations": [
-            "Camarillo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics UK",
-        "id": "8d7b83c4-ab84-4cee-b690-ff5a477c6d0c",
-        "title": "Co-op - Coalition and Joint Interoperability - 8-Month",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767396655,
-        "date_posted": 1767396655,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000101380164",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "IDEXX",
         "id": "f26ea3fb-4283-40bc-98cf-e895f5052f3e",
@@ -18652,30 +18566,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alberta Investment Management Corporation",
-        "id": "226ec71c-388e-48ea-883e-88a408903423",
-        "title": "Student Data Developer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767397050,
-        "date_posted": 1767397050,
-        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Data-Developer--Summer-2026-_JR100740",
-        "locations": [
-            "Edmonton, AB, Canada",
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
