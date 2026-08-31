@@ -299241,7 +299241,7 @@
         "company_name": "Texas Instruments",
         "id": "aff149ec-8435-4f94-9798-ea3716d37883",
         "title": "Product Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323071,7 +323071,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323141,7 +323141,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330908,7 +330908,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339328,7 +339328,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b6d77c85-4c5b-4da2-819e-86166d105648",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342173,7 +342173,7 @@
         "company_name": "Jain Global",
         "id": "6b6c9174-7b35-478a-be6c-09c442dc9586",
         "title": "Quantitative Research Extern - Rice University",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -343902,7 +343902,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -347839,7 +347839,7 @@
         "company_name": "Tesla",
         "id": "b06bb8f0-2561-491a-833c-68686d80da8e",
         "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
