@@ -267745,7 +267745,7 @@
         "company_name": "BP",
         "id": "4d40b569-cf87-4b1f-a4ef-eae54c1efc94",
         "title": "Finance & Risk Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319483,7 +319483,7 @@
         "company_name": "RRS Group",
         "id": "e0791588-2fd5-4867-8c40-2b4af827a16d",
         "title": "Software Engineer Intern - Placement Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323050,7 +323050,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335523,7 +335523,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5dc06638-a693-4c36-a677-6550cd99957d",
         "title": "Pricing & Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -339401,7 +339401,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9779cb97-3712-4e51-9ee6-6c3054eddb59",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342173,7 +342173,7 @@
         "company_name": "Jain Global",
         "id": "6b6c9174-7b35-478a-be6c-09c442dc9586",
         "title": "Quantitative Research Extern - Rice University",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344741,7 +344741,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -347626,7 +347626,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
